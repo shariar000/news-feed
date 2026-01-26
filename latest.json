@@ -1,5 +1,706 @@
 {
-  "site": "riotimesonline.com",
-  "updated_at": "2026-01-24T00:00:00Z",
-  "items": []
+    "site": "The Rio Times",
+    "updated_at": "2026-01-26T20:11:12+00:00",
+    "items": [
+        {
+            "title": "Ecuador Bets On A U.S. Security Push As It Trades Blows With Colombia",
+            "url": "https://www.riotimesonline.com/ecuador-bets-on-a-u-s-security-push-as-it-trades-blows-with-colombia/",
+            "published_at": "2026-01-26T19:01:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nubank\u2019s $475 Million Office Bet Signals A New Phase For Brazil\u2019s Fintech Giant",
+            "url": "https://www.riotimesonline.com/nubanks-475-million-office-bet-signals-a-new-phase-for-brazils-fintech-giant/",
+            "published_at": "2026-01-26T18:31:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s 2025 Tax Miss Signals A Harder Budget Year Ahead",
+            "url": "https://www.riotimesonline.com/colombias-2025-tax-miss-signals-a-harder-budget-year-ahead/",
+            "published_at": "2026-01-26T18:28:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Startup Funding Fell in 2025, but Foreign Money Kept Deals Moving",
+            "url": "https://www.riotimesonline.com/mexicos-startup-funding-fell-in-2025-but-foreign-money-kept-deals-moving/",
+            "published_at": "2026-01-26T18:24:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Monday, January 26, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-monday-january-26-2026/",
+            "published_at": "2026-01-26T17:57:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Nightlife Guide for Monday, January 26, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-monday-january-26-2026/",
+            "published_at": "2026-01-26T17:52:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 January 24\u201326, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-january-24-26-2026/",
+            "published_at": "2026-01-26T17:47:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Sealed Tomb Find: The Rare Proof That Makes Ancient History Real",
+            "url": "https://www.riotimesonline.com/mexicos-sealed-tomb-find-the-rare-proof-that-makes-ancient-history-real/",
+            "published_at": "2026-01-26T17:43:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Pulse for Monday, January 26, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-pulse-for-monday-january-26-2026/",
+            "published_at": "2026-01-26T17:30:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Pulse for Monday, January 26, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-pulse-for-monday-january-26-2026/",
+            "published_at": "2026-01-26T17:23:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "U.S. Black Hawk Helicopters Head To Panama \u2014 And The Canal Is The Real Backdrop",
+            "url": "https://www.riotimesonline.com/u-s-black-hawk-helicopters-head-to-panama-and-the-canal-is-the-real-backdrop/",
+            "published_at": "2026-01-26T13:17:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Pegasus Mystery: When Power Starts Watching Its Own",
+            "url": "https://www.riotimesonline.com/colombias-pegasus-mystery-when-power-starts-watching-its-own/",
+            "published_at": "2026-01-26T13:08:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Will Brazil\u2019s Rate Cuts Wait Until After Carnival? The Selic Debate Heads Into Copom Week",
+            "url": "https://www.riotimesonline.com/will-brazils-rate-cuts-wait-until-after-carnival-the-selic-debate-heads-into-copom-week/",
+            "published_at": "2026-01-26T12:59:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "What Counts As Rich In Brazil Now, And Why The Answer Keeps Shifting",
+            "url": "https://www.riotimesonline.com/what-counts-as-rich-in-brazil-now-and-why-the-answer-keeps-shifting/",
+            "published_at": "2026-01-26T12:54:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump\u2019s 100% Tariff Threat Turns Canada\u2019s China Outreach Into A Test Of North America\u2019s Rules",
+            "url": "https://www.riotimesonline.com/trumps-100-tariff-threat-turns-canadas-china-outreach-into-a-test-of-north-americas-rules/",
+            "published_at": "2026-01-26T12:46:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Culture-First City Brief for January 26, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-culture-first-city-brief-for-january-26-2026/",
+            "published_at": "2026-01-26T12:29:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio\u2019s Best Summer In Years Brings A New Question: Can The City Keep Order?",
+            "url": "https://www.riotimesonline.com/rios-best-summer-in-years-brings-a-new-question-can-the-city-keep-order/",
+            "published_at": "2026-01-26T12:27:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Culture-First City Brief for January 26, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-culture-first-city-brief-for-january-26-2026/",
+            "published_at": "2026-01-26T12:18:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Corinthians Dominate the Ball, But Need Late Yuri Alberto Strike to Win",
+            "url": "https://www.riotimesonline.com/corinthians-dominate-the-ball-but-need-late-yuri-alberto-strike-to-win/",
+            "published_at": "2026-01-26T12:02:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Steps In For Mexico In Peru After Diplomatic Break, Keeping An Embassy Alive",
+            "url": "https://www.riotimesonline.com/brazil-steps-in-for-mexico-in-peru-after-diplomatic-break-keeping-an-embassy-alive/",
+            "published_at": "2026-01-26T12:01:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "10 Key Sports Developments in Latin America (January 25, 2026)",
+            "url": "https://www.riotimesonline.com/10-key-sports-developments-in-latin-america-january-25-2026/",
+            "published_at": "2026-01-26T11:37:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "When Fear Rewrites Ideology: Why More Progressives Are Buying Guns In Trump\u2019s America",
+            "url": "https://www.riotimesonline.com/when-fear-rewrites-ideology-why-more-progressives-are-buying-guns-in-trumps-america/",
+            "published_at": "2026-01-26T11:30:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Expands Crackdown Under Emergency Rule After Mega-Raid Results",
+            "url": "https://www.riotimesonline.com/peru-expands-crackdown-under-emergency-rule-after-mega-raid-results/",
+            "published_at": "2026-01-26T10:47:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lightning Strike Injures Dozens At Pro-Bolsonaro March In Bras\u00edlia",
+            "url": "https://www.riotimesonline.com/lightning-strike-injures-dozens-at-pro-bolsonaro-march-in-brasilia/",
+            "published_at": "2026-01-26T10:37:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gunmen Attack Sunday Soccer Match In Mexico, Killing 11 In Guanajuato",
+            "url": "https://www.riotimesonline.com/gunmen-attack-sunday-soccer-match-in-mexico-killing-11-in-guanajuato/",
+            "published_at": "2026-01-26T10:31:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for January 26, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-january-26-2026/",
+            "published_at": "2026-01-26T10:26:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Peso Stays Firm As USD/CLP Tests The Mid-860s, While IPSA Holds Near Records",
+            "url": "https://www.riotimesonline.com/chiles-peso-stays-firm-as-usd-clp-tests-the-mid-860s-while-ipsa-holds-near-records/",
+            "published_at": "2026-01-26T09:55:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets Hold A Narrow Spread As Dollar Weakness Returns Globally",
+            "url": "https://www.riotimesonline.com/argentina-markets-hold-a-narrow-spread-as-dollar-weakness-returns-globally/",
+            "published_at": "2026-01-26T09:47:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Morning Markets: Peso Firm Near 17.38, Stocks Hold Weekly Gains",
+            "url": "https://www.riotimesonline.com/mexico-morning-markets-peso-firm-near-17-38-stocks-hold-weekly-gains/",
+            "published_at": "2026-01-26T09:41:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Opens The Week With A Firm Peso And A Still-Red-Hot Stock Rally",
+            "url": "https://www.riotimesonline.com/colombia-opens-the-week-with-a-firm-peso-and-a-still-red-hot-stock-rally/",
+            "published_at": "2026-01-26T09:29:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Daily Pulse: January 26, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-daily-pulse-january-26-2026/",
+            "published_at": "2026-01-26T09:24:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Breaks $5,000 As Silver Pushes Past $107 And The Rally Turns Parabolic-Like",
+            "url": "https://www.riotimesonline.com/gold-breaks-5000-as-silver-pushes-past-107-and-the-rally-turns-parabolic-like/",
+            "published_at": "2026-01-26T09:08:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Stalls As ETF Demand Fades And Washington Delays Keep Crypto In Limbo",
+            "url": "https://www.riotimesonline.com/bitcoin-stalls-as-etf-demand-fades-and-washington-delays-keep-crypto-in-limbo/",
+            "published_at": "2026-01-26T09:02:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Economic Calendar: Key Market Events for the Week from January 26, 2026 to January 30, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-from-january-26-2026-to-january-30-2026/",
+            "published_at": "2026-01-25T17:49:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Culture-First City Brief for January 25, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-culture-first-city-brief-for-january-25-2026/",
+            "published_at": "2026-01-25T10:27:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Culture-First City Brief for January 25, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-culture-first-city-brief-for-january-25-2026/",
+            "published_at": "2026-01-25T10:22:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Football Games for Sunday, January 25, 2026",
+            "url": "https://www.riotimesonline.com/football-games-for-sunday-january-25-2026/",
+            "published_at": "2026-01-25T10:00:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Sunday, January 25, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-sunday-january-25-2026/",
+            "published_at": "2026-01-25T09:49:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Nightlife Guide for Sunday, January 25, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-sunday-january-25-2026/",
+            "published_at": "2026-01-25T09:43:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Bogot\u00e1 Declaration, A White House Visit: The Week Latin America Tries To Reset The Rules",
+            "url": "https://www.riotimesonline.com/a-bogota-declaration-a-white-house-visit-the-week-latin-america-tries-to-reset-the-rules/",
+            "published_at": "2026-01-25T09:17:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump\u2019s \u201cBoard of Peace\u201d Meets Brazil\u2019s Pushback Over Who Runs World Diplomacy",
+            "url": "https://www.riotimesonline.com/trumps-board-of-peace-meets-brazils-pushback-over-who-runs-world-diplomacy/",
+            "published_at": "2026-01-25T09:01:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Visa Balancing Act: China Gets An Opening, Americans Face A Paywall",
+            "url": "https://www.riotimesonline.com/brazils-visa-balancing-act-china-gets-an-opening-americans-face-a-paywall/",
+            "published_at": "2026-01-25T08:44:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Saturday, January 24, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-january-24-2026/",
+            "published_at": "2026-01-24T12:29:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Nightlife Guide for Saturday, January 24, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-saturday-january-24-2026/",
+            "published_at": "2026-01-24T12:26:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Football Games for Saturday, January 24, 2026",
+            "url": "https://www.riotimesonline.com/football-games-for-saturday-january-24-2026/",
+            "published_at": "2026-01-24T12:20:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Culture-First City Brief for January 24, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-culture-first-city-brief-for-january-24-2026/",
+            "published_at": "2026-01-24T11:52:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Culture-First City Brief for January 24, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-culture-first-city-brief-for-january-24-2026/",
+            "published_at": "2026-01-24T11:47:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "10 Key Sports Developments in Latin America (January 23, 2026)",
+            "url": "https://www.riotimesonline.com/10-key-sports-developments-in-latin-america-january-23-2026/",
+            "published_at": "2026-01-24T11:41:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Tests 180,000 As Commodity Surge And Foreign Flows Power A Fourth Record Day",
+            "url": "https://www.riotimesonline.com/ibovespa-tests-180000-as-commodity-surge-and-foreign-flows-power-a-fourth-record-day/",
+            "published_at": "2026-01-24T09:04:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Real Extends Its Rally As USD/BRL Presses Into A Crowded Support Zone",
+            "url": "https://www.riotimesonline.com/the-real-extends-its-rally-as-usdbrl-presses-into-a-crowded-support-zone/",
+            "published_at": "2026-01-24T08:50:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin\u2019s Repeated Rejection Near $95,000 Leaves The Market Exposed Below $90,000",
+            "url": "https://www.riotimesonline.com/bitcoins-repeated-rejection-near-95000-leaves-the-market-exposed-below-90000/",
+            "published_at": "2026-01-24T08:40:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Silver Blows Past $100 And Hits $103 As Speculation Takes Control Again",
+            "url": "https://www.riotimesonline.com/silver-blows-past-100-and-hits-103-as-speculation-takes-control-again/",
+            "published_at": "2026-01-24T08:26:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing: January 23, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-january-23-2026/",
+            "published_at": "2026-01-24T08:16:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Revenue Windfall Gives Bras\u00edlia Fiscal Breathing Room",
+            "url": "https://www.riotimesonline.com/brazils-revenue-windfall-gives-brasilia-fiscal-breathing-room/",
+            "published_at": "2026-01-24T00:59:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian-Founded Brex Sells to Capital One for $5.15 Billion, Stock Falls 6%",
+            "url": "https://www.riotimesonline.com/brazilian-founded-brex-sells-to-capital-one-for-5-15-billion-stock-falls-6/",
+            "published_at": "2026-01-24T00:57:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Blocked Tax Bill Pushes Colombia Toward Emergency Rule And New Debt",
+            "url": "https://www.riotimesonline.com/a-blocked-tax-bill-pushes-colombia-toward-emergency-rule-and-new-debt/",
+            "published_at": "2026-01-24T00:50:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Cuts Export Taxes, Floods Wheat Market, And Forces Europe To Discount",
+            "url": "https://www.riotimesonline.com/argentina-cuts-export-taxes-floods-wheat-market-and-forces-europe-to-discount/",
+            "published_at": "2026-01-24T00:46:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cooperation or Coercion: The New U.S.\u2013Mexico Front Over Cartels",
+            "url": "https://www.riotimesonline.com/cooperation-or-coercion-the-new-u-s-mexico-front-over-cartels/",
+            "published_at": "2026-01-24T00:45:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica Heads Into A Low-Heat Election With Crime Fears And A Chaves Shadow",
+            "url": "https://www.riotimesonline.com/costa-rica-heads-into-a-low-heat-election-with-crime-fears-and-a-chaves-shadow/",
+            "published_at": "2026-01-24T00:41:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Greenland Shock: Majority in Seven EU Countries Call Trump an \u201cEnemy\u201d",
+            "url": "https://www.riotimesonline.com/greenland-shock-majority-in-seven-eu-countries-call-trump-an-enemy/",
+            "published_at": "2026-01-24T00:35:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 January 23, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-january-23-2026/",
+            "published_at": "2026-01-24T00:31:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Caribbean Digital Nomad Visas In 2026: Island-By-Island Perks, Drawbacks, And What\u2019s Changing",
+            "url": "https://www.riotimesonline.com/caribbean-digital-nomad-visas-in-2026-island-by-island-perks-drawbacks-and-whats-changing/",
+            "published_at": "2026-01-24T00:26:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Activity Gauge Slips, Raising the Bar for More Rate Cuts",
+            "url": "https://www.riotimesonline.com/mexicos-activity-gauge-slips-raising-the-bar-for-more-rate-cuts/",
+            "published_at": "2026-01-24T00:22:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "After Senate Stalemate, House Tie Vote Fails To Check Trump On Venezuela",
+            "url": "https://www.riotimesonline.com/after-senate-stalemate-house-tie-vote-fails-to-check-trump-on-venezuela/",
+            "published_at": "2026-01-24T00:21:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tarc\u00edsio Reclaims The S\u00e3o Paulo Race As Brazil\u2019s Right Debates Its 2026 Flagbearer",
+            "url": "https://www.riotimesonline.com/tarcisio-reclaims-the-sao-paulo-race-as-brazils-right-debates-its-2026-flagbearer/",
+            "published_at": "2026-01-24T00:07:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "America\u2019s New Cuba Playbook: Starve The Grid, Strain The State, Force A Deal",
+            "url": "https://www.riotimesonline.com/americas-new-cuba-playbook-starve-the-grid-strain-the-state-force-a-deal/",
+            "published_at": "2026-01-24T00:04:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Sugarcane Farmers Are Cutting Back, And The Real Shock May Come Later",
+            "url": "https://www.riotimesonline.com/brazils-sugarcane-farmers-are-cutting-back-and-the-real-shock-may-come-later/",
+            "published_at": "2026-01-24T00:04:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Capital Markets Hit A 2025 Record, But Equity Still Went Missing",
+            "url": "https://www.riotimesonline.com/brazils-capital-markets-hit-a-2025-record-but-equity-still-went-missing/",
+            "published_at": "2026-01-24T00:02:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Nightlife Guide for Friday, January 23, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-friday-january-23-2026/",
+            "published_at": "2026-01-23T18:16:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Friday, January 23, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-friday-january-23-2026/",
+            "published_at": "2026-01-23T18:16:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Pulse for Friday, January 23, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-pulse-for-friday-january-23-2026/",
+            "published_at": "2026-01-23T18:03:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Pulse for Friday, January 23, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-pulse-for-friday-january-23-2026/",
+            "published_at": "2026-01-23T17:56:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "10 Key Sports Developments in Latin America (January 22, 2026)",
+            "url": "https://www.riotimesonline.com/10-key-sports-developments-in-latin-america-january-22-2026/",
+            "published_at": "2026-01-23T11:50:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Culture-First City Brief for January 23, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-culture-first-city-brief-for-january-23-2026/",
+            "published_at": "2026-01-23T11:38:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Culture-First City Brief for January 23, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-culture-first-city-brief-for-january-23-2026/",
+            "published_at": "2026-01-23T11:22:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for January 23, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-january-23-2026/",
+            "published_at": "2026-01-23T10:18:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Silver\u2019s Overnight Leap Toward $100 Signals A New Phase In The Metals Rally",
+            "url": "https://www.riotimesonline.com/silvers-overnight-leap-toward-100-signals-a-new-phase-in-the-metals-rally/",
+            "published_at": "2026-01-23T09:54:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Peso Breaks Lower Again As IPSA Hits Fresh Records",
+            "url": "https://www.riotimesonline.com/chiles-peso-breaks-lower-again-as-ipsa-hits-fresh-records/",
+            "published_at": "2026-01-23T09:49:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Peso Trades Quietly as Parallel Gap Narrows, Stocks Add Another Leg Up",
+            "url": "https://www.riotimesonline.com/argentinas-peso-trades-quietly-as-parallel-gap-narrows-stocks-add-another-leg-up/",
+            "published_at": "2026-01-23T09:44:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peso Held Its Ground Near 17.45 As Mexico Stocks Notched Fresh Highs",
+            "url": "https://www.riotimesonline.com/peso-held-its-ground-near-17-45-as-mexico-stocks-notched-fresh-highs/",
+            "published_at": "2026-01-23T09:42:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Rally Cools, But The Boom Still Looks Intact",
+            "url": "https://www.riotimesonline.com/colombias-rally-cools-but-the-boom-still-looks-intact/",
+            "published_at": "2026-01-23T09:38:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tariff Drama Cools As The Brazilian Real Tests Key Support",
+            "url": "https://www.riotimesonline.com/tariff-drama-cools-as-the-brazilian-real-tests-key-support/",
+            "published_at": "2026-01-23T09:30:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin\u2019s Weak Rebound Signals A Market Still Trapped Below Heavy Resistance",
+            "url": "https://www.riotimesonline.com/bitcoins-weak-rebound-signals-a-market-still-trapped-below-heavy-resistance/",
+            "published_at": "2026-01-23T09:20:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Races Toward 176,000 As The Global Tape Turns Friendly Again",
+            "url": "https://www.riotimesonline.com/ibovespa-races-toward-176000-as-the-global-tape-turns-friendly-again/",
+            "published_at": "2026-01-23T09:14:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Daily Pulse: January 23, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-daily-pulse-january-23-2026/",
+            "published_at": "2026-01-23T09:05:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing: January 23, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-january-23-2026/",
+            "published_at": "2026-01-23T08:53:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "U.S. Courts Argentina\u2019s Copper And Lithium As Critical Minerals Become Geopolitics",
+            "url": "https://www.riotimesonline.com/u-s-courts-argentinas-copper-and-lithium-as-critical-minerals-become-geopolitics/",
+            "published_at": "2026-01-22T22:01:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Inflation Re-Accelerates At The Start Of 2026, Testing Rate-Cut Optimism",
+            "url": "https://www.riotimesonline.com/mexicos-inflation-re-accelerates-at-the-start-of-2026-testing-rate-cut-optimism/",
+            "published_at": "2026-01-22T22:00:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Flamengo Is the Only Non-European in Deloitte\u2019s Top 30 Football Earners",
+            "url": "https://www.riotimesonline.com/flamengo-is-the-only-non-european-in-deloittes-top-30-football-earners/",
+            "published_at": "2026-01-22T22:00:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe\u2019s Mercosur Trade Deal Faces EU Court Review, Testing Open-Trade Politics",
+            "url": "https://www.riotimesonline.com/europes-mercosur-trade-deal-faces-eu-court-review-testing-open-trade-politics/",
+            "published_at": "2026-01-22T21:58:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "U.S. Growth Roars While Inflation Cools Only Gradually, Complicating Rate-Cut Politics",
+            "url": "https://www.riotimesonline.com/u-s-growth-roars-while-inflation-cools-only-gradually-complicating-rate-cut-politics/",
+            "published_at": "2026-01-22T21:54:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Holds Back as Paraguay and Argentina Join Trump\u2019s Peace Council",
+            "url": "https://www.riotimesonline.com/brazil-holds-back-as-paraguay-and-argentina-join-trumps-peace-council/",
+            "published_at": "2026-01-22T21:48:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Hits Back at Ecuador With 30% Tariff on 20 Import Lines",
+            "url": "https://www.riotimesonline.com/colombia-hits-back-at-ecuador-with-30-tariff-on-20-import-lines/",
+            "published_at": "2026-01-22T21:45:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Washington Is Walking Away From The WHO, And What That Signals",
+            "url": "https://www.riotimesonline.com/why-washington-is-walking-away-from-the-who-and-what-that-signals/",
+            "published_at": "2026-01-22T21:44:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Wins IMF Applause On Reserves, With February Review Now In Sight",
+            "url": "https://www.riotimesonline.com/argentina-wins-imf-applause-on-reserves-with-february-review-now-in-sight/",
+            "published_at": "2026-01-22T21:40:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fl\u00e1vio Bolsonaro Targets Brazil\u2019s Northeast to Challenge Lula\u2019s Strongest Region",
+            "url": "https://www.riotimesonline.com/flavio-bolsonaro-targets-brazils-northeast-to-challenge-lulas-strongest-region/",
+            "published_at": "2026-01-22T21:38:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guatemala\u2019s Prison Revolt Turned Into A Street War And A Political Stress Test",
+            "url": "https://www.riotimesonline.com/guatemalas-prison-revolt-turned-into-a-street-war-and-a-political-stress-test/",
+            "published_at": "2026-01-22T21:31:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Central Bank Liquidates Will Bank As High-Yield Funding Model Unravels",
+            "url": "https://www.riotimesonline.com/brazils-central-bank-liquidates-will-bank-as-high-yield-funding-model-unravels/",
+            "published_at": "2026-01-22T21:29:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela Proposes Lower Oil Royalties And Independent Arbitration To Lure Investment",
+            "url": "https://www.riotimesonline.com/venezuela-proposes-lower-oil-royalties-and-independent-arbitration-to-lure-investment/",
+            "published_at": "2026-01-22T21:28:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Azul\u2019s Record Passenger Year Puts Its Restructuring Promises Under A Microscope",
+            "url": "https://www.riotimesonline.com/azuls-record-passenger-year-puts-its-restructuring-promises-under-a-microscope/",
+            "published_at": "2026-01-22T21:21:49+00:00",
+            "category": [],
+            "language": "en"
+        }
+    ]
 }
