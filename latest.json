@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-01-27T10:10:05+00:00",
+    "updated_at": "2026-01-27T11:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Financial Morning Call for January 27, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-january-27-2026/",
+            "published_at": "2026-01-27T10:48:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Master Case Widens As Senate CPI Targets Resort Links And Supreme Court Families",
+            "url": "https://www.riotimesonline.com/brazils-master-case-widens-as-senate-cpi-targets-resort-links-and-supreme-court-families/",
+            "published_at": "2026-01-27T10:11:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Markets Morning Update: USD/CLP Presses New Lows As IPSA Stays Hot",
             "url": "https://www.riotimesonline.com/chile-markets-morning-update-usd-clp-presses-new-lows-as-ipsa-stays-hot/",
@@ -685,20 +699,6 @@
             "title": "Mexico\u2019s Inflation Re-Accelerates At The Start Of 2026, Testing Rate-Cut Optimism",
             "url": "https://www.riotimesonline.com/mexicos-inflation-re-accelerates-at-the-start-of-2026-testing-rate-cut-optimism/",
             "published_at": "2026-01-22T22:00:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Flamengo Is the Only Non-European in Deloitte\u2019s Top 30 Football Earners",
-            "url": "https://www.riotimesonline.com/flamengo-is-the-only-non-european-in-deloittes-top-30-football-earners/",
-            "published_at": "2026-01-22T22:00:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe\u2019s Mercosur Trade Deal Faces EU Court Review, Testing Open-Trade Politics",
-            "url": "https://www.riotimesonline.com/europes-mercosur-trade-deal-faces-eu-court-review-testing-open-trade-politics/",
-            "published_at": "2026-01-22T21:58:32+00:00",
             "category": [],
             "language": "en"
         }
