@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-01-28T08:10:11+00:00",
+    "updated_at": "2026-01-28T09:10:05+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing: January 27, 2026",
+            "url": "https://www.riotimesonline.com/brazil-news/markets/global-economy-briefing-january-27-2026/",
+            "published_at": "2026-01-28T09:08:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Daily Pulse: January 28, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-daily-pulse-january-28-2026/",
+            "published_at": "2026-01-28T08:59:33+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "PicPay\u2019s Nasdaq IPO Tests Whether Pix-Era Wallets Can Become Real Banks",
             "url": "https://www.riotimesonline.com/picpays-nasdaq-ipo-tests-whether-pix-era-wallets-can-become-real-banks/",
@@ -685,20 +699,6 @@
             "title": "Greenland Shock: Majority in Seven EU Countries Call Trump an \u201cEnemy\u201d",
             "url": "https://www.riotimesonline.com/greenland-shock-majority-in-seven-eu-countries-call-trump-an-enemy/",
             "published_at": "2026-01-24T00:35:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 January 23, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-january-23-2026/",
-            "published_at": "2026-01-24T00:31:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Caribbean Digital Nomad Visas In 2026: Island-By-Island Perks, Drawbacks, And What\u2019s Changing",
-            "url": "https://www.riotimesonline.com/caribbean-digital-nomad-visas-in-2026-island-by-island-perks-drawbacks-and-whats-changing/",
-            "published_at": "2026-01-24T00:26:55+00:00",
             "category": [],
             "language": "en"
         }
