@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-01-29T17:10:06+00:00",
+    "updated_at": "2026-01-29T18:05:37+00:00",
     "items": [
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Thursday, January 29, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-thursday-january-29-2026/",
+            "published_at": "2026-01-29T18:02:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Pulse for Thursday, January 29, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-pulse-for-thursday-january-29-2026/",
+            "published_at": "2026-01-29T17:54:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Nightlife Guide for Thursday, January 29, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-thursday-january-29-2026/",
+            "published_at": "2026-01-29T17:41:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Pulse for Thursday, January 29, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-pulse-for-thursday-january-29-2026/",
+            "published_at": "2026-01-29T17:41:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Jobless Rate Eases To 8.0%, But New Entrants And Informality Raise Red Flags",
+            "url": "https://www.riotimesonline.com/chiles-jobless-rate-eases-to-8-0-but-new-entrants-and-informality-raise-red-flags/",
+            "published_at": "2026-01-29T17:34:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 January 29, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-january-29-2026/",
+            "published_at": "2026-01-29T17:21:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Markets Whipsaw As Gold, Silver, Bitcoin, And U.S. Stocks Slide Together",
             "url": "https://www.riotimesonline.com/markets-whipsaw-as-gold-silver-bitcoin-and-us-stocks-slide-together/",
@@ -202,6 +244,13 @@
             "title": "Brazil\u2019s Ibovespa Hits 184,691 As Foreign Inflows And Softer Inflation Keep The Rally Alive",
             "url": "https://www.riotimesonline.com/brazils-ibovespa-hits-184691-as-foreign-inflows-and-softer-inflation-keep-the-rally-alive/",
             "published_at": "2026-01-29T09:01:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How is trust being kept alive in a world of constant info?",
+            "url": "https://www.riotimesonline.com/how-is-trust-being-kept-alive-in-a-world-of-constant-info/",
+            "published_at": "2026-01-29T03:14:35+00:00",
             "category": [],
             "language": "en"
         },
@@ -650,55 +699,6 @@
             "title": "Brazil\u2019s FDI Turned Negative While The Current Account Improved In December",
             "url": "https://www.riotimesonline.com/brazils-fdi-turned-negative-while-the-current-account-improved-in-december/",
             "published_at": "2026-01-27T11:23:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for January 27, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-january-27-2026/",
-            "published_at": "2026-01-27T10:48:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Master Case Widens As Senate CPI Targets Resort Links And Supreme Court Families",
-            "url": "https://www.riotimesonline.com/brazils-master-case-widens-as-senate-cpi-targets-resort-links-and-supreme-court-families/",
-            "published_at": "2026-01-27T10:11:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets Morning Update: USD/CLP Presses New Lows As IPSA Stays Hot",
-            "url": "https://www.riotimesonline.com/chile-markets-morning-update-usd-clp-presses-new-lows-as-ipsa-stays-hot/",
-            "published_at": "2026-01-27T09:59:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Peso Holds a Tight Blue Premium as the Merval Digests a Record Spike",
-            "url": "https://www.riotimesonline.com/argentinas-peso-holds-a-tight-blue-premium-as-the-merval-digests-a-record-spike/",
-            "published_at": "2026-01-27T09:53:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dollar Stays Under Pressure As Peso Tests New Lows And Mexico Stocks Push Higher",
-            "url": "https://www.riotimesonline.com/dollar-stays-under-pressure-as-peso-tests-new-lows-and-mexico-stocks-push-higher/",
-            "published_at": "2026-01-27T09:45:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Peso Steadies Near 3,673 As Stocks Push Deeper Into Record Territory",
-            "url": "https://www.riotimesonline.com/colombias-peso-steadies-near-3673-as-stocks-push-deeper-into-record-territory/",
-            "published_at": "2026-01-27T09:36:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Daily Pulse: January 27, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-daily-pulse-january-27-2026/",
-            "published_at": "2026-01-27T09:29:29+00:00",
             "category": [],
             "language": "en"
         }
