@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-01-29T16:10:05+00:00",
+    "updated_at": "2026-01-29T17:10:06+00:00",
     "items": [
+        {
+            "title": "Markets Whipsaw As Gold, Silver, Bitcoin, And U.S. Stocks Slide Together",
+            "url": "https://www.riotimesonline.com/markets-whipsaw-as-gold-silver-bitcoin-and-us-stocks-slide-together/",
+            "published_at": "2026-01-29T16:11:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Cruising In 2026: Latin America\u2019s Season Meets Mega Ships, Polar Demand, And Quiet Tech",
             "url": "https://www.riotimesonline.com/cruising-in-2026-latin-americas-season-meets-mega-ships-polar-demand-and-quiet-tech/",
@@ -692,13 +699,6 @@
             "title": "Latin America Daily Pulse: January 27, 2026",
             "url": "https://www.riotimesonline.com/latin-america-daily-pulse-january-27-2026/",
             "published_at": "2026-01-27T09:29:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing: January 26, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-january-26-2026/",
-            "published_at": "2026-01-27T09:21:31+00:00",
             "category": [],
             "language": "en"
         }
