@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-01-30T12:10:04+00:00",
+    "updated_at": "2026-01-30T13:10:06+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Job Creation Hits Its Weakest Year Since 2020",
+            "url": "https://www.riotimesonline.com/brazils-job-creation-hits-its-weakest-year-since-2020/",
+            "published_at": "2026-01-30T13:08:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s 2025 Fiscal Picture: A Small Primary Gap, A Huge Interest Bill",
+            "url": "https://www.riotimesonline.com/brazils-2025-fiscal-picture-a-small-primary-gap-a-huge-interest-bill/",
+            "published_at": "2026-01-30T13:01:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bahamas Break Tourism Records, But Cruise Dependence Shapes The Next Test",
+            "url": "https://www.riotimesonline.com/bahamas-break-tourism-records-but-cruise-dependence-shapes-the-next-test/",
+            "published_at": "2026-01-30T12:56:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump Taps Kevin Warsh For Fed Chair, Raising Stakes For Independence",
+            "url": "https://www.riotimesonline.com/trump-taps-kevin-warsh-for-fed-chair-raising-stakes-for-independence/",
+            "published_at": "2026-01-30T12:41:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "El Salvador\u2013U.S. \u201cReciprocal Trade\u201d Deal: Tariff Relief Now, Critical Minerals Next",
+            "url": "https://www.riotimesonline.com/el-salvador-u-s-reciprocal-trade-deal-tariff-relief-now-critical-minerals-next/",
+            "published_at": "2026-01-30T12:31:06+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Colombia\u2019s Oil Export Slide Exposes A Growing Vulnerability In The External Accounts",
             "url": "https://www.riotimesonline.com/colombias-oil-export-slide-exposes-a-growing-vulnerability-in-the-external-accounts/",
@@ -664,41 +699,6 @@
             "title": "Bitcoin Creeps Back Toward $90,000 As Metals Surge And Policy Risk Looms",
             "url": "https://www.riotimesonline.com/bitcoin-creeps-back-toward-90000-as-metals-surge-and-policy-risk-looms/",
             "published_at": "2026-01-28T09:29:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Reclaims Record Trail Ahead Of \u201cSuper Wednesday\u201d As Inflation Cools And Foreign Cash Returns",
-            "url": "https://www.riotimesonline.com/ibovespa-reclaims-record-trail-ahead-of-super-wednesday-as-inflation-cools-and-foreign-cash-returns/",
-            "published_at": "2026-01-28T09:24:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing: January 27, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-january-27-2026/",
-            "published_at": "2026-01-28T09:08:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Daily Pulse: January 28, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-daily-pulse-january-28-2026/",
-            "published_at": "2026-01-28T08:59:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "PicPay\u2019s Nasdaq IPO Tests Whether Pix-Era Wallets Can Become Real Banks",
-            "url": "https://www.riotimesonline.com/picpays-nasdaq-ipo-tests-whether-pix-era-wallets-can-become-real-banks/",
-            "published_at": "2026-01-27T18:20:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay\u2019s Central Bank Puts Dollar Intervention Back on the Table",
-            "url": "https://www.riotimesonline.com/uruguays-central-bank-puts-dollar-intervention-back-on-the-table/",
-            "published_at": "2026-01-27T18:18:03+00:00",
             "category": [],
             "language": "en"
         }
