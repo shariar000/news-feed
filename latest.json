@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-01-30T10:10:06+00:00",
+    "updated_at": "2026-01-30T11:10:05+00:00",
     "items": [
+        {
+            "title": "Bolivia\u2019s Universal Health System Hits \u201cFunctional Collapse\u201d As Debts, Shortages, And Red Tape Pile Up",
+            "url": "https://www.riotimesonline.com/bolivias-universal-health-system-hits-functional-collapse-as-debts-shortages-and-red-tape-pile-up/",
+            "published_at": "2026-01-30T11:07:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for January 30, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-january-30-2026/",
+            "published_at": "2026-01-30T10:51:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China And Rio Tinto Move To Buy Brazil\u2019s Aluminium Champion CBA",
+            "url": "https://www.riotimesonline.com/china-and-rio-tinto-move-to-buy-brazils-aluminium-champion-cba/",
+            "published_at": "2026-01-30T10:26:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nubank Wins Conditional U.S. Charter Approval, Starting An 18-Month Race",
+            "url": "https://www.riotimesonline.com/nubank-wins-conditional-u-s-charter-approval-starting-an-18-month-race/",
+            "published_at": "2026-01-30T10:16:47+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Markets Morning Update: USD/CLP Slips Back Toward 860 As IPSA Takes A Breather",
             "url": "https://www.riotimesonline.com/chile-markets-morning-update-usd-clp-slips-back-toward-860/",
@@ -671,34 +699,6 @@
             "title": "Rio Nightlife Guide for Tuesday, January 27, 2026",
             "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-tuesday-january-27-2026/",
             "published_at": "2026-01-27T17:32:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 January 27, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-january-27-2026/",
-            "published_at": "2026-01-27T17:12:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Year-End Trade Flip: A Surplus In Raw Data, A Deficit After Adjustment",
-            "url": "https://www.riotimesonline.com/mexicos-year-end-trade-flip-a-surplus-in-raw-data-a-deficit-after-adjustment/",
-            "published_at": "2026-01-27T14:48:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia Tries A New Mining Pitch: Clear Rules, Public Contracts, Shared Upside",
-            "url": "https://www.riotimesonline.com/bolivia-tries-a-new-mining-pitch-clear-rules-public-contracts-shared-upside/",
-            "published_at": "2026-01-27T14:41:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador\u2019s New Oil Transit Fee Adds Millions In Costs For Colombian Shipments",
-            "url": "https://www.riotimesonline.com/ecuadors-new-oil-transit-fee-adds-millions-in-costs-for-colombian-shipments/",
-            "published_at": "2026-01-27T14:38:53+00:00",
             "category": [],
             "language": "en"
         }
