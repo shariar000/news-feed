@@ -1,10 +1,73 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-01-30T09:05:11+00:00",
+    "updated_at": "2026-01-30T10:10:06+00:00",
     "items": [
         {
+            "title": "Chile Markets Morning Update: USD/CLP Slips Back Toward 860 As IPSA Takes A Breather",
+            "url": "https://www.riotimesonline.com/chile-markets-morning-update-usd-clp-slips-back-toward-860/",
+            "published_at": "2026-01-30T10:04:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Peso Holds a Tight Blue Premium as Global Markets Jolt on Fed Succession Talk",
+            "url": "https://www.riotimesonline.com/argentinas-peso-holds-a-tight-blue-premium-as-global-markets/",
+            "published_at": "2026-01-30T09:59:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dollar Rebound Checks The Peso As Mexico Stocks Cool After Record Run",
+            "url": "https://www.riotimesonline.com/dollar-rebound-checks-the-peso-as-mexico-stocks-cool-after-record-run/",
+            "published_at": "2026-01-30T09:50:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Peso Holds Firm As Courts Jolt The Fiscal Story And Stocks Digest Gains",
+            "url": "https://www.riotimesonline.com/colombias-peso-holds-firm-as-courts-jolt-the-fiscal-story-and-stocks-digest-gains/",
+            "published_at": "2026-01-30T09:44:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Courts Draw a Hard Line on Emergency Rule and Tax Power",
+            "url": "https://www.riotimesonline.com/colombias-courts-draw-a-hard-line-on-emergency-rule-and-tax-power/",
+            "published_at": "2026-01-30T09:32:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Steadies Near $5,150 After Yesterday\u2019s Cross-Asset Flush, While Silver Slips Back Toward $106",
+            "url": "https://www.riotimesonline.com/gold-steadies-near-5150-after-yesterdays-cross-asset-flush-while-silver-slips-back-toward-106/",
+            "published_at": "2026-01-30T09:23:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dollar Breaks A Key Long-Term Line As Brazil\u2019s Rate Path Shifts",
+            "url": "https://www.riotimesonline.com/dollar-breaks-a-key-long-term-line-as-brazils-rate-path-shifts/",
+            "published_at": "2026-01-30T09:18:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Tests A Critical $80,900 Floor As The Weekly Cloud Break Turns The Tape Bearish",
+            "url": "https://www.riotimesonline.com/bitcoin-tests-a-critical-80900-floor-as-the-weekly-cloud-break-turns-the-tape-bearish/",
+            "published_at": "2026-01-30T09:10:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Hits A New Intraday Peak, Then Slips As Wall Street Turns Risk-Off",
+            "url": "https://www.riotimesonline.com/ibovespa-hits-a-new-intraday-peak-then-slips-as-wall-street-turns-risk-off/",
+            "published_at": "2026-01-30T09:07:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Latin America Daily Pulse: January 30, 2026",
-            "url": "https://www.riotimesonline.com/brazil-news/mercosur/latin-america-daily-pulse-january-30-2026/",
+            "url": "https://www.riotimesonline.com/latin-america-daily-pulse-january-30-2026/",
             "published_at": "2026-01-30T09:04:23+00:00",
             "category": [],
             "language": "en"
@@ -636,69 +699,6 @@
             "title": "Ecuador\u2019s New Oil Transit Fee Adds Millions In Costs For Colombian Shipments",
             "url": "https://www.riotimesonline.com/ecuadors-new-oil-transit-fee-adds-millions-in-costs-for-colombian-shipments/",
             "published_at": "2026-01-27T14:38:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Amazon Internet Buildout Leans On Chinese Fiber, Reviving Security Questions",
-            "url": "https://www.riotimesonline.com/brazils-amazon-internet-buildout-leans-on-chinese-fiber-reviving-security-questions/",
-            "published_at": "2026-01-27T14:28:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tourism Flows Flipped in Argentina in 2025: Fewer Foreigners Came, Many More Argentines Left",
-            "url": "https://www.riotimesonline.com/tourism-flows-flipped-in-argentina-in-2025-fewer-foreigners-came-many-more-argentines-left/",
-            "published_at": "2026-01-27T14:13:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chevron Doubles Down On Venezuela As New Oil Rules Take Shape",
-            "url": "https://www.riotimesonline.com/chevron-doubles-down-on-venezuela-as-new-oil-rules-take-shape/",
-            "published_at": "2026-01-27T14:09:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Commentary: Central America Is Being Put On Notice, And The Region Helped Create The Moment",
-            "url": "https://www.riotimesonline.com/commentary-central-america-is-being-put-on-notice-and-the-region-helped-create-the-moment/",
-            "published_at": "2026-01-27T14:09:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Satellite-Internet Market Is Moving From \u201cOne Hot Newcomer\u201d To A Regulated, Crowded Battleground",
-            "url": "https://www.riotimesonline.com/brazils-satellite-internet-market-is-moving-from-one-hot-newcomer-to-a-regulated-crowded-battleground/",
-            "published_at": "2026-01-27T13:47:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Embraer And Adani Bet On Regional Jets, And A New Industrial Play In India",
-            "url": "https://www.riotimesonline.com/embraer-and-adani-bet-on-regional-jets-and-a-new-industrial-play-in-india/",
-            "published_at": "2026-01-27T13:21:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s External Accounts Hit the Biggest Shortfall Since 2014, But Funding Still Held Up",
-            "url": "https://www.riotimesonline.com/brazils-external-accounts-hit-the-biggest-shortfall-since-2014-but-funding-still-held-up/",
-            "published_at": "2026-01-27T13:13:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "10 Key Sports Developments in Latin America (January 26, 2026)",
-            "url": "https://www.riotimesonline.com/10-key-sports-developments-in-latin-america-january-26-2026/",
-            "published_at": "2026-01-27T13:03:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Culture-First City Brief for January 27, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-culture-first-city-brief-for-january-27-2026/",
-            "published_at": "2026-01-27T12:55:30+00:00",
             "category": [],
             "language": "en"
         }
