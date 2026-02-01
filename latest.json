@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-01T09:10:05+00:00",
+    "updated_at": "2026-02-01T10:10:05+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Culture-First City Brief for February 1, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-culture-first-city-brief-for-february-1-2026/",
+            "published_at": "2026-02-01T10:05:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela\u2019s Big Justice Pivot: Releases Begin, Helicoide Rebranded, Questions Remain",
+            "url": "https://www.riotimesonline.com/venezuelas-big-justice-pivot-releases-begin-helicoide-rebranded-questions-remain/",
+            "published_at": "2026-02-01T09:43:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Flash-Crash Aftershock: Gold And Silver Keep Sliding, Then Rebound Off Extreme Lows",
+            "url": "https://www.riotimesonline.com/flash-crash-aftershock-gold-and-silver-keep-sliding-then-rebound-off-extreme-lows/",
+            "published_at": "2026-02-01T09:12:23+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio Nightlife Guide for Saturday, January 31, 2026",
             "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-saturday-january-31-2026/",
@@ -41,13 +62,6 @@
             "title": "Global Economy Briefing: January 30, 2026 Morning",
             "url": "https://www.riotimesonline.com/global-economy-briefing-january-30-2026-morning/",
             "published_at": "2026-01-31T09:21:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Flash-Crash Aftershock: Gold And Silver Keep Sliding, Then Rebound Off Extreme Lows",
-            "url": "https://www.riotimesonline.com/flash-crash-aftershock-gold-and-silver-keep-sliding-then-rebound-off-extreme-lows/",
-            "published_at": "2026-01-31T09:12:23+00:00",
             "category": [],
             "language": "en"
         },
@@ -685,20 +699,6 @@
             "title": "Venezuela\u2019s Oil-Law Rewrite Pitches $1.4 Billion In New Deals, Testing Investor Trust",
             "url": "https://www.riotimesonline.com/venezuelas-oil-law-rewrite-pitches-1-4-billion-in-new-deals-testing-investor-trust/",
             "published_at": "2026-01-28T13:27:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Maricunga Lithium Deal Nears Signature as Rio Tinto Takes 49.99%",
-            "url": "https://www.riotimesonline.com/chiles-maricunga-lithium-deal-nears-signature-as-rio-tinto-takes-49-99/",
-            "published_at": "2026-01-28T13:18:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dubai Moves To Double Its Financial Hub As Global Firms Flood In",
-            "url": "https://www.riotimesonline.com/dubai-moves-to-double-its-financial-hub-as-global-firms-flood-in/",
-            "published_at": "2026-01-28T13:13:41+00:00",
             "category": [],
             "language": "en"
         }
