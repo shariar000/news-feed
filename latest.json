@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-02T19:10:50+00:00",
+    "updated_at": "2026-02-02T20:10:04+00:00",
     "items": [
+        {
+            "title": "Chile Closes 2025 With a Surprise Growth Beat, but Mining Woes and Fiscal Cracks Cloud the Handover to Kast",
+            "url": "https://www.riotimesonline.com/chile-closes-2025-with-a-surprise-growth-beat-but-mining-woes-and-fiscal-cracks-cloud-the-handover-to-kast/",
+            "published_at": "2026-02-02T19:34:46+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Petro Arrives in Washington for a Summit With Trump That Seemed Impossible Weeks Ago",
             "url": "https://www.riotimesonline.com/petro-arrives-in-washington-for-a-summit-with-trump-that-seemed-impossible-weeks-ago/",
@@ -692,13 +699,6 @@
             "title": "Rio de Janeiro Daily Pulse for Thursday, January 29, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-pulse-for-thursday-january-29-2026/",
             "published_at": "2026-01-29T17:41:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Jobless Rate Eases To 8.0%, But New Entrants And Informality Raise Red Flags",
-            "url": "https://www.riotimesonline.com/chiles-jobless-rate-eases-to-8-0-but-new-entrants-and-informality-raise-red-flags/",
-            "published_at": "2026-01-29T17:34:59+00:00",
             "category": [],
             "language": "en"
         }
