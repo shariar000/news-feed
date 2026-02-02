@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-02T11:10:05+00:00",
+    "updated_at": "2026-02-02T12:05:21+00:00",
     "items": [
+        {
+            "title": "The Mountain\u2019s Price: Argentina Opens the Andes to the Biggest Mining Rush in Latin American History",
+            "url": "https://www.riotimesonline.com/the-mountains-price-argentina-opens-the-andes-to-the-biggest-mining-rush-in-latin-american-history/",
+            "published_at": "2026-02-02T11:59:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fern\u00e1ndez Wins Costa Rica\u2019s Presidency in First-Round Landslide, Cementing Latin America\u2019s Rightward Shift",
+            "url": "https://www.riotimesonline.com/fernandez-wins-costa-ricas-presidency-in-first-round-landslide-cementing-latin-americas-rightward-shift/",
+            "published_at": "2026-02-02T11:48:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Eight Million People Left Venezuela. Now Some Are Asking If It\u2019s Time to Go Back",
+            "url": "https://www.riotimesonline.com/eight-million-people-left-venezuela-now-some-are-asking-if-its-time-to-go-back/",
+            "published_at": "2026-02-02T11:37:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Medical Education Crisis: 13,000 Soon-To-Be Doctors Can\u2019t Pass a Basic Competency Test",
+            "url": "https://www.riotimesonline.com/brazils-medical-education-crisis-13000-soon-to-be-doctors-cant-pass-a-basic-competency-test/",
+            "published_at": "2026-02-02T11:30:35+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio\u2019s Centrist Mayor Paes Abandons City Hall for Governor\u2019s Race \u2014 What Expats Need to Know",
             "url": "https://www.riotimesonline.com/rios-centrist-mayor-paes-abandons-city-hall-for-governors-race-what-expats-need-to-know/",
@@ -34,6 +62,13 @@
             "title": "Brazil\u2019s Kingmaker Party Resurrects 85-Year-Old Former President Temer as Escape Route from Political Chaos",
             "url": "https://www.riotimesonline.com/brazils-kingmaker-party-resurrects-85-year-old-former-president-temer-as-escape-route-from-political-chaos/",
             "published_at": "2026-02-02T10:03:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Consciousness Comes First, Matter Second\u2014Says the Physicist Who Launched the Digital Age",
+            "url": "https://www.riotimesonline.com/consciousness-comes-first-matter-secondsays-the-physicist-who-launched-the-digital-age/",
+            "published_at": "2026-02-02T10:03:31+00:00",
             "category": [],
             "language": "en"
         },
@@ -90,13 +125,6 @@
             "title": "Bitcoin Breaks Into The Mid-$70,000s As Charts Flash Extreme Oversold Stress",
             "url": "https://www.riotimesonline.com/bitcoin-breaks-into-the-mid-70000s-as-charts-flash-extreme-oversold-stress/",
             "published_at": "2026-02-02T08:54:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Consciousness Comes First, Matter Second\u2014Says the Physicist Who Launched the Digital Age",
-            "url": "https://www.riotimesonline.com/consciousness-comes-first-matter-secondsays-the-physicist-who-launched-the-digital-age/",
-            "published_at": "2026-02-01T19:03:31+00:00",
             "category": [],
             "language": "en"
         },
@@ -671,34 +699,6 @@
             "title": "U.S. and Mexico Begin T-MEC Rewrite Talks as Trade Dependence Hits Records",
             "url": "https://www.riotimesonline.com/u-s-and-mexico-begin-t-mec-rewrite-talks-as-trade-dependence-hits-records/",
             "published_at": "2026-01-29T11:26:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for January 29, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-january-29-2026/",
-            "published_at": "2026-01-29T11:00:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras\u2019 Bigger Reserve Base Signals Brazil Can Keep Pumping Longer Than Markets Assume",
-            "url": "https://www.riotimesonline.com/petrobras-bigger-reserve-base-signals-brazil-can-keep-pumping-longer-than-markets-assume/",
-            "published_at": "2026-01-29T10:30:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Sugar Giant Ra\u00edzen Hits A Rough Quarter As Investors Price In A Rescue",
-            "url": "https://www.riotimesonline.com/brazils-sugar-giant-raizen-hits-a-rough-quarter-as-investors-price-in-a-rescue/",
-            "published_at": "2026-01-29T10:29:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets Morning Update: USD/CLP Bounces Toward 866 As IPSA Holds Near Records",
-            "url": "https://www.riotimesonline.com/chile-markets-morning-update-usd-clp-bounces-toward-866-as-ipsa-holds-near-records/",
-            "published_at": "2026-01-29T10:14:48+00:00",
             "category": [],
             "language": "en"
         }
