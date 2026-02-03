@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-03T11:10:04+00:00",
+    "updated_at": "2026-02-03T12:10:04+00:00",
     "items": [
+        {
+            "title": "S\u00e3o Paulo Culture-First City Brief for February 3, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-culture-first-city-brief-for-february-3-2026/",
+            "published_at": "2026-02-03T12:08:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Culture-First City Brief",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-culture-first-city-brief/",
+            "published_at": "2026-02-03T11:52:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Sports Roundup \u2013 Monday, February 2, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-sports-roundup-monday-february-2-2026/",
+            "published_at": "2026-02-03T11:32:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Finance Chief Is Trying to Put a Political Ally Inside the Central Bank\u2014And Markets Are Panicking",
+            "url": "https://www.riotimesonline.com/brazils-finance-chief-is-trying-to-put-a-political-ally-inside-the-central-bank-and-markets-are-panicking/",
+            "published_at": "2026-02-03T11:27:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Financial Morning Call for February 3, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-3-2026/",
@@ -671,34 +699,6 @@
             "title": "Chile Markets Morning Update: USD/CLP Slips Back Toward 860 As IPSA Takes A Breather",
             "url": "https://www.riotimesonline.com/chile-markets-morning-update-usd-clp-slips-back-toward-860/",
             "published_at": "2026-01-30T10:04:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Peso Holds a Tight Blue Premium as Global Markets Jolt on Fed Succession Talk",
-            "url": "https://www.riotimesonline.com/argentinas-peso-holds-a-tight-blue-premium-as-global-markets/",
-            "published_at": "2026-01-30T09:59:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dollar Rebound Checks The Peso As Mexico Stocks Cool After Record Run",
-            "url": "https://www.riotimesonline.com/dollar-rebound-checks-the-peso-as-mexico-stocks-cool-after-record-run/",
-            "published_at": "2026-01-30T09:50:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Peso Holds Firm As Courts Jolt The Fiscal Story And Stocks Digest Gains",
-            "url": "https://www.riotimesonline.com/colombias-peso-holds-firm-as-courts-jolt-the-fiscal-story-and-stocks-digest-gains/",
-            "published_at": "2026-01-30T09:44:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Courts Draw a Hard Line on Emergency Rule and Tax Power",
-            "url": "https://www.riotimesonline.com/colombias-courts-draw-a-hard-line-on-emergency-rule-and-tax-power/",
-            "published_at": "2026-01-30T09:32:39+00:00",
             "category": [],
             "language": "en"
         }
