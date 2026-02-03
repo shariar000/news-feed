@@ -1,10 +1,38 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-03T10:10:05+00:00",
+    "updated_at": "2026-02-03T11:10:04+00:00",
     "items": [
         {
+            "title": "Brazil\u2019s Financial Morning Call for February 3, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-3-2026/",
+            "published_at": "2026-02-03T10:51:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "America\u2019s Most Powerful Court Just Made Its Employees Sign Silence Contracts",
+            "url": "https://www.riotimesonline.com/americas-most-powerful-court-just-made-its-employees-sign-silence/",
+            "published_at": "2026-02-03T10:47:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Supreme Court Jailed a Former President. Now It Faces Its Own Reckoning",
+            "url": "https://www.riotimesonline.com/brazils-supreme-court-jailed-a-former-president-now-it-faces/",
+            "published_at": "2026-02-03T10:46:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USD/CLP Slips Below 866 as Chilean Peso Strength Extends, IPSA Rebounds Past 11,480",
+            "url": "https://www.riotimesonline.com/usd-clp-slips-below-866-as-chilean-peso-strength-extends-ipsa/",
+            "published_at": "2026-02-03T10:22:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Argentina\u2019s Peso Holds Tight as Global Metals Rout Meets Local Policy Shake-Up",
-            "url": "https://www.riotimesonline.com/brazil-news/mercosur/argentinas-peso-holds-tight-as-global-metals-rout-meets-local/",
+            "url": "https://www.riotimesonline.com/argentinas-peso-holds-tight-as-global-metals-rout-meets-local/",
             "published_at": "2026-02-03T10:08:00+00:00",
             "category": [],
             "language": "en"
@@ -671,34 +699,6 @@
             "title": "Colombia\u2019s Courts Draw a Hard Line on Emergency Rule and Tax Power",
             "url": "https://www.riotimesonline.com/colombias-courts-draw-a-hard-line-on-emergency-rule-and-tax-power/",
             "published_at": "2026-01-30T09:32:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Steadies Near $5,150 After Yesterday\u2019s Cross-Asset Flush, While Silver Slips Back Toward $106",
-            "url": "https://www.riotimesonline.com/gold-steadies-near-5150-after-yesterdays-cross-asset-flush-while-silver-slips-back-toward-106/",
-            "published_at": "2026-01-30T09:23:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dollar Breaks A Key Long-Term Line As Brazil\u2019s Rate Path Shifts",
-            "url": "https://www.riotimesonline.com/dollar-breaks-a-key-long-term-line-as-brazils-rate-path-shifts/",
-            "published_at": "2026-01-30T09:18:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Tests A Critical $80,900 Floor As The Weekly Cloud Break Turns The Tape Bearish",
-            "url": "https://www.riotimesonline.com/bitcoin-tests-a-critical-80900-floor-as-the-weekly-cloud-break-turns-the-tape-bearish/",
-            "published_at": "2026-01-30T09:10:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Hits A New Intraday Peak, Then Slips As Wall Street Turns Risk-Off",
-            "url": "https://www.riotimesonline.com/ibovespa-hits-a-new-intraday-peak-then-slips-as-wall-street-turns-risk-off/",
-            "published_at": "2026-01-30T09:07:56+00:00",
             "category": [],
             "language": "en"
         }
