@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-03T08:10:05+00:00",
+    "updated_at": "2026-02-03T09:10:05+00:00",
     "items": [
+        {
+            "title": "Bitcoin Finds Its Footing Near $78,500 As Oversold Bounce Takes Shape",
+            "url": "https://www.riotimesonline.com/bitcoin-finds-its-footing-near-78500-as-oversold-bounce-takes-shape/",
+            "published_at": "2026-02-03T09:04:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Extends January Rally Into February; Awaits Copom Minutes",
+            "url": "https://www.riotimesonline.com/ibovespa-extends-january-rally-into-february-awaits-copom-minutes/",
+            "published_at": "2026-02-03T09:00:29+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Closes 2025 With a Surprise Growth Beat, but Mining Woes and Fiscal Cracks Cloud the Handover to Kast",
             "url": "https://www.riotimesonline.com/chile-closes-2025-with-a-surprise-growth-beat-but-mining-woes-and-fiscal-cracks-cloud-the-handover-to-kast/",
@@ -685,20 +699,6 @@
             "title": "S\u00e3o Paulo Daily Pulse for Thursday, January 29, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-daily-pulse-for-thursday-january-29-2026/",
             "published_at": "2026-01-29T17:54:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio Nightlife Guide for Thursday, January 29, 2026",
-            "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-thursday-january-29-2026/",
-            "published_at": "2026-01-29T17:41:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Pulse for Thursday, January 29, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-pulse-for-thursday-january-29-2026/",
-            "published_at": "2026-01-29T17:41:21+00:00",
             "category": [],
             "language": "en"
         }
