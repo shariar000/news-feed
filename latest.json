@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-03T16:10:05+00:00",
+    "updated_at": "2026-02-03T17:10:04+00:00",
     "items": [
+        {
+            "title": "Azul\u2019s $950 Million Lifeline Marks Final Chapter in Brazilian Aviation\u2019s Painful Reckoning",
+            "url": "https://www.riotimesonline.com/azuls-950-million-lifeline-marks-final-chapter-in-brazilian-aviations-painful-reckoning/",
+            "published_at": "2026-02-03T17:07:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Venezuela\u2019s Oil Exports Surge 60% as U.S. Takes Control of Industry After Maduro Capture",
             "url": "https://www.riotimesonline.com/venezuelas-oil-exports-surge-60-as-u-s-takes-control-of-industry/",
@@ -692,13 +699,6 @@
             "title": "Colombia\u2019s Oil Export Slide Exposes A Growing Vulnerability In The External Accounts",
             "url": "https://www.riotimesonline.com/colombias-oil-export-slide-exposes-a-growing-vulnerability-in-the-external-accounts/",
             "published_at": "2026-01-30T12:08:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Commentary: Brazil\u2019s 2026 Election Heads Toward A Fiscal Squeeze, Whoever Wins",
-            "url": "https://www.riotimesonline.com/commentary-brazils-2026-election-heads-toward-a-fiscal-squeeze-whoever-wins/",
-            "published_at": "2026-01-30T11:57:51+00:00",
             "category": [],
             "language": "en"
         }
