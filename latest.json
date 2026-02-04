@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-04T19:10:04+00:00",
+    "updated_at": "2026-02-04T20:10:04+00:00",
     "items": [
+        {
+            "title": "Chile\u2019s Central Bank Holds Rates Steady but Reveals It Nearly Cut",
+            "url": "https://www.riotimesonline.com/chiles-central-bank-holds-rates-steady-but-reveals-it-nearly-cut/",
+            "published_at": "2026-02-04T19:42:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Stakes Claim as Global Entertainment Capital With Unprecedented 2026 Calendar",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-stakes-claim-as-global-entertainment-capital-with-unprecedented-2026-calendar/",
+            "published_at": "2026-02-04T19:41:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "America\u2019s Left and Right Are Joining Forces\u2014And the Target May Surprise You",
+            "url": "https://www.riotimesonline.com/americas-left-and-right-are-joining-forcesand-the-target-may-surprise-you/",
+            "published_at": "2026-02-04T19:37:57+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Peru Overtakes Argentina to Become Latin America\u2019s Fourth-Largest Exporter",
             "url": "https://www.riotimesonline.com/peru-overtakes-argentina-to-become-latin-americas-fourth-largest-exporter/",
@@ -678,27 +699,6 @@
             "title": "Brazilian Music Legends Caetano Veloso and Maria Beth\u00e2nia Claim Grammy Glory With Live Album",
             "url": "https://www.riotimesonline.com/brazilian-music-legends-caetano-veloso-and-maria-bethania-claim-grammy-glory-with-live-album/",
             "published_at": "2026-02-02T09:40:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets Morning Update: USD/CLP Jumps Toward 872 As IPSA Slips Under 11,500",
-            "url": "https://www.riotimesonline.com/chile-markets-morning-update-usd-clp-jumps-toward-872-as-ipsa/",
-            "published_at": "2026-02-02T09:23:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Peso Holds a Tight Blue Premium as Metals Meltdown Spreads Risk-Off Shock",
-            "url": "https://www.riotimesonline.com/argentinas-peso-holds-a-tight-blue-premium-as-metals-meltdown/",
-            "published_at": "2026-02-02T09:17:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets Morning Note: Peso Softens, Equities Hit An Air Pocket After Friday\u2019s Selloff",
-            "url": "https://www.riotimesonline.com/mexico-markets-morning-note-peso-softens-equities-hit-an-air-pocket-after-fridays-selloff/",
-            "published_at": "2026-02-02T09:12:19+00:00",
             "category": [],
             "language": "en"
         }
