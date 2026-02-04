@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-04T08:10:04+00:00",
+    "updated_at": "2026-02-04T09:10:08+00:00",
     "items": [
+        {
+            "title": "Ibovespa Poised for Consolidation After Record-Breaking Rally; US Tech Rout Clouds Morning Outlook",
+            "url": "https://www.riotimesonline.com/ibovespa-poised-for-consolidation-after-record-breaking-rally-us-tech/",
+            "published_at": "2026-02-04T09:06:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "How Latin America\u2019s Safest Country Lost Its Innocence\u2014And What It\u2019s Doing About It",
             "url": "https://www.riotimesonline.com/how-latin-americas-safest-country-lost-its-innocence-and-what-its-doing-about-it/",
@@ -692,13 +699,6 @@
             "title": "Gold And Silver Suffer A Once-In-Years Flash-Crash After Record Highs",
             "url": "https://www.riotimesonline.com/gold-and-silver-suffer-a-once-in-years-flash-crash-after-record-highs/",
             "published_at": "2026-01-30T18:14:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Copper Output Drop Adds Jitters to an Already Tight Market",
-            "url": "https://www.riotimesonline.com/chiles-copper-output-drop-adds-jitters-to-an-already-tight-market/",
-            "published_at": "2026-01-30T17:47:16+00:00",
             "category": [],
             "language": "en"
         }
