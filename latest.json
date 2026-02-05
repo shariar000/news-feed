@@ -1,10 +1,31 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-05T10:10:05+00:00",
+    "updated_at": "2026-02-05T11:10:05+00:00",
     "items": [
         {
+            "title": "The Three LatAm Countries Now Driving Half the World\u2019s New Oil Supply, Led by Brazil",
+            "url": "https://www.riotimesonline.com/the-three-latam-countries-now-driving-half-the-worlds-new-oil/",
+            "published_at": "2026-02-05T10:29:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile IPSA Reverses Sharply From Record High as Global Metals Rout Hits Santiago",
+            "url": "https://www.riotimesonline.com/chile-ipsa-reverses-sharply-from-record-high-as-global-metals-rout/",
+            "published_at": "2026-02-05T10:19:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Slides for Sixth Straight Session as INDEC Crisis and Global Selloff Weigh on Argentina",
+            "url": "https://www.riotimesonline.com/merval-slides-for-sixth-straight-session-as-indec-crisis-and-global/",
+            "published_at": "2026-02-05T10:10:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Mexico IPC Retreats From Record 70,111 as Banxico Rate Decision Looms",
-            "url": "https://www.riotimesonline.com/brazil-news/mercosur/mexico-ipc-retreats-from-record-70111-as-banxico-rate-decision-looms/",
+            "url": "https://www.riotimesonline.com/mexico-ipc-retreats-from-record-70111-as-banxico-rate-decision-looms/",
             "published_at": "2026-02-05T10:08:53+00:00",
             "category": [],
             "language": "en"
@@ -678,27 +699,6 @@
             "title": "Why Russia Just Flew Armored Limousines Into Brazil \u2014 and What It Means for the Rest of the World",
             "url": "https://www.riotimesonline.com/why-russia-just-flew-armored-limousines-into-brazil-and-what-it-means-for-the-rest-of-the-world/",
             "published_at": "2026-02-02T12:35:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Mountain\u2019s Price: Argentina Opens the Andes to the Biggest Mining Rush in Latin American History",
-            "url": "https://www.riotimesonline.com/the-mountains-price-argentina-opens-the-andes-to-the-biggest-mining-rush-in-latin-american-history/",
-            "published_at": "2026-02-02T11:59:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fern\u00e1ndez Wins Costa Rica\u2019s Presidency in First-Round Landslide, Cementing Latin America\u2019s Rightward Shift",
-            "url": "https://www.riotimesonline.com/fernandez-wins-costa-ricas-presidency-in-first-round-landslide-cementing-latin-americas-rightward-shift/",
-            "published_at": "2026-02-02T11:48:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Eight Million People Left Venezuela. Now Some Are Asking If It\u2019s Time to Go Back",
-            "url": "https://www.riotimesonline.com/eight-million-people-left-venezuela-now-some-are-asking-if-its-time-to-go-back/",
-            "published_at": "2026-02-02T11:37:46+00:00",
             "category": [],
             "language": "en"
         }
