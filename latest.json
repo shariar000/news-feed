@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-05T21:10:05+00:00",
+    "updated_at": "2026-02-05T22:10:05+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Trade Surplus Doubles in January as Economic Slowdown Slashes Imports",
+            "url": "https://www.riotimesonline.com/brazils-trade-surplus-doubles-in-january-as-economic-slowdown-slashes-imports/",
+            "published_at": "2026-02-05T21:12:49+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Is Spending More on Weapons Than All Its Neighbors Combined \u2014 and Washington Wants In",
             "url": "https://www.riotimesonline.com/brazil-is-spending-more-on-weapons-than-all-its-neighbors-combined-and-washington-wants-in/",
@@ -692,13 +699,6 @@
             "title": "Bitcoin Finds Its Footing Near $78,500 As Oversold Bounce Takes Shape",
             "url": "https://www.riotimesonline.com/bitcoin-finds-its-footing-near-78500-as-oversold-bounce-takes-shape/",
             "published_at": "2026-02-03T09:04:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Extends January Rally Into February; Awaits Copom Minutes",
-            "url": "https://www.riotimesonline.com/ibovespa-extends-january-rally-into-february-awaits-copom-minutes/",
-            "published_at": "2026-02-03T09:00:29+00:00",
             "category": [],
             "language": "en"
         }
