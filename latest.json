@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-05T08:10:04+00:00",
+    "updated_at": "2026-02-05T09:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for February 5, 2026",
+            "url": "https://www.riotimesonline.com/brazil-news/mercosur/latin-american-pulse-for-february-5-2026/",
+            "published_at": "2026-02-05T09:07:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 February 5, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-february-5-2026/",
+            "published_at": "2026-02-05T08:57:56+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile\u2019s Central Bank Holds Rates Steady but Reveals It Nearly Cut",
             "url": "https://www.riotimesonline.com/chiles-central-bank-holds-rates-steady-but-reveals-it-nearly-cut/",
@@ -685,20 +699,6 @@
             "title": "Consciousness Comes First, Matter Second\u2014Says the Physicist Who Launched the Digital Age",
             "url": "https://www.riotimesonline.com/consciousness-comes-first-matter-secondsays-the-physicist-who-launched-the-digital-age/",
             "published_at": "2026-02-02T10:03:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for February 2, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-2-2026/",
-            "published_at": "2026-02-02T09:56:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Music Legends Caetano Veloso and Maria Beth\u00e2nia Claim Grammy Glory With Live Album",
-            "url": "https://www.riotimesonline.com/brazilian-music-legends-caetano-veloso-and-maria-bethania-claim-grammy-glory-with-live-album/",
-            "published_at": "2026-02-02T09:40:07+00:00",
             "category": [],
             "language": "en"
         }
