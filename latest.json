@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-06T18:10:04+00:00",
+    "updated_at": "2026-02-06T19:10:04+00:00",
     "items": [
+        {
+            "title": "The Thermometer War: Why Argentina\u2019s Inflation Numbers Just Became a Political Battleground",
+            "url": "https://www.riotimesonline.com/the-thermometer-war-why-argentinas-inflation-numbers-just-became-a-political-battleground/",
+            "published_at": "2026-02-06T19:04:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "After the Bombs, the Talking Begins: Iran and the U.S. Return to the Table With Everything on the Line",
+            "url": "https://www.riotimesonline.com/after-the-bombs-the-talking-begins-iran-and-the-u-s-return-to-the-table-with-everything-on-the-line/",
+            "published_at": "2026-02-06T18:28:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump Pushed Brazil Away. Now It\u2019s Opening the Door to China",
+            "url": "https://www.riotimesonline.com/trump-pushed-brazil-away-now-its-opening-the-door-to-china/",
+            "published_at": "2026-02-06T18:21:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Porto Seguro Surges 25%, Multiplan Hits Record Margins, BrasilAgro Stumbles: B3 Week 1 Beyond the Banks",
             "url": "https://www.riotimesonline.com/porto-seguro-surges-25-multiplan-hits-record-margins-brasilagro-stumbles-b3-week-1-beyond-the-banks/",
@@ -678,27 +699,6 @@
             "title": "How Latin America\u2019s Safest Country Lost Its Innocence\u2014And What It\u2019s Doing About It",
             "url": "https://www.riotimesonline.com/how-latin-americas-safest-country-lost-its-innocence-and-what-its-doing-about-it/",
             "published_at": "2026-02-03T19:23:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why the World\u2019s Superpowers Are Fighting a Secret War Inside Brazil\u2019s Networks",
-            "url": "https://www.riotimesonline.com/why-the-worlds-superpowers-are-fighting-a-secret-war-inside-brazils-networks/",
-            "published_at": "2026-02-03T19:07:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Just Made a $323 Billion Bet on Becoming the World\u2019s Factory Floor",
-            "url": "https://www.riotimesonline.com/mexico-just-made-a-323-billion-bet-on-becoming-the-worlds-factory-floor/",
-            "published_at": "2026-02-03T19:00:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Brazil\u2019s Factories Are Struggling While Everyone Has a Job",
-            "url": "https://www.riotimesonline.com/why-brazils-factories-are-struggling-while-everyone-has-a-job/",
-            "published_at": "2026-02-03T18:27:02+00:00",
             "category": [],
             "language": "en"
         }
