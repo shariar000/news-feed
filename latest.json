@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-06T19:10:04+00:00",
+    "updated_at": "2026-02-06T20:10:05+00:00",
     "items": [
+        {
+            "title": "The Minerals Beneath Ecuador\u2019s Rainforests Just Became a Frontline in the U.S.-China Resource War",
+            "url": "https://www.riotimesonline.com/the-minerals-beneath-ecuadors-rainforests-just-became-a-frontline-in-the-u-s-china-resource-war/",
+            "published_at": "2026-02-06T19:13:51+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The Thermometer War: Why Argentina\u2019s Inflation Numbers Just Became a Political Battleground",
             "url": "https://www.riotimesonline.com/the-thermometer-war-why-argentinas-inflation-numbers-just-became-a-political-battleground/",
@@ -692,13 +699,6 @@
             "title": "Ibovespa Poised for Consolidation After Record-Breaking Rally; US Tech Rout Clouds Morning Outlook",
             "url": "https://www.riotimesonline.com/ibovespa-poised-for-consolidation-after-record-breaking-rally-us-tech/",
             "published_at": "2026-02-04T09:06:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Latin America\u2019s Safest Country Lost Its Innocence\u2014And What It\u2019s Doing About It",
-            "url": "https://www.riotimesonline.com/how-latin-americas-safest-country-lost-its-innocence-and-what-its-doing-about-it/",
-            "published_at": "2026-02-03T19:23:10+00:00",
             "category": [],
             "language": "en"
         }
