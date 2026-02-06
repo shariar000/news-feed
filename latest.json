@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-06T12:10:04+00:00",
+    "updated_at": "2026-02-06T13:10:03+00:00",
     "items": [
+        {
+            "title": "Buenos Aires Real Estate Roars Back \u2014 Now the Question Is How Far It Spreads",
+            "url": "https://www.riotimesonline.com/buenos-aires-real-estate-roars-back-now-the-question-is-how-far/",
+            "published_at": "2026-02-06T12:20:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Returns to Namibia, and the Timing Tells the Whole Story",
+            "url": "https://www.riotimesonline.com/petrobras-returns-to-namibia-and-the-timing-tells-the-whole-story/",
+            "published_at": "2026-02-06T12:13:51+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Colombia\u2019s Left Made History in 2022 \u2014 Now It Might Destroy Itself Before 2026",
             "url": "https://www.riotimesonline.com/colombias-left-made-history-in-2022-now-it-might-destroy-itself/",
@@ -685,20 +699,6 @@
             "title": "Venezuela\u2019s Oil Exports Surge 60% as U.S. Takes Control of Industry After Maduro Capture",
             "url": "https://www.riotimesonline.com/venezuelas-oil-exports-surge-60-as-u-s-takes-control-of-industry/",
             "published_at": "2026-02-03T14:09:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America\u2019s Fourth-Largest Economy Is Caught in a Policy Tug-of-War",
-            "url": "https://www.riotimesonline.com/latin-americas-fourth-largest-economy-is-caught-in-a-policy-tug-of-war/",
-            "published_at": "2026-02-03T14:06:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Drug Cartels That Took Over Ecuador\u2019s Gold Mines\u2014And Why the Government Just Shut Them Down",
-            "url": "https://www.riotimesonline.com/the-drug-cartels-that-took-over-ecuadors-gold-mines-and-why-the-government-just-shut-them-down/",
-            "published_at": "2026-02-03T13:57:07+00:00",
             "category": [],
             "language": "en"
         }
