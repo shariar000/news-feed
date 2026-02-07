@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-07T09:10:05+00:00",
+    "updated_at": "2026-02-07T10:10:05+00:00",
     "items": [
+        {
+            "title": "Global Economy Brief for February 6, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-brief-for-february-6-2026/",
+            "published_at": "2026-02-07T09:11:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ibovespa Holds Near Record as Earnings Season Splits Brazilian Banks",
             "url": "https://www.riotimesonline.com/ibovespa-holds-near-record-as-earnings-season-splits-brazilian-banks/",
@@ -692,13 +699,6 @@
             "title": "Global Economy Briefing: February 4, 2026 Morning",
             "url": "https://www.riotimesonline.com/global-economy-briefing-february-4-2026-morning/",
             "published_at": "2026-02-04T09:34:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Real Hits 9-Month High as Copom Signals Rate Cuts Ahead \u2013 February 4, 2026",
-            "url": "https://www.riotimesonline.com/brazilian-real-hits-9-month-high-as-copom-signals-rate-cuts-ahead/",
-            "published_at": "2026-02-04T09:16:02+00:00",
             "category": [],
             "language": "en"
         }
