@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-07T12:10:05+00:00",
+    "updated_at": "2026-02-07T13:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 February 7, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-february-7-2026/",
+            "published_at": "2026-02-07T12:34:43+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "CPF Registration Guide: Everything Foreigners Need to Know in 2026",
             "url": "https://www.riotimesonline.com/cpf-registration-guide-everything-foreigners-need-to-know-in-2026/",
@@ -692,13 +699,6 @@
             "title": "Colombia Markets Retreat as BanRep Rate Hike Shakes Peso and COLCAP",
             "url": "https://www.riotimesonline.com/colombia-markets-retreat-as-banrep-rate-hike-shakes-peso-and-colcap/",
             "published_at": "2026-02-04T10:07:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for February 4, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-4-2026/",
-            "published_at": "2026-02-04T10:03:03+00:00",
             "category": [],
             "language": "en"
         }
