@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-06T23:10:04+00:00",
+    "updated_at": "2026-02-07T00:10:04+00:00",
     "items": [
+        {
+            "title": "Ibovespa Holds Near Record as Earnings Season Splits Brazilian Banks",
+            "url": "https://www.riotimesonline.com/ibovespa-holds-near-record-as-earnings-season-splits-brazilian-banks/",
+            "published_at": "2026-02-06T23:50:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Real Hits Strongest Since May 2024 as Yield Advantage and Risk Appetite Align",
+            "url": "https://www.riotimesonline.com/brazilian-real-hits-strongest-since-may-2024/",
+            "published_at": "2026-02-06T23:50:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The Minerals Beneath Ecuador\u2019s Rainforests Just Became a Frontline in the U.S.-China Resource War",
             "url": "https://www.riotimesonline.com/the-minerals-beneath-ecuadors-rainforests-just-became-a-frontline-in-the-u-s-china-resource-war/",
@@ -685,20 +699,6 @@
             "title": "Brazilian Real Hits 9-Month High as Copom Signals Rate Cuts Ahead \u2013 February 4, 2026",
             "url": "https://www.riotimesonline.com/brazilian-real-hits-9-month-high-as-copom-signals-rate-cuts-ahead/",
             "published_at": "2026-02-04T09:16:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Plunges to 16-Month Low as Fed Fears and ETF Exodus Rattle Crypto Markets",
-            "url": "https://www.riotimesonline.com/bitcoin-plunges-to-16-month-low-as-fed-fears-and-etf-exodus-rattle/",
-            "published_at": "2026-02-04T09:15:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Poised for Consolidation After Record-Breaking Rally; US Tech Rout Clouds Morning Outlook",
-            "url": "https://www.riotimesonline.com/ibovespa-poised-for-consolidation-after-record-breaking-rally-us-tech/",
-            "published_at": "2026-02-04T09:06:07+00:00",
             "category": [],
             "language": "en"
         }
