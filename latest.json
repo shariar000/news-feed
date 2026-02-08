@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-08T12:10:04+00:00",
+    "updated_at": "2026-02-08T13:10:05+00:00",
     "items": [
+        {
+            "title": "Rio Nightlife Guide for Sunday, February 8, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-sunday-february-8-2026/",
+            "published_at": "2026-02-08T13:01:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Wants to Take Social Media Away From Its Children. Big Tech Is Furious.",
             "url": "https://www.riotimesonline.com/europe-wants-to-take-social-media-away-from-its-children-big-tech-is-furious/",
@@ -692,13 +699,6 @@
             "title": "How Trump\u2019s \u201cProject Vault\u201d Turned Brazil\u2019s Rare Earths Into A Global Bargaining Chip",
             "url": "https://www.riotimesonline.com/how-trumps-project-vault-turned-brazils-rare-earths-into-a-global-bargaining-chip/",
             "published_at": "2026-02-04T12:18:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tether Steps Back From a $20 Billion Raise, Exposing the New Power of \u201cDigital Dollars\u201d",
-            "url": "https://www.riotimesonline.com/tether-steps-back-from-a-20-billion-raise-exposing-the-new-power-of-digital-dollars/",
-            "published_at": "2026-02-04T12:09:04+00:00",
             "category": [],
             "language": "en"
         }
