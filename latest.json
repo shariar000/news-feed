@@ -1,10 +1,17 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-08T21:10:05+00:00",
+    "updated_at": "2026-02-08T22:05:21+00:00",
     "items": [
         {
+            "title": "Ecuador and Colombia Tried Diplomacy \u2014 It Failed, and Now the Trade War Is Getting Worse",
+            "url": "https://www.riotimesonline.com/brazil-news/uncategorized/ecuador-and-colombia-tried-diplomacy-it-failed-and-now-the-trade-war-is-getting-worse/",
+            "published_at": "2026-02-08T22:03:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Chile\u2019s Inflation Drops Below 3% for First Time in Five Years as Political Transition Looms",
-            "url": "https://www.riotimesonline.com/brazil-news/uncategorized/chiles-inflation-drops-below-3-for-first-time-in-five-years-as-political-transition-looms/",
+            "url": "https://www.riotimesonline.com/chiles-inflation-drops-below-3-for-first-time-in-five-years-as-political-transition-looms/",
             "published_at": "2026-02-08T21:01:38+00:00",
             "category": [],
             "language": "en"
@@ -692,13 +699,6 @@
             "title": "From Bankruptcy to Billions: How LATAM\u2019s Comeback Is Reshaping South American Aviation",
             "url": "https://www.riotimesonline.com/from-bankruptcy-to-billions-how-latams-comeback-is-reshaping-south-american-aviation/",
             "published_at": "2026-02-04T17:29:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Diaspora Now Earns More Dollars Than Its Oil Fields",
-            "url": "https://www.riotimesonline.com/colombias-diaspora-now-earns-more-dollars-than-its-oil-fields/",
-            "published_at": "2026-02-04T13:18:36+00:00",
             "category": [],
             "language": "en"
         }
