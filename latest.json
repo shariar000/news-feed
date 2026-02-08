@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-08T20:10:05+00:00",
+    "updated_at": "2026-02-08T21:10:05+00:00",
     "items": [
+        {
+            "title": "Chile\u2019s Inflation Drops Below 3% for First Time in Five Years as Political Transition Looms",
+            "url": "https://www.riotimesonline.com/brazil-news/uncategorized/chiles-inflation-drops-below-3-for-first-time-in-five-years-as-political-transition-looms/",
+            "published_at": "2026-02-08T21:01:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Bets Against Washington: Why Lula Rejected Trump\u2019s Critical Minerals Alliance",
+            "url": "https://www.riotimesonline.com/brazil-bets-against-washington-why-lula-rejected-trumps-critical-minerals-alliance/",
+            "published_at": "2026-02-08T20:22:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Weekly Outlook February 8\u201314, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-weekly-outlook-february-814-2026/",
@@ -685,20 +699,6 @@
             "title": "Colombia\u2019s Diaspora Now Earns More Dollars Than Its Oil Fields",
             "url": "https://www.riotimesonline.com/colombias-diaspora-now-earns-more-dollars-than-its-oil-fields/",
             "published_at": "2026-02-04T13:18:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Upgraded to 1.3% Growth Yet Still Underperforms Its Promise",
-            "url": "https://www.riotimesonline.com/mexico-upgraded-to-1-3-growth-yet-still-underperforms-its-promise/",
-            "published_at": "2026-02-04T13:15:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia\u2019s High-Stakes Gamble: New Investment Laws Aim to Rescue an Economy in Freefall",
-            "url": "https://www.riotimesonline.com/bolivias-high-stakes-gamble-new-investment-laws-aim-to-rescue/",
-            "published_at": "2026-02-04T13:04:44+00:00",
             "category": [],
             "language": "en"
         }
