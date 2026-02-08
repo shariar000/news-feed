@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-08T08:10:05+00:00",
+    "updated_at": "2026-02-08T09:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Sunday, February 8, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-february-8-2026/",
+            "published_at": "2026-02-08T08:57:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Sunday, February 8, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-sunday-february-8-2026/",
+            "published_at": "2026-02-08T08:54:18+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio Nightlife Guide for Saturday, February 7, 2026",
             "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-saturday-february-7-2026/",
@@ -685,20 +699,6 @@
             "title": "Chile Markets Consolidate Near Record Highs as Peso Strength and Copper Support Investor Confidence",
             "url": "https://www.riotimesonline.com/chile-markets-consolidate-near-record-highs-as-peso-strength/",
             "published_at": "2026-02-04T10:47:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Santander Brasil Opens 4Q25 Earnings Season With Profit Up, But A Messier Mix Underneath",
-            "url": "https://www.riotimesonline.com/santander-brasil-opens-4q25-earnings-season-with-profit-up-but-a-messier/",
-            "published_at": "2026-02-04T10:45:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Merval Falls 2.2% as Country Risk Breaks 500 Points Amid IMF Payment and Global Selloff",
-            "url": "https://www.riotimesonline.com/argentina-merval-falls-2-2-as-country-risk-breaks-500-points-amid/",
-            "published_at": "2026-02-04T10:23:59+00:00",
             "category": [],
             "language": "en"
         }
