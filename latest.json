@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-09T12:10:05+00:00",
+    "updated_at": "2026-02-09T13:10:04+00:00",
     "items": [
+        {
+            "title": "The Same River, the Same Company, Seven Years Later: Why Vale\u2019s Latest Mining Spill Matters Far Beyond Brazil",
+            "url": "https://www.riotimesonline.com/the-same-river-the-same-company-seven-years-later-why-vales-latest-mining-spill-matters-far-beyond-brazil/",
+            "published_at": "2026-02-09T13:09:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Carnival 2026: The Complete Guide",
+            "url": "https://www.riotimesonline.com/rio-carnival-2026-the-complete-guide/",
+            "published_at": "2026-02-09T12:59:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Banco Pine 4Q25: The Consignado Rocket That Sent Returns Past 50%",
+            "url": "https://www.riotimesonline.com/brazils-banco-pine-4q25-the-consignado-rocket-that-sent-returns-past-50/",
+            "published_at": "2026-02-09T12:55:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "BTG Pactual 4Q25: Profit Rises 40% to R$ 4.6 Billion as All Business Lines Set Records",
+            "url": "https://www.riotimesonline.com/btg-pactual-4q25-profit-rises-40-to-r-4-6-billion-as-all-business-lines-set-records/",
+            "published_at": "2026-02-09T12:42:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Battle for S\u00e3o Paulo: Why Lula\u2019s Left Cannot Afford to Lose Brazil\u2019s Richest State",
+            "url": "https://www.riotimesonline.com/the-battle-for-sao-paulo-why-lulas-left-cannot-afford-to-lose-brazils-richest-state-and-why-it-probably-will/",
+            "published_at": "2026-02-09T12:28:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Namibia Blocks TotalEnergies-Petrobras Oil Deal and Tells the World: Our Rules or Nothing",
             "url": "https://www.riotimesonline.com/namibia-blocks-totalenergies-petrobras-oil-deal-and-tells-the-world-our-rules-or-nothing/",
@@ -664,41 +699,6 @@
             "title": "Merval Slides for Sixth Straight Session as INDEC Crisis and Global Selloff Weigh on Argentina",
             "url": "https://www.riotimesonline.com/merval-slides-for-sixth-straight-session-as-indec-crisis-and-global/",
             "published_at": "2026-02-05T10:10:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Retreats From Record 70,111 as Banxico Rate Decision Looms",
-            "url": "https://www.riotimesonline.com/mexico-ipc-retreats-from-record-70111-as-banxico-rate-decision-looms/",
-            "published_at": "2026-02-05T10:08:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Drops 3.8% in Worst Week of 2026 as Petro-Trump Thaw Fails to Lift Sentiment",
-            "url": "https://www.riotimesonline.com/colcap-drops-3-8-in-worst-week-of-2026-as-petro-trump-thaw/",
-            "published_at": "2026-02-05T10:02:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Real Consolidates Near 9-Month Highs as Markets Weigh Rate Cut Timing",
-            "url": "https://www.riotimesonline.com/brazilian-real-consolidates-near-9-month-highs-as-markets-weigh/",
-            "published_at": "2026-02-05T09:51:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Crypto Market Crashes Below $2.5 Trillion as Bitcoin Slides to $70,700 on Liquidation Wave",
-            "url": "https://www.riotimesonline.com/crypto-market-crashes-below-2-5-trillion-as-bitcoin-slides-to-70700/",
-            "published_at": "2026-02-05T09:44:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Eyes Recovery After Worst Session Since December as Ita\u00fa\u2019s Record Earnings Lift Sentiment",
-            "url": "https://www.riotimesonline.com/ibovespa-eyes-recovery-after-worst-session-since-december/",
-            "published_at": "2026-02-05T09:30:43+00:00",
             "category": [],
             "language": "en"
         }
