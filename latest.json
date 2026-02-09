@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-09T13:10:04+00:00",
+    "updated_at": "2026-02-09T14:10:05+00:00",
     "items": [
+        {
+            "title": "Argentina Is About to Rewrite the Rules of Work for 20 Million People \u2014 And Nobody Agrees on What Comes Next",
+            "url": "https://www.riotimesonline.com/argentina-is-about-to-rewrite-the-rules-of-work-for-20-million-people-and-nobody-agrees-on-what-comes-next/",
+            "published_at": "2026-02-09T13:56:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cuba Runs Out of Aviation Fuel and Warns Airlines It Cannot Refuel a Single Plane for a Month",
+            "url": "https://www.riotimesonline.com/cuba-runs-out-of-aviation-fuel-and-warns-airlines-it-cannot-refuel-a-single-plane-for-a-month/",
+            "published_at": "2026-02-09T13:41:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Inflation Outlook Keeps Cooling as Markets Signal Confidence in March Rate Cut",
+            "url": "https://www.riotimesonline.com/brazils-inflation-outlook-keeps-cooling-as-markets-signal-confidence-in-march-rate-cut/",
+            "published_at": "2026-02-09T13:30:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Japan Was the World\u2019s Free ATM for 30 Years \u2014 That Machine Is Running Out of Cash",
+            "url": "https://www.riotimesonline.com/japan-was-the-worlds-free-atm-for-30-years-that-machine-is-running-out-of-cash/",
+            "published_at": "2026-02-09T13:26:35+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The Same River, the Same Company, Seven Years Later: Why Vale\u2019s Latest Mining Spill Matters Far Beyond Brazil",
             "url": "https://www.riotimesonline.com/the-same-river-the-same-company-seven-years-later-why-vales-latest-mining-spill-matters-far-beyond-brazil/",
@@ -671,34 +699,6 @@
             "title": "Colombia\u2019s Peace President Goes to War \u2014 And Everything He Built Is Coming Apart",
             "url": "https://www.riotimesonline.com/colombias-peace-president-goes-to-war-and-everything-he-built-is-coming-apart/",
             "published_at": "2026-02-05T11:52:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Alex Saab\u2019s Arrest Signals the Unraveling of Maduro\u2019s Financial Empire",
-            "url": "https://www.riotimesonline.com/alex-saabs-arrest-signals-the-unraveling-of-maduros-financial-empire/",
-            "published_at": "2026-02-05T11:24:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Three LatAm Countries Now Driving Half the World\u2019s New Oil Supply, Led by Brazil",
-            "url": "https://www.riotimesonline.com/the-three-latam-countries-now-driving-half-the-worlds-new-oil/",
-            "published_at": "2026-02-05T10:29:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile IPSA Reverses Sharply From Record High as Global Metals Rout Hits Santiago",
-            "url": "https://www.riotimesonline.com/chile-ipsa-reverses-sharply-from-record-high-as-global-metals-rout/",
-            "published_at": "2026-02-05T10:19:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Slides for Sixth Straight Session as INDEC Crisis and Global Selloff Weigh on Argentina",
-            "url": "https://www.riotimesonline.com/merval-slides-for-sixth-straight-session-as-indec-crisis-and-global/",
-            "published_at": "2026-02-05T10:10:36+00:00",
             "category": [],
             "language": "en"
         }
