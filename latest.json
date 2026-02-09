@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-08T23:10:04+00:00",
+    "updated_at": "2026-02-09T00:10:05+00:00",
     "items": [
+        {
+            "title": "How a Forgotten Socialist Came Back to Stop Portugal\u2019s Populist Right \u2014 And Why the Victory May Be Temporary",
+            "url": "https://www.riotimesonline.com/how-a-forgotten-socialist-came-back-to-stop-portugals-populist-right-and-why-the-victory-may-be-temporary/",
+            "published_at": "2026-02-08T23:32:56+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Venezuela Frees Opposition Leader Juan Pablo Guanipa as Sunday Prisoner Wave Reaches at Least 30",
             "url": "https://www.riotimesonline.com/venezuela-frees-opposition-leader-juan-pablo-guanipa-as-sunday-prisoner-wave-reaches-at-least-30/",
@@ -692,13 +699,6 @@
             "title": "Rio de Janeiro Daily Pulse, February 4, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-pulse-february-4-2026/",
             "published_at": "2026-02-04T18:05:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 February 4, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-february-4-2026/",
-            "published_at": "2026-02-04T17:45:39+00:00",
             "category": [],
             "language": "en"
         }
