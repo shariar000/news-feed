@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-10T14:10:05+00:00",
+    "updated_at": "2026-02-10T15:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s $4.5 Billion Bond Sale Draws Nearly Three Times the Demand",
+            "url": "https://www.riotimesonline.com/brazils-4-5-billion-bond-sale-draws-nearly-three-times-the-demand/",
+            "published_at": "2026-02-10T15:09:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Demands Answers After Investigation Links U.S. Military Ammunition to Cartel Massacres",
+            "url": "https://www.riotimesonline.com/mexico-demands-answers-after-investigation-links-u-s-military-ammunition-to-cartel-massacres/",
+            "published_at": "2026-02-10T15:03:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Arrests the Mayor of Its Second-Largest City in a Pre-Dawn Raid",
+            "url": "https://www.riotimesonline.com/ecuador-arrests-the-mayor-of-its-second-largest-city-in-a-pre-dawn-raid/",
+            "published_at": "2026-02-10T14:40:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Flatlines at Its Worst-Ever Corruption Ranking as Mega-Scandals Engulf All Three Branches of Government",
+            "url": "https://www.riotimesonline.com/brazil-flatlines-at-its-worst-ever-corruption-ranking-as-mega-scandals-engulf-all-three-branches-of-government/",
+            "published_at": "2026-02-10T14:24:14+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Biofuel Champion Crashes to Junk as Shell and Cosan Watch From the Sidelines",
             "url": "https://www.riotimesonline.com/brazils-biofuel-champion-crashes-to-junk-as-shell-and-cosan-watch-from-the-sidelines/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s Congress Voted Itself Tax-Free $13,000 Salaries. The Average Worker Earns $620",
             "url": "https://www.riotimesonline.com/brazils-congress-voted-itself-tax-free-13000-salaries-the-average/",
             "published_at": "2026-02-06T10:08:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean IPSA Slides 1.5% as SQM Rout Deepens on Tianqi Stake Sale",
-            "url": "https://www.riotimesonline.com/chilean-ipsa-slides-1-5-as-sqm-rout-deepens-on-tianqi-stake-sale/",
-            "published_at": "2026-02-06T10:01:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Plunges 9.6% in Seven Sessions as INDEC Crisis, IMF Scrutiny and Global Tech Rout Converge",
-            "url": "https://www.riotimesonline.com/argentinas-merval-plunges-9-6-in-seven-sessions-as-indec-crisis/",
-            "published_at": "2026-02-06T09:55:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IPC Hits Record Highs as Banxico Pauses Rate Cuts Amid Peso Pullback",
-            "url": "https://www.riotimesonline.com/ipc-hits-record-highs-as-banxico-pauses-rate-cuts-amid-peso-pullback/",
-            "published_at": "2026-02-06T09:47:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Drops 2.5% as Colombia Selloff Deepens With Weekly Loss Exceeding 6%",
-            "url": "https://www.riotimesonline.com/colcap-drops-2-5-as-colombia-selloff-deepens-with-weekly-loss/",
-            "published_at": "2026-02-06T09:42:26+00:00",
             "category": [],
             "language": "en"
         }
