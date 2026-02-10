@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-10T10:10:07+00:00",
+    "updated_at": "2026-02-10T11:10:04+00:00",
     "items": [
+        {
+            "title": "S\u00e3o Paulo\u2019s Carnival Grew Into a Megacity Spectacle \u2014 Now It Cannot Control the Crowds It Created",
+            "url": "https://www.riotimesonline.com/sao-paulos-carnival-grew-into-a-megacity-spectacle-now-it-cannot-control-the-crowds-it-created/",
+            "published_at": "2026-02-10T11:09:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Congress Wants to Investigate Its Biggest Banking Scandal \u2014 But the People in Charge Keep Stalling",
+            "url": "https://www.riotimesonline.com/brazils-congress-wants-to-investigate-its-biggest-banking-scandal-but-the-people-in-charge-keep-stalling/",
+            "published_at": "2026-02-10T10:23:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Merval Falls Below 3M as Country Risk Drops to 504",
             "url": "https://www.riotimesonline.com/merval-falls-below-3m-as-country-risk-drops-to-504/",
@@ -685,20 +699,6 @@
             "title": "Bookies and Sportsbooks Set to Generate Millions in Bets During the World Cup",
             "url": "https://www.riotimesonline.com/bookies-and-sportsbooks-set-to-generate-millions-in-bets-during-the-world-cup/",
             "published_at": "2026-02-06T03:49:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Trade Surplus Doubles in January as Economic Slowdown Slashes Imports",
-            "url": "https://www.riotimesonline.com/brazils-trade-surplus-doubles-in-january-as-economic-slowdown-slashes-imports/",
-            "published_at": "2026-02-05T21:12:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Is Spending More on Weapons Than All Its Neighbors Combined \u2014 and Washington Wants In",
-            "url": "https://www.riotimesonline.com/brazil-is-spending-more-on-weapons-than-all-its-neighbors-combined-and-washington-wants-in/",
-            "published_at": "2026-02-05T19:05:24+00:00",
             "category": [],
             "language": "en"
         }
