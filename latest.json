@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-10T11:10:04+00:00",
+    "updated_at": "2026-02-10T12:10:04+00:00",
     "items": [
+        {
+            "title": "Latin America Sports Daily for Tuesday, February 10, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-tuesday-february-10-2026/",
+            "published_at": "2026-02-10T12:01:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Market Report: IPSA Hits Record High, Peso Surges",
+            "url": "https://www.riotimesonline.com/chile-market-report-ipsa-hits-record-high-peso-surges/",
+            "published_at": "2026-02-10T11:35:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Stocks Hit All-Time High as IPC Surges 4.75%; Peso Strengthens to 17.24",
+            "url": "https://www.riotimesonline.com/mexico-stocks-hit-all-time-high-as-ipc-surges-4-75-peso-strengthens-to-17-24/",
+            "published_at": "2026-02-10T11:30:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "S\u00e3o Paulo\u2019s Carnival Grew Into a Megacity Spectacle \u2014 Now It Cannot Control the Crowds It Created",
             "url": "https://www.riotimesonline.com/sao-paulos-carnival-grew-into-a-megacity-spectacle-now-it-cannot-control-the-crowds-it-created/",
@@ -678,27 +699,6 @@
             "title": "Bitcoin Crashes Below $65,000 in Worst Weekly Selloff Since FTX Collapse",
             "url": "https://www.riotimesonline.com/bitcoin-crashes-below-65000-in-worst-weekly-selloff-since-ftx-collapse/",
             "published_at": "2026-02-06T08:55:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Rises 0.23% as Ita\u00fa\u2019s Strong Q4 Earnings Lift Brazilian Stocks",
-            "url": "https://www.riotimesonline.com/ibovespa-rises-0-23-as-itaus-strong-q4-earnings-lift-brazilian-stocks/",
-            "published_at": "2026-02-06T08:55:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "After A Long Cleanup, Bradesco\u2019s Profit Rebound Tests Its \u201cStep-By-Step\u201d Promise",
-            "url": "https://www.riotimesonline.com/after-a-long-cleanup-bradescos-profit-rebound-tests-its-step-by-step-promise/",
-            "published_at": "2026-02-06T08:30:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bookies and Sportsbooks Set to Generate Millions in Bets During the World Cup",
-            "url": "https://www.riotimesonline.com/bookies-and-sportsbooks-set-to-generate-millions-in-bets-during-the-world-cup/",
-            "published_at": "2026-02-06T03:49:56+00:00",
             "category": [],
             "language": "en"
         }
