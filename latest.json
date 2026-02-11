@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-11T09:10:04+00:00",
+    "updated_at": "2026-02-11T10:10:04+00:00",
     "items": [
+        {
+            "title": "Gold Holds $5,055, Silver Surges 3.8% Ahead of NFP",
+            "url": "https://www.riotimesonline.com/gold-holds-5055-silver-surges-3-8-ahead-of-nfp/",
+            "published_at": "2026-02-11T09:42:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USD/BRL Holds Below 5.20 as Flat US Retail Sales Boost Fed Cut Bets and Carry Flows",
+            "url": "https://www.riotimesonline.com/usd-brl-holds-below-5-20-as-flat-us-retail-sales-boost-fed-cut-bets/",
+            "published_at": "2026-02-11T09:20:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Eases From Record as Eneva Crashes and IPCA Lands",
+            "url": "https://www.riotimesonline.com/ibovespa-eases-from-record-as-eneva-crashes-and-ipca-lands/",
+            "published_at": "2026-02-11T09:12:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Drops Below $67,000 as Crypto Fear Hits Extreme",
+            "url": "https://www.riotimesonline.com/bitcoin-drops-below-67000-as-crypto-fear-hits-extreme/",
+            "published_at": "2026-02-11T09:11:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for February 11, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-february-11-2026/",
@@ -10,8 +38,8 @@
             "language": "en"
         },
         {
-            "title": "Global Economy Brief for February 10, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-brief-for-february-10-2026/",
+            "title": "Global Economy Brief \u2014 Wednesday Morning Edition",
+            "url": "https://www.riotimesonline.com/global-economy-brief-wednesday-morning-edition/",
             "published_at": "2026-02-11T08:58:53+00:00",
             "category": [],
             "language": "en"
@@ -164,7 +192,7 @@
             "language": "en"
         },
         {
-            "title": "Ro de Janeiro Daily Brief for Tuesday, February 10, 2026",
+            "title": "Rio de Janeiro Daily Brief for Tuesday, February 10, 2026",
             "url": "https://www.riotimesonline.com/ro-de-janeiro-daily-brief-for-tuesday-february-10-2026/",
             "published_at": "2026-02-10T12:20:45+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "Trump Pushed Brazil Away. Now It\u2019s Opening the Door to China",
             "url": "https://www.riotimesonline.com/trump-pushed-brazil-away-now-its-opening-the-door-to-china/",
             "published_at": "2026-02-06T18:21:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Porto Seguro Surges 25%, Multiplan Hits Record Margins, BrasilAgro Stumbles: B3 Week 1 Beyond the Banks",
-            "url": "https://www.riotimesonline.com/porto-seguro-surges-25-multiplan-hits-record-margins-brasilagro-stumbles-b3-week-1-beyond-the-banks/",
-            "published_at": "2026-02-06T17:49:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Movida\u2019s R$ 3.5 Billion Blitz: How the Rental Giant Killed Its Debt Problem",
-            "url": "https://www.riotimesonline.com/movidas-r-3-5-billion-blitz-how-the-rental-giant-killed-its-debt-problem/",
-            "published_at": "2026-02-06T17:42:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BR Partners 4Q25: The Profit Machine That Kept Running on a Broken Cycle",
-            "url": "https://www.riotimesonline.com/br-partners-4q25-the-profit-machine-that-kept-running-on-a-broken-cycle/",
-            "published_at": "2026-02-06T17:36:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nobody Can Agree What Copper Is Worth \u2014 And That Just Saved Vale\u2019s Throne",
-            "url": "https://www.riotimesonline.com/nobody-can-agree-what-copper-is-worth-and-that-just-saved-vales-throne/",
-            "published_at": "2026-02-06T17:23:27+00:00",
             "category": [],
             "language": "en"
         }
