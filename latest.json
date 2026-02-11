@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-11T10:10:04+00:00",
+    "updated_at": "2026-02-11T11:10:04+00:00",
     "items": [
+        {
+            "title": "Six Days On, One Day Off: Brazil\u2019s Exhausting Work Schedule Becomes Its Hottest Election-Year Prize",
+            "url": "https://www.riotimesonline.com/six-days-on-one-day-off-brazils-exhausting-work-schedule-becomes-its-hottest-election-year-prize/",
+            "published_at": "2026-02-11T11:06:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Market Report: IPSA Drops 2% as Latam, Entel Drag Santiago",
+            "url": "https://www.riotimesonline.com/chile-market-report-ipsa-drops-2-as-latam-entel-drag-santiago/",
+            "published_at": "2026-02-11T10:55:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval Rallies 2.8% as Peso Hits October Low at 1,406",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-rallies-2-8-as-peso-hits-october-low-at-1406/",
+            "published_at": "2026-02-11T10:46:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Stocks Slip From Record High as Peso Holds Near 17.19",
+            "url": "https://www.riotimesonline.com/mexico-stocks-slip-from-record-high-as-peso-holds-near-17-19/",
+            "published_at": "2026-02-11T10:43:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Market Report: Peso Breaks Below 3,660 as Dollar Collapses; COLCAP Gains 0.92%",
+            "url": "https://www.riotimesonline.com/colombia-market-report-peso-breaks-below-3660-as-dollar-collapses-colcap-gains-0-92/",
+            "published_at": "2026-02-11T10:37:14+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Gold Holds $5,055, Silver Surges 3.8% Ahead of NFP",
             "url": "https://www.riotimesonline.com/gold-holds-5055-silver-surges-3-8-ahead-of-nfp/",
@@ -664,41 +699,6 @@
             "title": "Ibovespa Holds Near Record as Earnings Season Splits Brazilian Banks",
             "url": "https://www.riotimesonline.com/ibovespa-holds-near-record-as-earnings-season-splits-brazilian-banks/",
             "published_at": "2026-02-06T23:50:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Real Hits Strongest Since May 2024 as Yield Advantage and Risk Appetite Align",
-            "url": "https://www.riotimesonline.com/brazilian-real-hits-strongest-since-may-2024/",
-            "published_at": "2026-02-06T23:50:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Minerals Beneath Ecuador\u2019s Rainforests Just Became a Frontline in the U.S.-China Resource War",
-            "url": "https://www.riotimesonline.com/the-minerals-beneath-ecuadors-rainforests-just-became-a-frontline-in-the-u-s-china-resource-war/",
-            "published_at": "2026-02-06T19:13:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Thermometer War: Why Argentina\u2019s Inflation Numbers Just Became a Political Battleground",
-            "url": "https://www.riotimesonline.com/the-thermometer-war-why-argentinas-inflation-numbers-just-became-a-political-battleground/",
-            "published_at": "2026-02-06T19:04:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "After the Bombs, the Talking Begins: Iran and the U.S. Return to the Table With Everything on the Line",
-            "url": "https://www.riotimesonline.com/after-the-bombs-the-talking-begins-iran-and-the-u-s-return-to-the-table-with-everything-on-the-line/",
-            "published_at": "2026-02-06T18:28:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump Pushed Brazil Away. Now It\u2019s Opening the Door to China",
-            "url": "https://www.riotimesonline.com/trump-pushed-brazil-away-now-its-opening-the-door-to-china/",
-            "published_at": "2026-02-06T18:21:03+00:00",
             "category": [],
             "language": "en"
         }
