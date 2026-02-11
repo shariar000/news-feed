@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-11T19:10:06+00:00",
+    "updated_at": "2026-02-11T20:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Big Three Banks Shut 938 Branches in One Year",
+            "url": "https://www.riotimesonline.com/brazils-big-three-banks-shut-938-branches-in-one-year/",
+            "published_at": "2026-02-11T19:39:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Launches Latin America\u2019s Own AI Model for $550,000",
+            "url": "https://www.riotimesonline.com/chile-launches-latin-americas-own-ai-model-for-550000/",
+            "published_at": "2026-02-11T19:34:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Russia Evacuates Tourists as Cuba Runs Out of Jet Fuel",
+            "url": "https://www.riotimesonline.com/russia-evacuates-tourists-as-cuba-runs-out-of-jet-fuel/",
+            "published_at": "2026-02-11T19:29:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief for Wednesday, February 11, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-wednesday-february-11-2026/",
+            "published_at": "2026-02-11T19:16:55+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Set for Final Rate Cut as Inflation Falls Below Target",
             "url": "https://www.riotimesonline.com/chile-set-for-final-rate-cut-as-inflation-falls-below-target/",
@@ -671,34 +699,6 @@
             "title": "IPC Smashes All-Time High at 70,809 as Banxico Pauses Cuts and Peso Holds Near Two-Year Highs",
             "url": "https://www.riotimesonline.com/mexicos-ipc-smashes-through-all-time-high-at-70809-as-banxico-pauses-rate-cuts-and-peso-holds-near-two-year-highs/",
             "published_at": "2026-02-09T09:19:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Rebounds 2.1% but Posts Worst Week of 2026 as Rate Shock and Trump-Petro Thaw Collide",
-            "url": "https://www.riotimesonline.com/colcap-rebounds-2-1-but-posts-worst-week-of-2026-as-rate-shock-and-trump-petro-thaw-collide/",
-            "published_at": "2026-02-09T09:14:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Silver Recovers to $81 After Historic 27% Crash as CME Margin Hikes and Speculative Unwind Reshape the Market",
-            "url": "https://www.riotimesonline.com/silver-recovers-to-81-after-historic-27-crash-as-cme-margin-hikes-and-speculative-unwind-reshape-the-market/",
-            "published_at": "2026-02-09T09:09:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Closes Week Above $5,000 for the First Time as Central Banks and Geopolitics Fuel Historic Rally",
-            "url": "https://www.riotimesonline.com/gold-closes-week-above-5000-for-the-first-time-as-central-banks-and-geopolitics-fuel-historic-rally/",
-            "published_at": "2026-02-09T09:04:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Stabilizes Above $70,000 After Plunging to 16-Month Low as \u2018Crypto Winter\u2019 Fears Intensify",
-            "url": "https://www.riotimesonline.com/bitcoin-stabilizes-above-70000-after-plunging-to-16-month-low-as-crypto-winter-fears-intensify/",
-            "published_at": "2026-02-09T08:55:28+00:00",
             "category": [],
             "language": "en"
         }
