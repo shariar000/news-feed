@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-12T08:10:04+00:00",
+    "updated_at": "2026-02-12T09:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 February 12, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-february-12-2026/",
+            "published_at": "2026-02-12T09:05:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse \u2014 Thursday, February 12, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-thursday-february-12-2026/",
+            "published_at": "2026-02-12T08:58:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Big Three Banks Shut 938 Branches in One Year",
             "url": "https://www.riotimesonline.com/brazils-big-three-banks-shut-938-branches-in-one-year/",
@@ -685,20 +699,6 @@
             "title": "Merval Drops 7% in Worst Week as INDEC Crisis and Risk Spike Overshadow US-Argentina Deal",
             "url": "https://www.riotimesonline.com/merval-drops-7-on-worst-week-in-months-as-indec-crisis-and-country-risk-spike-overshadow-historic-us-argentina-trade-deal/",
             "published_at": "2026-02-09T09:34:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for February 9, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-9-2026/",
-            "published_at": "2026-02-09T09:25:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IPC Smashes All-Time High at 70,809 as Banxico Pauses Cuts and Peso Holds Near Two-Year Highs",
-            "url": "https://www.riotimesonline.com/mexicos-ipc-smashes-through-all-time-high-at-70809-as-banxico-pauses-rate-cuts-and-peso-holds-near-two-year-highs/",
-            "published_at": "2026-02-09T09:19:55+00:00",
             "category": [],
             "language": "en"
         }
