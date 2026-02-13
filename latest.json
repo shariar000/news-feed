@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-13T19:10:05+00:00",
+    "updated_at": "2026-02-13T20:10:05+00:00",
     "items": [
+        {
+            "title": "Mexico\u2019s Extortion Crisis Deepens Despite Tough New Law",
+            "url": "https://www.riotimesonline.com/mexicos-extortion-crisis-deepens-despite-tough-new-law/",
+            "published_at": "2026-02-13T19:24:26+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "LATAM Expands Argentina Network With New Routes, Ski Flights",
             "url": "https://www.riotimesonline.com/latam-expands-argentina-network-with-new-routes-ski-flights/",
@@ -692,13 +699,6 @@
             "title": "Suzano 4Q25 Earnings: Pulp Giant Reverses R$ 6.7B Loss, Announces 40M-Share Buyback",
             "url": "https://www.riotimesonline.com/suzano-4q25-earnings-pulp-giant-reverses-r-6-7b-loss-announces/",
             "published_at": "2026-02-11T12:09:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Wednesday, February 11, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-wednesday-february-11-2026/",
-            "published_at": "2026-02-11T12:08:38+00:00",
             "category": [],
             "language": "en"
         }
