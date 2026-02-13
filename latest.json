@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-13T12:10:04+00:00",
+    "updated_at": "2026-02-13T12:20:05+00:00",
     "items": [
+        {
+            "title": "BYD and Geely Bid for Nissan\u2019s Mexico Plant, Testing Washington\u2019s Red Lines on Chinese Manufacturing",
+            "url": "https://www.riotimesonline.com/byd-and-geely-bid-for-nissans-mexico-plant-testing-washingtons-red/",
+            "published_at": "2026-02-13T12:14:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Has the World\u2019s Second-Largest Rare Earth Reserves but No Strategy for What to Do With Them",
             "url": "https://www.riotimesonline.com/brazil-has-the-worlds-second-largest-rare-earth-reserves-but-no-strategy-for-what-to-do-with-them/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s Financial Morning Call for February 11, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-11-2026/",
             "published_at": "2026-02-11T08:56:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Do Flash Loans Work in DeFi?",
-            "url": "https://www.riotimesonline.com/how-do-flash-loans-work-in-defi/",
-            "published_at": "2026-02-11T03:31:30+00:00",
             "category": [],
             "language": "en"
         }
