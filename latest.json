@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-14T08:10:04+00:00",
+    "updated_at": "2026-02-14T09:10:05+00:00",
     "items": [
+        {
+            "title": "Bitcoin Rallies 4.6% on Soft CPI but Stays in Bear Range",
+            "url": "https://www.riotimesonline.com/bitcoin-rallies-46-on-soft-cpi-but-stays-in-bear-range/",
+            "published_at": "2026-02-14T09:06:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Slides to 186K as Vale\u2019s $3.8B Loss Hits B3",
+            "url": "https://www.riotimesonline.com/ibovespa-slides-to-186k-as-vales-38b-loss-hits-b3/",
+            "published_at": "2026-02-14T08:55:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Saturday, February 14, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-february-14-2026/",
+            "published_at": "2026-02-14T08:27:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USD/BRL Holds 5.22 as Soft CPI Cements Fed Cut Path",
+            "url": "https://www.riotimesonline.com/usdbrl-holds-522-as-soft-cpi-cements-fed-cut-path/",
+            "published_at": "2026-02-14T08:22:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mexico\u2019s Extortion Crisis Deepens Despite Tough New Law",
             "url": "https://www.riotimesonline.com/mexicos-extortion-crisis-deepens-despite-tough-new-law/",
@@ -671,34 +699,6 @@
             "title": "TIM 4Q25 Earnings: Record Margin of 53% and a R$950M Bet on Fiber Verticalization",
             "url": "https://www.riotimesonline.com/tim-4q25-earnings-record-margin-of-53-and-a-r950m-bet-on-fiber-verticalization/",
             "published_at": "2026-02-11T12:46:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Coffee Exports Plunge 31% in January",
-            "url": "https://www.riotimesonline.com/brazil-coffee-exports-plunge-31-in-january/",
-            "published_at": "2026-02-11T12:38:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco BV 4Q25 Earnings: Record Auto Origination Can\u2019t Outrun a 33% Surge in Credit Costs",
-            "url": "https://www.riotimesonline.com/banco-bv-4q25-earnings-record-auto-origination-cant-outrun-a-33-surge-in-credit-costs/",
-            "published_at": "2026-02-11T12:27:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Closes 2025 With Record Output",
-            "url": "https://www.riotimesonline.com/petrobras-closes-2025-with-record-output/",
-            "published_at": "2026-02-11T12:15:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Suzano 4Q25 Earnings: Pulp Giant Reverses R$ 6.7B Loss, Announces 40M-Share Buyback",
-            "url": "https://www.riotimesonline.com/suzano-4q25-earnings-pulp-giant-reverses-r-6-7b-loss-announces/",
-            "published_at": "2026-02-11T12:09:15+00:00",
             "category": [],
             "language": "en"
         }
