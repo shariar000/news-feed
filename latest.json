@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-15T08:10:04+00:00",
+    "updated_at": "2026-02-15T09:10:04+00:00",
     "items": [
+        {
+            "title": "PIX, Boletos and How Payments Actually Work in Brazil: A Guide for Expats",
+            "url": "https://www.riotimesonline.com/pix-boletos-and-how-payments-actually-work-in-brazil-a-guide-for-expats/",
+            "published_at": "2026-02-15T08:54:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Sunday, February 15, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-sunday-february-15-2026/",
+            "published_at": "2026-02-15T08:42:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Sunday, February 15, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-february-15-2026/",
+            "published_at": "2026-02-15T08:19:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Sunday, February 15, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-sunday-february-15-2026/",
@@ -678,27 +699,6 @@
             "title": "Cartel Drones Ground El Paso in First Shutdown Since 9/11",
             "url": "https://www.riotimesonline.com/cartel-drones-ground-el-paso-in-first-shutdown-since-9-11/",
             "published_at": "2026-02-11T18:45:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Wednesday, February 11, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-wednesday-february-11-2026/",
-            "published_at": "2026-02-11T18:23:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Plans Emergency Tax on 15,000 Firms for Floods",
-            "url": "https://www.riotimesonline.com/colombia-plans-emergency-tax-on-15000-firms-for-floods/",
-            "published_at": "2026-02-11T18:06:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Confidence Dips but Expectations Hit 8-Year High",
-            "url": "https://www.riotimesonline.com/colombia-confidence-dips-but-expectations-hit-8-year-high/",
-            "published_at": "2026-02-11T17:44:55+00:00",
             "category": [],
             "language": "en"
         }
