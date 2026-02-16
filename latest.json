@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-16T13:10:04+00:00",
+    "updated_at": "2026-02-16T14:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico Now Supplies 44% of U.S. Auto Parts. That\u2019s a Record",
+            "url": "https://www.riotimesonline.com/mexico-now-supplies-44-of-u-s-auto-parts-thats-a-record/",
+            "published_at": "2026-02-16T13:15:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Economy Grew 3.4%. Its President May Not Last",
+            "url": "https://www.riotimesonline.com/perus-economy-grew-3-4-its-president-may-not-last/",
+            "published_at": "2026-02-16T13:14:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Quiet Inflation Record Has No Match in Latin America",
+            "url": "https://www.riotimesonline.com/perus-quiet-inflation-record-has-no-match-in-latin-america/",
+            "published_at": "2026-02-16T13:11:28+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Colombia\u2019s Wage War Hits the Table Today",
             "url": "https://www.riotimesonline.com/colombias-wage-war-hits-the-table-today/",
@@ -678,27 +699,6 @@
             "title": "Argentina\u2019s Senate Approves Milei\u2019s Labor Overhaul as Molotov Cocktails Fly Outside Congress",
             "url": "https://www.riotimesonline.com/argentinas-senate-approves-mileis-labor-overhaul-as-molotov-cocktails/",
             "published_at": "2026-02-12T12:58:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ambev 4Q25: Profit Falls 10% as Volumes Drop 3.6%",
-            "url": "https://www.riotimesonline.com/ambev-4q25-profit-falls-10-as-volumes-drop-3-6/",
-            "published_at": "2026-02-12T12:54:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Thursday, February 12, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-thursday-february-12-2026/",
-            "published_at": "2026-02-12T12:28:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Log CP 4Q25: Profit Drops 21% on Selic Surge, R$ 1.05B Asset Sale Unveiled",
-            "url": "https://www.riotimesonline.com/log-cp-4q25-profit-drops-21-on-selic-surge-r-1-05b-asset-sale-unveiled/",
-            "published_at": "2026-02-12T12:11:22+00:00",
             "category": [],
             "language": "en"
         }
