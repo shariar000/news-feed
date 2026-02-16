@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-16T08:05:09+00:00",
+    "updated_at": "2026-02-16T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Monday, February 16, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-monday-february-16-2026/",
+            "published_at": "2026-02-16T08:58:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, February 16, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-february-16-2026/",
+            "published_at": "2026-02-16T08:52:50+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of February 16\u201320, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-february-1620-2026/",
@@ -685,20 +699,6 @@
             "title": "Chile Launches Latin America\u2019s Own AI Model for $550,000",
             "url": "https://www.riotimesonline.com/chile-launches-latin-americas-own-ai-model-for-550000/",
             "published_at": "2026-02-11T19:34:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Russia Evacuates Tourists as Cuba Runs Out of Jet Fuel",
-            "url": "https://www.riotimesonline.com/russia-evacuates-tourists-as-cuba-runs-out-of-jet-fuel/",
-            "published_at": "2026-02-11T19:29:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for Wednesday, February 11, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-wednesday-february-11-2026/",
-            "published_at": "2026-02-11T19:16:55+00:00",
             "category": [],
             "language": "en"
         }
