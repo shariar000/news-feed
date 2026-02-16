@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-16T11:10:13+00:00",
+    "updated_at": "2026-02-16T12:10:05+00:00",
     "items": [
+        {
+            "title": "Deadly Boat Sinking Exposes Amazon\u2019s River Safety Crisis",
+            "url": "https://www.riotimesonline.com/deadly-boat-sinking-exposes-amazons-river-safety-crisis/",
+            "published_at": "2026-02-16T12:05:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Monday, February 16, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-monday-february-16-2026/",
+            "published_at": "2026-02-16T11:57:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Monday, February 16, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-monday-february-16-2026/",
+            "published_at": "2026-02-16T11:45:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Monday, February 16, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-monday-february-16-2026/",
+            "published_at": "2026-02-16T11:20:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Korea\u2019s Shipyards Cash In as U.S. Squeezes China",
+            "url": "https://www.riotimesonline.com/south-koreas-shipyards-cash-in-as-u-s-squeezes-china/",
+            "published_at": "2026-02-16T11:12:49+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Politics Steals the Show on Rio Carnival\u2019s Opening Night",
             "url": "https://www.riotimesonline.com/politics-steals-the-show-on-rio-carnivals-opening-night/",
@@ -664,41 +699,6 @@
             "title": "Riachuelo 4Q25: Best Year Ever as the Turnaround Delivers on Every Line",
             "url": "https://www.riotimesonline.com/riachuelo-4q25-best-year-ever-as-the-turnaround-delivers-on-every-line/",
             "published_at": "2026-02-12T11:13:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco do Brasil 4Q25: The Agro Storm Abates, but the Scars Run Deep",
-            "url": "https://www.riotimesonline.com/banco-do-brasil-4q25-the-agro-storm-abates-but-the-scars-run-deep/",
-            "published_at": "2026-02-12T11:02:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s 2026 Race Tightens as Fl\u00e1vio Bolsonaro Closes the Gap on Lula",
-            "url": "https://www.riotimesonline.com/brazils-2026-race-tightens-as-flavio-bolsonaro-closes-the-gap-on-lula/",
-            "published_at": "2026-02-12T10:44:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Stocks Rebound 1.89%: Copper at $6.08 Lifts IPSA, Peso",
-            "url": "https://www.riotimesonline.com/chile-stocks-rebound-1-89-copper-at-6-08-lifts-ipsa-peso/",
-            "published_at": "2026-02-12T10:39:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Drops 1.4% as Telecom Sinks 9%; Labor Reform Passes",
-            "url": "https://www.riotimesonline.com/merval-drops-1-4-as-telecom-sinks-9-labor-reform-passes/",
-            "published_at": "2026-02-12T10:28:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC at All-Time High; USMCA Withdrawal Risk Emerges",
-            "url": "https://www.riotimesonline.com/mexico-ipc-at-all-time-high-usmca-withdrawal-risk-emerges/",
-            "published_at": "2026-02-12T10:21:17+00:00",
             "category": [],
             "language": "en"
         }
