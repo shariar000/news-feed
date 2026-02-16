@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-16T09:10:04+00:00",
+    "updated_at": "2026-02-16T10:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico Stocks Near All-Time High as Peso Hits 17.15 on CPI",
+            "url": "https://www.riotimesonline.com/mexico-stocks-near-all-time-high-as-peso-hits-17-15-on-cpi/",
+            "published_at": "2026-02-16T10:05:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Stocks Rally on Friday as Court Suspends Record Wage Decree",
+            "url": "https://www.riotimesonline.com/colombia-stocks-rally-on-friday-as-court-suspends-record-wage-decree/",
+            "published_at": "2026-02-16T09:36:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Fades Below $5,000 as CPI Bounce Stalls Before FOMC",
+            "url": "https://www.riotimesonline.com/gold-fades-below-5000-as-cpi-bounce-stalls-before-fomc/",
+            "published_at": "2026-02-16T09:20:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Falls to $68,500 as Weekend Erases CPI Rally",
+            "url": "https://www.riotimesonline.com/bitcoin-falls-to-68500-as-weekend-erases-cpi-rally/",
+            "published_at": "2026-02-16T09:16:41+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Morning Call for Monday, February 16, 2026",
             "url": "https://www.riotimesonline.com/brazils-morning-call-for-monday-february-16-2026/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s Morning Call for Thursday, February 12, 2026",
             "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-february-12-2026/",
             "published_at": "2026-02-12T09:11:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 February 12, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-february-12-2026/",
-            "published_at": "2026-02-12T09:05:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse \u2014 Thursday, February 12, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-thursday-february-12-2026/",
-            "published_at": "2026-02-12T08:58:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Big Three Banks Shut 938 Branches in One Year",
-            "url": "https://www.riotimesonline.com/brazils-big-three-banks-shut-938-branches-in-one-year/",
-            "published_at": "2026-02-11T19:39:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Launches Latin America\u2019s Own AI Model for $550,000",
-            "url": "https://www.riotimesonline.com/chile-launches-latin-americas-own-ai-model-for-550000/",
-            "published_at": "2026-02-11T19:34:52+00:00",
             "category": [],
             "language": "en"
         }
