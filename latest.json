@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-17T12:10:04+00:00",
+    "updated_at": "2026-02-17T13:10:03+00:00",
     "items": [
+        {
+            "title": "Who Runs S\u00e3o Paulo? The Fight Behind the Ticket",
+            "url": "https://www.riotimesonline.com/who-runs-sao-paulo-the-fight-behind-the-ticket/",
+            "published_at": "2026-02-17T13:09:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia\u2019s New President Halves Country Risk in Months",
+            "url": "https://www.riotimesonline.com/bolivias-new-president-halves-country-risk-in-months/",
+            "published_at": "2026-02-17T12:56:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Flights Return to Venezuela as Skies Reopen",
+            "url": "https://www.riotimesonline.com/flights-return-to-venezuela-as-skies-reopen/",
+            "published_at": "2026-02-17T12:47:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Revolving Door: President No. 8?",
+            "url": "https://www.riotimesonline.com/perus-revolving-door-president-no-8/",
+            "published_at": "2026-02-17T12:17:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Venezuela\u2019s Oil Flows Again \u2014 but Washington Holds the Tap",
             "url": "https://www.riotimesonline.com/venezuelas-oil-flows-again-but-washington-holds-the-tap/",
@@ -671,34 +699,6 @@
             "title": "Brazil Shuts Its Stock Exchange for Carnival \u2014 While the Party Pumps Billions Into the Economy",
             "url": "https://www.riotimesonline.com/brazil-shuts-its-stock-exchange-for-carnival-while-the-party-pumps/",
             "published_at": "2026-02-13T10:11:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Supreme Court in Crisis as Justice Pulled From Billion-Dollar Bank Fraud Case",
-            "url": "https://www.riotimesonline.com/brazils-supreme-court-in-crisis-as-justice-pulled-from-billion-dollar/",
-            "published_at": "2026-02-13T10:11:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ra\u00edzen\u2019s R$ 15.6B Loss Lays Bare a Debt Crisis With No Easy Exit",
-            "url": "https://www.riotimesonline.com/raizens-r-156b-loss-lays-bare-a-debt-crisis-with-no-easy-exit/",
-            "published_at": "2026-02-13T10:08:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "XP Posts Record Year as Wholesale Surge and Retail Diversification Power 15% Earnings Growth",
-            "url": "https://www.riotimesonline.com/xp-posts-record-year-as-wholesale-surge-and-retail-diversification-power-15-earnings-growth/",
-            "published_at": "2026-02-13T09:57:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Drops 1% as Cemex Drags; Peso Slips to 17.23",
-            "url": "https://www.riotimesonline.com/mexico-ipc-drops-1-as-cemex-drags-peso-slips-to-17-23/",
-            "published_at": "2026-02-13T09:55:28+00:00",
             "category": [],
             "language": "en"
         }
