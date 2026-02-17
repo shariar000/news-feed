@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-17T09:10:04+00:00",
+    "updated_at": "2026-02-17T10:10:05+00:00",
     "items": [
+        {
+            "title": "Lula Heads to India and South Korea With AI, Rare Earths and a Point to Prove",
+            "url": "https://www.riotimesonline.com/lula-heads-to-india-and-south-korea-with-ai-rare-earths-and-a-point-to-prove/",
+            "published_at": "2026-02-17T10:02:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Economy Looks Great on Paper \u2014 the Fine Print Tells a Different Story",
+            "url": "https://www.riotimesonline.com/brazils-economy-looks-great-on-paper-the-fine-print-tells-a-different-story/",
+            "published_at": "2026-02-17T09:51:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Tuesday, February 17, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-tuesday-february-17-2026/",
+            "published_at": "2026-02-17T09:44:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Tuesday, February 17, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-february-17-2026/",
+            "published_at": "2026-02-17T09:41:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Drops to $4,918 as Silver Crashes Before FOMC",
+            "url": "https://www.riotimesonline.com/gold-drops-to-4918-as-silver-crashes-before-fomc/",
+            "published_at": "2026-02-17T09:26:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Holds $68,400 as Fear & Greed Drops to 10",
+            "url": "https://www.riotimesonline.com/bitcoin-holds-68400-as-fear-greed-drops-to-10/",
+            "published_at": "2026-02-17T09:21:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing for Tuesday Morning",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-february-17-2026/",
+            "published_at": "2026-02-17T09:17:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for February 17, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-17-2026/",
+            "published_at": "2026-02-17T09:11:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Tuesday, February 17, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-february-17-2026/",
@@ -643,62 +699,6 @@
             "title": "Bitcoin Slides to $66K as Bear Cycle Deepens",
             "url": "https://www.riotimesonline.com/bitcoin-slides-to-66k-as-bear-cycle-deepens/",
             "published_at": "2026-02-13T09:14:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale Posts US$ 3.8B Loss as Nickel Writedown Overshadows Record Operations",
-            "url": "https://www.riotimesonline.com/vale-posts-us-38b-loss-as-nickel-writedown-overshadows-record-operations/",
-            "published_at": "2026-02-13T09:14:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 February 13, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-february-13-2026/",
-            "published_at": "2026-02-13T09:02:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Friday, February 13, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-friday-february-13-2026/",
-            "published_at": "2026-02-13T08:59:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Friday, February 13, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-february-13-2026/",
-            "published_at": "2026-02-13T08:51:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Hits a Million Tourists in Two Months as Argentina\u2019s Middle Class Returns to the Beach",
-            "url": "https://www.riotimesonline.com/uruguay-hits-a-million-tourists-in-two-months-as-argentinas-middle-class-returns-to-the-beach/",
-            "published_at": "2026-02-12T18:26:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for Thursday, February 12, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-thursday-february-12-2026/",
-            "published_at": "2026-02-12T18:24:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Joins Latin America\u2019s Aid Push for Cuba as U.S. Oil Blockade Pushes the Island to the Brink",
-            "url": "https://www.riotimesonline.com/chile-joins-latin-americas-aid-push-for-cuba-as-u-s-oil-blockade/",
-            "published_at": "2026-02-12T18:17:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Thursday, February 12, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-thursday-february-12-2026/",
-            "published_at": "2026-02-12T18:08:31+00:00",
             "category": [],
             "language": "en"
         }
