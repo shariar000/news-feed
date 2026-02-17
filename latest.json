@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-17T11:10:04+00:00",
+    "updated_at": "2026-02-17T12:10:04+00:00",
     "items": [
+        {
+            "title": "Venezuela\u2019s Oil Flows Again \u2014 but Washington Holds the Tap",
+            "url": "https://www.riotimesonline.com/venezuelas-oil-flows-again-but-washington-holds-the-tap/",
+            "published_at": "2026-02-17T12:09:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Case Gripping America: Who Took Nancy Guthrie?",
+            "url": "https://www.riotimesonline.com/the-case-gripping-america-who-took-nancy-guthrie/",
+            "published_at": "2026-02-17T11:49:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Tuesday, February 17, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-tuesday-february-17-2026/",
+            "published_at": "2026-02-17T11:41:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How a Desert Farm in Brazil Became Europe\u2019s Melon King",
+            "url": "https://www.riotimesonline.com/how-a-desert-farm-in-brazil-became-europes-melon-king/",
+            "published_at": "2026-02-17T11:22:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Is 42nd in Digital Maturity \u2014 and Makes No Chips",
+            "url": "https://www.riotimesonline.com/brazil-is-42nd-in-digital-maturity-and-makes-no-chips/",
+            "published_at": "2026-02-17T11:18:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Why Argentina Is About to Shut Down Over Sick Pay",
             "url": "https://www.riotimesonline.com/why-argentina-is-about-to-shut-down-over-sick-pay/",
@@ -664,41 +699,6 @@
             "title": "Mexico IPC Drops 1% as Cemex Drags; Peso Slips to 17.23",
             "url": "https://www.riotimesonline.com/mexico-ipc-drops-1-as-cemex-drags-peso-slips-to-17-23/",
             "published_at": "2026-02-13T09:55:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Crashes 5.5% Below USD 2,000 as AI Rout Hits Buenos Aires",
-            "url": "https://www.riotimesonline.com/merval-crashes-5-5-below-usd-2000-as-ai-rout-hits-buenos-aires/",
-            "published_at": "2026-02-13T09:55:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s IPSA Falls 2.17% Below 11,000 as Copper Sinks",
-            "url": "https://www.riotimesonline.com/chiles-ipsa-falls-2-17-below-11000-as-copper-sinks/",
-            "published_at": "2026-02-13T09:44:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Slides 9% From High as BanRep Hikes to 10.25%",
-            "url": "https://www.riotimesonline.com/colcap-slides-9-from-high-as-banrep-hikes-to-10-25/",
-            "published_at": "2026-02-13T09:35:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USD/BRL Holds Near 5.19 as CPI Day Looms",
-            "url": "https://www.riotimesonline.com/usd-brl-holds-near-5-19-as-cpi-day-looms/",
-            "published_at": "2026-02-13T09:24:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Pulls Back From Record as AI Fears Crush Wall Street",
-            "url": "https://www.riotimesonline.com/ibovespa-pulls-back-from-record-as-ai-fears-crush-wall-street/",
-            "published_at": "2026-02-13T09:20:57+00:00",
             "category": [],
             "language": "en"
         }
