@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-17T08:10:04+00:00",
+    "updated_at": "2026-02-17T09:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Tuesday, February 17, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-february-17-2026/",
+            "published_at": "2026-02-17T09:04:19+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Monday, February 16, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-monday-february-16-2026/",
@@ -692,13 +699,6 @@
             "title": "Europe Intelligence Brief for Thursday, February 12, 2026",
             "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-thursday-february-12-2026/",
             "published_at": "2026-02-12T18:08:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Harvard Ranks the Dominican Republic as Latin America\u2019s Only Top-20 Growth Economy Through 2034",
-            "url": "https://www.riotimesonline.com/harvard-ranks-the-dominican-republic-as-latin-americas-only-top-20-growth-economy-through-2034/",
-            "published_at": "2026-02-12T18:02:57+00:00",
             "category": [],
             "language": "en"
         }
