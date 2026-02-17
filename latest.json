@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-17T10:10:05+00:00",
+    "updated_at": "2026-02-17T11:10:04+00:00",
     "items": [
+        {
+            "title": "Why Argentina Is About to Shut Down Over Sick Pay",
+            "url": "https://www.riotimesonline.com/why-argentina-is-about-to-shut-down-over-sick-pay/",
+            "published_at": "2026-02-17T10:13:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Lula Heads to India and South Korea With AI, Rare Earths and a Point to Prove",
             "url": "https://www.riotimesonline.com/lula-heads-to-india-and-south-korea-with-ai-rare-earths-and-a-point-to-prove/",
@@ -692,13 +699,6 @@
             "title": "Ibovespa Pulls Back From Record as AI Fears Crush Wall Street",
             "url": "https://www.riotimesonline.com/ibovespa-pulls-back-from-record-as-ai-fears-crush-wall-street/",
             "published_at": "2026-02-13T09:20:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Slides to $66K as Bear Cycle Deepens",
-            "url": "https://www.riotimesonline.com/bitcoin-slides-to-66k-as-bear-cycle-deepens/",
-            "published_at": "2026-02-13T09:14:43+00:00",
             "category": [],
             "language": "en"
         }
