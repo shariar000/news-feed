@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-17T13:10:03+00:00",
+    "updated_at": "2026-02-17T14:10:04+00:00",
     "items": [
+        {
+            "title": "BHP-Lundin Bet $18 Billion on Argentine Copper",
+            "url": "https://www.riotimesonline.com/bhp-lundin-bet-18-billion-on-argentine-copper/",
+            "published_at": "2026-02-17T13:31:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Locks In Zero Tariffs on Half Its U.S. Exports",
+            "url": "https://www.riotimesonline.com/ecuador-locks-in-zero-tariffs-on-half-its-u-s-exports/",
+            "published_at": "2026-02-17T13:21:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Who Runs S\u00e3o Paulo? The Fight Behind the Ticket",
             "url": "https://www.riotimesonline.com/who-runs-sao-paulo-the-fight-behind-the-ticket/",
@@ -685,20 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Friday, February 13, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-february-13-2026/",
             "published_at": "2026-02-13T11:11:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Nuclear Operator Warns of Collapse by March as Angra 3 Limbo Burns $1 Billion a Year",
-            "url": "https://www.riotimesonline.com/brazils-nuclear-operator-warns-of-collapse-by-march-as-angra-3/",
-            "published_at": "2026-02-13T10:17:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Shuts Its Stock Exchange for Carnival \u2014 While the Party Pumps Billions Into the Economy",
-            "url": "https://www.riotimesonline.com/brazil-shuts-its-stock-exchange-for-carnival-while-the-party-pumps/",
-            "published_at": "2026-02-13T10:11:51+00:00",
             "category": [],
             "language": "en"
         }
