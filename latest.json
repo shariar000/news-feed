@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-18T10:10:04+00:00",
+    "updated_at": "2026-02-18T11:10:04+00:00",
     "items": [
+        {
+            "title": "Tennis Prodigy Jo\u00e3o Fonseca Wins Rio Open Debut in Front of Adoring Hometown Crowd",
+            "url": "https://www.riotimesonline.com/tennis-prodigy-joao-fonseca-wins-rio-open-debut-in-front-of-adoring-hometown-crowd/",
+            "published_at": "2026-02-18T10:16:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lula Wants Trump\u2019s Permission to Send Petrobras Back to Venezuela",
+            "url": "https://www.riotimesonline.com/lula-wants-trumps-permission-to-send-petrobras-back-to-venezuela/",
+            "published_at": "2026-02-18T10:11:55+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Supreme Court Crisis: The Judge Investigating His Own Family\u2019s Scandal",
             "url": "https://www.riotimesonline.com/brazils-supreme-court-crisis-the-judge-investigating-his-own-family/",
@@ -55,6 +69,13 @@
             "title": "Peru Ousts Another President \u2014 Its Seventh in a Decade",
             "url": "https://www.riotimesonline.com/peru-ousts-another-president-its-seventh-in-a-decade/",
             "published_at": "2026-02-18T08:50:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Growing Betting Market and What It Means for Sport",
+            "url": "https://www.riotimesonline.com/brazils-growing-betting-market-and-what-it-means-for-sport/",
+            "published_at": "2026-02-18T03:46:33+00:00",
             "category": [],
             "language": "en"
         },
@@ -678,27 +699,6 @@
             "title": "USD/BRL Holds 5.22 as Soft CPI Cements Fed Cut Path",
             "url": "https://www.riotimesonline.com/usdbrl-holds-522-as-soft-cpi-cements-fed-cut-path/",
             "published_at": "2026-02-14T08:22:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Extortion Crisis Deepens Despite Tough New Law",
-            "url": "https://www.riotimesonline.com/mexicos-extortion-crisis-deepens-despite-tough-new-law/",
-            "published_at": "2026-02-13T19:24:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LATAM Expands Argentina Network With New Routes, Ski Flights",
-            "url": "https://www.riotimesonline.com/latam-expands-argentina-network-with-new-routes-ski-flights/",
-            "published_at": "2026-02-13T19:07:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How QR Codes and AI Are Reshaping Brazil\u2019s Bars for Carnival",
-            "url": "https://www.riotimesonline.com/how-qr-codes-and-ai-are-reshaping-brazils-bars-for-carnival/",
-            "published_at": "2026-02-13T19:07:04+00:00",
             "category": [],
             "language": "en"
         }
