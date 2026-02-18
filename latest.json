@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-18T21:10:04+00:00",
+    "updated_at": "2026-02-18T22:10:05+00:00",
     "items": [
         {
             "title": "Argentina Posts Surplus Again as IMF Reviews the Books",
@@ -258,6 +258,13 @@
             "title": "Brazil\u2019s Growing Betting Market and What It Means for Sport",
             "url": "https://www.riotimesonline.com/brazils-growing-betting-market-and-what-it-means-for-sport/",
             "published_at": "2026-02-18T03:46:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Shift Toward Crypto-Based Payments In Brazil\u2019s Digital Economy",
+            "url": "https://www.riotimesonline.com/the-shift-toward-crypto-based-payments-in-brazils-digital-economy/",
+            "published_at": "2026-02-18T03:05:15+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "Drones Shut Down Brazil\u2019s Busiest Airport During Carnival",
             "url": "https://www.riotimesonline.com/drones-shut-down-brazils-busiest-airport-during-carnival/",
             "published_at": "2026-02-16T10:48:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "43% of Brazilians Distrust Electronic Voting, Poll Shows",
-            "url": "https://www.riotimesonline.com/43-of-brazilians-distrust-electronic-voting-poll-shows/",
-            "published_at": "2026-02-16T10:34:39+00:00",
             "category": [],
             "language": "en"
         }
