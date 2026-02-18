@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-18T22:10:05+00:00",
+    "updated_at": "2026-02-18T23:10:04+00:00",
     "items": [
         {
             "title": "Argentina Posts Surplus Again as IMF Reviews the Books",
@@ -258,6 +258,13 @@
             "title": "Brazil\u2019s Growing Betting Market and What It Means for Sport",
             "url": "https://www.riotimesonline.com/brazils-growing-betting-market-and-what-it-means-for-sport/",
             "published_at": "2026-02-18T03:46:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "European Football at the Break: How Brazilian Players Are Influencing the 2025/26 Season",
+            "url": "https://www.riotimesonline.com/european-football-at-the-break-how-brazilian-players-are-influencing-the-202526-season/",
+            "published_at": "2026-02-18T03:12:17+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "How Brazil\u2019s Fiscal Chaos Is Breeding the Next Populist Wave",
             "url": "https://www.riotimesonline.com/how-brazils-fiscal-chaos-is-breeding-the-next-populist-wave/",
             "published_at": "2026-02-16T10:54:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Drones Shut Down Brazil\u2019s Busiest Airport During Carnival",
-            "url": "https://www.riotimesonline.com/drones-shut-down-brazils-busiest-airport-during-carnival/",
-            "published_at": "2026-02-16T10:48:08+00:00",
             "category": [],
             "language": "en"
         }
