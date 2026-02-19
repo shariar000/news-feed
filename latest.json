@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-19T19:10:03+00:00",
+    "updated_at": "2026-02-19T20:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Thursday, February 19, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-thursday-february-19-2026/",
+            "published_at": "2026-02-19T19:16:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Intelligence Brief for Thursday, February 19, 2026",
             "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-thursday-february-19-2026/",
@@ -692,13 +699,6 @@
             "title": "Flights Return to Venezuela as Skies Reopen",
             "url": "https://www.riotimesonline.com/flights-return-to-venezuela-as-skies-reopen/",
             "published_at": "2026-02-17T12:47:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Revolving Door: President No. 8?",
-            "url": "https://www.riotimesonline.com/perus-revolving-door-president-no-8/",
-            "published_at": "2026-02-17T12:17:34+00:00",
             "category": [],
             "language": "en"
         }
