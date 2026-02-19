@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-19T08:10:03+00:00",
+    "updated_at": "2026-02-19T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Thursday, February 19, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-february-19-2026/",
+            "published_at": "2026-02-19T09:07:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Gets Its Eighth President in a Decade. He\u2019s 83",
+            "url": "https://www.riotimesonline.com/peru-gets-its-eighth-president-in-a-decade-hes-83/",
+            "published_at": "2026-02-19T09:02:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Thursday, February 19, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-february-19-2026/",
+            "published_at": "2026-02-19T08:52:50+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina Posts Surplus Again as IMF Reviews the Books",
             "url": "https://www.riotimesonline.com/argentina-posts-surplus-again-as-imf-reviews-the-books/",
@@ -678,27 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Monday, February 16, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-monday-february-16-2026/",
             "published_at": "2026-02-16T11:20:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Korea\u2019s Shipyards Cash In as U.S. Squeezes China",
-            "url": "https://www.riotimesonline.com/south-koreas-shipyards-cash-in-as-u-s-squeezes-china/",
-            "published_at": "2026-02-16T11:12:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Politics Steals the Show on Rio Carnival\u2019s Opening Night",
-            "url": "https://www.riotimesonline.com/politics-steals-the-show-on-rio-carnivals-opening-night/",
-            "published_at": "2026-02-16T10:59:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Brazil\u2019s Fiscal Chaos Is Breeding the Next Populist Wave",
-            "url": "https://www.riotimesonline.com/how-brazils-fiscal-chaos-is-breeding-the-next-populist-wave/",
-            "published_at": "2026-02-16T10:54:13+00:00",
             "category": [],
             "language": "en"
         }
