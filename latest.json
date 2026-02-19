@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-19T13:10:04+00:00",
+    "updated_at": "2026-02-19T14:10:03+00:00",
     "items": [
+        {
+            "title": "Maduro\u2019s New York Hearing Pushed Back to March 26",
+            "url": "https://www.riotimesonline.com/maduros-new-york-hearing-pushed-back-to-march-26/",
+            "published_at": "2026-02-19T13:34:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay\u2019s Grid Has No Backup. Wednesday Proved It",
+            "url": "https://www.riotimesonline.com/paraguays-grid-has-no-backup-wednesday-proved-it/",
+            "published_at": "2026-02-19T13:31:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why the U.S. Is Building a VPN to Undermine EU Speech Laws",
+            "url": "https://www.riotimesonline.com/why-the-u-s-is-building-a-vpn-to-undermine-eu-speech-laws/",
+            "published_at": "2026-02-19T13:27:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Viradouro Wins Rio Carnival With a Perfect Score",
+            "url": "https://www.riotimesonline.com/viradouro-wins-rio-carnival-with-a-perfect-score/",
+            "published_at": "2026-02-19T13:22:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "How a Serbian Drug Case Toppled Ecuador\u2019s Judiciary Chief",
             "url": "https://www.riotimesonline.com/how-a-serbian-drug-case-toppled-ecuadors-judiciary-chief/",
@@ -671,34 +699,6 @@
             "title": "Bitcoin Holds $68,400 as Fear & Greed Drops to 10",
             "url": "https://www.riotimesonline.com/bitcoin-holds-68400-as-fear-greed-drops-to-10/",
             "published_at": "2026-02-17T09:21:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing for Tuesday Morning",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-february-17-2026/",
-            "published_at": "2026-02-17T09:17:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for February 17, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-february-17-2026/",
-            "published_at": "2026-02-17T09:11:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Tuesday, February 17, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-february-17-2026/",
-            "published_at": "2026-02-17T09:04:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for Monday, February 16, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-monday-february-16-2026/",
-            "published_at": "2026-02-16T20:40:22+00:00",
             "category": [],
             "language": "en"
         }
