@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-19T12:10:04+00:00",
+    "updated_at": "2026-02-19T13:10:04+00:00",
     "items": [
+        {
+            "title": "How a Serbian Drug Case Toppled Ecuador\u2019s Judiciary Chief",
+            "url": "https://www.riotimesonline.com/how-a-serbian-drug-case-toppled-ecuadors-judiciary-chief/",
+            "published_at": "2026-02-19T13:09:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gunmen Attack a Children\u2019s Party in Mexico. Eight Kids Shot",
+            "url": "https://www.riotimesonline.com/gunmen-attack-a-childrens-party-in-mexico-eight-kids-shot/",
+            "published_at": "2026-02-19T12:40:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chavismo Is Retreating in Venezuela. It\u2019s Not Surrendering",
+            "url": "https://www.riotimesonline.com/chavismo-is-retreating-in-venezuela-its-not-surrendering/",
+            "published_at": "2026-02-19T12:29:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Sits on $2.6B in Rare Earth Projects. One Mine Works",
             "url": "https://www.riotimesonline.com/brazil-sits-on-2-6b-in-rare-earth-projects-one-mine-works/",
@@ -153,6 +174,13 @@
             "title": "Latin American Pulse for Thursday, February 19, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-february-19-2026/",
             "published_at": "2026-02-19T08:52:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Relocation Turns Life Into a Classroom",
+            "url": "https://www.riotimesonline.com/how-relocation-turns-life-into-a-classroom/",
+            "published_at": "2026-02-19T03:37:03+00:00",
             "category": [],
             "language": "en"
         },
@@ -671,34 +699,6 @@
             "title": "USA & Canada Intelligence Brief for Monday, February 16, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-monday-february-16-2026/",
             "published_at": "2026-02-16T20:40:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Monday, February 16, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-monday-february-16-2026/",
-            "published_at": "2026-02-16T18:52:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Canal Traffic Rises 4% as Giant Ships Drive Growth",
-            "url": "https://www.riotimesonline.com/panama-canal-traffic-rises-4-as-giant-ships-drive-growth/",
-            "published_at": "2026-02-16T18:51:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay Overhauls Mining Code for Minerals Rush",
-            "url": "https://www.riotimesonline.com/paraguay-overhauls-mining-code-for-minerals-rush/",
-            "published_at": "2026-02-16T18:42:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Concerts, Not Casinos: Culture Drives Colombia\u2019s GDP",
-            "url": "https://www.riotimesonline.com/concerts-not-casinos-culture-drives-colombias-gdp/",
-            "published_at": "2026-02-16T18:30:34+00:00",
             "category": [],
             "language": "en"
         }
