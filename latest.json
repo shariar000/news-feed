@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-20T19:10:04+00:00",
+    "updated_at": "2026-02-20T20:10:04+00:00",
     "items": [
+        {
+            "title": "Israel\u2019s Top Diplomat Heads to Ecuador in LatAm Trade Push",
+            "url": "https://www.riotimesonline.com/israels-top-diplomat-heads-to-ecuador-in-latam-trade-push/",
+            "published_at": "2026-02-20T19:24:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief for Friday, February 20, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-friday-february-20-2026/",
+            "published_at": "2026-02-20T19:13:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Paraguay Backs Trump\u2019s Monroe Doctrine and Bets on It",
             "url": "https://www.riotimesonline.com/paraguay-backs-trumps-monroe-doctrine-and-bets-on-it/",
@@ -41,6 +55,13 @@
             "title": "Brazil\u2019s Farm Minister: 2026 Is the Worst, Then It Gets Better",
             "url": "https://www.riotimesonline.com/brazils-farm-minister-2026-is-the-worst-then-it-gets-better/",
             "published_at": "2026-02-20T18:22:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Friday, February 20, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-friday-february-20-2026/",
+            "published_at": "2026-02-20T18:21:58+00:00",
             "category": [],
             "language": "en"
         },
@@ -678,27 +699,6 @@
             "title": "Netflix Makes Mexico Its Latin American Capital",
             "url": "https://www.riotimesonline.com/netflix-makes-mexico-its-latin-american-capital/",
             "published_at": "2026-02-18T17:33:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Wednesday, February 18, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-wednesday-february-18-2026/",
-            "published_at": "2026-02-18T17:23:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief for Wednesday, February 18, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-for-wednesday-february-18-2026/",
-            "published_at": "2026-02-18T17:22:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Dying Telecom Giant Oi Turns on Its Own Rescuers",
-            "url": "https://www.riotimesonline.com/brazils-dying-telecom-giant-oi-turns-on-its-own-rescuers/",
-            "published_at": "2026-02-18T13:28:04+00:00",
             "category": [],
             "language": "en"
         }
