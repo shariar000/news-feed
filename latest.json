@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-23T08:10:04+00:00",
+    "updated_at": "2026-02-23T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Monday, February 23, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-monday-february-23-2026/",
+            "published_at": "2026-02-23T08:52:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, February 23, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-february-23-2026/",
+            "published_at": "2026-02-23T08:48:33+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ibovespa Breaks 190,000 for First Time as Supreme Court Strikes Down Trump Tariffs",
             "url": "https://www.riotimesonline.com/ibovespa-breaks-190000-for-first-time-as-supreme-court-strikes-down-trump-tariffs/",
@@ -685,20 +699,6 @@
             "title": "Mexico Stocks Reverse Early Gains: IPC Closes at 70,885 After Fed Minutes Crush Rally",
             "url": "https://www.riotimesonline.com/mexico-stocks-reverse-early-gains-ipc-closes-at-70885-after-fed-minutes-crush-rally/",
             "published_at": "2026-02-19T09:43:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s COLCAP Tests Ichimoku Cloud Support After 7.6% Drop From ATH",
-            "url": "https://www.riotimesonline.com/colombias-colcap-tests-ichimoku-cloud-support-after-7-6-drop-from-ath/",
-            "published_at": "2026-02-19T09:42:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Reclaims $5,000 as Physical Demand Defies Strong Dollar",
-            "url": "https://www.riotimesonline.com/gold-reclaims-5000-as-physical-demand-defies-strong-dollar/",
-            "published_at": "2026-02-19T09:37:16+00:00",
             "category": [],
             "language": "en"
         }
