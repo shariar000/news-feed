@@ -1,18 +1,32 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-23T07:10:04+00:00",
+    "updated_at": "2026-02-23T08:10:04+00:00",
     "items": [
         {
-            "title": "China Signal \u2013 Inside the Firewall, February 22, 2026",
-            "url": "https://www.riotimesonline.com/china-signal-inside-the-firewall-february-22-2026/",
-            "published_at": "2026-02-22T22:00:20+00:00",
+            "title": "Ibovespa Breaks 190,000 for First Time as Supreme Court Strikes Down Trump Tariffs",
+            "url": "https://www.riotimesonline.com/ibovespa-breaks-190000-for-first-time-as-supreme-court-strikes-down-trump-tariffs/",
+            "published_at": "2026-02-23T07:00:32+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Key Market Events for the Week of February 23\u201327, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-february-2327-2026/",
-            "published_at": "2026-02-22T19:43:25+00:00",
+            "published_at": "2026-02-23T06:43:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USD/BRL Down 5.69% YTD to R$5.1766 as Tariff Invalidation Structurally Weakens Dollar",
+            "url": "https://www.riotimesonline.com/usdbrl-down-569-ytd-to-r51766-as-tariff-invalidation-structurally-weakens-dollar/",
+            "published_at": "2026-02-23T06:25:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China Signal \u2013 Inside the Firewall, February 22, 2026",
+            "url": "https://www.riotimesonline.com/china-signal-inside-the-firewall-february-22-2026/",
+            "published_at": "2026-02-22T22:00:20+00:00",
             "category": [],
             "language": "en"
         },
@@ -122,13 +136,6 @@
             "language": "en"
         },
         {
-            "title": "USD/BRL Down 5.69% YTD to R$5.1766 as Tariff Invalidation Structurally Weakens Dollar",
-            "url": "https://www.riotimesonline.com/usdbrl-down-569-ytd-to-r51766-as-tariff-invalidation-structurally-weakens-dollar/",
-            "published_at": "2026-02-21T08:25:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "BTC Fails $68,000 Three Times as SCOTUS Tariff Catalyst Lifts Stocks But Not Crypto",
             "url": "https://www.riotimesonline.com/btc-fails-68000-three-times-as-scotus-tariff-catalyst-lifts-stocks-but-not-crypto/",
             "published_at": "2026-02-21T08:11:11+00:00",
@@ -139,13 +146,6 @@
             "title": "Latin American Pulse for Saturday, February 21, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-february-21-2026/",
             "published_at": "2026-02-21T08:06:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Breaks 190,000 for First Time as Supreme Court Strikes Down Trump Tariffs",
-            "url": "https://www.riotimesonline.com/ibovespa-breaks-190000-for-first-time-as-supreme-court-strikes-down-trump-tariffs/",
-            "published_at": "2026-02-21T08:00:32+00:00",
             "category": [],
             "language": "en"
         },
