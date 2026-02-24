@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-24T10:10:04+00:00",
+    "updated_at": "2026-02-24T11:10:03+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Gerdau Posts Flat Q4 Profit as U.S. Offsets Domestic Slump",
+            "url": "https://www.riotimesonline.com/brazils-gerdau-posts-flat-q4-profit-as-u-s-offsets-domestic-slump/",
+            "published_at": "2026-02-24T10:38:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Biggest Labor Fight in a Generation Is Also Its Most Dangerous Election Weapon",
+            "url": "https://www.riotimesonline.com/brazils-biggest-labor-fight-in-a-generation-is-also-its-most-dangerous/",
+            "published_at": "2026-02-24T10:26:35+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "IPSA Gains 0.6% to 10,923 as Chile\u2019s Mall Stocks Surge While Wall Street Sinks",
             "url": "https://www.riotimesonline.com/ipsa-gains-0-6-to-10923-as-chiles-mall-stocks-surge-while-wall/",
@@ -685,20 +699,6 @@
             "title": "Colombia\u2019s Ecopetrol Hits 4-Year High on Reserves",
             "url": "https://www.riotimesonline.com/colombias-ecopetrol-hits-4-year-high-on-reserves/",
             "published_at": "2026-02-20T12:34:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Nutresa Posts Record Sales on Gilinski Overhaul",
-            "url": "https://www.riotimesonline.com/colombias-nutresa-posts-record-sales-on-gilinski-overhaul/",
-            "published_at": "2026-02-20T12:31:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Gold Miner Mineros Posts Record Profits",
-            "url": "https://www.riotimesonline.com/colombia-gold-miner-mineros-posts-record-profits/",
-            "published_at": "2026-02-20T12:25:36+00:00",
             "category": [],
             "language": "en"
         }
