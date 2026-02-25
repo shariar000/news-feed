@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-25T08:10:04+00:00",
+    "updated_at": "2026-02-25T09:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 February 25, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-february-25-2026/",
+            "published_at": "2026-02-25T09:09:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Wednesday, February 25, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-wednesday-february-25-2026/",
+            "published_at": "2026-02-25T09:01:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Wednesday, February 25, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-february-25-2026/",
+            "published_at": "2026-02-25T08:52:46+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Current Account Gap Widens Despite Record FDI",
             "url": "https://www.riotimesonline.com/brazils-current-account-gap-widens-despite-record-fdi/",
@@ -678,27 +699,6 @@
             "title": "Latin America Sports Daily for Saturday, February 21, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-saturday-february-21-2026/",
             "published_at": "2026-02-21T08:58:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale Bets India Is the Next China for Iron Ore",
-            "url": "https://www.riotimesonline.com/vale-bets-india-is-the-next-china-for-iron-ore/",
-            "published_at": "2026-02-21T08:48:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Saturday, February 21, 2026",
-            "url": "https://www.riotimesonline.com/the-wp-title-is-rio-de-janeiro-daily-brief-for-saturday-february-21-2026/",
-            "published_at": "2026-02-21T08:37:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Silver Explodes 7.74% to $84.57 in Best Session Since January as Gold Breaks $5,100",
-            "url": "https://www.riotimesonline.com/silver-explodes-774-to-8457-in-best-session-since-january-as-gold-breaks-5100/",
-            "published_at": "2026-02-21T08:36:10+00:00",
             "category": [],
             "language": "en"
         }
