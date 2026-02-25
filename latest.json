@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-25T13:10:05+00:00",
+    "updated_at": "2026-02-25T14:10:04+00:00",
     "items": [
+        {
+            "title": "Peru Gets a New PM After Last-Minute Cabinet Drama",
+            "url": "https://www.riotimesonline.com/peru-gets-a-new-pm-after-last-minute-cabinet-drama/",
+            "published_at": "2026-02-25T13:22:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Sells $1 Billion in Local-Currency Bonds Abroad",
+            "url": "https://www.riotimesonline.com/paraguay-sells-1-billion-in-local-currency-bonds-abroad/",
+            "published_at": "2026-02-25T13:19:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petro Signs Bid to Rewrite Colombia\u2019s Constitution",
+            "url": "https://www.riotimesonline.com/petro-signs-bid-to-rewrite-colombias-constitution/",
+            "published_at": "2026-02-25T13:12:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "New Trump Tariffs Spare Nearly Half of Brazil\u2019s Exports",
             "url": "https://www.riotimesonline.com/new-trump-tariffs-spare-nearly-half-of-brazils-exports/",
@@ -678,27 +699,6 @@
             "title": "Chile Stocks Rebound 0.43% on Closing Auction Surge After Court Kills Tariffs",
             "url": "https://www.riotimesonline.com/chile-stocks-rebound-0-43-on-closing-auction-surge-after-court/",
             "published_at": "2026-02-23T09:45:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Snaps February Losing Streak as Reform Vote and Dollar Collapse Fuel Rally",
-            "url": "https://www.riotimesonline.com/merval-snaps-february-losing-streak-as-reform-vote-and-dollar/",
-            "published_at": "2026-02-23T09:39:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s IPC Breaks Four-Session Skid as Supreme Court Tariff Ruling Sparks Rally",
-            "url": "https://www.riotimesonline.com/mexicos-ipc-breaks-four-session-skid-as-supreme-court-tariff/",
-            "published_at": "2026-02-23T09:32:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Stocks Rally on Ecopetrol +3.16% as Supreme Court Kills Tariffs",
-            "url": "https://www.riotimesonline.com/colombia-stocks-rally-on-ecopetrol-3-16-as-supreme-court/",
-            "published_at": "2026-02-23T09:23:45+00:00",
             "category": [],
             "language": "en"
         }
