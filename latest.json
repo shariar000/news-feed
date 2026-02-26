@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-26T19:10:03+00:00",
+    "updated_at": "2026-02-26T20:10:04+00:00",
     "items": [
         {
             "title": "Seven Brazilian Hospitals Rank Among the World\u2019s Best",
@@ -293,6 +293,13 @@
             "title": "Business Management in Canada: Principles, Leadership, Strategy, and Innovation",
             "url": "https://www.riotimesonline.com/business-management-in-canada-principles-leadership-strategy-and-innovation/",
             "published_at": "2026-02-26T03:52:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "2026 Winter Olympic Medal Markets: Who Leads the Odds?",
+            "url": "https://www.riotimesonline.com/2026-winter-olympic-medal-markets-who-leads-the-odds/",
+            "published_at": "2026-02-26T03:20:55+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "Rio de Janeiro brief for Tuesday, February 24, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-brief-for-tuesday-february-24-2026/",
             "published_at": "2026-02-24T11:11:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Gerdau Posts Flat Q4 Profit as U.S. Offsets Domestic Slump",
-            "url": "https://www.riotimesonline.com/brazils-gerdau-posts-flat-q4-profit-as-u-s-offsets-domestic-slump/",
-            "published_at": "2026-02-24T10:38:51+00:00",
             "category": [],
             "language": "en"
         }
