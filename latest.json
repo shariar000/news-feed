@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-27T18:10:04+00:00",
+    "updated_at": "2026-02-27T19:10:03+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Friday, February 27, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-friday-february-27-2026/",
+            "published_at": "2026-02-27T18:36:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Friday, February 27, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-friday-february-27-2026/",
+            "published_at": "2026-02-27T18:27:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Bradesco Builds a Health Giant Worth Up to $9 Bn",
+            "url": "https://www.riotimesonline.com/brazils-bradesco-builds-a-health-giant-worth-up-to-9-bn/",
+            "published_at": "2026-02-27T18:21:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Latin America Is the Surprise Winner of the Trade War",
+            "url": "https://www.riotimesonline.com/why-latin-america-is-the-surprise-winner-of-the-trade-war/",
+            "published_at": "2026-02-27T18:15:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Paraguay Opens a Beef Route to Central Asia",
             "url": "https://www.riotimesonline.com/paraguay-opens-a-beef-route-to-central-asia/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s GPA Narrows Loss but Misses Estimates",
             "url": "https://www.riotimesonline.com/brazils-gpa-narrows-loss-but-misses-estimates/",
             "published_at": "2026-02-25T10:00:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s C&A Posts Record Profit on Margin Gains",
-            "url": "https://www.riotimesonline.com/brazils-ca-posts-record-profit-on-margin-gains/",
-            "published_at": "2026-02-25T09:54:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IPSA Nears 11,000 on Copper Surge as Chilean Peso Leads EM Gains",
-            "url": "https://www.riotimesonline.com/ipsa-nears-11000-on-copper-surge-as-chilean-peso-leads-em/",
-            "published_at": "2026-02-25T09:49:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Rebounds 1.8% to 2.81M but Argentina\u2019s Country Risk Hits 545",
-            "url": "https://www.riotimesonline.com/merval-rebounds-1-8-to-2-81m-but-argentinas-country-risk-hits-545/",
-            "published_at": "2026-02-25T09:47:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IPC Rebounds 0.43% to 70,935 as Mexican Peso Firms Despite Inflation Scare",
-            "url": "https://www.riotimesonline.com/ipc-rebounds-0-43-to-70935-as-mexican-peso-firms-despite-inflation-scare/",
-            "published_at": "2026-02-25T09:38:57+00:00",
             "category": [],
             "language": "en"
         }
