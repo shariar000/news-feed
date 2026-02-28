@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-02-28T08:10:03+00:00",
+    "updated_at": "2026-02-28T09:10:03+00:00",
     "items": [
+        {
+            "title": "Ibovespa Drops 1.16% as Hot IPCA-15 Stalls Rate-Cut Bets",
+            "url": "https://www.riotimesonline.com/ibovespa-drops-116-as-hot-ipca-15-stalls-rate-cut-bets/",
+            "published_at": "2026-02-28T08:56:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 February 28, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-february-28-2026/",
+            "published_at": "2026-02-28T08:25:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Saturday, February 28, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-february-28-2026/",
+            "published_at": "2026-02-28T08:21:46+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Friday, February 27, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-friday-february-27-2026/",
@@ -678,27 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Wednesday, February 25, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-february-25-2026/",
             "published_at": "2026-02-25T11:33:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Economy Grew 4.4% in 2025 \u2014 at a Cost",
-            "url": "https://www.riotimesonline.com/argentinas-economy-grew-4-4-in-2025-at-a-cost/",
-            "published_at": "2026-02-25T11:28:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Record Rain Kills 32 in Southeastern Brazil, 38 Missing",
-            "url": "https://www.riotimesonline.com/record-rain-kills-32-in-southeastern-brazil-38-missing/",
-            "published_at": "2026-02-25T11:20:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s GPA Narrows Loss but Misses Estimates",
-            "url": "https://www.riotimesonline.com/brazils-gpa-narrows-loss-but-misses-estimates/",
-            "published_at": "2026-02-25T10:00:58+00:00",
             "category": [],
             "language": "en"
         }
