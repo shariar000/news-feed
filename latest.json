@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-01T20:10:04+00:00",
+    "updated_at": "2026-03-01T21:10:04+00:00",
     "items": [
+        {
+            "title": "Key Market Events for the Week of March 2\u20136, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-march-26-2026/",
+            "published_at": "2026-03-01T21:09:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Khamenei Dead, Hormuz Closed: The Middle East Breaks Open",
             "url": "https://www.riotimesonline.com/khamenei-dead-hormuz-shut-gulf-under-fire/",
@@ -692,13 +699,6 @@
             "title": "Mexico Hits Record $40.9B in Foreign Investment",
             "url": "https://www.riotimesonline.com/mexico-hits-record-40-9b-in-foreign-investment/",
             "published_at": "2026-02-25T17:31:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief for Thursday, February 25, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-for-thursday-february-25-2026/",
-            "published_at": "2026-02-25T17:25:16+00:00",
             "category": [],
             "language": "en"
         }
