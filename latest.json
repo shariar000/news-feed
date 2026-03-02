@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-02T09:10:04+00:00",
+    "updated_at": "2026-03-02T10:10:03+00:00",
     "items": [
+        {
+            "title": "Iran Conflict Grounds Brazil\u2019s Gulf Flights",
+            "url": "https://www.riotimesonline.com/iran-conflict-grounds-brazils-gulf-flights/",
+            "published_at": "2026-03-02T10:05:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s IPC Holds 71,406 as February Closes +5.63%",
+            "url": "https://www.riotimesonline.com/mexicos-ipc-holds-71406-as-february-closes-5-63/",
+            "published_at": "2026-03-02T09:56:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Drops \u22124.1% as Argentina Caps Brutal February",
+            "url": "https://www.riotimesonline.com/merval-drops-4-1-as-argentina-caps-brutal-february/",
+            "published_at": "2026-03-02T09:51:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "COLCAP Plunges \u22122.46% as Cepeda Poll Shock Deepens",
+            "url": "https://www.riotimesonline.com/colcap-plunges-2-46-as-cepeda-poll-shock-deepens/",
+            "published_at": "2026-03-02T09:42:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Condemns Iran Strikes, Drawing Fire From Both Sides",
+            "url": "https://www.riotimesonline.com/brazil-condemns-iran-strikes-drawing-fire-from-both-sides/",
+            "published_at": "2026-03-02T09:34:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s IPSA Falls \u22121.6% to Cap Worst February Since 2023",
+            "url": "https://www.riotimesonline.com/chiles-ipsa-falls-1-6-to-cap-worst-february-since-2023/",
+            "published_at": "2026-03-02T09:33:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Surges Past $5,400 as Iran War Triggers Safe-Haven Rush",
+            "url": "https://www.riotimesonline.com/gold-surges-past-5400-as-iran-war-triggers-safe-haven-rush/",
+            "published_at": "2026-03-02T09:25:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Whipsaws Between $63K and $68K After Khamenei Killed",
+            "url": "https://www.riotimesonline.com/bitcoin-whipsaws-between-63k-and-68k-after-khamenei-killed/",
+            "published_at": "2026-03-02T09:18:08+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio Blackout Hits 160,000 as Light Nears Concession Cliff",
             "url": "https://www.riotimesonline.com/rio-blackout-hits-160000-as-light-nears-concession-cliff/",
@@ -643,62 +699,6 @@
             "title": "Brazil\u2019s Nubank Posts Record $895M Profit in Q4 2025",
             "url": "https://www.riotimesonline.com/brazils-nubank-posts-record-895m-profit-in-q4-2025/",
             "published_at": "2026-02-26T09:11:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 February 26, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-february-26-2026/",
-            "published_at": "2026-02-26T09:06:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Thursday, February 26, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-february-26-2026/",
-            "published_at": "2026-02-26T09:00:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, February 26, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-february-26-2026/",
-            "published_at": "2026-02-26T08:54:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Business Management in Canada: Principles, Leadership, Strategy, and Innovation",
-            "url": "https://www.riotimesonline.com/business-management-in-canada-principles-leadership-strategy-and-innovation/",
-            "published_at": "2026-02-26T03:52:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "2026 Winter Olympic Medal Markets: Who Leads the Odds?",
-            "url": "https://www.riotimesonline.com/2026-winter-olympic-medal-markets-who-leads-the-odds/",
-            "published_at": "2026-02-26T03:20:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fl\u00e1vio Bolsonaro Catches Lula in Brazil 2026 Poll",
-            "url": "https://www.riotimesonline.com/flavio-bolsonaro-catches-lula-in-brazil-2026-poll/",
-            "published_at": "2026-02-25T18:30:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Wednesday, February 25, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-wednesday-february-25-2026/",
-            "published_at": "2026-02-25T18:25:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Wednesday, February 25, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-wednesday-february-25-2026/",
-            "published_at": "2026-02-25T18:10:23+00:00",
             "category": [],
             "language": "en"
         }
