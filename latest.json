@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-02T12:10:04+00:00",
+    "updated_at": "2026-03-02T13:10:04+00:00",
     "items": [
+        {
+            "title": "Colombia\u2019s Top Firms Beat $5 Billion in Sales Despite Slow Growth",
+            "url": "https://www.riotimesonline.com/colombias-top-firms-beat-5-billion-in-sales-despite-slow-growth/",
+            "published_at": "2026-03-02T13:08:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Pemex Slashes Losses 94% as Debt Hits 11-Year Low",
+            "url": "https://www.riotimesonline.com/mexicos-pemex-slashes-losses-94-as-debt-hits-11-year-low/",
+            "published_at": "2026-03-02T12:59:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Pague Menos Posts 72% Profit Jump in Q4",
+            "url": "https://www.riotimesonline.com/brazils-pague-menos-posts-72-profit-jump-in-q4/",
+            "published_at": "2026-03-02T12:49:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "U.S. Report Alleges Secret Chinese Space Base in Brazil",
+            "url": "https://www.riotimesonline.com/u-s-report-alleges-secret-chinese-space-base-in-brazil/",
+            "published_at": "2026-03-02T12:46:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei Unveils Sweeping Reform Plan in Combative Speech",
+            "url": "https://www.riotimesonline.com/milei-unveils-sweeping-reform-plan-in-combative-speech/",
+            "published_at": "2026-03-02T12:35:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Right Rallies in 20 Cities as 2026 Race Takes Shape",
+            "url": "https://www.riotimesonline.com/brazils-right-rallies-in-20-cities-as-2026-race-takes-shape/",
+            "published_at": "2026-03-02T12:29:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bortoleto Earns $2M but Sells Like a Star Ahead of F1 Debut",
             "url": "https://www.riotimesonline.com/bortoleto-earns-2m-but-sells-like-a-star-ahead-of-f1-debut/",
@@ -657,48 +699,6 @@
             "title": "Brazil\u2019s Kepler Weber Grows Profit 29% Despite Revenue Drop",
             "url": "https://www.riotimesonline.com/brazils-kepler-weber-grows-profit-29-despite-revenue-drop/",
             "published_at": "2026-02-26T10:03:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s IPSA Rallies to 11,133 as SQM Lithium Surge Leads Gains",
-            "url": "https://www.riotimesonline.com/chiles-ipsa-rallies-to-11133-as-sqm-lithium-surge-leads-gains/",
-            "published_at": "2026-02-26T09:59:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Slips to 2.80M as MercadoLibre Rout Weighs",
-            "url": "https://www.riotimesonline.com/argentinas-merval-slips-to-2-80m-as-mercadolibre-rout-weighs/",
-            "published_at": "2026-02-26T09:52:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IPC Creeps to 71,144 as Grupo M\u00e9xico Lifts BMV Near Record",
-            "url": "https://www.riotimesonline.com/ipc-creeps-to-71144-as-grupo-mexico-lifts-bmv-near-record/",
-            "published_at": "2026-02-26T09:48:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s COLCAP Steadies at 2,382 After Tuesday\u2019s 3% Rout as Tariff Shock Fades",
-            "url": "https://www.riotimesonline.com/colombias-colcap-steadies-at-2382-after-tuesdays-3-rout-as/",
-            "published_at": "2026-02-26T09:43:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Posts Record Tax Revenue as New Levies Kick In",
-            "url": "https://www.riotimesonline.com/brazil-posts-record-tax-revenue-as-new-levies-kick-in/",
-            "published_at": "2026-02-26T09:38:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Rebounds as JPMorgan Targets $6,300, Silver Stalls",
-            "url": "https://www.riotimesonline.com/gold-rebounds-as-jpmorgan-targets-6300-silver-stalls/",
-            "published_at": "2026-02-26T09:33:57+00:00",
             "category": [],
             "language": "en"
         }
