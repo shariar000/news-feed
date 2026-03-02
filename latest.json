@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-02T08:10:04+00:00",
+    "updated_at": "2026-03-02T09:10:04+00:00",
     "items": [
+        {
+            "title": "Rio Blackout Hits 160,000 as Light Nears Concession Cliff",
+            "url": "https://www.riotimesonline.com/rio-blackout-hits-160000-as-light-nears-concession-cliff/",
+            "published_at": "2026-03-02T09:00:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, March 2, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-march-2-2026/",
+            "published_at": "2026-03-02T08:53:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Monday, March 2, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-monday-march-2-2026/",
+            "published_at": "2026-03-02T08:52:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of March 2\u20136, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-march-26-2026/",
@@ -678,27 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Wednesday, February 25, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-wednesday-february-25-2026/",
             "published_at": "2026-02-25T18:10:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why the Caribbean Is Betting Big on Tourists Over 50",
-            "url": "https://www.riotimesonline.com/why-the-caribbean-is-betting-big-on-tourists-over-50/",
-            "published_at": "2026-02-25T18:07:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Steel Output Falls as Chinese Imports Rise",
-            "url": "https://www.riotimesonline.com/mexicos-steel-output-falls-as-chinese-imports-rise/",
-            "published_at": "2026-02-25T17:56:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Hits Record $40.9B in Foreign Investment",
-            "url": "https://www.riotimesonline.com/mexico-hits-record-40-9b-in-foreign-investment/",
-            "published_at": "2026-02-25T17:31:50+00:00",
             "category": [],
             "language": "en"
         }
