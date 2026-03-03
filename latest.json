@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-03T12:10:04+00:00",
+    "updated_at": "2026-03-03T13:10:03+00:00",
     "items": [
+        {
+            "title": "Cuba Lets Private Businesses Import Fuel for First Time",
+            "url": "https://www.riotimesonline.com/cuba-lets-private-businesses-import-fuel-for-first-time/",
+            "published_at": "2026-03-03T12:47:36+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "JPMorgan Cuts Emerging Market Bets but Backs Latin America",
             "url": "https://www.riotimesonline.com/jpmorgan-cuts-emerging-market-bets-but-backs-latin-america/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s B3 Beats Estimates With R$1.5B Quarterly Profit",
             "url": "https://www.riotimesonline.com/brazils-b3-beats-estimates-with-r1-5b-quarterly-profit/",
             "published_at": "2026-02-27T10:00:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s IPSA Snaps 4-Day Win Streak at 11050 as Nvidia Selloff Lifts Dollar to CLP 867",
-            "url": "https://www.riotimesonline.com/chiles-ipsa-snaps-4-day-win-streak-at-11050-as-nvidia-selloff-lifts/",
-            "published_at": "2026-02-27T09:55:24+00:00",
             "category": [],
             "language": "en"
         }
