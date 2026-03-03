@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-03T17:10:04+00:00",
+    "updated_at": "2026-03-03T18:10:04+00:00",
     "items": [
+        {
+            "title": "Why Latin America Is Key to the Global Rare Earth Race",
+            "url": "https://www.riotimesonline.com/why-latin-america-is-key-to-the-global-rare-earth-race/",
+            "published_at": "2026-03-03T18:04:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump Floats \u2018Friendly Takeover\u2019 of Cuba as Crisis Deepens",
+            "url": "https://www.riotimesonline.com/trump-floats-friendly-takeover-of-cuba-as-crisis-deepens/",
+            "published_at": "2026-03-03T17:54:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Tuesday, March 3, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-tuesday-march-3-2026/",
+            "published_at": "2026-03-03T17:49:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Tuesday, March 3, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-for-tuesday-march-3-2026/",
+            "published_at": "2026-03-03T17:44:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Tuesday, March 3, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-tuesday-march-3-2026/",
+            "published_at": "2026-03-03T17:36:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Tuesday, March 3, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-tuesday-march-3-2026/",
+            "published_at": "2026-03-03T17:28:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Cuba Lets Private Businesses Import Fuel for First Time",
             "url": "https://www.riotimesonline.com/cuba-lets-private-businesses-import-fuel-for-first-time/",
@@ -160,6 +202,13 @@
             "title": "Latin American Pulse for Tuesday, March 3, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-march-3-2026/",
             "published_at": "2026-03-03T08:58:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Explaining the Global South Media Ecosystem: Why Alternative Narratives Are On the Rise",
+            "url": "https://www.riotimesonline.com/explaining-the-global-south-media-ecosystem-why-alternative-narratives-are-on-the-rise/",
+            "published_at": "2026-03-03T03:38:21+00:00",
             "category": [],
             "language": "en"
         },
@@ -650,55 +699,6 @@
             "title": "Pakistan Bombs Kabul and Declares \u2018Open War\u2019",
             "url": "https://www.riotimesonline.com/pakistan-bombs-kabul-and-declares-open-war/",
             "published_at": "2026-02-27T13:22:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copel Recurring Profit Jumps 30% as Grid Spend Pays Off",
-            "url": "https://www.riotimesonline.com/copel-recurring-profit-jumps-30-as-grid-spend-pays-off/",
-            "published_at": "2026-02-27T12:48:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Agribusiness Won\u2019t Back Fl\u00e1vio Bolsonaro Yet",
-            "url": "https://www.riotimesonline.com/why-agribusiness-wont-back-flavio-bolsonaro-yet/",
-            "published_at": "2026-02-27T12:47:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Coca-Cola Pledges $5.2 Billion for Brazil by 2030",
-            "url": "https://www.riotimesonline.com/coca-cola-pledges-5-2-billion-for-brazil-by-2030/",
-            "published_at": "2026-02-27T12:42:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s M. Dias Branco Profit Falls 10% on Cost Squeeze",
-            "url": "https://www.riotimesonline.com/brazils-m-dias-branco-profit-falls-10-on-cost-squeeze/",
-            "published_at": "2026-02-27T12:37:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Localiza Profit Rises 12% as Fleet Strategy Pays",
-            "url": "https://www.riotimesonline.com/brazils-localiza-profit-rises-12-as-fleet-strategy-pays/",
-            "published_at": "2026-02-27T12:03:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Friday, February 27, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-february-27-2026/",
-            "published_at": "2026-02-27T11:59:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro daily brief for Friday, February 27, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-february-27-2026/",
-            "published_at": "2026-02-27T11:46:29+00:00",
             "category": [],
             "language": "en"
         }
