@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-03T08:10:04+00:00",
+    "updated_at": "2026-03-03T09:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 March 3, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-3-2026/",
+            "published_at": "2026-03-03T09:07:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Tuesday, March 3, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-tuesday-march-3-2026/",
+            "published_at": "2026-03-03T09:01:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Tuesday, March 3, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-march-3-2026/",
+            "published_at": "2026-03-03T08:58:08+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Monday, March 2, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-monday-march-2-2026/",
@@ -678,27 +699,6 @@
             "title": "Ecuador and Colombia\u2019s Trade War Keeps Getting Worse",
             "url": "https://www.riotimesonline.com/ecuador-and-colombias-trade-war-keeps-getting-worse/",
             "published_at": "2026-02-26T17:43:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Debt Hits 65% of GDP as Borrowing Costs Soar",
-            "url": "https://www.riotimesonline.com/colombias-debt-hits-65-of-gdp-as-borrowing-costs-soar/",
-            "published_at": "2026-02-26T17:38:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Thursday, February 26, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-thursday-february-26-2026/",
-            "published_at": "2026-02-26T17:35:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Thursday, February 26, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-thursday-february-26-2026/",
-            "published_at": "2026-02-26T17:21:54+00:00",
             "category": [],
             "language": "en"
         }
