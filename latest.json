@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-04T19:10:04+00:00",
+    "updated_at": "2026-03-04T20:10:03+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Wednesday, March 4, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-wednesday-march-4-2026/",
+            "published_at": "2026-03-04T19:12:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Portugal Lets US Use Azores Base for Iran Strikes",
+            "url": "https://www.riotimesonline.com/portugal-lets-us-use-azores-base-for-iran-strikes/",
+            "published_at": "2026-03-04T19:08:02+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Intelligence Brief for Wednesday, March 4, 2026",
             "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-wednesday-march-4-2026/",
@@ -685,20 +699,6 @@
             "title": "Iran Conflict Grounds Brazil\u2019s Gulf Flights",
             "url": "https://www.riotimesonline.com/iran-conflict-grounds-brazils-gulf-flights/",
             "published_at": "2026-03-02T10:05:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s IPC Holds 71,406 as February Closes +5.63%",
-            "url": "https://www.riotimesonline.com/mexicos-ipc-holds-71406-as-february-closes-5-63/",
-            "published_at": "2026-03-02T09:56:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Drops \u22124.1% as Argentina Caps Brutal February",
-            "url": "https://www.riotimesonline.com/merval-drops-4-1-as-argentina-caps-brutal-february/",
-            "published_at": "2026-03-02T09:51:10+00:00",
             "category": [],
             "language": "en"
         }
