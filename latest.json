@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-05T08:10:04+00:00",
+    "updated_at": "2026-03-05T09:10:03+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Thursday, March 5, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-march-5-2026/",
+            "published_at": "2026-03-05T08:49:14+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Events in Rio de Janeiro: A Strategic Guide to the 2026 Economic and Cultural Calendar",
             "url": "https://www.riotimesonline.com/events-in-rio-de-janeiro-a-strategic-guide-to-the-2026-economic-and-cultural-calendar/",
@@ -692,13 +699,6 @@
             "title": "Palmeiras Reach Seventh Straight Paulist\u00e3o Final",
             "url": "https://www.riotimesonline.com/palmeiras-reach-seventh-straight-paulistao-final/",
             "published_at": "2026-03-02T10:16:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Machado Plans Venezuela Return Into Legal Minefield",
-            "url": "https://www.riotimesonline.com/machado-plans-venezuela-return-into-legal-minefield/",
-            "published_at": "2026-03-02T10:11:09+00:00",
             "category": [],
             "language": "en"
         }
