@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-04T23:10:03+00:00",
+    "updated_at": "2026-03-05T00:10:04+00:00",
     "items": [
+        {
+            "title": "Events in Rio de Janeiro: A Strategic Guide to the 2026 Economic and Cultural Calendar",
+            "url": "https://www.riotimesonline.com/events-in-rio-de-janeiro-a-strategic-guide-to-the-2026-economic-and-cultural-calendar/",
+            "published_at": "2026-03-05T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Wednesday, March 4, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-wednesday-march-4-2026/",
@@ -692,13 +699,6 @@
             "title": "Machado Plans Venezuela Return Into Legal Minefield",
             "url": "https://www.riotimesonline.com/machado-plans-venezuela-return-into-legal-minefield/",
             "published_at": "2026-03-02T10:11:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iran Conflict Grounds Brazil\u2019s Gulf Flights",
-            "url": "https://www.riotimesonline.com/iran-conflict-grounds-brazils-gulf-flights/",
-            "published_at": "2026-03-02T10:05:58+00:00",
             "category": [],
             "language": "en"
         }
