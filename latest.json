@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-06T12:10:05+00:00",
+    "updated_at": "2026-03-06T13:10:03+00:00",
     "items": [
+        {
+            "title": "Pemex Bets on Private Partners to Halt Output Slide",
+            "url": "https://www.riotimesonline.com/pemex-bets-on-private-partners-to-halt-output-slide/",
+            "published_at": "2026-03-06T12:56:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela and U.S. Reopen Embassies After 2019 Split",
+            "url": "https://www.riotimesonline.com/venezuela-and-u-s-reopen-embassies-after-2019-split/",
+            "published_at": "2026-03-06T12:49:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil Boom and Weak Imports Drive Brazil Trade Surplus in February",
+            "url": "https://www.riotimesonline.com/oil-boom-and-weak-imports-drive-brazil-trade-surplus-in-february/",
+            "published_at": "2026-03-06T12:43:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Friday, March 6, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-friday-march-6-2026/",
+            "published_at": "2026-03-06T12:34:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Iran Conflict Cuts Off Brazil\u2019s Corn and Fertilizer",
             "url": "https://www.riotimesonline.com/iran-conflict-cuts-off-brazils-corn-and-fertilizer/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s Auren Energia Swings to Profit, EBITDA Hits R$4B",
             "url": "https://www.riotimesonline.com/brazils-auren-energia-swings-to-profit-ebitda-hits-r4b/",
             "published_at": "2026-03-04T09:58:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s IPSA Crashes Below 10,000 Intraday as War Erases 2026 Gains",
-            "url": "https://www.riotimesonline.com/chiles-ipsa-crashes-below-10000-intraday-as-war-erases-2026-gains/",
-            "published_at": "2026-03-04T09:58:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Survives 3% Intraday Plunge, Country Risk Hits 598",
-            "url": "https://www.riotimesonline.com/argentinas-merval-survives-3-intraday-plunge-country-risk-hits-598/",
-            "published_at": "2026-03-04T09:52:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican IPC Drops 3% in Worst BMV Session Since April on Iran Panic",
-            "url": "https://www.riotimesonline.com/mexican-ipc-drops-3-in-worst-bmv-session-since-april-on-iran-panic/",
-            "published_at": "2026-03-04T09:47:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Flat at 2,149 After Wild 3% Intraday Crash and Recovery",
-            "url": "https://www.riotimesonline.com/colcap-flat-at-2149-after-wild-3-intraday-crash-and-recovery/",
-            "published_at": "2026-03-04T09:38:09+00:00",
             "category": [],
             "language": "en"
         }
