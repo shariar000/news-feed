@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-06T08:10:04+00:00",
+    "updated_at": "2026-03-06T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Fleury Grows Profit 15% as Diagnostics Revenue Climbs",
+            "url": "https://www.riotimesonline.com/brazils-fleury-grows-profit-15-as-diagnostics-revenue-climbs/",
+            "published_at": "2026-03-06T09:06:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 March 6, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-6-2026/",
+            "published_at": "2026-03-06T09:06:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Friday, March 6, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-friday-march-6-2026/",
+            "published_at": "2026-03-06T08:56:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Friday, March 6, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-march-6-2026/",
+            "published_at": "2026-03-06T08:53:02+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Petrobras Q4 Profit Triples to $3B on Record Production",
             "url": "https://www.riotimesonline.com/petrobras-q4-profit-triples-to-3b-on-record-production/",
@@ -671,34 +699,6 @@
             "title": "Bolsonaro Denied House Arrest After 144 Medical Visits",
             "url": "https://www.riotimesonline.com/bolsonaro-denied-house-arrest-after-144-medical-visits/",
             "published_at": "2026-03-03T11:50:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "StoneCo Misses Estimates, Slashes 2027 Guidance by 29%",
-            "url": "https://www.riotimesonline.com/stoneco-misses-estimates-slashes-2027-guidance-by-29/",
-            "published_at": "2026-03-03T11:48:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Tuesday, March 3, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-tuesday-march-3-2026/",
-            "published_at": "2026-03-03T11:40:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Flamengo Fires Its Most Successful Coach Hours After an 8-0 Win",
-            "url": "https://www.riotimesonline.com/flamengo-fires-its-most-successful-coach-hours-after-an-8-0-win/",
-            "published_at": "2026-03-03T11:37:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Oil Output Surges 14.6% as Pre-Salt Fields Power Record Growth",
-            "url": "https://www.riotimesonline.com/brazil-oil-output-surges-14-6-as-pre-salt-fields-power-record-growth/",
-            "published_at": "2026-03-03T11:26:59+00:00",
             "category": [],
             "language": "en"
         }
