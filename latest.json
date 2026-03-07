@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-07T07:10:04+00:00",
+    "updated_at": "2026-03-07T08:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 March 7, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-7-2026/",
+            "published_at": "2026-03-07T07:56:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Saturday, March 7, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-march-7-2026/",
+            "published_at": "2026-03-07T07:51:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Safety in 2026: An Institutional and Analytical Review for Expats",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-safety-in-2026-an-institutional-and-analytical-review-for-expats/",
@@ -685,20 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Wednesday, March 4, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-wednesday-march-4-2026/",
             "published_at": "2026-03-04T17:32:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela Flights Resume After Three-Month Shutdown",
-            "url": "https://www.riotimesonline.com/venezuela-flights-resume-after-three-month-shutdown/",
-            "published_at": "2026-03-04T12:44:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Left Courts Religious Voters Ahead of Vote",
-            "url": "https://www.riotimesonline.com/colombias-left-courts-religious-voters-ahead-of-vote/",
-            "published_at": "2026-03-04T12:34:19+00:00",
             "category": [],
             "language": "en"
         }
