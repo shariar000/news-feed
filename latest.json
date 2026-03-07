@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-07T01:10:04+00:00",
+    "updated_at": "2026-03-07T02:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Safety in 2026: An Institutional and Analytical Review for Expats",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-safety-in-2026-an-institutional-and-analytical-review-for-expats/",
+            "published_at": "2026-03-07T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Friday, March 6, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-friday-march-6-2026/",
@@ -692,13 +699,6 @@
             "title": "Colombia\u2019s Left Courts Religious Voters Ahead of Vote",
             "url": "https://www.riotimesonline.com/colombias-left-courts-religious-voters-ahead-of-vote/",
             "published_at": "2026-03-04T12:34:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Milei Brands His Own Vice President a Coup Plotter",
-            "url": "https://www.riotimesonline.com/milei-brands-his-own-vice-president-a-coup-plotter/",
-            "published_at": "2026-03-04T11:58:58+00:00",
             "category": [],
             "language": "en"
         }
