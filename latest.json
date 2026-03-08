@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-08T01:10:04+00:00",
+    "updated_at": "2026-03-08T02:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Technology Scene: The 2026 Investment and Innovation Roadmap",
+            "url": "https://www.riotimesonline.com/brazil-technology-scene-the-2026-investment-and-innovation-roadmap/",
+            "published_at": "2026-03-08T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "S\u00e3o Paulo Nightlife Guide for Saturday, March 7, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-march-7-2026/",
@@ -692,13 +699,6 @@
             "title": "Asia Intelligence Brief for Wednesday, March 4, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-wednesday-march-4-2026/",
             "published_at": "2026-03-04T18:27:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Drafts Charges Against Venezuela\u2019s New Leader",
-            "url": "https://www.riotimesonline.com/us-drafts-charges-against-venezuelas-new-leader/",
-            "published_at": "2026-03-04T18:09:16+00:00",
             "category": [],
             "language": "en"
         }
