@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-08T08:10:04+00:00",
+    "updated_at": "2026-03-08T09:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Sunday, March 8, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-march-8-2026/",
+            "published_at": "2026-03-08T09:07:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Sunday, March 8, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-sunday-march-8-2026/",
+            "published_at": "2026-03-08T08:46:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Sunday, March 8, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-sunday-march-8-2026/",
+            "published_at": "2026-03-08T08:23:19+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Technology Scene: The 2026 Investment and Innovation Roadmap",
             "url": "https://www.riotimesonline.com/brazil-technology-scene-the-2026-investment-and-innovation-roadmap/",
@@ -678,27 +699,6 @@
             "title": "Volaris Shares Sink as Earnings and Violence Collide",
             "url": "https://www.riotimesonline.com/volaris-shares-sink-as-earnings-and-violence-collide/",
             "published_at": "2026-03-04T18:53:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nubank Puts Its Name on Messi\u2019s New Miami Stadium",
-            "url": "https://www.riotimesonline.com/nubank-puts-its-name-on-messis-new-miami-stadium/",
-            "published_at": "2026-03-04T18:40:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Launches Joint Drug War Operations Inside Ecuador",
-            "url": "https://www.riotimesonline.com/us-launches-joint-drug-war-operations-inside-ecuador/",
-            "published_at": "2026-03-04T18:38:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Wednesday, March 4, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-wednesday-march-4-2026/",
-            "published_at": "2026-03-04T18:27:16+00:00",
             "category": [],
             "language": "en"
         }
