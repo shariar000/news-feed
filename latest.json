@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-09T08:10:04+00:00",
+    "updated_at": "2026-03-09T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Monday, March 9, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-monday-march-9-2026/",
+            "published_at": "2026-03-09T09:08:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, March 9, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-march-9-2026/",
+            "published_at": "2026-03-09T09:04:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Environmental Policy 2026: A Strategic Analysis for Global Investors",
             "url": "https://www.riotimesonline.com/brazil-environmental-policy-2026-a-strategic-analysis-for-global-investors/",
@@ -685,20 +699,6 @@
             "title": "Global Economy Briefing \u2014 March 5, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-march-5-2026/",
             "published_at": "2026-03-05T09:12:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Thursday, March 5, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-march-5-2026/",
-            "published_at": "2026-03-05T09:10:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, March 5, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-march-5-2026/",
-            "published_at": "2026-03-05T08:49:14+00:00",
             "category": [],
             "language": "en"
         }
