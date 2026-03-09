@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-09T12:10:03+00:00",
+    "updated_at": "2026-03-09T13:10:04+00:00",
     "items": [
+        {
+            "title": "Latin America\u2019s Governments Are Censoring the Internet",
+            "url": "https://www.riotimesonline.com/latin-americas-governments-are-censoring-the-internet/",
+            "published_at": "2026-03-09T13:05:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Now Has Over 1,000 Districts Under Emergency",
+            "url": "https://www.riotimesonline.com/peru-now-has-over-1000-districts-under-emergency/",
+            "published_at": "2026-03-09T13:00:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Defense Monitor \u2013 Feb 28\u2013Mar 8, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-defense-monitor-feb-28-mar-8-2026/",
+            "published_at": "2026-03-09T12:46:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Jails the Mayor of Its Largest City",
+            "url": "https://www.riotimesonline.com/ecuador-jails-the-mayor-of-its-largest-city/",
+            "published_at": "2026-03-09T12:44:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "A Bank Beat an Oil Giant as Brazil\u2019s Top Dividend Payer",
             "url": "https://www.riotimesonline.com/a-bank-beat-an-oil-giant-as-brazils-top-dividend-payer/",
@@ -671,34 +699,6 @@
             "title": "Banco Master\u2019s Web Reaches Into Brazil\u2019s Courts",
             "url": "https://www.riotimesonline.com/banco-masters-web-reaches-into-brazils-courts/",
             "published_at": "2026-03-05T12:36:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Scandals Close In on Brazil\u2019s Election Campaign",
-            "url": "https://www.riotimesonline.com/scandals-close-in-on-brazils-election-campaign/",
-            "published_at": "2026-03-05T12:05:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily \u2014 Thursday, March 5, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-march-5-2026/",
-            "published_at": "2026-03-05T11:53:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Foreign Cash Floods Brazil\u2019s Stock Market in 2026",
-            "url": "https://www.riotimesonline.com/foreign-cash-floods-brazils-stock-market-in-2026/",
-            "published_at": "2026-03-05T11:50:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Rumo Turns Profitable as Rail Margins Widen",
-            "url": "https://www.riotimesonline.com/brazils-rumo-turns-profitable-as-rail-margins-widen/",
-            "published_at": "2026-03-05T11:44:40+00:00",
             "category": [],
             "language": "en"
         }
