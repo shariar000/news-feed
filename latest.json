@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-09T09:10:04+00:00",
+    "updated_at": "2026-03-09T10:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Konig Takes Silver at Skate World Championship",
+            "url": "https://www.riotimesonline.com/brazils-konig-takes-silver-at-skate-world-championship/",
+            "published_at": "2026-03-09T10:04:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile IPSA Edges Up 0.16% to 10,314 but Sheds 5.2% Weekly",
+            "url": "https://www.riotimesonline.com/chile-ipsa-edges-up-0-16-to-10314-but-sheds-5-2-weekly/",
+            "published_at": "2026-03-09T09:59:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Merval Rebounds 2.15% to 2.63M; Oil Surge Tests",
+            "url": "https://www.riotimesonline.com/argentina-merval-rebounds-2-15-to-2-63m-oil-surge-tests/",
+            "published_at": "2026-03-09T09:48:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico IPC Drops 1.56% to 67,313; Peso Sheds 3.3% Weekly",
+            "url": "https://www.riotimesonline.com/mexico-ipc-drops-1-56-to-67313-peso-sheds-3-3-weekly/",
+            "published_at": "2026-03-09T09:41:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia COLCAP Dips 0.32% to 2,175; Ecopetrol +9.17%",
+            "url": "https://www.riotimesonline.com/colombia-colcap-dips-0-32-to-2175-ecopetrol-9-17/",
+            "published_at": "2026-03-09T09:34:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Retreats to $5,097 as Oil Shock Triggers Profit-Taking",
+            "url": "https://www.riotimesonline.com/gold-retreats-to-5097-as-oil-shock-triggers-profit-taking/",
+            "published_at": "2026-03-09T09:27:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Embraer 2025: Record $7.6B Revenue, $31.6B Backlog",
+            "url": "https://www.riotimesonline.com/brazils-embraer-2025-record-7-6b-revenue-31-6b-backlog/",
+            "published_at": "2026-03-09T09:20:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Holds $67K as Oil Tops $100 and NFP Prints Negative",
+            "url": "https://www.riotimesonline.com/bitcoin-holds-67k-as-oil-tops-100-and-nfp-prints-negative/",
+            "published_at": "2026-03-09T09:12:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Morning Call for Monday, March 9, 2026",
             "url": "https://www.riotimesonline.com/brazils-morning-call-for-monday-march-9-2026/",
@@ -643,62 +699,6 @@
             "title": "Chile IPSA Rebounds +2.40% to 10,495 as Copper Firms and Peso Strengthens",
             "url": "https://www.riotimesonline.com/chile-ipsa-rebounds-2-40-to-10495-as-copper-firms-and-peso/",
             "published_at": "2026-03-05T09:55:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Merval Falls \u22120.66% to 2,579,970 as Country Risk Eases to 534",
-            "url": "https://www.riotimesonline.com/argentina-merval-falls-0-66-to-2579970-as-country-risk-eases/",
-            "published_at": "2026-03-05T09:52:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Jumps +2.91% to 70,428 as Peso Recovers to 17.57",
-            "url": "https://www.riotimesonline.com/mexico-ipc-jumps-2-91-to-70428-as-peso-recovers-to-17-57/",
-            "published_at": "2026-03-05T09:48:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Rebounds +0.99% as Ecopetrol Earnings Hit a Six-Year Low",
-            "url": "https://www.riotimesonline.com/colcap-rebounds-0-99-as-ecopetrol-earnings-hit-a-six-year-low/",
-            "published_at": "2026-03-05T09:32:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold $5,144 Holds as Silver Lags; Ratio Hits 61.95",
-            "url": "https://www.riotimesonline.com/gold-5144-holds-as-silver-lags-ratio-hits-61-95/",
-            "published_at": "2026-03-05T09:26:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dollar Drops 0.89% vs Real on Iran Diplomacy Signal",
-            "url": "https://www.riotimesonline.com/dollar-drops-0-89-vs-real-on-iran-diplomacy-signal/",
-            "published_at": "2026-03-05T09:19:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Closes Flat as ETH, DOGE Lead Crypto Rebound",
-            "url": "https://www.riotimesonline.com/bitcoin-closes-flat-as-eth-doge-lead-crypto-rebound/",
-            "published_at": "2026-03-05T09:17:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Gains 1.24% as Iran Signals Ceasefire Talks",
-            "url": "https://www.riotimesonline.com/ibovespa-gains-1-24-as-iran-signals-ceasefire-talks/",
-            "published_at": "2026-03-05T09:15:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 March 5, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-march-5-2026/",
-            "published_at": "2026-03-05T09:12:21+00:00",
             "category": [],
             "language": "en"
         }
