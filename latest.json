@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-09T13:10:04+00:00",
+    "updated_at": "2026-03-09T14:10:04+00:00",
     "items": [
+        {
+            "title": "Colombia\u2019s Richest Man Bets $107M on Argentina\u2019s Oil",
+            "url": "https://www.riotimesonline.com/colombias-richest-man-bets-107m-on-argentinas-oil/",
+            "published_at": "2026-03-09T13:10:56+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America\u2019s Governments Are Censoring the Internet",
             "url": "https://www.riotimesonline.com/latin-americas-governments-are-censoring-the-internet/",
@@ -692,13 +699,6 @@
             "title": "Nubank Tops Brand Strength as Chinese Banks Reign",
             "url": "https://www.riotimesonline.com/nubank-tops-brand-strength-as-chinese-banks-reign/",
             "published_at": "2026-03-05T12:41:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco Master\u2019s Web Reaches Into Brazil\u2019s Courts",
-            "url": "https://www.riotimesonline.com/banco-masters-web-reaches-into-brazils-courts/",
-            "published_at": "2026-03-05T12:36:15+00:00",
             "category": [],
             "language": "en"
         }
