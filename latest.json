@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-09T10:10:04+00:00",
+    "updated_at": "2026-03-09T11:10:04+00:00",
     "items": [
+        {
+            "title": "Hollywood\u2019s $111B Merger Puts CNN\u2019s Future in Play",
+            "url": "https://www.riotimesonline.com/hollywoods-111b-merger-puts-cnns-future-in-play/",
+            "published_at": "2026-03-09T10:53:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Palmeiras Win S\u00e3o Paulo State Title in the Rain",
+            "url": "https://www.riotimesonline.com/palmeiras-win-sao-paulo-state-title-in-the-rain/",
+            "published_at": "2026-03-09T10:31:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Poll Puts Tarc\u00edsio Far Ahead in S\u00e3o Paulo Race",
+            "url": "https://www.riotimesonline.com/poll-puts-tarcisio-far-ahead-in-sao-paulo-race/",
+            "published_at": "2026-03-09T10:11:29+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Konig Takes Silver at Skate World Championship",
             "url": "https://www.riotimesonline.com/brazils-konig-takes-silver-at-skate-world-championship/",
@@ -678,27 +699,6 @@
             "title": "Ra\u00edzen\u2019s Owners Split as Debt Crisis Deepens",
             "url": "https://www.riotimesonline.com/raizens-owners-split-as-debt-crisis-deepens/",
             "published_at": "2026-03-05T10:23:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Ultrapar Misses Q4 EBITDA, Leverage Climbs",
-            "url": "https://www.riotimesonline.com/brazils-ultrapar-misses-q4-ebitda-leverage-climbs/",
-            "published_at": "2026-03-05T10:19:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s PagBank Beats Q4 View, Declares R$1.4B Dividend",
-            "url": "https://www.riotimesonline.com/brazils-pagbank-beats-q4-view-declares-r1-4b-dividend/",
-            "published_at": "2026-03-05T10:07:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile IPSA Rebounds +2.40% to 10,495 as Copper Firms and Peso Strengthens",
-            "url": "https://www.riotimesonline.com/chile-ipsa-rebounds-2-40-to-10495-as-copper-firms-and-peso/",
-            "published_at": "2026-03-05T09:55:38+00:00",
             "category": [],
             "language": "en"
         }
