@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-09T19:10:04+00:00",
+    "updated_at": "2026-03-09T20:10:03+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Monday, March 9, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-monday-march-9-2026/",
+            "published_at": "2026-03-09T19:14:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Is Losing the Global Race for Mining Investment",
+            "url": "https://www.riotimesonline.com/peru-is-losing-the-global-race-for-mining-investment/",
+            "published_at": "2026-03-09T19:10:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Odebrecht\u2019s Last Crown Jewel Is Changing Hands",
             "url": "https://www.riotimesonline.com/odebrechts-last-crown-jewel-is-changing-hands/",
@@ -685,20 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 Thursday, March 5, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-thursday-march-5-2026/",
             "published_at": "2026-03-05T17:32:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s First Mendoza Copper Mine Nears Financing",
-            "url": "https://www.riotimesonline.com/argentinas-first-mendoza-copper-mine-nears-financing/",
-            "published_at": "2026-03-05T17:28:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Thursday, March 5, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-thursday-march-5-2026/",
-            "published_at": "2026-03-05T17:21:08+00:00",
             "category": [],
             "language": "en"
         }
