@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-09T01:10:04+00:00",
+    "updated_at": "2026-03-09T02:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Environmental Policy 2026: A Strategic Analysis for Global Investors",
+            "url": "https://www.riotimesonline.com/brazil-environmental-policy-2026-a-strategic-analysis-for-global-investors/",
+            "published_at": "2026-03-09T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "S\u00e3o Paulo Nightlife Guide for Sunday, March 8, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-sunday-march-8-2026/",
@@ -692,13 +699,6 @@
             "title": "Latin American Pulse for Thursday, March 5, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-march-5-2026/",
             "published_at": "2026-03-05T08:49:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Events in Rio de Janeiro: A Strategic Guide to the 2026 Economic and Cultural Calendar",
-            "url": "https://www.riotimesonline.com/events-in-rio-de-janeiro-a-strategic-guide-to-the-2026-economic-and-cultural-calendar/",
-            "published_at": "2026-03-05T00:00:00+00:00",
             "category": [],
             "language": "en"
         }
