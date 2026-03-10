@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-10T08:10:04+00:00",
+    "updated_at": "2026-03-10T09:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 March 10, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-10-2026/",
+            "published_at": "2026-03-10T09:08:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Tuesday, March 10, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-tuesday-march-10-2026/",
+            "published_at": "2026-03-10T09:03:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Tuesday, March 10, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-march-10-2026/",
+            "published_at": "2026-03-10T08:58:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazilian Real Estate Funds: A Comprehensive 2026 Investor Guide",
             "url": "https://www.riotimesonline.com/brazilian-real-estate-funds-a-comprehensive-2026-investor-guide/",
@@ -678,27 +699,6 @@
             "title": "U.S. Brokers Venezuela Gold Deal Worth Over $150M",
             "url": "https://www.riotimesonline.com/u-s-brokers-venezuela-gold-deal-worth-over-150m/",
             "published_at": "2026-03-05T17:57:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petroecuador Plans Output Surge as Oil Prices Climb",
-            "url": "https://www.riotimesonline.com/petroecuador-plans-output-surge-as-oil-prices-climb/",
-            "published_at": "2026-03-05T17:45:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Thursday, March 5, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-thursday-march-5-2026/",
-            "published_at": "2026-03-05T17:40:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Ecopetrol Profit Falls 40% to Pandemic-Era Low",
-            "url": "https://www.riotimesonline.com/colombias-ecopetrol-profit-falls-40-to-pandemic-era-low/",
-            "published_at": "2026-03-05T17:35:51+00:00",
             "category": [],
             "language": "en"
         }
