@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-10T10:10:04+00:00",
+    "updated_at": "2026-03-10T11:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Tegma Profit Drops 39% as Auto Volumes Weaken",
+            "url": "https://www.riotimesonline.com/brazils-tegma-profit-drops-39-as-auto-volumes-weaken/",
+            "published_at": "2026-03-10T10:33:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Direcional Hits 44% ROE on Record Q4 EBITDA",
+            "url": "https://www.riotimesonline.com/brazils-direcional-hits-44-roe-on-record-q4-ebitda/",
+            "published_at": "2026-03-10T10:29:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump Eyes Strait of Hormuz Takeover as Oil Tops $100",
+            "url": "https://www.riotimesonline.com/trump-eyes-strait-of-hormuz-takeover-as-oil-tops-100/",
+            "published_at": "2026-03-10T10:25:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile IPSA Rebounds 1.11% to 10,429 After Intraday Plunge",
+            "url": "https://www.riotimesonline.com/chile-ipsa-rebounds-1-11-to-10429-after-intraday-plunge/",
+            "published_at": "2026-03-10T10:13:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina Merval Edges Up 0.25% to 2.63M as Oil Lifts Energy Stocks",
             "url": "https://www.riotimesonline.com/argentina-merval-edges-up-0-25-to-2-63m-as-oil-lifts-energy/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s 3tentos Profit Drops 39% as Costs Surge on Expansion",
             "url": "https://www.riotimesonline.com/brazils-3tentos-profit-drops-39-as-costs-surge-on-expansion/",
             "published_at": "2026-03-06T09:16:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Holds $70K as Stocks Crater on Iran Attack",
-            "url": "https://www.riotimesonline.com/bitcoin-holds-70k-as-stocks-crater-on-iran-attack/",
-            "published_at": "2026-03-06T09:11:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Drops 2.64% as Iran Strikes U.S. Tanker",
-            "url": "https://www.riotimesonline.com/ibovespa-drops-2-64-as-iran-strikes-u-s-tanker/",
-            "published_at": "2026-03-06T09:10:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Fleury Grows Profit 15% as Diagnostics Revenue Climbs",
-            "url": "https://www.riotimesonline.com/brazils-fleury-grows-profit-15-as-diagnostics-revenue-climbs/",
-            "published_at": "2026-03-06T09:06:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 March 6, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-march-6-2026/",
-            "published_at": "2026-03-06T09:06:53+00:00",
             "category": [],
             "language": "en"
         }
