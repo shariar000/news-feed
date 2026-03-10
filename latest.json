@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-10T13:10:04+00:00",
+    "updated_at": "2026-03-10T14:10:04+00:00",
     "items": [
+        {
+            "title": "China Soy Imports Fall 7.8% as Brazil\u2019s Harvest Lags",
+            "url": "https://www.riotimesonline.com/china-soy-imports-fall-7-8-as-brazils-harvest-lags/",
+            "published_at": "2026-03-10T13:26:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s External Debt Hits Record $247B, 54% of GDP",
+            "url": "https://www.riotimesonline.com/colombias-external-debt-hits-record-247b-54-of-gdp/",
+            "published_at": "2026-03-10T13:21:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Registers 1 Million New Small Businesses in 2 Months",
+            "url": "https://www.riotimesonline.com/brazil-registers-1-million-new-small-businesses-in-2-months/",
+            "published_at": "2026-03-10T13:16:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Your Heartbeat Lights Up a Museum in Mexico City",
             "url": "https://www.riotimesonline.com/your-heartbeat-lights-up-a-museum-in-mexico-city/",
@@ -678,27 +699,6 @@
             "title": "Brazil\u2019s Alupar Posts 51% Profit Jump in Q4 2025",
             "url": "https://www.riotimesonline.com/brazils-alupar-posts-51-profit-jump-in-q4-2025/",
             "published_at": "2026-03-06T09:51:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Eneva Swings to Profit Ahead of Key Capacity Auction",
-            "url": "https://www.riotimesonline.com/eneva-swings-to-profit-ahead-of-key-capacity-auction/",
-            "published_at": "2026-03-06T09:48:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gol Posts Strong February as Domestic Demand Surges",
-            "url": "https://www.riotimesonline.com/gol-posts-strong-february-as-domestic-demand-surges/",
-            "published_at": "2026-03-06T09:43:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Tenda Posts 5x Profit Jump, Alea Drag Persists",
-            "url": "https://www.riotimesonline.com/brazils-tenda-posts-5x-profit-jump-alea-drag-persists/",
-            "published_at": "2026-03-06T09:42:08+00:00",
             "category": [],
             "language": "en"
         }
