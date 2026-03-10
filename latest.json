@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-10T09:10:04+00:00",
+    "updated_at": "2026-03-10T10:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina Merval Edges Up 0.25% to 2.63M as Oil Lifts Energy Stocks",
+            "url": "https://www.riotimesonline.com/argentina-merval-edges-up-0-25-to-2-63m-as-oil-lifts-energy/",
+            "published_at": "2026-03-10T10:08:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Stocks Drop 0.63% to 66,890 Amid Iran Oil Shock",
+            "url": "https://www.riotimesonline.com/mexico-stocks-drop-0-63-to-66890-amid-iran-oil-shock/",
+            "published_at": "2026-03-10T10:03:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia COLCAP Rallies 2.31% to 2,226 on Election Results",
+            "url": "https://www.riotimesonline.com/colombia-colcap-rallies-2-31-to-2226-on-election-results/",
+            "published_at": "2026-03-10T09:55:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Reclaims $5,177 as Silver Surges 6.6% on Iran Signal",
+            "url": "https://www.riotimesonline.com/gold-reclaims-5177-as-silver-surges-6-6-on-iran-signal/",
+            "published_at": "2026-03-10T09:38:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dollar Falls to R$5.16 on Iran War-End Signal; Real Surges",
+            "url": "https://www.riotimesonline.com/dollar-falls-to-r5-16-on-iran-war-end-signal-real-surges/",
+            "published_at": "2026-03-10T09:25:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Surges 5% to $70.8K on Trump Iran War-End Signal",
+            "url": "https://www.riotimesonline.com/bitcoin-surges-5-to-70-8k-on-trump-iran-war-end-signal/",
+            "published_at": "2026-03-10T09:20:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Reverses to 180,915 as Trump Signals Iran War End",
+            "url": "https://www.riotimesonline.com/ibovespa-reverses-to-180915-as-trump-signals-iran-war-end/",
+            "published_at": "2026-03-10T09:14:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Global Economy Briefing \u2014 March 10, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-march-10-2026/",
@@ -650,55 +699,6 @@
             "title": "Global Economy Briefing \u2014 March 6, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-march-6-2026/",
             "published_at": "2026-03-06T09:06:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Friday, March 6, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-friday-march-6-2026/",
-            "published_at": "2026-03-06T08:56:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Friday, March 6, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-march-6-2026/",
-            "published_at": "2026-03-06T08:53:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Q4 Profit Triples to $3B on Record Production",
-            "url": "https://www.riotimesonline.com/petrobras-q4-profit-triples-to-3b-on-record-production/",
-            "published_at": "2026-03-06T08:07:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Comprehensive Guide to the Brazil Work Visa in 2026: Requirements and Strategy",
-            "url": "https://www.riotimesonline.com/comprehensive-guide-to-the-brazil-work-visa-in-2026-requirements-and-strategy/",
-            "published_at": "2026-03-06T00:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Inflation Hits 70-Year Low at 3.1%",
-            "url": "https://www.riotimesonline.com/uruguay-inflation-hits-70-year-low-at-3-1/",
-            "published_at": "2026-03-05T18:06:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Thursday, March 5, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-thursday-march-5-2026/",
-            "published_at": "2026-03-05T18:01:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "U.S. Brokers Venezuela Gold Deal Worth Over $150M",
-            "url": "https://www.riotimesonline.com/u-s-brokers-venezuela-gold-deal-worth-over-150m/",
-            "published_at": "2026-03-05T17:57:29+00:00",
             "category": [],
             "language": "en"
         }
