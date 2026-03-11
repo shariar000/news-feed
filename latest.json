@@ -1,7 +1,70 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-11T09:10:04+00:00",
+    "updated_at": "2026-03-11T10:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Allos Posts 62% Profit Jump, Record EBITDA Margin",
+            "url": "https://www.riotimesonline.com/brazils-allos-posts-62-profit-jump-record-ebitda-margin/",
+            "published_at": "2026-03-11T10:05:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Drops Criminal Probe Against Elon Musk Over X",
+            "url": "https://www.riotimesonline.com/brazil-drops-criminal-probe-against-elon-musk-over-x/",
+            "published_at": "2026-03-11T10:03:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile IPSA +1.69% as Latam Airlines Soars 7% on Oil Drop",
+            "url": "https://www.riotimesonline.com/chile-ipsa-1-69-as-latam-airlines-soars-7-on-oil-drop/",
+            "published_at": "2026-03-11T09:52:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Surges +2.56% to Lead LatAm as Argentina Country Risk Falls",
+            "url": "https://www.riotimesonline.com/merval-surges-2-56-to-lead-latam-as-argentina-country/",
+            "published_at": "2026-03-11T09:45:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico IPC Gains +0.76% as Oil Crash Eases Inflation Fears",
+            "url": "https://www.riotimesonline.com/mexico-ipc-gains-0-76-as-oil-crash-eases-inflation-fears/",
+            "published_at": "2026-03-11T09:41:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "COLCAP Jumps +2.11% as Colombian Peso Rallies on Election Results",
+            "url": "https://www.riotimesonline.com/colcap-jumps-2-11-as-colombian-peso-rallies-on-election-results/",
+            "published_at": "2026-03-11T09:32:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Silver Jumps 6.25% to $89 Outpacing Gold in Relief Rally",
+            "url": "https://www.riotimesonline.com/silver-jumps-6-25-to-89-outpacing-gold-in-relief-rally/",
+            "published_at": "2026-03-11T09:22:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dollar Falls Below 5.16 as Ceasefire Hopes Lift the Real",
+            "url": "https://www.riotimesonline.com/dollar-falls-below-5-16-as-ceasefire-hopes-lift-the-real/",
+            "published_at": "2026-03-11T09:21:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Surges 3.3% to $71K on Iran Ceasefire Hopes",
+            "url": "https://www.riotimesonline.com/bitcoin-surges-3-3-to-71k-on-iran-ceasefire-hopes/",
+            "published_at": "2026-03-11T09:14:27+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ibovespa Tops 183K on Peace Optimism; Rumo Surges 7%",
             "url": "https://www.riotimesonline.com/ibovespa-tops-183k-on-peace-optimism-rumo-surges-7/",
@@ -636,69 +699,6 @@
             "title": "USA & Canada Intelligence Brief for Friday, March 6, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-friday-march-6-2026/",
             "published_at": "2026-03-06T18:50:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Lands on US Visa Ban List of 75 Countries",
-            "url": "https://www.riotimesonline.com/uruguay-lands-on-us-visa-ban-list-of-75-countries/",
-            "published_at": "2026-03-06T18:47:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trade Wars Boost, Not Break, Panama Canal Traffic",
-            "url": "https://www.riotimesonline.com/trade-wars-boost-not-break-panama-canal-traffic/",
-            "published_at": "2026-03-06T18:28:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Three Brazilian Firms Now Worth More Than MercadoLibre",
-            "url": "https://www.riotimesonline.com/three-brazilian-firms-now-worth-more-than-mercadolibre/",
-            "published_at": "2026-03-06T18:15:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gas Rationing Hits Peru as Prices Spike Across Lima",
-            "url": "https://www.riotimesonline.com/gas-rationing-hits-peru-as-prices-spike-across-lima/",
-            "published_at": "2026-03-06T18:01:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Loft Proptech Hits 1.2M Transactions in 2025",
-            "url": "https://www.riotimesonline.com/brazils-loft-proptech-hits-1-2m-transactions-in-2025/",
-            "published_at": "2026-03-06T17:41:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Friday, March 6, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-friday-march-6-2026/",
-            "published_at": "2026-03-06T17:39:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Industrial Output Beats Forecasts in January",
-            "url": "https://www.riotimesonline.com/brazil-industrial-output-beats-forecasts-in-january/",
-            "published_at": "2026-03-06T17:24:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 March 6, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-march-6-2026/",
-            "published_at": "2026-03-06T17:17:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Friday, March 6, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-friday-march-6-2026/",
-            "published_at": "2026-03-06T17:14:09+00:00",
             "category": [],
             "language": "en"
         }
