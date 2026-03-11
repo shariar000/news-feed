@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-11T02:10:04+00:00",
+    "updated_at": "2026-03-11T03:10:05+00:00",
     "items": [
+        {
+            "title": "Navigating Public Transport Rio de Janeiro: A 2026 Guide for Expats and Investors",
+            "url": "https://www.riotimesonline.com/navigating-public-transport-rio-de-janeiro-a-2026-guide-for-expats-and-investors/",
+            "published_at": "2026-03-11T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Tuesday, March 10, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-tuesday-march-10-2026/",
@@ -692,13 +699,6 @@
             "title": "Venezuela and U.S. Reopen Embassies After 2019 Split",
             "url": "https://www.riotimesonline.com/venezuela-and-u-s-reopen-embassies-after-2019-split/",
             "published_at": "2026-03-06T12:49:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil Boom and Weak Imports Drive Brazil Trade Surplus in February",
-            "url": "https://www.riotimesonline.com/oil-boom-and-weak-imports-drive-brazil-trade-surplus-in-february/",
-            "published_at": "2026-03-06T12:43:57+00:00",
             "category": [],
             "language": "en"
         }
