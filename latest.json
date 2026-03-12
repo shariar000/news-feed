@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-12T10:10:09+00:00",
+    "updated_at": "2026-03-12T11:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Azzas 2154 Profit Jumps 31% in First Full Year",
+            "url": "https://www.riotimesonline.com/azzas-2154-profit-jumps-31-percent-first-full-merger-year/",
+            "published_at": "2026-03-12T11:02:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Cogna Posts R$220M Profit Amid One-Off Noise",
+            "url": "https://www.riotimesonline.com/cogna-profit-one-off-noise-lowest-leverage-4q25/",
+            "published_at": "2026-03-12T10:28:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Yduqs Beats EBITDA Estimates Despite Profit Dip",
+            "url": "https://www.riotimesonline.com/yduqs-beats-ebitda-estimates-premium-brands-4q25/",
+            "published_at": "2026-03-12T10:18:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s SLC Agr\u00edcola Posts Q4 Loss But Annual Profit Rises",
+            "url": "https://www.riotimesonline.com/brazils-slc-agricola-posts-q4-loss-but-annual-profit-rises/",
+            "published_at": "2026-03-12T10:11:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Espa\u00e7olaser Returns to Profit in Q4 Turnaround",
             "url": "https://www.riotimesonline.com/brazils-espacolaser-returns-to-profit-in-q4-turnaround/",
@@ -671,34 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Monday, March 9, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-monday-march-9-2026/",
             "published_at": "2026-03-09T17:22:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Richest Man Bets $107M on Argentina\u2019s Oil",
-            "url": "https://www.riotimesonline.com/colombias-richest-man-bets-107m-on-argentinas-oil/",
-            "published_at": "2026-03-09T13:10:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America\u2019s Governments Are Censoring the Internet",
-            "url": "https://www.riotimesonline.com/latin-americas-governments-are-censoring-the-internet/",
-            "published_at": "2026-03-09T13:05:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Now Has Over 1,000 Districts Under Emergency",
-            "url": "https://www.riotimesonline.com/peru-now-has-over-1000-districts-under-emergency/",
-            "published_at": "2026-03-09T13:00:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Defense Monitor \u2013 Feb 28\u2013Mar 8, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-defense-monitor-feb-28-mar-8-2026/",
-            "published_at": "2026-03-09T12:46:54+00:00",
             "category": [],
             "language": "en"
         }
