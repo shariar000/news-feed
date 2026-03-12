@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-12T18:10:04+00:00",
+    "updated_at": "2026-03-12T19:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T19:06:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Industrial Revolution Plan Maps New Zones",
+            "url": "https://www.riotimesonline.com/paraguay-industrial-revolution-plan-maps-new-zones/",
+            "published_at": "2026-03-12T18:34:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nubank Colombia Rises to Fifth-Largest Bank in 18 Months",
+            "url": "https://www.riotimesonline.com/nubank-colombia-rises-to-fifth-largest-bank-in-18-months/",
+            "published_at": "2026-03-12T18:24:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T18:17:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T18:10:33+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina Nuclear Industry Courts U.S. Investment at New York Summit",
             "url": "https://www.riotimesonline.com/argentina-nuclear-industry-courts-u-s-investment-at-new-york-summit/",
@@ -664,41 +699,6 @@
             "title": "Brazil\u2019s Tegma Profit Drops 39% as Auto Volumes Weaken",
             "url": "https://www.riotimesonline.com/brazils-tegma-profit-drops-39-as-auto-volumes-weaken/",
             "published_at": "2026-03-10T10:33:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Direcional Hits 44% ROE on Record Q4 EBITDA",
-            "url": "https://www.riotimesonline.com/brazils-direcional-hits-44-roe-on-record-q4-ebitda/",
-            "published_at": "2026-03-10T10:29:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump Eyes Strait of Hormuz Takeover as Oil Tops $100",
-            "url": "https://www.riotimesonline.com/trump-eyes-strait-of-hormuz-takeover-as-oil-tops-100/",
-            "published_at": "2026-03-10T10:25:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile IPSA Rebounds 1.11% to 10,429 After Intraday Plunge",
-            "url": "https://www.riotimesonline.com/chile-ipsa-rebounds-1-11-to-10429-after-intraday-plunge/",
-            "published_at": "2026-03-10T10:13:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Merval Edges Up 0.25% to 2.63M as Oil Lifts Energy Stocks",
-            "url": "https://www.riotimesonline.com/argentina-merval-edges-up-0-25-to-2-63m-as-oil-lifts-energy/",
-            "published_at": "2026-03-10T10:08:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stocks Drop 0.63% to 66,890 Amid Iran Oil Shock",
-            "url": "https://www.riotimesonline.com/mexico-stocks-drop-0-63-to-66890-amid-iran-oil-shock/",
-            "published_at": "2026-03-10T10:03:25+00:00",
             "category": [],
             "language": "en"
         }
