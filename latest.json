@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-12T08:10:05+00:00",
+    "updated_at": "2026-03-12T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T09:04:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T09:02:19+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Import Export Rules: A Comprehensive 2026 Business Guide",
             "url": "https://www.riotimesonline.com/brazil-import-export-rules-a-comprehensive-2026-business-guide/",
@@ -685,20 +699,6 @@
             "title": "Palmeiras Win S\u00e3o Paulo State Title in the Rain",
             "url": "https://www.riotimesonline.com/palmeiras-win-sao-paulo-state-title-in-the-rain/",
             "published_at": "2026-03-09T10:31:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Poll Puts Tarc\u00edsio Far Ahead in S\u00e3o Paulo Race",
-            "url": "https://www.riotimesonline.com/poll-puts-tarcisio-far-ahead-in-sao-paulo-race/",
-            "published_at": "2026-03-09T10:11:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Konig Takes Silver at Skate World Championship",
-            "url": "https://www.riotimesonline.com/brazils-konig-takes-silver-at-skate-world-championship/",
-            "published_at": "2026-03-09T10:04:53+00:00",
             "category": [],
             "language": "en"
         }
