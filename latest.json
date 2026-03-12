@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-12T17:10:05+00:00",
+    "updated_at": "2026-03-12T18:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina Nuclear Industry Courts U.S. Investment at New York Summit",
+            "url": "https://www.riotimesonline.com/argentina-nuclear-industry-courts-u-s-investment-at-new-york-summit/",
+            "published_at": "2026-03-12T18:01:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T17:53:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T17:48:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Thursday, March 12, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-thursday-march-12-2026/",
+            "published_at": "2026-03-12T17:21:21+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Cocoa Expansion Stalls as Prices Crash 70%",
             "url": "https://www.riotimesonline.com/brazil-cocoa-expansion-stalls-as-prices-crash-70/",
@@ -671,34 +699,6 @@
             "title": "Mexico Stocks Drop 0.63% to 66,890 Amid Iran Oil Shock",
             "url": "https://www.riotimesonline.com/mexico-stocks-drop-0-63-to-66890-amid-iran-oil-shock/",
             "published_at": "2026-03-10T10:03:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia COLCAP Rallies 2.31% to 2,226 on Election Results",
-            "url": "https://www.riotimesonline.com/colombia-colcap-rallies-2-31-to-2226-on-election-results/",
-            "published_at": "2026-03-10T09:55:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Reclaims $5,177 as Silver Surges 6.6% on Iran Signal",
-            "url": "https://www.riotimesonline.com/gold-reclaims-5177-as-silver-surges-6-6-on-iran-signal/",
-            "published_at": "2026-03-10T09:38:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dollar Falls to R$5.16 on Iran War-End Signal; Real Surges",
-            "url": "https://www.riotimesonline.com/dollar-falls-to-r5-16-on-iran-war-end-signal-real-surges/",
-            "published_at": "2026-03-10T09:25:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Surges 5% to $70.8K on Trump Iran War-End Signal",
-            "url": "https://www.riotimesonline.com/bitcoin-surges-5-to-70-8k-on-trump-iran-war-end-signal/",
-            "published_at": "2026-03-10T09:20:20+00:00",
             "category": [],
             "language": "en"
         }
