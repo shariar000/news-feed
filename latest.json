@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-12T12:10:04+00:00",
+    "updated_at": "2026-03-12T13:10:05+00:00",
     "items": [
+        {
+            "title": "Brazil Household Debt Hits Record 80% as Rate Trap Bites",
+            "url": "https://www.riotimesonline.com/brazil-household-debt-hits-record-80-as-rate-trap-bites/",
+            "published_at": "2026-03-12T13:05:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Immigration Policy Hardens as Kast Takes Power",
+            "url": "https://www.riotimesonline.com/chile-immigration-policy-hardens-as-kast-takes-power/",
+            "published_at": "2026-03-12T12:58:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Foreign Policy on Iran Splits 2026 Election",
+            "url": "https://www.riotimesonline.com/brazil-foreign-policy-on-iran-splits-2026-election/",
+            "published_at": "2026-03-12T12:32:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil External Debt Hits Record $397B, Squeezing Reserves",
             "url": "https://www.riotimesonline.com/brazil-external-debt-hits-record-397b-squeezing-reserves/",
@@ -678,27 +699,6 @@
             "title": "USA & Canada Intelligence Brief for Monday, March 9, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-monday-march-9-2026/",
             "published_at": "2026-03-09T19:14:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Is Losing the Global Race for Mining Investment",
-            "url": "https://www.riotimesonline.com/peru-is-losing-the-global-race-for-mining-investment/",
-            "published_at": "2026-03-09T19:10:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Odebrecht\u2019s Last Crown Jewel Is Changing Hands",
-            "url": "https://www.riotimesonline.com/odebrechts-last-crown-jewel-is-changing-hands/",
-            "published_at": "2026-03-09T19:08:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Wants to Ban the Online Casinos He Legalised",
-            "url": "https://www.riotimesonline.com/lula-wants-to-ban-the-online-casinos-he-legalised/",
-            "published_at": "2026-03-09T19:00:47+00:00",
             "category": [],
             "language": "en"
         }
