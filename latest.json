@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-12T02:10:04+00:00",
+    "updated_at": "2026-03-12T03:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Import Export Rules: A Comprehensive 2026 Business Guide",
+            "url": "https://www.riotimesonline.com/brazil-import-export-rules-a-comprehensive-2026-business-guide/",
+            "published_at": "2026-03-12T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 March 11, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-march-11-2026/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s Konig Takes Silver at Skate World Championship",
             "url": "https://www.riotimesonline.com/brazils-konig-takes-silver-at-skate-world-championship/",
             "published_at": "2026-03-09T10:04:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile IPSA Edges Up 0.16% to 10,314 but Sheds 5.2% Weekly",
-            "url": "https://www.riotimesonline.com/chile-ipsa-edges-up-0-16-to-10314-but-sheds-5-2-weekly/",
-            "published_at": "2026-03-09T09:59:54+00:00",
             "category": [],
             "language": "en"
         }
