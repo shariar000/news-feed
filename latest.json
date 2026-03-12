@@ -1,11 +1,53 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-12T13:10:05+00:00",
+    "updated_at": "2026-03-12T14:10:05+00:00",
     "items": [
+        {
+            "title": "Brazil Cocoa Expansion Stalls as Prices Crash 70%",
+            "url": "https://www.riotimesonline.com/brazil-cocoa-expansion-stalls-as-prices-crash-70/",
+            "published_at": "2026-03-12T13:45:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FBI Opens First Ecuador Office Amid Security Crisis",
+            "url": "https://www.riotimesonline.com/fbi-opens-first-ecuador-office-amid-security-crisis/",
+            "published_at": "2026-03-12T13:42:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Inflation Dips but Core Pressures Intensify",
+            "url": "https://www.riotimesonline.com/colombia-inflation-dips-but-core-pressures-intensify/",
+            "published_at": "2026-03-12T13:38:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico and Colombia Lead OECD in Labor Informality",
+            "url": "https://www.riotimesonline.com/mexico-and-colombia-lead-oecd-in-labor-informality/",
+            "published_at": "2026-03-12T13:25:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mercosur EU Trade Deal Moves to Provisional Application",
+            "url": "https://www.riotimesonline.com/mercosur-eu-trade-deal-moves-to-provisional-application/",
+            "published_at": "2026-03-12T13:23:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Household Debt Hits Record 80% as Rate Trap Bites",
             "url": "https://www.riotimesonline.com/brazil-household-debt-hits-record-80-as-rate-trap-bites/",
             "published_at": "2026-03-12T13:05:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela Oil Production Tops One Million Barrels Again",
+            "url": "https://www.riotimesonline.com/venezuela-oil-production-tops-one-million-barrels-again/",
+            "published_at": "2026-03-12T13:02:21+00:00",
             "category": [],
             "language": "en"
         },
@@ -657,48 +699,6 @@
             "title": "Bitcoin Surges 5% to $70.8K on Trump Iran War-End Signal",
             "url": "https://www.riotimesonline.com/bitcoin-surges-5-to-70-8k-on-trump-iran-war-end-signal/",
             "published_at": "2026-03-10T09:20:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Reverses to 180,915 as Trump Signals Iran War End",
-            "url": "https://www.riotimesonline.com/ibovespa-reverses-to-180915-as-trump-signals-iran-war-end/",
-            "published_at": "2026-03-10T09:14:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 March 10, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-march-10-2026/",
-            "published_at": "2026-03-10T09:08:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Tuesday, March 10, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-tuesday-march-10-2026/",
-            "published_at": "2026-03-10T09:03:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Tuesday, March 10, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-march-10-2026/",
-            "published_at": "2026-03-10T08:58:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Real Estate Funds: A Comprehensive 2026 Investor Guide",
-            "url": "https://www.riotimesonline.com/brazilian-real-estate-funds-a-comprehensive-2026-investor-guide/",
-            "published_at": "2026-03-10T00:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for Monday, March 9, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-monday-march-9-2026/",
-            "published_at": "2026-03-09T19:14:04+00:00",
             "category": [],
             "language": "en"
         }
