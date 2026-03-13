@@ -1,11 +1,39 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-13T13:10:05+00:00",
+    "updated_at": "2026-03-13T14:10:04+00:00",
     "items": [
+        {
+            "title": "Peru Holds Interest Rate at 4.25% as Gas Crisis Fuels Inflation",
+            "url": "https://www.riotimesonline.com/peru-interest-rate-hold-gas-crisis-inflation/",
+            "published_at": "2026-03-13T13:47:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Fiscal Contradiction: Oil Windfall Meets New Wealth Tax",
+            "url": "https://www.riotimesonline.com/colombia-wealth-tax-oil-windfall-fiscal-contradiction/",
+            "published_at": "2026-03-13T13:41:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Agribusiness Exports Hit Record $12 Billion in February",
+            "url": "https://www.riotimesonline.com/brazil-agribusiness-exports-hit-record-12-billion-in-february/",
+            "published_at": "2026-03-13T13:15:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Machado Draws 17,000 in Santiago in Largest Venezuelan Diaspora Rally Abroad",
             "url": "https://www.riotimesonline.com/machado-draws-17000-in-santiago-in-largest-venezuelan-diaspora-rally-abroad/",
             "published_at": "2026-03-13T12:59:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Takes Brasileir\u00e3o Lead as Palmeiras Stumble",
+            "url": "https://www.riotimesonline.com/sao-paulo-takes-brasileirao-lead-as-palmeiras-stumble/",
+            "published_at": "2026-03-13T12:56:23+00:00",
             "category": [],
             "language": "en"
         },
@@ -671,34 +699,6 @@
             "title": "Chile IPSA +1.69% as Latam Airlines Soars 7% on Oil Drop",
             "url": "https://www.riotimesonline.com/chile-ipsa-1-69-as-latam-airlines-soars-7-on-oil-drop/",
             "published_at": "2026-03-11T09:52:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Surges +2.56% to Lead LatAm as Argentina Country Risk Falls",
-            "url": "https://www.riotimesonline.com/merval-surges-2-56-to-lead-latam-as-argentina-country/",
-            "published_at": "2026-03-11T09:45:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Gains +0.76% as Oil Crash Eases Inflation Fears",
-            "url": "https://www.riotimesonline.com/mexico-ipc-gains-0-76-as-oil-crash-eases-inflation-fears/",
-            "published_at": "2026-03-11T09:41:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Jumps +2.11% as Colombian Peso Rallies on Election Results",
-            "url": "https://www.riotimesonline.com/colcap-jumps-2-11-as-colombian-peso-rallies-on-election-results/",
-            "published_at": "2026-03-11T09:32:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Silver Jumps 6.25% to $89 Outpacing Gold in Relief Rally",
-            "url": "https://www.riotimesonline.com/silver-jumps-6-25-to-89-outpacing-gold-in-relief-rally/",
-            "published_at": "2026-03-11T09:22:33+00:00",
             "category": [],
             "language": "en"
         }
