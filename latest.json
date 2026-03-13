@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-13T12:10:04+00:00",
+    "updated_at": "2026-03-13T13:10:05+00:00",
     "items": [
+        {
+            "title": "Machado Draws 17,000 in Santiago in Largest Venezuelan Diaspora Rally Abroad",
+            "url": "https://www.riotimesonline.com/machado-draws-17000-in-santiago-in-largest-venezuelan-diaspora-rally-abroad/",
+            "published_at": "2026-03-13T12:59:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Friday, March 13, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-friday-march-13-2026/",
@@ -692,13 +699,6 @@
             "title": "Silver Jumps 6.25% to $89 Outpacing Gold in Relief Rally",
             "url": "https://www.riotimesonline.com/silver-jumps-6-25-to-89-outpacing-gold-in-relief-rally/",
             "published_at": "2026-03-11T09:22:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dollar Falls Below 5.16 as Ceasefire Hopes Lift the Real",
-            "url": "https://www.riotimesonline.com/dollar-falls-below-5-16-as-ceasefire-hopes-lift-the-real/",
-            "published_at": "2026-03-11T09:21:35+00:00",
             "category": [],
             "language": "en"
         }
