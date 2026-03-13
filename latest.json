@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-13T02:10:03+00:00",
+    "updated_at": "2026-03-13T03:10:05+00:00",
     "items": [
+        {
+            "title": "Latin America Business News English: The 2026 Strategic Investment Report",
+            "url": "https://www.riotimesonline.com/latin-america-business-news-english-the-2026-strategic-investment-report/",
+            "published_at": "2026-03-13T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ecuador Debt Nears Target but True Burden Is 69% of GDP",
             "url": "https://www.riotimesonline.com/ecuador-debt-nears-target-but-true-burden-is-69-of-gdp/",
@@ -692,13 +699,6 @@
             "title": "Brazil Outranks Germany in Military Power \u2014 but Not for Long",
             "url": "https://www.riotimesonline.com/brazil-outranks-germany-in-military-power-but-not-for-long/",
             "published_at": "2026-03-10T11:58:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Hits Record 29,818 Exporting Companies in 2025",
-            "url": "https://www.riotimesonline.com/brazil-hits-record-29818-exporting-companies-in-2025/",
-            "published_at": "2026-03-10T11:51:17+00:00",
             "category": [],
             "language": "en"
         }
