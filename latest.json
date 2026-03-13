@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-13T08:10:07+00:00",
+    "updated_at": "2026-03-13T09:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 March 13, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-13-2026/",
+            "published_at": "2026-03-13T09:04:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Friday, March 13, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-friday-march-13-2026/",
+            "published_at": "2026-03-13T09:00:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Friday, March 13, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-march-13-2026/",
+            "published_at": "2026-03-13T08:55:42+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Business News English: The 2026 Strategic Investment Report",
             "url": "https://www.riotimesonline.com/latin-america-business-news-english-the-2026-strategic-investment-report/",
@@ -678,27 +699,6 @@
             "title": "Your Heartbeat Lights Up a Museum in Mexico City",
             "url": "https://www.riotimesonline.com/your-heartbeat-lights-up-a-museum-in-mexico-city/",
             "published_at": "2026-03-10T12:59:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump\u2019s Loyalty Test Splits the Americas in Two",
-            "url": "https://www.riotimesonline.com/trumps-loyalty-test-splits-the-americas-in-two/",
-            "published_at": "2026-03-10T12:45:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Tuesday, March 10, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-tuesday-march-10-2026/",
-            "published_at": "2026-03-10T12:00:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Outranks Germany in Military Power \u2014 but Not for Long",
-            "url": "https://www.riotimesonline.com/brazil-outranks-germany-in-military-power-but-not-for-long/",
-            "published_at": "2026-03-10T11:58:10+00:00",
             "category": [],
             "language": "en"
         }
