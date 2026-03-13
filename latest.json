@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-13T10:10:05+00:00",
+    "updated_at": "2026-03-13T11:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Friday, March 13, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-march-13-2026/",
+            "published_at": "2026-03-13T11:09:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Randoncorp Posts Q4 Loss as Cycle Bottoms",
+            "url": "https://www.riotimesonline.com/brazils-randoncorp-posts-q4-loss-as-cycle-bottoms/",
+            "published_at": "2026-03-13T10:17:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Energisa Recurring Profit Surges 150% in Q4",
+            "url": "https://www.riotimesonline.com/brazils-energisa-recurring-profit-surges-150-in-q4/",
+            "published_at": "2026-03-13T10:12:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Vittia Profit Drops 31% on Farm Cost Squeeze",
             "url": "https://www.riotimesonline.com/brazils-vittia-profit-drops-31-on-farm-cost-squeeze/",
@@ -678,27 +699,6 @@
             "title": "USA & Canada Intelligence Brief for Tuesday, March 10, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-tuesday-march-10-2026/",
             "published_at": "2026-03-10T19:05:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Risk Premium Jumps as Kast\u2019s Austerity Hits Reality",
-            "url": "https://www.riotimesonline.com/chiles-risk-premium-jumps-as-kasts-austerity-hits-reality/",
-            "published_at": "2026-03-10T19:03:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay Rises to Fourth Freest Economy in South America",
-            "url": "https://www.riotimesonline.com/paraguay-rises-to-fourth-freest-economy-in-south-america/",
-            "published_at": "2026-03-10T18:58:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Leads Latin America in GDP Per Capita by $5,000",
-            "url": "https://www.riotimesonline.com/uruguay-leads-latin-america-in-gdp-per-capita-by-5000/",
-            "published_at": "2026-03-10T18:51:51+00:00",
             "category": [],
             "language": "en"
         }
