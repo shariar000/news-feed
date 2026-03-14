@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-14T02:10:04+00:00",
+    "updated_at": "2026-03-14T03:10:04+00:00",
     "items": [
+        {
+            "title": "Healthcare in Brazil for Expats: A Comprehensive 2026 Guide to Systems and Costs",
+            "url": "https://www.riotimesonline.com/healthcare-in-brazil-for-expats-a-comprehensive-2026-guide-to-systems-and-costs/",
+            "published_at": "2026-03-14T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Intelligence Brief \u2014 March 13, 2026",
             "url": "https://www.riotimesonline.com/europe-intel-brief-defence-nuclear-iran-trade/",
@@ -692,13 +699,6 @@
             "title": "Venezuela Opens Its Gold and Rare Earths to U.S. Mining",
             "url": "https://www.riotimesonline.com/venezuela-opens-its-gold-and-rare-earths-to-u-s-mining/",
             "published_at": "2026-03-11T13:23:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula\u2019s Son Becomes His Biggest Campaign Liability",
-            "url": "https://www.riotimesonline.com/lulas-son-becomes-his-biggest-campaign-liability/",
-            "published_at": "2026-03-11T13:22:37+00:00",
             "category": [],
             "language": "en"
         }
