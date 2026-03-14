@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-14T07:10:04+00:00",
+    "updated_at": "2026-03-14T08:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Saturday, March 14, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-cuba-talks-ecuador-curfew-kast/",
+            "published_at": "2026-03-14T07:41:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 March 14, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-14-2026/",
+            "published_at": "2026-03-14T07:26:04+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Healthcare in Brazil for Expats: A Comprehensive 2026 Guide to Systems and Costs",
             "url": "https://www.riotimesonline.com/healthcare-in-brazil-for-expats-a-comprehensive-2026-guide-to-systems-and-costs/",
@@ -685,20 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Wednesday, March 11, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-wednesday-march-11-2026/",
             "published_at": "2026-03-11T17:21:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Eyes 2.5% Growth but Risks Cloud the Horizon",
-            "url": "https://www.riotimesonline.com/chile-eyes-2-5-growth-but-risks-cloud-the-horizon/",
-            "published_at": "2026-03-11T13:27:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela Opens Its Gold and Rare Earths to U.S. Mining",
-            "url": "https://www.riotimesonline.com/venezuela-opens-its-gold-and-rare-earths-to-u-s-mining/",
-            "published_at": "2026-03-11T13:23:12+00:00",
             "category": [],
             "language": "en"
         }
