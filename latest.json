@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-15T21:10:04+00:00",
+    "updated_at": "2026-03-15T22:10:04+00:00",
     "items": [
+        {
+            "title": "Key Market Events for the Week of March 16\u201320, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-march-1620-2026/",
+            "published_at": "2026-03-15T21:16:36+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Nightlife Guide for Sunday, March 15, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-sunday-march-15-2026/",
@@ -692,13 +699,6 @@
             "title": "Latin American Pulse for Thursday, March 12, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-march-12-2026/",
             "published_at": "2026-03-12T09:02:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Import Export Rules: A Comprehensive 2026 Business Guide",
-            "url": "https://www.riotimesonline.com/brazil-import-export-rules-a-comprehensive-2026-business-guide/",
-            "published_at": "2026-03-12T00:00:00+00:00",
             "category": [],
             "language": "en"
         }
