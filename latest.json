@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-15T02:10:04+00:00",
+    "updated_at": "2026-03-15T03:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil News Weekly: Analyzing the 2026 Political and Economic Landscape",
+            "url": "https://www.riotimesonline.com/brazil-news-weekly-analyzing-the-2026-political-and-economic-landscape/",
+            "published_at": "2026-03-15T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "S\u00e3o Paulo Nightlife Guide for Saturday, March 14, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-march-14-2026/",
@@ -692,13 +699,6 @@
             "title": "Latin America Tourism Investment Surges at SAHIC Rio",
             "url": "https://www.riotimesonline.com/latin-america-tourism-investment-surges-at-sahic-rio/",
             "published_at": "2026-03-11T18:13:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Smart Fit Posts Record Expansion With 2,084 Gyms",
-            "url": "https://www.riotimesonline.com/brazils-smart-fit-posts-record-expansion-with-2084-gyms/",
-            "published_at": "2026-03-11T17:57:27+00:00",
             "category": [],
             "language": "en"
         }
