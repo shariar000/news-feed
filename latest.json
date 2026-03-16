@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-16T19:10:05+00:00",
+    "updated_at": "2026-03-16T20:10:05+00:00",
     "items": [
+        {
+            "title": "Oncoclinicas, Porto Seguro Eye R$1B Oncology JV",
+            "url": "https://www.riotimesonline.com/oncoclinicas-porto-seguro-oncology-venture-brazil/",
+            "published_at": "2026-03-16T20:00:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gulf Economies Face Worst Shock Since 1990s",
+            "url": "https://www.riotimesonline.com/gulf-economies-iran-war-shock-hormuz-1990s/",
+            "published_at": "2026-03-16T19:42:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 March 16, 2026",
+            "url": "https://www.riotimesonline.com/europe-intel-brief-hormuz-refusal-gas-surge-defence/",
+            "published_at": "2026-03-16T19:32:06+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ecuador Deploys 75,000 in U.S.-Backed Drug War",
             "url": "https://www.riotimesonline.com/ecuador-military-operation-drug-trafficking-us-support/",
@@ -678,27 +699,6 @@
             "title": "USA & Canada Intelligence Brief for Thursday, March 12, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-thursday-march-12-2026/",
             "published_at": "2026-03-12T19:06:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay Industrial Revolution Plan Maps New Zones",
-            "url": "https://www.riotimesonline.com/paraguay-industrial-revolution-plan-maps-new-zones/",
-            "published_at": "2026-03-12T18:34:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nubank Colombia Rises to Fifth-Largest Bank in 18 Months",
-            "url": "https://www.riotimesonline.com/nubank-colombia-rises-to-fifth-largest-bank-in-18-months/",
-            "published_at": "2026-03-12T18:24:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Thursday, March 12, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-thursday-march-12-2026/",
-            "published_at": "2026-03-12T18:17:08+00:00",
             "category": [],
             "language": "en"
         }
