@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-16T18:10:04+00:00",
+    "updated_at": "2026-03-16T19:10:05+00:00",
     "items": [
+        {
+            "title": "Ecuador Deploys 75,000 in U.S.-Backed Drug War",
+            "url": "https://www.riotimesonline.com/ecuador-military-operation-drug-trafficking-us-support/",
+            "published_at": "2026-03-16T19:07:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Industrial Output Falls Again in Jan",
+            "url": "https://www.riotimesonline.com/colombia-industrial-production-january-2026-contraction/",
+            "published_at": "2026-03-16T18:26:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Asia Intelligence Brief \u2014 March 16, 2026",
             "url": "https://www.riotimesonline.com/asia-intel-brief-hormuz-coalition-paris-talks-india/",
@@ -685,20 +699,6 @@
             "title": "Europe Intelligence Brief for Thursday, March 12, 2026",
             "url": "https://www.riotimesonline.com/europe-intelligence-brief-for-thursday-march-12-2026/",
             "published_at": "2026-03-12T18:17:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Thursday, March 12, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-thursday-march-12-2026/",
-            "published_at": "2026-03-12T18:10:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Nuclear Industry Courts U.S. Investment at New York Summit",
-            "url": "https://www.riotimesonline.com/argentina-nuclear-industry-courts-u-s-investment-at-new-york-summit/",
-            "published_at": "2026-03-12T18:01:46+00:00",
             "category": [],
             "language": "en"
         }
