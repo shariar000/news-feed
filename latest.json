@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-16T09:10:04+00:00",
+    "updated_at": "2026-03-16T10:10:05+00:00",
     "items": [
+        {
+            "title": "Merval Index Falls 1.96% but Holds Weekly Gains",
+            "url": "https://www.riotimesonline.com/merval-index-falls-1-96-but-holds-weekly-gains/",
+            "published_at": "2026-03-16T10:07:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Stock Market IPC Drops as Peso Nears 18",
+            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-drops-as-peso-nears-18/",
+            "published_at": "2026-03-16T10:02:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Q4 Earnings Hit Record Lows on Beat Rates as Selic Bites",
+            "url": "https://www.riotimesonline.com/brazil-q4-earnings-disappointing-selic-rate-cut/",
+            "published_at": "2026-03-16T09:59:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Stock Market COLCAP: Ecopetrol Surges 9%",
+            "url": "https://www.riotimesonline.com/colombia-stock-market-colcap-ecopetrol-surges-9/",
+            "published_at": "2026-03-16T09:54:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Falls as War, Copom Fears Mount",
+            "url": "https://www.riotimesonline.com/ibovespa-falls-as-war-copom-fears-mount/",
+            "published_at": "2026-03-16T09:43:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Rallies 8.5% Weekly, Outperforms Stocks",
+            "url": "https://www.riotimesonline.com/bitcoin-rallies-outperforms-stocks-war/",
+            "published_at": "2026-03-16T09:41:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, March 16, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-kharg-island-copom-ecuador-curfew/",
+            "published_at": "2026-03-16T09:35:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Monday, March 16, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-monday-march-16-2026/",
+            "published_at": "2026-03-16T09:10:11+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The History of Samba: From Marginalised Roots to a Multi-Billion Dollar Industry",
             "url": "https://www.riotimesonline.com/the-history-of-samba-from-marginalised-roots-to-a-multi-billion-dollar-industry/",
@@ -643,62 +699,6 @@
             "title": "Brazil\u2019s Espa\u00e7olaser Returns to Profit in Q4 Turnaround",
             "url": "https://www.riotimesonline.com/brazils-espacolaser-returns-to-profit-in-q4-turnaround/",
             "published_at": "2026-03-12T10:07:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Stock Market IPSA Today Falls 0.94% on Oil Anxiety",
-            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-today-falls-0-94-on-oil-anxiety/",
-            "published_at": "2026-03-12T09:54:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Index Today Surges 2.61% as Argentina Bucks Selloff",
-            "url": "https://www.riotimesonline.com/merval-index-today-surges-2-61-as-argentina-bucks-selloff/",
-            "published_at": "2026-03-12T09:49:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stock Market IPC Today Gains 0.24% Despite Oil Shock",
-            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-today-gains-0-24-despite-oil-shock/",
-            "published_at": "2026-03-12T09:45:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Edges Up 0.12% as Colombia\u2019s Post-Election Rally Cools",
-            "url": "https://www.riotimesonline.com/colcap-edges-up-0-12-as-colombias-post-election-rally-cools/",
-            "published_at": "2026-03-12T09:39:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Slips to $69,801 While Strategy Buys $1.28B",
-            "url": "https://www.riotimesonline.com/bitcoin-slips-to-69801-while-strategy-buys-1-28b/",
-            "published_at": "2026-03-12T09:30:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Edges Higher as Petrobras Rides $92 Brent Surge",
-            "url": "https://www.riotimesonline.com/ibovespa-edges-higher-as-petrobras-rides-92-brent-surge/",
-            "published_at": "2026-03-12T09:23:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 March 12, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-march-12-2026/",
-            "published_at": "2026-03-12T09:16:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Thursday, March 12, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-march-12-2026/",
-            "published_at": "2026-03-12T09:04:17+00:00",
             "category": [],
             "language": "en"
         }
