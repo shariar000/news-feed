@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-16T16:10:03+00:00",
+    "updated_at": "2026-03-16T17:10:06+00:00",
     "items": [
         {
             "title": "Ecuador Violence: Six Killed at Graduation Party",
@@ -83,6 +83,13 @@
             "title": "Healthcare in Brazil for Foreigners: SUS, Private Insurance & What Expats Need to Know",
             "url": "https://www.riotimesonline.com/healthcare-in-brazil-for-foreigners-sus-private-insurance-what-expats-need-to-know/",
             "published_at": "2026-03-16T12:12:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Monday, March 16, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-monday-march-16-2026/",
+            "published_at": "2026-03-16T11:58:06+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "Brazil Cocoa Expansion Stalls as Prices Crash 70%",
             "url": "https://www.riotimesonline.com/brazil-cocoa-expansion-stalls-as-prices-crash-70/",
             "published_at": "2026-03-12T13:45:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "FBI Opens First Ecuador Office Amid Security Crisis",
-            "url": "https://www.riotimesonline.com/fbi-opens-first-ecuador-office-amid-security-crisis/",
-            "published_at": "2026-03-12T13:42:09+00:00",
             "category": [],
             "language": "en"
         }
