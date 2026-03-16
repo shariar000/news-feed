@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-16T20:10:05+00:00",
+    "updated_at": "2026-03-16T21:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 March 16, 2026",
+            "url": "https://www.riotimesonline.com/us-canada-intel-brief-fomc-hormuz-coalition-paris/",
+            "published_at": "2026-03-16T20:26:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Pushes Tourism Beyond Machu Picchu as Limits Bite",
+            "url": "https://www.riotimesonline.com/peru-tourism-beyond-machu-picchu-diversification/",
+            "published_at": "2026-03-16T20:22:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Construction Stalls on $360M State Debt",
+            "url": "https://www.riotimesonline.com/paraguay-construction-slowdown-state-debt-mopc/",
+            "published_at": "2026-03-16T20:11:36+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Oncoclinicas, Porto Seguro Eye R$1B Oncology JV",
             "url": "https://www.riotimesonline.com/oncoclinicas-porto-seguro-oncology-venture-brazil/",
@@ -678,27 +699,6 @@
             "title": "Ecuador Debt Nears Target but True Burden Is 69% of GDP",
             "url": "https://www.riotimesonline.com/ecuador-debt-nears-target-but-true-burden-is-69-of-gdp/",
             "published_at": "2026-03-12T19:48:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Diesel Tax Cut Offset by Oil Export Levy in War Package",
-            "url": "https://www.riotimesonline.com/brazil-diesel-tax-cut-offset-by-oil-export-levy-in-war-package/",
-            "published_at": "2026-03-12T19:36:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Iran Still Controls Hormuz After Losing Its Navy",
-            "url": "https://www.riotimesonline.com/why-iran-still-controls-hormuz-after-losing-its-navy/",
-            "published_at": "2026-03-12T19:26:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for Thursday, March 12, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-for-thursday-march-12-2026/",
-            "published_at": "2026-03-12T19:06:20+00:00",
             "category": [],
             "language": "en"
         }
