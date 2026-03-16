@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-16T00:10:04+00:00",
+    "updated_at": "2026-03-16T01:10:04+00:00",
     "items": [
+        {
+            "title": "The History of Samba: From Marginalised Roots to a Multi-Billion Dollar Industry",
+            "url": "https://www.riotimesonline.com/the-history-of-samba-from-marginalised-roots-to-a-multi-billion-dollar-industry/",
+            "published_at": "2026-03-16T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of March 16\u201320, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-march-1620-2026/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s Morning Call for Thursday, March 12, 2026",
             "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-march-12-2026/",
             "published_at": "2026-03-12T09:04:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, March 12, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-march-12-2026/",
-            "published_at": "2026-03-12T09:02:19+00:00",
             "category": [],
             "language": "en"
         }
