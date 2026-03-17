@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-17T00:10:05+00:00",
+    "updated_at": "2026-03-17T01:10:04+00:00",
     "items": [
+        {
+            "title": "The Cost of Living in Rio de Janeiro: A Comprehensive 2026 Economic Analysis",
+            "url": "https://www.riotimesonline.com/the-cost-of-living-in-rio-de-janeiro-a-comprehensive-2026-economic-analysis/",
+            "published_at": "2026-03-17T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 March 16, 2026",
             "url": "https://www.riotimesonline.com/us-canada-intel-brief-fomc-hormuz-coalition-paris/",
@@ -692,13 +699,6 @@
             "title": "Latin America Business News English: The 2026 Strategic Investment Report",
             "url": "https://www.riotimesonline.com/latin-america-business-news-english-the-2026-strategic-investment-report/",
             "published_at": "2026-03-13T00:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Debt Nears Target but True Burden Is 69% of GDP",
-            "url": "https://www.riotimesonline.com/ecuador-debt-nears-target-but-true-burden-is-69-of-gdp/",
-            "published_at": "2026-03-12T19:48:44+00:00",
             "category": [],
             "language": "en"
         }
