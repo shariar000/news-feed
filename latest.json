@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-17T18:10:04+00:00",
+    "updated_at": "2026-03-17T19:10:04+00:00",
     "items": [
+        {
+            "title": "Colombia, Venezuela Sign Border Defense Pact",
+            "url": "https://www.riotimesonline.com/colombia-venezuela-border-defense-pact-mirror-operations/",
+            "published_at": "2026-03-17T18:30:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Gross Debt Reaches All-Time High at 65% of GDP",
+            "url": "https://www.riotimesonline.com/colombia-debt-record-65-percent-gdp-fiscal-crisis/",
+            "published_at": "2026-03-17T18:26:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 March 17, 2026",
+            "url": "https://www.riotimesonline.com/asia-intel-brief-japan-summit-indonesia-rate-hold/",
+            "published_at": "2026-03-17T18:18:42+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Arauco Races to Avoid Junk Status on Brazil Bet",
             "url": "https://www.riotimesonline.com/arauco-sucuriu-pulp-mill-credit-rating-brazil/",
@@ -678,27 +699,6 @@
             "title": "Cuba Confirms U.S. Talks After Weeks of Denial and Crisis",
             "url": "https://www.riotimesonline.com/cuba-confirms-us-talks-oil-blockade-crisis/",
             "published_at": "2026-03-13T18:50:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 March 13, 2026",
-            "url": "https://www.riotimesonline.com/asia-intel-brief-pakistan-kandahar-korea-fuel-cap/",
-            "published_at": "2026-03-13T18:16:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Inflation Beats Forecasts at 2.9% as Iran War Adds Pressure",
-            "url": "https://www.riotimesonline.com/argentina-inflation-february-2026-iran-war-pressure/",
-            "published_at": "2026-03-13T18:10:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "American Airlines Doubles Rio-Miami Flights in Brazil Push",
-            "url": "https://www.riotimesonline.com/american-airlines-rio-miami-flights-expansion-brazil/",
-            "published_at": "2026-03-13T18:03:34+00:00",
             "category": [],
             "language": "en"
         }
