@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-17T08:10:04+00:00",
+    "updated_at": "2026-03-17T09:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Tuesday, March 17, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-ecuador-75k-troops-bolivia-vote-shield/",
+            "published_at": "2026-03-17T09:07:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Tuesday, March 17, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-copom-decision/",
+            "published_at": "2026-03-17T09:03:02+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The Cost of Living in Rio de Janeiro: A Comprehensive 2026 Economic Analysis",
             "url": "https://www.riotimesonline.com/the-cost-of-living-in-rio-de-janeiro-a-comprehensive-2026-economic-analysis/",
@@ -685,20 +699,6 @@
             "title": "Brazil\u2019s Morning Call for Friday, March 13, 2026",
             "url": "https://www.riotimesonline.com/brazils-morning-call-for-friday-march-13-2026/",
             "published_at": "2026-03-13T09:00:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Friday, March 13, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-march-13-2026/",
-            "published_at": "2026-03-13T08:55:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Business News English: The 2026 Strategic Investment Report",
-            "url": "https://www.riotimesonline.com/latin-america-business-news-english-the-2026-strategic-investment-report/",
-            "published_at": "2026-03-13T00:00:00+00:00",
             "category": [],
             "language": "en"
         }
