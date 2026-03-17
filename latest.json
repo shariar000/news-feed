@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-17T10:10:04+00:00",
+    "updated_at": "2026-03-17T11:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s QuintoAndar Launches First LATAM Real Estate ChatGPT App",
+            "url": "https://www.riotimesonline.com/quintoandar-chatgpt-real-estate-ai-brazil/",
+            "published_at": "2026-03-17T10:36:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Comando Vermelho Breaches PCC\u2019s S\u00e3o Paulo Heartland",
+            "url": "https://www.riotimesonline.com/brazil-drug-trafficking-rivalry-cv-pcc-rota-caipira/",
+            "published_at": "2026-03-17T10:17:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile IPSA Jumps 1.13% as Copper Rebound Lifts Peso Below 911",
             "url": "https://www.riotimesonline.com/chile-ipsa-copper-rally-peso-strengthens/",
@@ -685,20 +699,6 @@
             "title": "Brazil\u2019s Vittia Profit Drops 31% on Farm Cost Squeeze",
             "url": "https://www.riotimesonline.com/brazils-vittia-profit-drops-31-on-farm-cost-squeeze/",
             "published_at": "2026-03-13T10:07:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Magalu Profits Despite 15% Interest Rates",
-            "url": "https://www.riotimesonline.com/brazils-magalu-profits-despite-15-interest-rates/",
-            "published_at": "2026-03-13T09:59:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vivo Returns R$4 Billion to Shareholders in Capital Cut",
-            "url": "https://www.riotimesonline.com/vivo-returns-r4-billion-to-shareholders-in-capital-cut/",
-            "published_at": "2026-03-13T09:55:53+00:00",
             "category": [],
             "language": "en"
         }
