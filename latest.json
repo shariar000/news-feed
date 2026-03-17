@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-17T19:10:04+00:00",
+    "updated_at": "2026-03-17T20:10:04+00:00",
     "items": [
+        {
+            "title": "Europe Intelligence Brief \u2014 March 17, 2026",
+            "url": "https://www.riotimesonline.com/europe-intel-brief-energy-emergency-ecb-defence/",
+            "published_at": "2026-03-17T19:48:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cuba Invites Diaspora to Own Businesses for First Time",
+            "url": "https://www.riotimesonline.com/cuba-economy-diaspora-investment-reform/",
+            "published_at": "2026-03-17T19:22:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Colombia, Venezuela Sign Border Defense Pact",
             "url": "https://www.riotimesonline.com/colombia-venezuela-border-defense-pact-mirror-operations/",
@@ -685,20 +699,6 @@
             "title": "Global Economy Briefing \u2014 March 14, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-march-14-2026/",
             "published_at": "2026-03-14T07:26:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Healthcare in Brazil for Expats: A Comprehensive 2026 Guide to Systems and Costs",
-            "url": "https://www.riotimesonline.com/healthcare-in-brazil-for-expats-a-comprehensive-2026-guide-to-systems-and-costs/",
-            "published_at": "2026-03-14T00:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cuba Confirms U.S. Talks After Weeks of Denial and Crisis",
-            "url": "https://www.riotimesonline.com/cuba-confirms-us-talks-oil-blockade-crisis/",
-            "published_at": "2026-03-13T18:50:33+00:00",
             "category": [],
             "language": "en"
         }
