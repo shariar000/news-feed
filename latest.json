@@ -1,7 +1,70 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-17T09:10:04+00:00",
+    "updated_at": "2026-03-17T10:10:04+00:00",
     "items": [
+        {
+            "title": "Chile IPSA Jumps 1.13% as Copper Rebound Lifts Peso Below 911",
+            "url": "https://www.riotimesonline.com/chile-ipsa-copper-rally-peso-strengthens/",
+            "published_at": "2026-03-17T09:57:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Argentina Today Falls 1.4% as Country Risk Hits 601 bps",
+            "url": "https://www.riotimesonline.com/merval-argentina-country-risk-601-selloff/",
+            "published_at": "2026-03-17T09:48:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico IPC Today Falls 0.66% as Fourth Losing Week Tests 65,000 Floor",
+            "url": "https://www.riotimesonline.com/mexico-ipc-fourth-losing-week-peso-18/",
+            "published_at": "2026-03-17T09:41:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lula\u2019s Son Linked to INSS Fraud Probe",
+            "url": "https://www.riotimesonline.com/lulinha-inss-investigation-police-defense-brazil/",
+            "published_at": "2026-03-17T09:39:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "COLCAP Colombia Today Edges Up 0.22% as Reficar Shutdown Tests Oil Rally",
+            "url": "https://www.riotimesonline.com/colcap-colombia-reficar-shutdown-oil-rally/",
+            "published_at": "2026-03-17T09:31:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Rallies 1.25% on Oil Relief, Treasury",
+            "url": "https://www.riotimesonline.com/ibovespa-oil-relief-treasury-copom-rally/",
+            "published_at": "2026-03-17T09:26:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Focus Survey: Brazil Inflation Forecast Spikes to 4.1%",
+            "url": "https://www.riotimesonline.com/brazil-focus-report-ipca-selic-march-2026/",
+            "published_at": "2026-03-17T09:23:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Holds $74K as Strategy Buys $1.6B",
+            "url": "https://www.riotimesonline.com/bitcoin-strategy-buys-etf-inflows-fomc/",
+            "published_at": "2026-03-17T09:18:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 March 17, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-17-2026/",
+            "published_at": "2026-03-17T09:15:36+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Tuesday, March 17, 2026",
             "url": "https://www.riotimesonline.com/latam-pulse-ecuador-75k-troops-bolivia-vote-shield/",
@@ -636,69 +699,6 @@
             "title": "Vivo Returns R$4 Billion to Shareholders in Capital Cut",
             "url": "https://www.riotimesonline.com/vivo-returns-r4-billion-to-shareholders-in-capital-cut/",
             "published_at": "2026-03-13T09:55:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Eztec Delivers 32% Annual Profit Growth",
-            "url": "https://www.riotimesonline.com/brazils-eztec-delivers-32-annual-profit-growth/",
-            "published_at": "2026-03-13T09:45:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Stock Market IPSA Drops 1% on $100 Brent",
-            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-drops-1-on-100-brent/",
-            "published_at": "2026-03-13T09:30:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Index Falls 2.71% as Banks Crash on Oil Shock",
-            "url": "https://www.riotimesonline.com/argentinas-merval-index-falls-2-71-as-banks-crash-on-oil-shock/",
-            "published_at": "2026-03-13T09:26:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stock Market IPC Today Drops as Peso Hits 17.85",
-            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-today-drops-as-peso-hits-17-85/",
-            "published_at": "2026-03-13T09:23:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Stock Market COLCAP Plunges 4.5% as Oil Hits $100",
-            "url": "https://www.riotimesonline.com/colombia-stock-market-colcap-plunges-4-5-as-oil-hits-100/",
-            "published_at": "2026-03-13T09:21:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Decouples From Equities at $71,465 on Iran Rout",
-            "url": "https://www.riotimesonline.com/bitcoin-decouples-from-equities-at-71465-on-iran-rout/",
-            "published_at": "2026-03-13T09:18:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Sinks 2.5% With Only Six Stocks Closing Green",
-            "url": "https://www.riotimesonline.com/ibovespa-sinks-2-5-with-only-six-stocks-closing-green/",
-            "published_at": "2026-03-13T09:13:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 March 13, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-march-13-2026/",
-            "published_at": "2026-03-13T09:04:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Friday, March 13, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-friday-march-13-2026/",
-            "published_at": "2026-03-13T09:00:06+00:00",
             "category": [],
             "language": "en"
         }
