@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-18T10:10:05+00:00",
+    "updated_at": "2026-03-18T11:10:04+00:00",
     "items": [
+        {
+            "title": "Chile Stock Market IPSA Today Edges Up 0.34% as Peso Strengthens and Fed Decision Looms",
+            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-peso-strengthens-fed/",
+            "published_at": "2026-03-18T10:37:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Poll Shows Lula Below Every Reelected President Since 2002",
+            "url": "https://www.riotimesonline.com/lula-approval-rating-below-reelection-threshold/",
+            "published_at": "2026-03-18T10:29:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Index Surges 2.18% as Country Risk Drops Below 600 and BCRA Hits 50-Session Buying Streak",
+            "url": "https://www.riotimesonline.com/merval-argentina-surges-country-risk-drops/",
+            "published_at": "2026-03-18T10:29:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Stock Market IPC Today Rebounds 0.83% as Peso Rallies and T-MEC Talks Begin",
+            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-rebounds-peso-strengthens/",
+            "published_at": "2026-03-18T10:23:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "COLCAP Colombia Today Flat at 2,184 as Reficar Restart and Fed Decision Loom",
+            "url": "https://www.riotimesonline.com/colcap-colombia-reficar-restart-fed-decision/",
+            "published_at": "2026-03-18T10:14:29+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Banco Master Plea Deal Threatens All of Bras\u00edlia",
             "url": "https://www.riotimesonline.com/banco-master-vorcaro-plea-deal-brazil-scandal/",
@@ -664,41 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Sunday, March 15, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-march-15-2026/",
             "published_at": "2026-03-15T09:49:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 March 13, 2026",
-            "url": "https://www.riotimesonline.com/africa-intel-brief-standard-bank-congo-election/",
-            "published_at": "2026-03-15T05:47:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia China Trade Surges 350% as Beijing Becomes Top Export Market",
-            "url": "https://www.riotimesonline.com/bolivia-china-trade-exports-surge-top-market/",
-            "published_at": "2026-03-15T05:46:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 March 13, 2026",
-            "url": "https://www.riotimesonline.com/europe-intel-brief-defence-nuclear-iran-trade/",
-            "published_at": "2026-03-15T05:41:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 March 13, 2026",
-            "url": "https://www.riotimesonline.com/us-canada-intel-brief-arctic-defence-fomc-trade/",
-            "published_at": "2026-03-15T05:40:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Top DEA Fugitive Marset Captured in Bolivia, Flown to U.S.",
-            "url": "https://www.riotimesonline.com/marset-captured-bolivia-dea-fugitive-santa-cruz/",
-            "published_at": "2026-03-15T05:19:38+00:00",
             "category": [],
             "language": "en"
         }
