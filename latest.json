@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-18T08:10:04+00:00",
+    "updated_at": "2026-03-18T09:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Wednesday, March 18, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-cuba-protests-copom-decision/",
+            "published_at": "2026-03-18T08:58:35+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazilian Holidays 2026: A Comprehensive Guide for Investors and Expats",
             "url": "https://www.riotimesonline.com/brazilian-holidays-2026-a-comprehensive-guide-for-investors-and-expats/",
@@ -692,13 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Saturday, March 14, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-saturday-march-14-2026/",
             "published_at": "2026-03-14T15:05:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Saturday, March 14, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-wbc-quarterfinals-brasileirao-apertura/",
-            "published_at": "2026-03-14T09:14:11+00:00",
             "category": [],
             "language": "en"
         }
