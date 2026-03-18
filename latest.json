@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-18T17:10:05+00:00",
+    "updated_at": "2026-03-18T18:10:04+00:00",
     "items": [
+        {
+            "title": "Africa Intelligence Brief \u2014 March 18, 2026",
+            "url": "https://www.riotimesonline.com/africa-intel-brief-sa-cpi-congo-election-drc-coltan/",
+            "published_at": "2026-03-18T18:06:36+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Tax Reform: The Complete Guide for Investors",
             "url": "https://www.riotimesonline.com/brazil-tax-reform-complete-guide/",
@@ -13,6 +20,20 @@
             "title": "Mercosur EU Trade Deal: The Complete Guide for Investors",
             "url": "https://www.riotimesonline.com/mercosur-eu-trade-deal-complete-guide/",
             "published_at": "2026-03-18T14:48:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Wednesday, March 18, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-mar-18-2026/",
+            "published_at": "2026-03-18T17:46:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Wednesday, March 18, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-mar-18-2026/",
+            "published_at": "2026-03-18T17:25:07+00:00",
             "category": [],
             "language": "en"
         },
@@ -678,27 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Monday, March 16, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-copom-week-art-galleries/",
             "published_at": "2026-03-16T11:21:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Defense Monitor \u2013 Mar 9\u201316, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-defense-monitor-mar-9-16-2026/",
-            "published_at": "2026-03-16T10:53:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oscars 2026: Brazil\u2019s Historic Run Ends Without a Win",
-            "url": "https://www.riotimesonline.com/oscars-2026-brazil-agente-secreto-wagner-moura/",
-            "published_at": "2026-03-16T10:49:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Approval Falls to Lowest Since July as Brazil Polls Tighten",
-            "url": "https://www.riotimesonline.com/lula-approval-falls-brazil-polls-2026-election/",
-            "published_at": "2026-03-16T10:43:36+00:00",
             "category": [],
             "language": "en"
         }
