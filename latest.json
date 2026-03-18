@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-18T14:10:05+00:00",
+    "updated_at": "2026-03-18T15:10:05+00:00",
     "items": [
+        {
+            "title": "Brazil Tax Reform: The Complete Guide for Investors",
+            "url": "https://www.riotimesonline.com/brazil-tax-reform-complete-guide/",
+            "published_at": "2026-03-18T14:48:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mercosur EU Trade Deal: The Complete Guide for Investors",
+            "url": "https://www.riotimesonline.com/mercosur-eu-trade-deal-complete-guide/",
+            "published_at": "2026-03-18T14:48:35+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Banco Master Scandal: The Complete Timeline for Investors",
             "url": "https://www.riotimesonline.com/banco-master-scandal-brazil-complete-timeline/",
@@ -13,6 +27,48 @@
             "title": "Brazil Elections 2026: The Complete Guide for Investors and Analysts",
             "url": "https://www.riotimesonline.com/brazil-elections-2026-complete-guide/",
             "published_at": "2026-03-18T12:27:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petro Reports 27 Dead, Accuses Ecuador of Bombing Colombia",
+            "url": "https://www.riotimesonline.com/colombia-ecuador-border-bombings-petro-noboa/",
+            "published_at": "2026-03-18T15:06:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Premier Lasts 21 Days as Cabinet Falls Again",
+            "url": "https://www.riotimesonline.com/peru-cabinet-reshuffle-arroyo-premier-election/",
+            "published_at": "2026-03-18T15:04:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Forgives Tax Debts, Launches Simplified Regime",
+            "url": "https://www.riotimesonline.com/bolivia-tax-reform-informal-economy-monotax/",
+            "published_at": "2026-03-18T14:49:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Life Sentences Now the Price of Gang Life in El Salvador",
+            "url": "https://www.riotimesonline.com/el-salvador-life-imprisonment-bukele-reform/",
+            "published_at": "2026-03-18T14:39:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Manages Full Sewage Collection in Only Three Cities",
+            "url": "https://www.riotimesonline.com/brazil-sanitation-ranking-sewage-collection-2026/",
+            "published_at": "2026-03-18T14:28:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Your Guide to Lolla S\u00e3o Paulo: March 20-22 at Interlagos",
+            "url": "https://www.riotimesonline.com/lollapalooza-brasil-2026-guide-lineup-tickets/",
+            "published_at": "2026-03-18T14:15:57+00:00",
             "category": [],
             "language": "en"
         },
@@ -643,62 +699,6 @@
             "title": "Lula Approval Falls to Lowest Since July as Brazil Polls Tighten",
             "url": "https://www.riotimesonline.com/lula-approval-falls-brazil-polls-2026-election/",
             "published_at": "2026-03-16T10:43:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Largest Pension Fund Posts R$12.5B Surplus After 2024 Loss",
-            "url": "https://www.riotimesonline.com/previ-pension-fund-surplus-2025-banco-do-brasil/",
-            "published_at": "2026-03-16T10:19:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Stock Market IPSA: Late Rally Saved the Week",
-            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-late-rally-saved-the-week/",
-            "published_at": "2026-03-16T10:14:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Index Falls 1.96% but Holds Weekly Gains",
-            "url": "https://www.riotimesonline.com/merval-index-falls-1-96-but-holds-weekly-gains/",
-            "published_at": "2026-03-16T10:07:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stock Market IPC Drops as Peso Nears 18",
-            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-drops-as-peso-nears-18/",
-            "published_at": "2026-03-16T10:02:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Q4 Earnings Hit Record Lows on Beat Rates as Selic Bites",
-            "url": "https://www.riotimesonline.com/brazil-q4-earnings-disappointing-selic-rate-cut/",
-            "published_at": "2026-03-16T09:59:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Stock Market COLCAP: Ecopetrol Surges 9%",
-            "url": "https://www.riotimesonline.com/colombia-stock-market-colcap-ecopetrol-surges-9/",
-            "published_at": "2026-03-16T09:54:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Falls as War, Copom Fears Mount",
-            "url": "https://www.riotimesonline.com/ibovespa-falls-as-war-copom-fears-mount/",
-            "published_at": "2026-03-16T09:43:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Rallies 8.5% Weekly, Outperforms Stocks",
-            "url": "https://www.riotimesonline.com/bitcoin-rallies-outperforms-stocks-war/",
-            "published_at": "2026-03-16T09:41:46+00:00",
             "category": [],
             "language": "en"
         }
