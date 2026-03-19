@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-19T18:10:04+00:00",
+    "updated_at": "2026-03-19T19:10:05+00:00",
     "items": [
+        {
+            "title": "Colombia Oil Production Falls 3% as Gas Hits Record Low",
+            "url": "https://www.riotimesonline.com/colombia-oil-production-falls-3-as-gas-hits-record-low/",
+            "published_at": "2026-03-19T19:09:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 March 19, 2026",
+            "url": "https://www.riotimesonline.com/asia-intel-brief-golden-dome-missiles-won-crash/",
+            "published_at": "2026-03-19T18:21:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa Intelligence Brief \u2014 March 19, 2026",
             "url": "https://www.riotimesonline.com/africa-intel-brief-fed-hawk-nigeria-banks-sa-cpi/",
@@ -685,20 +699,6 @@
             "title": "Brazil\u2019s Natura Reverses Loss as EBITDA Surges 57%",
             "url": "https://www.riotimesonline.com/brazils-natura-reverses-loss-as-ebitda-surges-57/",
             "published_at": "2026-03-17T12:44:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Rents Rise Nearly 9% in 12 Months, Double CPI",
-            "url": "https://www.riotimesonline.com/brazil-rent-prices-fipezap-february-2026-inflation/",
-            "published_at": "2026-03-17T12:09:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Exchange Sees 50% Volume Surge in February",
-            "url": "https://www.riotimesonline.com/b3-trading-volume-february-2026-foreign-flows/",
-            "published_at": "2026-03-17T12:04:38+00:00",
             "category": [],
             "language": "en"
         }
