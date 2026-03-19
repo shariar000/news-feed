@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-19T08:10:04+00:00",
+    "updated_at": "2026-03-19T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Thursday, March 19, 2026",
+            "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-march-19-2026/",
+            "published_at": "2026-03-19T09:09:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Thursday, March 19, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-copom-petro-ecuador-bombing/",
+            "published_at": "2026-03-19T09:01:21+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Cuts Interest Rate for First Time in Two Years",
             "url": "https://www.riotimesonline.com/brazil-interest-rate-cut-selic-copom-march-2026/",
@@ -685,20 +699,6 @@
             "title": "Ecuador Violence: Six Killed at Graduation Party",
             "url": "https://www.riotimesonline.com/ecuador-violence-guayas-graduation-massacre-curfew/",
             "published_at": "2026-03-16T14:55:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela Inflation Hits 600% Despite Recovery Promises",
-            "url": "https://www.riotimesonline.com/venezuela-inflation-600-post-maduro-economy-crisis/",
-            "published_at": "2026-03-16T14:54:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Textile Crisis Deepens as Cheap Imports Surge",
-            "url": "https://www.riotimesonline.com/argentina-textile-crisis-milei-shein-temu-imports/",
-            "published_at": "2026-03-16T14:33:51+00:00",
             "category": [],
             "language": "en"
         }
