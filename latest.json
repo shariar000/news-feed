@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-19T10:10:05+00:00",
+    "updated_at": "2026-03-19T11:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico Stock Market IPC Today Falls 0.63% as Fed Hawkish Hold Crushes Wall Street and Peso Weakens",
+            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-falls-fed-hawkish-hold/",
+            "published_at": "2026-03-19T10:59:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Index Today Gains 1.16% on Oil Surge but Country Risk Tops 600 as Fed Crushes Bonds",
+            "url": "https://www.riotimesonline.com/merval-index-today-oil-surge-country-risk-600/",
+            "published_at": "2026-03-19T10:42:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Extends Losing Streak to Six Sessions, Longest Since Late 2024",
+            "url": "https://www.riotimesonline.com/gold-six-session-losing-streak-longest-since-2024/",
+            "published_at": "2026-03-19T10:34:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Stock Market COLCAP Today Dips 0.25% as Fed Holds Rates and Signals Hawkish Shift",
+            "url": "https://www.riotimesonline.com/colombia-stock-market-colcap-fed-holds-rates/",
+            "published_at": "2026-03-19T10:20:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Stock Market IPSA Today Flat at 10,620 as Fed Hawkish Hold Sinks Wall Street and Copper Plunges",
+            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-flat-fed-hawkish-copper/",
+            "published_at": "2026-03-19T10:14:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Hapvida Profit Plunges 65% as Healthcare Giant Battles Rising Claims and Shrinking Membership",
             "url": "https://www.riotimesonline.com/brazils-hapvida-profit-plunges-65-as-healthcare-giant-battles-rising-claims-and-shrinking-membership/",
@@ -664,41 +699,6 @@
             "title": "Paraguay Construction Stalls on $360M State Debt",
             "url": "https://www.riotimesonline.com/paraguay-construction-slowdown-state-debt-mopc/",
             "published_at": "2026-03-16T20:11:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oncoclinicas, Porto Seguro Eye R$1B Oncology JV",
-            "url": "https://www.riotimesonline.com/oncoclinicas-porto-seguro-oncology-venture-brazil/",
-            "published_at": "2026-03-16T20:00:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gulf Economies Face Worst Shock Since 1990s",
-            "url": "https://www.riotimesonline.com/gulf-economies-iran-war-shock-hormuz-1990s/",
-            "published_at": "2026-03-16T19:42:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 March 16, 2026",
-            "url": "https://www.riotimesonline.com/europe-intel-brief-hormuz-refusal-gas-surge-defence/",
-            "published_at": "2026-03-16T19:32:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Deploys 75,000 in U.S.-Backed Drug War",
-            "url": "https://www.riotimesonline.com/ecuador-military-operation-drug-trafficking-us-support/",
-            "published_at": "2026-03-16T19:07:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Industrial Output Falls Again in Jan",
-            "url": "https://www.riotimesonline.com/colombia-industrial-production-january-2026-contraction/",
-            "published_at": "2026-03-16T18:26:38+00:00",
             "category": [],
             "language": "en"
         }
