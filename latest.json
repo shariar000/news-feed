@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-20T12:10:04+00:00",
+    "updated_at": "2026-03-20T13:10:05+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Processed Coffee Bucks the Green Bean Slump",
+            "url": "https://www.riotimesonline.com/brazil-coffee-exports-instant-tariffs-february-2026/",
+            "published_at": "2026-03-20T12:28:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "What Venezuela\u2019s Military Reshuffle Means for Guyana",
+            "url": "https://www.riotimesonline.com/venezuela-military-overhaul-fanb-regional-threat/",
+            "published_at": "2026-03-20T12:22:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Friday, March 20, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-libertadores-draw-messi-900-chivas/",
+            "published_at": "2026-03-20T12:12:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Germany Bets on Mexico as U.S. Tariffs Bite Both Sides",
             "url": "https://www.riotimesonline.com/mexico-germany-trade-steinmeier-sheinbaum-cancun/",
@@ -678,27 +699,6 @@
             "title": "Merval Index Surges 2.18% as Country Risk Drops Below 600 and BCRA Hits 50-Session Buying Streak",
             "url": "https://www.riotimesonline.com/merval-argentina-surges-country-risk-drops/",
             "published_at": "2026-03-18T10:29:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stock Market IPC Today Rebounds 0.83% as Peso Rallies and T-MEC Talks Begin",
-            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-rebounds-peso-strengthens/",
-            "published_at": "2026-03-18T10:23:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Colombia Today Flat at 2,184 as Reficar Restart and Fed Decision Loom",
-            "url": "https://www.riotimesonline.com/colcap-colombia-reficar-restart-fed-decision/",
-            "published_at": "2026-03-18T10:14:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco Master Plea Deal Threatens All of Bras\u00edlia",
-            "url": "https://www.riotimesonline.com/banco-master-vorcaro-plea-deal-brazil-scandal/",
-            "published_at": "2026-03-18T10:06:22+00:00",
             "category": [],
             "language": "en"
         }
