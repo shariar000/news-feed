@@ -1,11 +1,32 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-20T10:10:04+00:00",
+    "updated_at": "2026-03-20T11:10:04+00:00",
     "items": [
         {
             "title": "Lula Blames Bolsonaro as Vorcaro Eyes Plea Deal in Banco Master Scandal",
             "url": "https://www.riotimesonline.com/lula-bolsonaro-vorcaro-plea-deal-banco-master-march-2026/",
             "published_at": "2026-03-20T08:30:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panvel Profit Jumps 35% as GLP-1 Drugs Hit 11% of Sales",
+            "url": "https://www.riotimesonline.com/panvel-profit-jumps-35-as-glp-1-drugs-hit-11-of-sales/",
+            "published_at": "2026-03-20T10:33:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tupy Loss Balloons to R$626M on Restructuring Hit",
+            "url": "https://www.riotimesonline.com/tupy-loss-balloons-to-r626m-on-restructuring-hit/",
+            "published_at": "2026-03-20T10:25:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cyrela Beats Estimates With R$682M Q4 Profit (+37%)",
+            "url": "https://www.riotimesonline.com/cyrela-beats-estimates-with-r682m-q4-profit-37/",
+            "published_at": "2026-03-20T10:13:10+00:00",
             "category": [],
             "language": "en"
         },
@@ -678,27 +699,6 @@
             "title": "Latin American Pulse for Wednesday, March 18, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-cuba-protests-copom-decision/",
             "published_at": "2026-03-18T08:58:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Holidays 2026: A Comprehensive Guide for Investors and Expats",
-            "url": "https://www.riotimesonline.com/brazilian-holidays-2026/",
-            "published_at": "2026-03-18T00:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Biggest Water Deal: Sabesp Circles Copasa",
-            "url": "https://www.riotimesonline.com/sabesp-copasa-privatization-interest-brazil/",
-            "published_at": "2026-03-17T20:39:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Taiwan\u2019s Last South American Ally Faces Beijing Blitz",
-            "url": "https://www.riotimesonline.com/china-paraguay-taiwan-diplomatic-rivalry-lawmakers/",
-            "published_at": "2026-03-17T20:30:09+00:00",
             "category": [],
             "language": "en"
         }
