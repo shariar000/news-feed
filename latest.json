@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-20T01:10:05+00:00",
+    "updated_at": "2026-03-20T02:10:04+00:00",
     "items": [
+        {
+            "title": "The Rio Times Subscription: Your Strategic Gateway to Brazil and Latin America in 2026",
+            "url": "https://www.riotimesonline.com/the-rio-times-subscription-your-strategic-gateway-to-brazil-and-latin-america-in-2026/",
+            "published_at": "2026-03-20T00:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 March 19, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intel-brief-sp-200day-fedex-powell/",
@@ -692,13 +699,6 @@
             "title": "Cuba\u2019s Sixth Blackout Deepens Island\u2019s Worst Crisis",
             "url": "https://www.riotimesonline.com/cuba-blackout-grid-collapse-oil-blockade-2026/",
             "published_at": "2026-03-17T14:14:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Leapmotor Profit Signals Brazil EV Production Push",
-            "url": "https://www.riotimesonline.com/leapmotor-stellantis-first-profit-brazil-production/",
-            "published_at": "2026-03-17T14:12:21+00:00",
             "category": [],
             "language": "en"
         }
