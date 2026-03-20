@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-20T15:10:04+00:00",
+    "updated_at": "2026-03-20T16:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Fintech in 2026: Pix, Nubank, Open Finance and the Digital Banking Revolution",
+            "url": "https://www.riotimesonline.com/brazil-fintech-2026-complete-guide/",
+            "published_at": "2026-03-20T14:39:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Colombia\u2019s Three-Way Presidential Race Takes Shape",
             "url": "https://www.riotimesonline.com/colombia-election-poll-cepeda-espriella-valencia-2026/",
@@ -692,13 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Wednesday, March 18, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-march-18-2026/",
             "published_at": "2026-03-18T11:33:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Stock Market IPSA Today Edges Up 0.34% as Peso Strengthens and Fed Decision Looms",
-            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-peso-strengthens-fed/",
-            "published_at": "2026-03-18T10:37:24+00:00",
             "category": [],
             "language": "en"
         }
