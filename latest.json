@@ -1,11 +1,18 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-20T17:10:04+00:00",
+    "updated_at": "2026-03-20T18:10:05+00:00",
     "items": [
         {
             "title": "Brazil Fintech in 2026: Pix, Nubank, Open Finance and the Digital Banking Revolution",
             "url": "https://www.riotimesonline.com/brazil-fintech-2026-complete-guide/",
             "published_at": "2026-03-20T14:39:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Friday, March 20, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-friday-march-20-2026/",
+            "published_at": "2026-03-20T17:33:13+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "Washington Courts Brazil for Rare Earths as China Grips",
             "url": "https://www.riotimesonline.com/brazil-rare-earths-trump-critical-minerals-forum/",
             "published_at": "2026-03-18T11:36:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Wednesday, March 18, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-march-18-2026/",
-            "published_at": "2026-03-18T11:33:35+00:00",
             "category": [],
             "language": "en"
         }
