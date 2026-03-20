@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-20T13:10:05+00:00",
+    "updated_at": "2026-03-20T14:10:04+00:00",
     "items": [
+        {
+            "title": "Colombia\u2019s Three-Way Presidential Race Takes Shape",
+            "url": "https://www.riotimesonline.com/colombia-election-poll-cepeda-espriella-valencia-2026/",
+            "published_at": "2026-03-20T13:11:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "$2 Billion Fight Over Panama Canal Ports Intensifies",
+            "url": "https://www.riotimesonline.com/panama-canal-ports-dispute-ck-hutchison-arbitration/",
+            "published_at": "2026-03-20T13:11:18+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Processed Coffee Bucks the Green Bean Slump",
             "url": "https://www.riotimesonline.com/brazil-coffee-exports-instant-tariffs-february-2026/",
@@ -685,20 +699,6 @@
             "title": "Chile Stock Market IPSA Today Edges Up 0.34% as Peso Strengthens and Fed Decision Looms",
             "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-peso-strengthens-fed/",
             "published_at": "2026-03-18T10:37:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Poll Shows Lula Below Every Reelected President Since 2002",
-            "url": "https://www.riotimesonline.com/lula-approval-rating-below-reelection-threshold/",
-            "published_at": "2026-03-18T10:29:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Index Surges 2.18% as Country Risk Drops Below 600 and BCRA Hits 50-Session Buying Streak",
-            "url": "https://www.riotimesonline.com/merval-argentina-surges-country-risk-drops/",
-            "published_at": "2026-03-18T10:29:16+00:00",
             "category": [],
             "language": "en"
         }
