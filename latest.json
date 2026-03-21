@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-21T08:10:05+00:00",
+    "updated_at": "2026-03-21T09:10:04+00:00",
     "items": [
+        {
+            "title": "Ibovespa Drops 2.25% on Iran, Petrobras Risk",
+            "url": "https://www.riotimesonline.com/ibovespa-iran-petrobras-risk-march-2026/",
+            "published_at": "2026-03-21T09:03:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Saturday, March 21, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-latam-rout-bolivia-votes-cuba/",
+            "published_at": "2026-03-21T08:47:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 March 21, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-21-2026/",
+            "published_at": "2026-03-21T08:36:57+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Oil Majors Threaten to Sue Over Brazil Export Tax",
             "url": "https://www.riotimesonline.com/brazil-oil-export-tax-legal-challenge-petroleum/",
@@ -678,27 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Wednesday, March 18, 2026",
             "url": "https://www.riotimesonline.com/rio-nightlife-mar-18-2026/",
             "published_at": "2026-03-18T17:25:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco Master Scandal: The Complete Timeline for Investors",
-            "url": "https://www.riotimesonline.com/banco-master-scandal-brazil-complete-timeline/",
-            "published_at": "2026-03-18T12:27:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Elections 2026: The Complete Guide for Investors and Analysts",
-            "url": "https://www.riotimesonline.com/brazil-elections-2026-complete-guide/",
-            "published_at": "2026-03-18T12:27:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petro Reports 27 Dead, Accuses Ecuador of Bombing Colombia",
-            "url": "https://www.riotimesonline.com/colombia-ecuador-border-bombings-petro-noboa/",
-            "published_at": "2026-03-18T15:06:21+00:00",
             "category": [],
             "language": "en"
         }
