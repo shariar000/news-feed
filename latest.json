@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-21T11:10:04+00:00",
+    "updated_at": "2026-03-21T12:10:03+00:00",
     "items": [
+        {
+            "title": "TikTok, Instagram Face New Rules in Brazil",
+            "url": "https://www.riotimesonline.com/brazil-eca-digital-child-protection-platforms/",
+            "published_at": "2026-03-21T11:20:53+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Saturday, March 21, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-motogp-brazil-alcaraz-fonseca-miami-open/",
@@ -692,13 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 March 18, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-march-18-2026/",
             "published_at": "2026-03-18T18:27:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Leaves WHO, Calls It Tool of Gates and Beijing",
-            "url": "https://www.riotimesonline.com/argentina-who-withdrawal-milei-sovereignty/",
-            "published_at": "2026-03-18T18:23:13+00:00",
             "category": [],
             "language": "en"
         }
