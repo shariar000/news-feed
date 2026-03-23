@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-23T07:10:05+00:00",
+    "updated_at": "2026-03-23T08:10:05+00:00",
     "items": [
+        {
+            "title": "Gold Crashes to $4,100 in Worst Rout Since 1983",
+            "url": "https://www.riotimesonline.com/gold-crashes-to-4100-in-worst-rout-since-1983/",
+            "published_at": "2026-03-23T07:24:17+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of March 23\u201327, 2026",
             "url": "https://www.riotimesonline.com/latam-pulse-banxico-pmi-copom-minutes-march-2026/",
@@ -692,13 +699,6 @@
             "title": "USA & Canada Intelligence Brief \u2014 March 18, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intel-brief-fomc-boc-powell-warsh/",
             "published_at": "2026-03-18T19:59:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "U.S. Troops Get Immunity Under New Paraguay Defense Pact",
-            "url": "https://www.riotimesonline.com/paraguay-us-military-sofa-agreement-immunity/",
-            "published_at": "2026-03-18T19:58:36+00:00",
             "category": [],
             "language": "en"
         }
