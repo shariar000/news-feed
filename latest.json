@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-23T17:10:05+00:00",
+    "updated_at": "2026-03-23T18:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Monday, March 23, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-mar-23-2026/",
+            "published_at": "2026-03-23T18:04:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil Shock Kills Chile\u2019s Rate Cut Plans",
+            "url": "https://www.riotimesonline.com/chile-interest-rate-hold-oil-shock-mepco/",
+            "published_at": "2026-03-23T17:59:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 March 23, 2026",
+            "url": "https://www.riotimesonline.com/europe-intel-brief-stoxx-whiplash-ecb-boe-defence/",
+            "published_at": "2026-03-23T17:57:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Prosecutor Backs Bolsonaro House Arrest for First Time",
+            "url": "https://www.riotimesonline.com/bolsonaro-house-arrest-moraes-eduardo-pressure/",
+            "published_at": "2026-03-23T17:49:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 March 23, 2026",
+            "url": "https://www.riotimesonline.com/asia-intel-brief-hormuz-crash-korea-bok-softbank/",
+            "published_at": "2026-03-23T17:40:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Military Plane Crash Kills Troops in Putumayo",
+            "url": "https://www.riotimesonline.com/colombia-military-plane-crash-putumayo/",
+            "published_at": "2026-03-23T17:31:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 March 23, 2026",
+            "url": "https://www.riotimesonline.com/africa-intel-brief-jet-fuel-crisis-rand-platinum/",
+            "published_at": "2026-03-23T17:20:28+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "U.S. Troops in Paraguay: What It Means for Brazil",
             "url": "https://www.riotimesonline.com/us-paraguay-military-deal-tri-border-security/",
@@ -650,55 +699,6 @@
             "title": "Diesel Up 19%: Brazil Truckers Move Toward Strike Action",
             "url": "https://www.riotimesonline.com/brazil-trucker-strike-diesel-iran-war-lula/",
             "published_at": "2026-03-19T13:52:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Melnick Posts Record R$112M Profit, Bets on S\u00e3o Paulo",
-            "url": "https://www.riotimesonline.com/brazils-melnick-posts-record-r112-million-annual-profit-as-porto-alegre-developer-bets-big-on-sao-paulo-expansion/",
-            "published_at": "2026-03-19T13:51:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Is Ripple\u2019s Biggest Stablecoin Market Worldwide",
-            "url": "https://www.riotimesonline.com/ripple-brazil-stablecoin-nomad-genial-license/",
-            "published_at": "2026-03-19T13:45:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Posts 2.5% Growth as Kast Pledges to Double It",
-            "url": "https://www.riotimesonline.com/chile-economy-grows-2025/",
-            "published_at": "2026-03-19T13:41:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Grupo Mateus Revenue Hits R$10.5B but Same-Store Sales Slip",
-            "url": "https://www.riotimesonline.com/brazils-grupo-mateus-revenue-surges-21-to-r10-5-billion-but-negative-same-store-sales-expose-cracks-in-the-growth-story/",
-            "published_at": "2026-03-19T13:15:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Jobless Rate Climbs to 7.5% Despite GDP Growth",
-            "url": "https://www.riotimesonline.com/argentina-unemployment-q4-2025/",
-            "published_at": "2026-03-19T13:14:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Washington Signs Rare Earths Pact With Goi\u00e1s State, Not Lula",
-            "url": "https://www.riotimesonline.com/brazil-rare-earths-us-goias-critical-minerals/",
-            "published_at": "2026-03-19T13:05:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Russian Tanker Defies US Blockade to Reach Darkened Cuba",
-            "url": "https://www.riotimesonline.com/russia-fuel-tanker-cuba-blockade/",
-            "published_at": "2026-03-19T12:54:56+00:00",
             "category": [],
             "language": "en"
         }
