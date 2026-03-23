@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-23T09:10:04+00:00",
+    "updated_at": "2026-03-23T10:10:04+00:00",
     "items": [
+        {
+            "title": "S&P IPSA Drops 1.87% to 10,277 as War Fears Erase Chile\u2019s Weekly Recovery and Rate Hike Bets Emerge",
+            "url": "https://www.riotimesonline.com/ipsa-chile-weekly-reversal-war-bcch-ipom/",
+            "published_at": "2026-03-23T10:03:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S&P/BMV IPC Drops 1.63% to 64,134 as Mexico Extends Five-Week Losing Streak on War and Oil Shock",
+            "url": "https://www.riotimesonline.com/ipc-mexico-five-week-slide-banxico-oil-shock/",
+            "published_at": "2026-03-23T09:57:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Falls 1.57% as Argentina Country Risk Surges to 633 bps \u2014 2026 High \u2014 While YPF Bucks the Selloff",
+            "url": "https://www.riotimesonline.com/merval-argentina-country-risk-2026-high-ypf/",
+            "published_at": "2026-03-23T09:51:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "COLCAP Gains 1.40% as Ecopetrol Surges on $107 Brent While USO Strike Threat Looms",
+            "url": "https://www.riotimesonline.com/colcap-gains-1-40-as-ecopetrol-surges-on-107-brent-while-uso-strike-threat-looms/",
+            "published_at": "2026-03-23T09:44:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Can Brazil Fire Its Corrupt Judges? Senate Stalls Reform",
+            "url": "https://www.riotimesonline.com/brazil-judiciary-accountability-retirement-punishment/",
+            "published_at": "2026-03-23T09:34:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Drops to $67K, Fear Index Hits 10",
+            "url": "https://www.riotimesonline.com/bitcoin-67k-fear-index-10-strategy-iran-fed/",
+            "published_at": "2026-03-23T09:21:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, March 23, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-bolivia-results-latam-rout-cuba/",
+            "published_at": "2026-03-23T09:20:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Morning Call for Monday, March 23, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-hormuz-ultimatum/",
@@ -650,55 +699,6 @@
             "title": "Bitcoin Crashes 5% on Iran Escalation, Hot PPI, Hawkish Fed",
             "url": "https://www.riotimesonline.com/bitcoin-crashes-hawkish-fed-iran-ppi-triple-blow/",
             "published_at": "2026-03-19T09:37:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Falls as Hawkish Fed Hits Super Wednesday",
-            "url": "https://www.riotimesonline.com/ibovespa-falls-hawkish-fed-copom-cuts-selic/",
-            "published_at": "2026-03-19T09:22:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 March 19, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-march-19-2026/",
-            "published_at": "2026-03-19T09:22:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Thursday, March 19, 2026",
-            "url": "https://www.riotimesonline.com/brazils-morning-call-for-thursday-march-19-2026/",
-            "published_at": "2026-03-19T09:09:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, March 19, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-copom-petro-ecuador-bombing/",
-            "published_at": "2026-03-19T09:01:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Cuts Interest Rate for First Time in Two Years",
-            "url": "https://www.riotimesonline.com/brazil-interest-rate-cut-selic-copom-march-2026/",
-            "published_at": "2026-03-19T07:29:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Weather in Rio de Janeiro: A Comprehensive Guide to 2026 Climate Patterns and Economic Impact",
-            "url": "https://www.riotimesonline.com/weather-rio-de-janeiro-guide/",
-            "published_at": "2026-03-19T00:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Foreign Investors Sue Peru More Than Any Other LATAM Nation",
-            "url": "https://www.riotimesonline.com/peru-investor-lawsuits-most-sued-latin-america/",
-            "published_at": "2026-03-18T20:07:52+00:00",
             "category": [],
             "language": "en"
         }
