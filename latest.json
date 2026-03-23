@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-23T08:10:05+00:00",
+    "updated_at": "2026-03-23T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Monday, March 23, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-hormuz-ultimatum/",
+            "published_at": "2026-03-23T09:05:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Gold Crashes to $4,100 in Worst Rout Since 1983",
             "url": "https://www.riotimesonline.com/gold-crashes-to-4100-in-worst-rout-since-1983/",
@@ -692,13 +699,6 @@
             "title": "Foreign Investors Sue Peru More Than Any Other LATAM Nation",
             "url": "https://www.riotimesonline.com/peru-investor-lawsuits-most-sued-latin-america/",
             "published_at": "2026-03-18T20:07:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 March 18, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intel-brief-fomc-boc-powell-warsh/",
-            "published_at": "2026-03-18T19:59:46+00:00",
             "category": [],
             "language": "en"
         }
