@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-24T19:10:06+00:00",
+    "updated_at": "2026-03-24T20:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina Exports Fall for First Time in Eight Months",
+            "url": "https://www.riotimesonline.com/argentina-exports-fall-first-time-eight-months-february/",
+            "published_at": "2026-03-24T19:55:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Italian Eni Reports $3.3 Billion in Unpaid Venezuela Gas Bills",
+            "url": "https://www.riotimesonline.com/pdvsa-debt-eni-3-billion-venezuela-sanctions/",
+            "published_at": "2026-03-24T19:38:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Fuel Prices to Jump 54% as Kast Ends Subsidy",
+            "url": "https://www.riotimesonline.com/chile-fuel-price-hike-54-percent-mepco-kast/",
+            "published_at": "2026-03-24T19:26:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Nelson Tanure, Brazil\u2019s Biggest Distressed Investor Becomes Distressed",
             "url": "https://www.riotimesonline.com/tanure-empire-banco-master-collapse-brazil/",
@@ -678,27 +699,6 @@
             "title": "What Venezuela\u2019s Military Reshuffle Means for Guyana",
             "url": "https://www.riotimesonline.com/venezuela-military-overhaul-fanb-regional-threat/",
             "published_at": "2026-03-20T12:22:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Friday, March 20, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-libertadores-draw-messi-900-chivas/",
-            "published_at": "2026-03-20T12:12:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Germany Bets on Mexico as U.S. Tariffs Bite Both Sides",
-            "url": "https://www.riotimesonline.com/mexico-germany-trade-steinmeier-sheinbaum-cancun/",
-            "published_at": "2026-03-20T12:09:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chavismo Without Maduro: Rodr\u00edguez Reshuffles Power",
-            "url": "https://www.riotimesonline.com/venezuela-cabinet-overhaul-delcy-rodriguez/",
-            "published_at": "2026-03-20T11:59:37+00:00",
             "category": [],
             "language": "en"
         }
