@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-24T10:10:04+00:00",
+    "updated_at": "2026-03-24T11:10:04+00:00",
     "items": [
+        {
+            "title": "Movida Earnings: 65% Profit Jump, Record ROIC",
+            "url": "https://www.riotimesonline.com/movida-movi3-q4-2025-profit-record-roic/",
+            "published_at": "2026-03-24T10:37:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Even Profit Surges 47% on Luxury Homes",
+            "url": "https://www.riotimesonline.com/even-even3-q4-2025-profit-luxury-sao-paulo/",
+            "published_at": "2026-03-24T10:25:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexican Market Snaps Five-Week Slide With 0.37% Gain",
+            "url": "https://www.riotimesonline.com/ipc-mexico-trump-iran-pause-banxico-decision/",
+            "published_at": "2026-03-24T10:15:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Hits 2026 Low, Reverses $380 on Iran Pause",
+            "url": "https://www.riotimesonline.com/gold-2026-low-reverses-380-iran-pause/",
+            "published_at": "2026-03-24T10:11:51+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Colombian Market Holds Steady as Brent Crashes 11% on Trump\u2019s Iran Ceasefire Pause",
             "url": "https://www.riotimesonline.com/colcap-colombia-oil-crash-trump-iran-pause/",
@@ -10,14 +38,14 @@
             "language": "en"
         },
         {
-            "title": "Chilean Market Decouples From Global Rally, Drops 0.49% for Fourth Straight Loss While Peso Surges 1.8%",
+            "title": "Chilean Market Decouples From Global Rally, Drops 0.49% for Fourth Straight Loss",
             "url": "https://www.riotimesonline.com/ipsa-chile-decouples-global-rally-peso-surges/",
             "published_at": "2026-03-24T09:58:51+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Argentine Market Rallies 1.93% as Banks Surge Up to 10% on Trump\u2019s Iran Ceasefire Signal",
+            "title": "Argentine Market Rallies 1.93% as Banks Surge Up to 10%",
             "url": "https://www.riotimesonline.com/merval-argentina-rally-ceasefire-banks-country-risk/",
             "published_at": "2026-03-24T09:53:36+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "Latin American Pulse for Friday, March 20, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-cuba-trade-collapse-rio-raid/",
             "published_at": "2026-03-20T08:57:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Friday, March 20, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-ibovespa-defies-rout/",
-            "published_at": "2026-03-20T08:52:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 March 19, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intel-brief-sp-200day-fedex-powell/",
-            "published_at": "2026-03-19T20:07:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pentagon Says Latin America Ops \u201cJust the Beginning\u201d",
-            "url": "https://www.riotimesonline.com/pentagon-operation-southern-spear-latin-america-intensify/",
-            "published_at": "2026-03-19T20:05:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Punta Cana Enters World\u2019s Top 100 Airports for First Time",
-            "url": "https://www.riotimesonline.com/punta-cana-airport-skytrax-best-caribbean-2026/",
-            "published_at": "2026-03-19T19:50:49+00:00",
             "category": [],
             "language": "en"
         }
