@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-24T20:10:04+00:00",
+    "updated_at": "2026-03-24T21:10:05+00:00",
     "items": [
+        {
+            "title": "Two Governors Shake Up the Brazil 2026 Election",
+            "url": "https://www.riotimesonline.com/brazil-2026-election-ratinho-castro-moro-shakeup/",
+            "published_at": "2026-03-24T20:14:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina Exports Fall for First Time in Eight Months",
             "url": "https://www.riotimesonline.com/argentina-exports-fall-first-time-eight-months-february/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s Processed Coffee Bucks the Green Bean Slump",
             "url": "https://www.riotimesonline.com/brazil-coffee-exports-instant-tariffs-february-2026/",
             "published_at": "2026-03-20T12:28:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What Venezuela\u2019s Military Reshuffle Means for Guyana",
-            "url": "https://www.riotimesonline.com/venezuela-military-overhaul-fanb-regional-threat/",
-            "published_at": "2026-03-20T12:22:16+00:00",
             "category": [],
             "language": "en"
         }
