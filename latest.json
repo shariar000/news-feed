@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-24T09:10:05+00:00",
+    "updated_at": "2026-03-24T10:10:04+00:00",
     "items": [
+        {
+            "title": "Colombian Market Holds Steady as Brent Crashes 11% on Trump\u2019s Iran Ceasefire Pause",
+            "url": "https://www.riotimesonline.com/colcap-colombia-oil-crash-trump-iran-pause/",
+            "published_at": "2026-03-24T10:02:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Market Decouples From Global Rally, Drops 0.49% for Fourth Straight Loss While Peso Surges 1.8%",
+            "url": "https://www.riotimesonline.com/ipsa-chile-decouples-global-rally-peso-surges/",
+            "published_at": "2026-03-24T09:58:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentine Market Rallies 1.93% as Banks Surge Up to 10% on Trump\u2019s Iran Ceasefire Signal",
+            "url": "https://www.riotimesonline.com/merval-argentina-rally-ceasefire-banks-country-risk/",
+            "published_at": "2026-03-24T09:53:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Surges 3.24% on Iran Ceasefire Signal",
+            "url": "https://www.riotimesonline.com/ibovespa-surges-3-iran-ceasefire-brent-crash/",
+            "published_at": "2026-03-24T09:43:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Surges to $71K on Iran Pause Signa",
+            "url": "https://www.riotimesonline.com/bitcoin-71k-iran-pause-strategy-44b-capacity/",
+            "published_at": "2026-03-24T09:31:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 March 24, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-24-2026/",
+            "published_at": "2026-03-24T09:24:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Tuesday, March 24, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-colombia-crash-cuba-military-ibovespa-rally/",
@@ -657,48 +699,6 @@
             "title": "Punta Cana Enters World\u2019s Top 100 Airports for First Time",
             "url": "https://www.riotimesonline.com/punta-cana-airport-skytrax-best-caribbean-2026/",
             "published_at": "2026-03-19T19:50:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "New Crypto Rules Shake Paraguay\u2019s Luxury Property Market",
-            "url": "https://www.riotimesonline.com/new-crypto-rules-shake-paraguays-luxury-property-market/",
-            "published_at": "2026-03-19T19:40:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Freeport Files $7.5B Chile Copper Mine Expansion",
-            "url": "https://www.riotimesonline.com/freeport-el-abra-chile-copper-expansion/",
-            "published_at": "2026-03-19T19:22:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 March 19, 2026",
-            "url": "https://www.riotimesonline.com/europe-intel-brief-lagarde-unicredit-rheinmetall-afd/",
-            "published_at": "2026-03-19T19:15:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Fuels Brazil Tourism Surge in Early 2026",
-            "url": "https://www.riotimesonline.com/brazil-tourism-2026-record-global-context/",
-            "published_at": "2026-03-19T19:12:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Oil Production Falls 3% as Gas Hits Record Low",
-            "url": "https://www.riotimesonline.com/colombia-oil-production-falls-3-as-gas-hits-record-low/",
-            "published_at": "2026-03-19T19:09:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 March 19, 2026",
-            "url": "https://www.riotimesonline.com/asia-intel-brief-golden-dome-missiles-won-crash/",
-            "published_at": "2026-03-19T18:21:38+00:00",
             "category": [],
             "language": "en"
         }
