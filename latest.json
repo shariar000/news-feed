@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-25T10:10:04+00:00",
+    "updated_at": "2026-03-25T11:10:04+00:00",
     "items": [
+        {
+            "title": "China Eyes Brazil Infrastructure as Trump Pushes Back",
+            "url": "https://www.riotimesonline.com/china-brazil-infrastructure-railways-ports-trump/",
+            "published_at": "2026-03-25T10:55:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Boa Safra Earnings: Q4 Loss as Seed Margins Fall",
+            "url": "https://www.riotimesonline.com/boa-safra-soja3-q4-2025-loss-seed-margins/",
+            "published_at": "2026-03-25T10:49:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "MercadoLibre Pours $11 Billion Into Brazil in 2026",
+            "url": "https://www.riotimesonline.com/mercadolibre-brazil-investment-57-billion-2026/",
+            "published_at": "2026-03-25T10:21:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "New Brazil Finance Minister Faces Master Crisis",
+            "url": "https://www.riotimesonline.com/brazil-finance-minister-durigan-haddad-banco-master/",
+            "published_at": "2026-03-25T10:10:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Idle VW Factory in Germany Could Become Iron Dome Production Hub",
             "url": "https://www.riotimesonline.com/volkswagen-iron-dome-rafael-osnabrueck-defense/",
@@ -671,34 +699,6 @@
             "title": "USA & Canada Intelligence Brief \u2014 March 20, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intel-brief-student-loans-fedex-powell/",
             "published_at": "2026-03-20T20:41:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay\u2019s Rise Draws German Diplomatic Push",
-            "url": "https://www.riotimesonline.com/germany-paraguay-trade-investment-ties/",
-            "published_at": "2026-03-20T20:38:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s CSN Sale Race Heats Up With Three Bidders",
-            "url": "https://www.riotimesonline.com/csn-sale-race-three-bidders-cement-mining/",
-            "published_at": "2026-03-20T20:24:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "U.S. Blocks Russian Oil for Cuba as Tanker Diverts",
-            "url": "https://www.riotimesonline.com/cuba-russian-oil-blockade-treasury-tanker-sea-horse-2/",
-            "published_at": "2026-03-20T20:16:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Guatemala Became Washington\u2019s New Security Partner",
-            "url": "https://www.riotimesonline.com/guatemala-drug-crackdown-border-security-2026/",
-            "published_at": "2026-03-20T19:49:28+00:00",
             "category": [],
             "language": "en"
         }
