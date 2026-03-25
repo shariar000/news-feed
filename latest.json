@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-25T08:10:03+00:00",
+    "updated_at": "2026-03-25T09:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Morning Call for Wednesday, March 25, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-ifo-lagarde-oil-rebound/",
+            "published_at": "2026-03-25T09:04:25+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Two Governors Shake Up the Brazil 2026 Election",
             "url": "https://www.riotimesonline.com/brazil-2026-election-ratinho-castro-moro-shakeup/",
@@ -692,13 +699,6 @@
             "title": "$2 Billion Fight Over Panama Canal Ports Intensifies",
             "url": "https://www.riotimesonline.com/panama-canal-ports-dispute-ck-hutchison-arbitration/",
             "published_at": "2026-03-20T13:11:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Processed Coffee Bucks the Green Bean Slump",
-            "url": "https://www.riotimesonline.com/brazil-coffee-exports-instant-tariffs-february-2026/",
-            "published_at": "2026-03-20T12:28:03+00:00",
             "category": [],
             "language": "en"
         }
