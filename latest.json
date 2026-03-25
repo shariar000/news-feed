@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-25T18:10:04+00:00",
+    "updated_at": "2026-03-25T19:10:03+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 March 25, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-march-25-2026/",
+            "published_at": "2026-03-25T18:40:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay GDP Slows to 1.8% as Fiscal Pressure Builds",
+            "url": "https://www.riotimesonline.com/uruguay-gdp-slowdown-fiscal-pressure-2025/",
+            "published_at": "2026-03-25T18:32:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Debates With 35 Candidates and No Frontrunner",
+            "url": "https://www.riotimesonline.com/peru-election-debate-fragmented-field/",
+            "published_at": "2026-03-25T18:25:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "IRB Re Earnings: Weak January, Premiums Fall 19%",
+            "url": "https://www.riotimesonline.com/irb-re-irbr3-january-2026-profit-premiums-decline/",
+            "published_at": "2026-03-25T18:20:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cuba Grants First Crypto Licenses to Ten Firms",
+            "url": "https://www.riotimesonline.com/cuba-crypto-licenses-private-firms-payments/",
+            "published_at": "2026-03-25T18:12:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Intelligence Brief \u2014 March 25, 2026",
             "url": "https://www.riotimesonline.com/europe-intel-brief-denmark-election-ifo-crash-france-insolvencies/",
@@ -664,41 +699,6 @@
             "title": "S&P/BMV IPC Drops 1.63% to 64,134 as Mexico Extends Five-Week Losing Streak on War and Oil Shock",
             "url": "https://www.riotimesonline.com/ipc-mexico-five-week-slide-banxico-oil-shock/",
             "published_at": "2026-03-23T09:57:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Falls 1.57% as Argentina Country Risk Surges to 633 bps \u2014 2026 High \u2014 While YPF Bucks the Selloff",
-            "url": "https://www.riotimesonline.com/merval-argentina-country-risk-2026-high-ypf/",
-            "published_at": "2026-03-23T09:51:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Gains 1.40% as Ecopetrol Surges on $107 Brent While USO Strike Threat Looms",
-            "url": "https://www.riotimesonline.com/colcap-gains-1-40-as-ecopetrol-surges-on-107-brent-while-uso-strike-threat-looms/",
-            "published_at": "2026-03-23T09:44:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Can Brazil Fire Its Corrupt Judges? Senate Stalls Reform",
-            "url": "https://www.riotimesonline.com/brazil-judiciary-accountability-retirement-punishment/",
-            "published_at": "2026-03-23T09:34:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Drops to $67K, Fear Index Hits 10",
-            "url": "https://www.riotimesonline.com/bitcoin-67k-fear-index-10-strategy-iran-fed/",
-            "published_at": "2026-03-23T09:21:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Monday, March 23, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-bolivia-results-latam-rout-cuba/",
-            "published_at": "2026-03-23T09:20:12+00:00",
             "category": [],
             "language": "en"
         }
