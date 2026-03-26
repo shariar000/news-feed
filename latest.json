@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-26T09:10:04+00:00",
+    "updated_at": "2026-03-26T10:10:05+00:00",
     "items": [
+        {
+            "title": "Equatorial Earnings: Profit Falls 21%, EBITDA Beats",
+            "url": "https://www.riotimesonline.com/equatorial-eqtl3-q4-2025-profit-falls-ebitda-beats/",
+            "published_at": "2026-03-26T10:06:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombian Market Jumps 1.6% as Trump Iran Plan Triggers Oil Selloff",
+            "url": "https://www.riotimesonline.com/colombia-stock-market-colcap-iran-peace-rally/",
+            "published_at": "2026-03-26T10:02:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Market Bounces 2% From Four-Month Low as Oil Retreat Lifts SQM and Banks",
+            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-oil-drop-sqm-rally/",
+            "published_at": "2026-03-26T09:52:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentine Blue Dollar Slides to 1,420 as Bonds Rally and Merval Extends Gains",
+            "url": "https://www.riotimesonline.com/argentina-blue-dollar-rate-merval-bonds-rally/",
+            "published_at": "2026-03-26T09:43:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Falls Below $70K as Rally Fades",
+            "url": "https://www.riotimesonline.com/bitcoin-drops-70k-ceasefire-rally-fades-fear/",
+            "published_at": "2026-03-26T09:41:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Americanas Recovery Exit Filed After Record Fraud",
+            "url": "https://www.riotimesonline.com/americanas-recovery-exit-filed-after-record-fraud/",
+            "published_at": "2026-03-26T09:28:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 March 26, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-march-26-2026/",
+            "published_at": "2026-03-26T09:12:02+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Thursday, March 26, 2026",
             "url": "https://www.riotimesonline.com/latam-pulse-maduro-hearing-marquez-colombia/",
@@ -650,55 +699,6 @@
             "title": "Colombia\u2019s Swiss Franc Gambit Pays Off \u2014 Or Does It?",
             "url": "https://www.riotimesonline.com/colombia-debt-swap-unwind-swiss-franc-elections/",
             "published_at": "2026-03-23T12:01:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Workers Use AI More Than Any Country on Earth",
-            "url": "https://www.riotimesonline.com/brazil-ai-adoption-pwc-global-leader/",
-            "published_at": "2026-03-23T11:59:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Monday, March 23, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-palmeiras-chivas-motogp-brazil/",
-            "published_at": "2026-03-23T11:41:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Monday, March 23, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-pinacoteca-post-lolla-monday/",
-            "published_at": "2026-03-23T11:31:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Monday, March 23, 2026",
-            "url": "https://www.riotimesonline.com/rio-daily-pedra-do-sal-mar-monday/",
-            "published_at": "2026-03-23T11:17:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lollapalooza 2026: Sabrina, Chappell, Tyler Own S\u00e3o Paulo",
-            "url": "https://www.riotimesonline.com/lollapalooza-brasil-2026-tyler-creator-closing/",
-            "published_at": "2026-03-23T10:54:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iran War Creates Winners and Losers in Brazil Agriculture",
-            "url": "https://www.riotimesonline.com/brazil-agribusiness-iran-war-grains-meat-split/",
-            "published_at": "2026-03-23T10:45:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Corinthians Flamengo Draw 1-1 at Neo Qu\u00edmica Arena",
-            "url": "https://www.riotimesonline.com/corinthians-flamengo-brasileirao-1-1-draw-round-8/",
-            "published_at": "2026-03-23T10:43:14+00:00",
             "category": [],
             "language": "en"
         }
