@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-26T10:10:05+00:00",
+    "updated_at": "2026-03-26T11:10:04+00:00",
     "items": [
+        {
+            "title": "Americanas Q4 Loss Narrows as Store Sales Rise 8%",
+            "url": "https://www.riotimesonline.com/americanas-amer3-q4-2025-loss-shrinks-turnaround/",
+            "published_at": "2026-03-26T10:41:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexican Market Soars 3.67% in Best Session of 2026 on Iran Peace Hopes",
+            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-iran-rally/",
+            "published_at": "2026-03-26T10:38:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "JBS Earnings: Record $86B Revenue, Q4 Profit Flat",
+            "url": "https://www.riotimesonline.com/jbs-jbss3-q4-2025-record-revenue-cattle-costs/",
+            "published_at": "2026-03-26T10:34:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Rallies 1.6% on Iran Plan, Poll",
+            "url": "https://www.riotimesonline.com/ibovespa-iran-peace-plan-bolsonaro-poll-rally/",
+            "published_at": "2026-03-26T10:18:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Snaps 9-Day Streak, Retreats to $4,453",
+            "url": "https://www.riotimesonline.com/gold-snaps-9-day-streak-silver-retreats-70/",
+            "published_at": "2026-03-26T10:17:23+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Equatorial Earnings: Profit Falls 21%, EBITDA Beats",
             "url": "https://www.riotimesonline.com/equatorial-eqtl3-q4-2025-profit-falls-ebitda-beats/",
@@ -664,41 +699,6 @@
             "title": "No Party Wins Outright as Bolivia Redraws Its Map",
             "url": "https://www.riotimesonline.com/bolivia-elections-fragmented-political-map-2026/",
             "published_at": "2026-03-23T12:33:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nicaragua Joins LATAM Coffee Windfall at $918 Million",
-            "url": "https://www.riotimesonline.com/nicaragua-coffee-exports-record-latam-boom/",
-            "published_at": "2026-03-23T12:22:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Critical Minerals Speech Deepens Rift With U.S.",
-            "url": "https://www.riotimesonline.com/lula-critical-minerals-celac-africa-sovereignty/",
-            "published_at": "2026-03-23T12:20:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "GeoPark Vaca Muerta Drilling Begins in $100M Push",
-            "url": "https://www.riotimesonline.com/geopark-vaca-muerta-drilling-loma-jarillosa/",
-            "published_at": "2026-03-23T12:17:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "DEA Designates Colombia\u2019s Petro as Priority Drug Target",
-            "url": "https://www.riotimesonline.com/petro-drug-investigation-dea-priority-target/",
-            "published_at": "2026-03-23T12:13:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Swiss Franc Gambit Pays Off \u2014 Or Does It?",
-            "url": "https://www.riotimesonline.com/colombia-debt-swap-unwind-swiss-franc-elections/",
-            "published_at": "2026-03-23T12:01:02+00:00",
             "category": [],
             "language": "en"
         }
