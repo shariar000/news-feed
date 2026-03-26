@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-26T18:10:04+00:00",
+    "updated_at": "2026-03-26T19:10:04+00:00",
     "items": [
+        {
+            "title": "Peru\u2019s Deficit Targets Collapse Under Spending Wave",
+            "url": "https://www.riotimesonline.com/peru-fiscal-spending-congress-pension-reform/",
+            "published_at": "2026-03-26T19:06:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica Currency Surges to 20-Year High on Export Boom",
+            "url": "https://www.riotimesonline.com/costa-rica-colon-two-decade-high-intervention/",
+            "published_at": "2026-03-26T19:02:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Oldest Bank Gets Former Finance Minister Echeverry",
+            "url": "https://www.riotimesonline.com/banco-bogota-echeverry-president-appointment/",
+            "published_at": "2026-03-26T18:41:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 March 26, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intel-brief-fertilizer-shock-airlines-gas-apollo/",
+            "published_at": "2026-03-26T18:40:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Energy Strategy Pivots to Gas and Renewables",
+            "url": "https://www.riotimesonline.com/mexico-energy-sovereignty-pemex-gas-renewables/",
+            "published_at": "2026-03-26T18:29:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio\u2019s Favelas Step Into Global Tourism Spotlight",
+            "url": "https://www.riotimesonline.com/rio-favela-tourism-embratur-documentary/",
+            "published_at": "2026-03-26T18:18:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 March 26, 2026",
+            "url": "https://www.riotimesonline.com/europe-intel-brief-denmark-coalition-poland-rearms-germany-gfk/",
+            "published_at": "2026-03-26T18:10:29+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Airlines Dominate Global Rankings",
             "url": "https://www.riotimesonline.com/latin-america-airlines-global-rankings/",
@@ -650,55 +699,6 @@
             "title": "Brazil\u2019s Even Profit Surges 47% on Luxury Homes",
             "url": "https://www.riotimesonline.com/even-even3-q4-2025-profit-luxury-sao-paulo/",
             "published_at": "2026-03-24T10:25:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Market Snaps Five-Week Slide With 0.37% Gain",
-            "url": "https://www.riotimesonline.com/ipc-mexico-trump-iran-pause-banxico-decision/",
-            "published_at": "2026-03-24T10:15:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Hits 2026 Low, Reverses $380 on Iran Pause",
-            "url": "https://www.riotimesonline.com/gold-2026-low-reverses-380-iran-pause/",
-            "published_at": "2026-03-24T10:11:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombian Market Holds Steady as Brent Crashes 11% on Trump\u2019s Iran Ceasefire Pause",
-            "url": "https://www.riotimesonline.com/colcap-colombia-oil-crash-trump-iran-pause/",
-            "published_at": "2026-03-24T10:02:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Market Decouples From Global Rally, Drops 0.49% for Fourth Straight Loss",
-            "url": "https://www.riotimesonline.com/ipsa-chile-decouples-global-rally-peso-surges/",
-            "published_at": "2026-03-24T09:58:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentine Market Rallies 1.93% as Banks Surge Up to 10%",
-            "url": "https://www.riotimesonline.com/merval-argentina-rally-ceasefire-banks-country-risk/",
-            "published_at": "2026-03-24T09:53:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Surges 3.24% on Iran Ceasefire Signal",
-            "url": "https://www.riotimesonline.com/ibovespa-surges-3-iran-ceasefire-brent-crash/",
-            "published_at": "2026-03-24T09:43:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Surges to $71K on Iran Pause Signa",
-            "url": "https://www.riotimesonline.com/bitcoin-71k-iran-pause-strategy-44b-capacity/",
-            "published_at": "2026-03-24T09:31:43+00:00",
             "category": [],
             "language": "en"
         }
