@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-27T12:10:04+00:00",
+    "updated_at": "2026-03-27T13:10:04+00:00",
     "items": [
+        {
+            "title": "Colombia\u2019s Right-Wing Outsider Threatens Leftist Lead",
+            "url": "https://www.riotimesonline.com/colombia-election-de-la-espriella-outsider/",
+            "published_at": "2026-03-27T12:23:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "U.S. Debt Wall Reaches $14 Trillion as Rates Rise",
+            "url": "https://www.riotimesonline.com/us-debt-14-trillion-bond-supply/",
+            "published_at": "2026-03-27T12:15:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Strikes Oil Beneath a Field Discovered in 1987",
+            "url": "https://www.riotimesonline.com/petrobras-pre-salt-marlim-sul-discovery/",
+            "published_at": "2026-03-27T12:11:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Election Favors the Right in Fragmented Race",
+            "url": "https://www.riotimesonline.com/peru-election-right-wing-frontrunners-april/",
+            "published_at": "2026-03-27T12:10:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Friday, March 27, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-bolivia-repechage-brazil-france-miami/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s Morning Call for Wednesday, March 25, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-ifo-lagarde-oil-rebound/",
             "published_at": "2026-03-25T09:04:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Two Governors Shake Up the Brazil 2026 Election",
-            "url": "https://www.riotimesonline.com/brazil-2026-election-ratinho-castro-moro-shakeup/",
-            "published_at": "2026-03-24T20:14:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Exports Fall for First Time in Eight Months",
-            "url": "https://www.riotimesonline.com/argentina-exports-fall-first-time-eight-months-february/",
-            "published_at": "2026-03-24T19:55:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Italian Eni Reports $3.3 Billion in Unpaid Venezuela Gas Bills",
-            "url": "https://www.riotimesonline.com/pdvsa-debt-eni-3-billion-venezuela-sanctions/",
-            "published_at": "2026-03-24T19:38:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Fuel Prices to Jump 54% as Kast Ends Subsidy",
-            "url": "https://www.riotimesonline.com/chile-fuel-price-hike-54-percent-mepco-kast/",
-            "published_at": "2026-03-24T19:26:44+00:00",
             "category": [],
             "language": "en"
         }
