@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-27T08:10:05+00:00",
+    "updated_at": "2026-03-27T09:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Friday, March 27, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-chile-protests-cjng-argentina-bolivia/",
+            "published_at": "2026-03-27T09:05:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Friday, March 27, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-pause-expires-oil-surges/",
+            "published_at": "2026-03-27T08:54:53+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Election Poll Shows Fl\u00e1vio Ahead of Lula",
             "url": "https://www.riotimesonline.com/brazil-election-poll-flavio-lula-2026/",
@@ -685,20 +699,6 @@
             "title": "Brazil Rolls Out First Supersonic Fighter Built on Its Soil",
             "url": "https://www.riotimesonline.com/brazil-gripen-first-fighter-assembled-embraer/",
             "published_at": "2026-03-24T11:50:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Tuesday, March 24, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-motogp-brazil-remo-palmeiras-chivas/",
-            "published_at": "2026-03-24T11:32:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Tuesday, March 24, 2026",
-            "url": "https://www.riotimesonline.com/rio-daily-free-mar-tuesday/",
-            "published_at": "2026-03-24T11:32:12+00:00",
             "category": [],
             "language": "en"
         }
