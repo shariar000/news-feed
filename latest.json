@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-27T11:10:04+00:00",
+    "updated_at": "2026-03-27T12:10:04+00:00",
     "items": [
+        {
+            "title": "Latin America Sports Daily for Friday, March 27, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-bolivia-repechage-brazil-france-miami/",
+            "published_at": "2026-03-27T11:56:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dasa Earnings: Loss Widens but Recurring EBITDA Up 21%",
+            "url": "https://www.riotimesonline.com/dasa-dasa3-q4-2025-loss-widens-recurring-ebitda-grows/",
+            "published_at": "2026-03-27T11:41:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Commodity Heartland Ships $45.7B but Stays Stuck",
+            "url": "https://www.riotimesonline.com/minas-gerais-exports-record-commodity/",
+            "published_at": "2026-03-27T11:40:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Braskem Earnings: Q4 Loss Doubles to R$10.3B",
+            "url": "https://www.riotimesonline.com/braskem-brkm5-q4-2025-loss-doubles-petrochemical-cycle/",
+            "published_at": "2026-03-27T11:25:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Friday, March 27, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-exporio-toni-garrido-friday/",
+            "published_at": "2026-03-27T11:16:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ibovespa Falls 1.45% on IPCA-15 Miss",
             "url": "https://www.riotimesonline.com/ibovespa-falls-ipca15-miss-lagarde-nasdaq-correction/",
@@ -664,41 +699,6 @@
             "title": "Chile Fuel Prices to Jump 54% as Kast Ends Subsidy",
             "url": "https://www.riotimesonline.com/chile-fuel-price-hike-54-percent-mepco-kast/",
             "published_at": "2026-03-24T19:26:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nelson Tanure, Brazil\u2019s Biggest Distressed Investor Becomes Distressed",
-            "url": "https://www.riotimesonline.com/tanure-empire-banco-master-collapse-brazil/",
-            "published_at": "2026-03-24T18:53:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Starts 2026 With Sharpest Economic Drop in a Year",
-            "url": "https://www.riotimesonline.com/mexico-economy-igae-january-contraction-industry/",
-            "published_at": "2026-03-24T18:22:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 March 24, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intel-brief-pmi-low-treasury-ai-pillar-two/",
-            "published_at": "2026-03-24T18:10:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Inflation Jumps to 4.63%, Complicating Rate Cut",
-            "url": "https://www.riotimesonline.com/mexico-inflation-march-2026-banxico-rate-decision/",
-            "published_at": "2026-03-24T18:02:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 March 24, 2026",
-            "url": "https://www.riotimesonline.com/europe-intel-brief-pmi-stagflation-defence-budget-france/",
-            "published_at": "2026-03-24T17:58:22+00:00",
             "category": [],
             "language": "en"
         }
