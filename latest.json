@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-27T18:10:04+00:00",
+    "updated_at": "2026-03-27T19:10:04+00:00",
     "items": [
+        {
+            "title": "Codelco Earnings: $4.85B Profit, EBITDA Up 23%",
+            "url": "https://www.riotimesonline.com/codelco-2025-profit-ebitda-copper-production/",
+            "published_at": "2026-03-27T18:46:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 March 27, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intel-brief-dhs-vote-gdp-revised-ontario-cusma/",
+            "published_at": "2026-03-27T18:42:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei Wins as Appeals Court Kills $16B YPF Award",
+            "url": "https://www.riotimesonline.com/argentina-ypf-ruling-overturned-16-billion/",
+            "published_at": "2026-03-27T18:39:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mercosur Canada Trade Deal Could Land by September",
+            "url": "https://www.riotimesonline.com/mercosur-canada-trade-deal-2026/",
+            "published_at": "2026-03-27T18:32:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "IMF Tells Peru to Stop Raiding Pensions and Reform Oil",
+            "url": "https://www.riotimesonline.com/imf-peru-article-iv-reforms-2026/",
+            "published_at": "2026-03-27T18:22:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 March 27, 2026",
+            "url": "https://www.riotimesonline.com/europe-intel-brief-spain-inflation-g7-france-industrial-contraction/",
+            "published_at": "2026-03-27T18:15:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "El Salvador\u2019s Bukele Reaches Record Popularity at 94%",
+            "url": "https://www.riotimesonline.com/bukele-approval-94-percent-record/",
+            "published_at": "2026-03-27T18:10:45+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Asia Intelligence Brief \u2014 March 27, 2026",
             "url": "https://www.riotimesonline.com/asia-intel-brief-japan-budget-china-panama-nuclear-pivot-shield/",
@@ -650,55 +699,6 @@
             "title": "China Eyes Brazil Infrastructure as Trump Pushes Back",
             "url": "https://www.riotimesonline.com/china-brazil-infrastructure-railways-ports-trump/",
             "published_at": "2026-03-25T10:55:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Boa Safra Earnings: Q4 Loss as Seed Margins Fall",
-            "url": "https://www.riotimesonline.com/boa-safra-soja3-q4-2025-loss-seed-margins/",
-            "published_at": "2026-03-25T10:49:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "MercadoLibre Pours $11 Billion Into Brazil in 2026",
-            "url": "https://www.riotimesonline.com/mercadolibre-brazil-investment-57-billion-2026/",
-            "published_at": "2026-03-25T10:21:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "New Brazil Finance Minister Faces Master Crisis",
-            "url": "https://www.riotimesonline.com/brazil-finance-minister-durigan-haddad-banco-master/",
-            "published_at": "2026-03-25T10:10:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Idle VW Factory in Germany Could Become Iron Dome Production Hub",
-            "url": "https://www.riotimesonline.com/volkswagen-iron-dome-rafael-osnabrueck-defense/",
-            "published_at": "2026-03-25T09:54:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Market Surges 2.18% in Best Session of 2026 as 33 of 35 Stocks Rally",
-            "url": "https://www.riotimesonline.com/ipc-mexico-surges-banxico-decision-megacable-amx/",
-            "published_at": "2026-03-25T09:46:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Edges Higher on Dovish Copom Ata",
-            "url": "https://www.riotimesonline.com/ibovespa-dovish-copom-ata-petrobras-iran-denial/",
-            "published_at": "2026-03-25T09:43:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Snaps 9-Day Rout, Silver Reclaims $70",
-            "url": "https://www.riotimesonline.com/gold-snaps-9day-rout-silver-reclaims-70-iran-talks/",
-            "published_at": "2026-03-25T09:40:08+00:00",
             "category": [],
             "language": "en"
         }
