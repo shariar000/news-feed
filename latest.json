@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-29T16:10:04+00:00",
+    "updated_at": "2026-03-29T17:10:04+00:00",
     "items": [
+        {
+            "title": "Bolivia Reserves Drop to $52 Million After Record Debt Pay",
+            "url": "https://www.riotimesonline.com/bolivia-reserves-debt-payment-crisis/",
+            "published_at": "2026-03-29T16:51:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of March 30 \u2013 April 3, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-march-30-april-3-2026/",
@@ -692,13 +699,6 @@
             "title": "Albemarle Files $3.1B Lithium Extraction Permit in Chile",
             "url": "https://www.riotimesonline.com/albemarle-files-3-1b-lithium-extraction-permit-in-chile/",
             "published_at": "2026-03-25T17:42:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 March 25, 2026",
-            "url": "https://www.riotimesonline.com/africa-intel-brief-dangote-exports-starlink-kenya-crypto/",
-            "published_at": "2026-03-25T17:28:58+00:00",
             "category": [],
             "language": "en"
         }
