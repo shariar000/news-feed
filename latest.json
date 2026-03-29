@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-29T17:10:04+00:00",
+    "updated_at": "2026-03-29T18:10:04+00:00",
     "items": [
+        {
+            "title": "Paraguay GDP Hits 6.6% as South America\u2019s Fastest Grower",
+            "url": "https://www.riotimesonline.com/paraguay-gdp-6-percent-fastest-south-america/",
+            "published_at": "2026-03-29T17:28:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bolivia Reserves Drop to $52 Million After Record Debt Pay",
             "url": "https://www.riotimesonline.com/bolivia-reserves-debt-payment-crisis/",
@@ -692,13 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 March 25, 2026",
             "url": "https://www.riotimesonline.com/asia-intel-brief-china-battery-rally-japan-subsidies-india-pmi/",
             "published_at": "2026-03-25T17:53:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Albemarle Files $3.1B Lithium Extraction Permit in Chile",
-            "url": "https://www.riotimesonline.com/albemarle-files-3-1b-lithium-extraction-permit-in-chile/",
-            "published_at": "2026-03-25T17:42:27+00:00",
             "category": [],
             "language": "en"
         }
