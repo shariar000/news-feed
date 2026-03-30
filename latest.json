@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-30T06:10:03+00:00",
+    "updated_at": "2026-03-30T07:10:05+00:00",
     "items": [
+        {
+            "title": "The War Iran Is Winning Isn\u2019t the One America Is Fighting",
+            "url": "https://www.riotimesonline.com/iran-economic-war-against-united-states-analysis/",
+            "published_at": "2026-03-30T02:10:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Paraguay GDP Hits 6.6% as South America\u2019s Fastest Grower",
             "url": "https://www.riotimesonline.com/paraguay-gdp-6-percent-fastest-south-america/",
@@ -48,13 +55,6 @@
             "title": "Rio de Janeiro Daily Brief for Sunday, March 29, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-march-29-2026/",
             "published_at": "2026-03-29T09:33:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The War Iran Is Winning Isn\u2019t the One America Is Fighting",
-            "url": "https://www.riotimesonline.com/iran-economic-war-against-united-states-analysis/",
-            "published_at": "2026-03-29T08:10:09+00:00",
             "category": [],
             "language": "en"
         },
