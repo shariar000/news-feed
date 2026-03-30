@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-30T09:10:04+00:00",
+    "updated_at": "2026-03-30T10:10:03+00:00",
     "items": [
+        {
+            "title": "Gold Price Correction Hits 25% \u2014 History Says What Comes Next",
+            "url": "https://www.riotimesonline.com/gold-price-correction-buy-of-decade-analysis/",
+            "published_at": "2026-03-30T09:18:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Delta A330 Engine Explodes After Guarulhos Takeoff, Crew Declares Mayday",
+            "url": "https://www.riotimesonline.com/delta-guarulhos-emergency-engine-explosion/",
+            "published_at": "2026-03-30T09:10:27+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Athletico Crushes Botafogo 4-1 to Climb Second in Brasileir\u00e3o Standings",
             "url": "https://www.riotimesonline.com/athletico-botafogo-4-1-brasileirao-standings/",
@@ -68,7 +82,7 @@
         {
             "title": "The War Iran Is Winning Isn\u2019t the One America Is Fighting",
             "url": "https://www.riotimesonline.com/iran-economic-war-against-united-states-analysis/",
-            "published_at": "2026-03-30T02:10:09+00:00",
+            "published_at": "2026-03-30T07:10:09+00:00",
             "category": [],
             "language": "en"
         },
@@ -685,20 +699,6 @@
             "title": "Global Economy Briefing \u2014 March 26, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-march-26-2026/",
             "published_at": "2026-03-26T09:12:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, March 26, 2026",
-            "url": "https://www.riotimesonline.com/latam-pulse-maduro-hearing-marquez-colombia/",
-            "published_at": "2026-03-26T09:08:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Morning Call for Thursday, March 26, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-ipca15-bcb-inflation-report/",
-            "published_at": "2026-03-26T08:53:06+00:00",
             "category": [],
             "language": "en"
         }
