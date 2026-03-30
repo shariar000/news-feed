@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-30T11:10:04+00:00",
+    "updated_at": "2026-03-30T12:10:04+00:00",
     "items": [
+        {
+            "title": "Spain\u2019s Rental Market Collapses: Supply Down 61%, Prices Up 40% in Five Years",
+            "url": "https://www.riotimesonline.com/spain-rental-crisis-supply-collapse-prices/",
+            "published_at": "2026-03-30T12:00:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Investors Demand Nearly Double the Yield for Argentine Debt Beyond Milei\u2019s Ter",
+            "url": "https://www.riotimesonline.com/argentina-bond-sale-milei-reversal-risk/",
+            "published_at": "2026-03-30T11:53:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Central Bank Expected to Raise Rates to 11.25% as Inflation Surges Past 6%",
+            "url": "https://www.riotimesonline.com/colombia-interest-rate-hike-forecast-march-2026/",
+            "published_at": "2026-03-30T11:23:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Monday, March 30, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-sinner-sabalenka-sunshine-double-copa-argentina/",
+            "published_at": "2026-03-30T11:22:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cuba Gets First Oil in Three Months as U.S. Allows Sanctioned Russian Tanker Through",
+            "url": "https://www.riotimesonline.com/us-allows-russian-oil-tanker-cuba-blockade/",
+            "published_at": "2026-03-30T11:19:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Debt Hits 91.4% of GDP \u2014 Third Highest in South America",
             "url": "https://www.riotimesonline.com/brazil-debt-gdp-third-highest-south-america/",
@@ -664,41 +699,6 @@
             "title": "JBS Earnings: Record $86B Revenue, Q4 Profit Flat",
             "url": "https://www.riotimesonline.com/jbs-jbss3-q4-2025-record-revenue-cattle-costs/",
             "published_at": "2026-03-26T10:34:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Rallies 1.6% on Iran Plan, Poll",
-            "url": "https://www.riotimesonline.com/ibovespa-iran-peace-plan-bolsonaro-poll-rally/",
-            "published_at": "2026-03-26T10:18:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Snaps 9-Day Streak, Retreats to $4,453",
-            "url": "https://www.riotimesonline.com/gold-snaps-9-day-streak-silver-retreats-70/",
-            "published_at": "2026-03-26T10:17:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Equatorial Earnings: Profit Falls 21%, EBITDA Beats",
-            "url": "https://www.riotimesonline.com/equatorial-eqtl3-q4-2025-profit-falls-ebitda-beats/",
-            "published_at": "2026-03-26T10:06:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombian Market Jumps 1.6% as Trump Iran Plan Triggers Oil Selloff",
-            "url": "https://www.riotimesonline.com/colombia-stock-market-colcap-iran-peace-rally/",
-            "published_at": "2026-03-26T10:02:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Market Bounces 2% From Four-Month Low as Oil Retreat Lifts SQM and Banks",
-            "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-oil-drop-sqm-rally/",
-            "published_at": "2026-03-26T09:52:52+00:00",
             "category": [],
             "language": "en"
         }
