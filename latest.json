@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-30T12:10:04+00:00",
+    "updated_at": "2026-03-30T14:10:03+00:00",
     "items": [
+        {
+            "title": "France Factory Closures Surge 30% as Asia and U.S. Tariffs Squeeze Manufacturers",
+            "url": "https://www.riotimesonline.com/france-factory-closures-30-percent-asia-tariffs/",
+            "published_at": "2026-03-30T12:12:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nuclear Carrier USS Nimitz Reaches Panama as Southern Seas 2026 Kicks Off",
+            "url": "https://www.riotimesonline.com/uss-nimitz-panama-southern-seas-final-deployment/",
+            "published_at": "2026-03-30T12:12:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Spain\u2019s Rental Market Collapses: Supply Down 61%, Prices Up 40% in Five Years",
             "url": "https://www.riotimesonline.com/spain-rental-crisis-supply-collapse-prices/",
@@ -685,20 +699,6 @@
             "title": "Americanas Q4 Loss Narrows as Store Sales Rise 8%",
             "url": "https://www.riotimesonline.com/americanas-amer3-q4-2025-loss-shrinks-turnaround/",
             "published_at": "2026-03-26T10:41:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Market Soars 3.67% in Best Session of 2026 on Iran Peace Hopes",
-            "url": "https://www.riotimesonline.com/mexico-stock-market-ipc-iran-rally/",
-            "published_at": "2026-03-26T10:38:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "JBS Earnings: Record $86B Revenue, Q4 Profit Flat",
-            "url": "https://www.riotimesonline.com/jbs-jbss3-q4-2025-record-revenue-cattle-costs/",
-            "published_at": "2026-03-26T10:34:14+00:00",
             "category": [],
             "language": "en"
         }
