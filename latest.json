@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-30T10:10:03+00:00",
+    "updated_at": "2026-03-30T11:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Debt Hits 91.4% of GDP \u2014 Third Highest in South America",
+            "url": "https://www.riotimesonline.com/brazil-debt-gdp-third-highest-south-america/",
+            "published_at": "2026-03-30T11:03:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Civil Code Reform Could End Spouse Inheritance Rights and Allow Express Divorce",
+            "url": "https://www.riotimesonline.com/brazil-civil-code-reform-divorce-inheritance/",
+            "published_at": "2026-03-30T10:58:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Monday, March 30, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-pinacoteca-monday/",
+            "published_at": "2026-03-30T10:42:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Monday, March 30, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-vetores-vertentes-final-ccbb/",
+            "published_at": "2026-03-30T10:29:56+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Gold Price Correction Hits 25% \u2014 History Says What Comes Next",
             "url": "https://www.riotimesonline.com/gold-price-correction-buy-of-decade-analysis/",
@@ -671,34 +699,6 @@
             "title": "Chilean Market Bounces 2% From Four-Month Low as Oil Retreat Lifts SQM and Banks",
             "url": "https://www.riotimesonline.com/chile-stock-market-ipsa-oil-drop-sqm-rally/",
             "published_at": "2026-03-26T09:52:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentine Blue Dollar Slides to 1,420 as Bonds Rally and Merval Extends Gains",
-            "url": "https://www.riotimesonline.com/argentina-blue-dollar-rate-merval-bonds-rally/",
-            "published_at": "2026-03-26T09:43:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Falls Below $70K as Rally Fades",
-            "url": "https://www.riotimesonline.com/bitcoin-drops-70k-ceasefire-rally-fades-fear/",
-            "published_at": "2026-03-26T09:41:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Americanas Recovery Exit Filed After Record Fraud",
-            "url": "https://www.riotimesonline.com/americanas-recovery-exit-filed-after-record-fraud/",
-            "published_at": "2026-03-26T09:28:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 March 26, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-march-26-2026/",
-            "published_at": "2026-03-26T09:12:02+00:00",
             "category": [],
             "language": "en"
         }
