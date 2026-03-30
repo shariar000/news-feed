@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-30T07:10:05+00:00",
+    "updated_at": "2026-03-30T08:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Monday, March 30, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-azteca-death-cuba-next-maduro-prison/",
+            "published_at": "2026-03-30T08:08:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Morning Call for Monday, March 30, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-powell-dow-correction/",
+            "published_at": "2026-03-30T08:07:41+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The War Iran Is Winning Isn\u2019t the One America Is Fighting",
             "url": "https://www.riotimesonline.com/iran-economic-war-against-united-states-analysis/",
@@ -685,20 +699,6 @@
             "title": "Ecopetrol Board Keeps Roa Despite Legal Pressure",
             "url": "https://www.riotimesonline.com/ecopetrol-board-retains-roa-legal-pressure/",
             "published_at": "2026-03-25T18:04:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia Wins Two Credit Upgrades in Seven Days",
-            "url": "https://www.riotimesonline.com/bolivia-credit-rating-sp-double-upgrade/",
-            "published_at": "2026-03-25T18:03:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 March 25, 2026",
-            "url": "https://www.riotimesonline.com/asia-intel-brief-china-battery-rally-japan-subsidies-india-pmi/",
-            "published_at": "2026-03-25T17:53:11+00:00",
             "category": [],
             "language": "en"
         }
