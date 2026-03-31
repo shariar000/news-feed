@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-31T11:10:03+00:00",
+    "updated_at": "2026-03-31T12:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Inflation 2026: Rates, Forecasts and What Drives IPCA",
+            "url": "https://www.riotimesonline.com/brazil-inflation-2026-guide/",
+            "published_at": "2026-03-31T12:02:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Simpar Reverses Loss, EBITDA Surges 55% in Q4",
+            "url": "https://www.riotimesonline.com/simpar-simh3-q4-2025-profit-reversal-leverage-low/",
+            "published_at": "2026-03-31T11:26:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Tuesday, March 31, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-chile-new-zealand-bolivia-iraq-repechage/",
+            "published_at": "2026-03-31T11:20:27+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Runs R$30B February Gap Despite Record Tax Collections",
             "url": "https://www.riotimesonline.com/brazil-fiscal-deficit-february-2026-treasury/",
@@ -678,27 +699,6 @@
             "title": "Gold Falls 1.2%, Natixis Warns Central Banks Selling",
             "url": "https://www.riotimesonline.com/gold-falls-natixis-central-banks-selling-pce-ceasefire/",
             "published_at": "2026-03-27T09:57:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombian Peso Hits One-Week High as COLCAP Gives Back Wednesday\u2019s Gains",
-            "url": "https://www.riotimesonline.com/usd-cop-today-peso-colcap-drops-profit-taking/",
-            "published_at": "2026-03-27T09:47:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Market Holds Steady as Oil Rebound Caps Wednesday\u2019s Relief Rally",
-            "url": "https://www.riotimesonline.com/chile-ipsa-today-flat-oil-rebound-stagflation/",
-            "published_at": "2026-03-27T09:43:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Supreme Court Kills Probe That Threatened Its Own Justices",
-            "url": "https://www.riotimesonline.com/brazil-supreme-court-inss-fraud-probe/",
-            "published_at": "2026-03-27T09:37:13+00:00",
             "category": [],
             "language": "en"
         }
