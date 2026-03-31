@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-31T05:10:03+00:00",
+    "updated_at": "2026-03-31T06:10:03+00:00",
     "items": [
+        {
+            "title": "Notice -Hogue Nonato Silva",
+            "url": "https://www.riotimesonline.com/notice-hogue-nonato-silva-1/",
+            "published_at": "2026-03-31T05:33:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Inflation Forecasts Rise Through 2028 as Iran War Feeds Into Prices",
             "url": "https://www.riotimesonline.com/brazil-inflation-forecast-focus-survey-iran-war/",
@@ -692,13 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 March 26, 2026",
             "url": "https://www.riotimesonline.com/asia-intel-brief-kf21-rollout-thailand-fuel-indonesia-subsidies/",
             "published_at": "2026-03-26T17:46:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 March 26, 2026",
-            "url": "https://www.riotimesonline.com/africa-intel-brief-tanzania-minerals-safaricom-liberia-uganda/",
-            "published_at": "2026-03-26T17:33:41+00:00",
             "category": [],
             "language": "en"
         }
