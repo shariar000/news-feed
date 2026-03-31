@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-31T17:10:04+00:00",
+    "updated_at": "2026-03-31T18:10:04+00:00",
     "items": [
+        {
+            "title": "$500 Billion in LATAM Renewable Projects Stall as Shipping Costs Surge",
+            "url": "https://www.riotimesonline.com/latin-america-clean-energy-iran-war-investment-gap/",
+            "published_at": "2026-03-31T17:58:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 March 31, 2026",
+            "url": "https://www.riotimesonline.com/europe-intel-brief-poland-fuel-caps-germany-cpi-hungary-gamechanger/",
+            "published_at": "2026-03-31T17:22:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Copper Output Falls to Nine-Year Low as Ore Grades Decline",
+            "url": "https://www.riotimesonline.com/chile-copper-production-nine-year-low-february-2026/",
+            "published_at": "2026-03-31T17:19:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 March 31, 2026",
+            "url": "https://www.riotimesonline.com/africa-intel-brief-ethiopia-visa-mozambique-gas-sahel-afreximbank/",
+            "published_at": "2026-03-31T17:14:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "After Banco Master, Brazil\u2019s Central Bank Eyes State-Owned BRB for Intervention",
             "url": "https://www.riotimesonline.com/brazil-bank-crisis-brb-master-central-bank/",
@@ -671,34 +699,6 @@
             "title": "Colombia\u2019s Right-Wing Outsider Threatens Leftist Lead",
             "url": "https://www.riotimesonline.com/colombia-election-de-la-espriella-outsider/",
             "published_at": "2026-03-27T12:23:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "U.S. Debt Wall Reaches $14 Trillion as Rates Rise",
-            "url": "https://www.riotimesonline.com/us-debt-14-trillion-bond-supply/",
-            "published_at": "2026-03-27T12:15:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Strikes Oil Beneath a Field Discovered in 1987",
-            "url": "https://www.riotimesonline.com/petrobras-pre-salt-marlim-sul-discovery/",
-            "published_at": "2026-03-27T12:11:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Election Favors the Right in Fragmented Race",
-            "url": "https://www.riotimesonline.com/peru-election-right-wing-frontrunners-april/",
-            "published_at": "2026-03-27T12:10:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Friday, March 27, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-bolivia-repechage-brazil-france-miami/",
-            "published_at": "2026-03-27T11:56:28+00:00",
             "category": [],
             "language": "en"
         }
