@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-03-31T12:10:04+00:00",
+    "updated_at": "2026-03-31T13:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina\u2019s Shale Boom Accelerates: Phoenix Targets 260% Production Growth",
+            "url": "https://www.riotimesonline.com/vaca-muerta-phoenix-6-billion-rigi-milei/",
+            "published_at": "2026-03-31T12:30:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei\u2019s Signature Reform Frozen by Court Order",
+            "url": "https://www.riotimesonline.com/argentina-labor-reform-suspended-court-cgt/",
+            "published_at": "2026-03-31T12:16:25+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Inflation 2026: Rates, Forecasts and What Drives IPCA",
             "url": "https://www.riotimesonline.com/brazil-inflation-2026-guide/",
@@ -685,20 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Friday, March 27, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-exporio-toni-garrido-friday/",
             "published_at": "2026-03-27T11:16:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Falls 1.45% on IPCA-15 Miss",
-            "url": "https://www.riotimesonline.com/ibovespa-falls-ipca15-miss-lagarde-nasdaq-correction/",
-            "published_at": "2026-03-27T10:06:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Falls 1.2%, Natixis Warns Central Banks Selling",
-            "url": "https://www.riotimesonline.com/gold-falls-natixis-central-banks-selling-pce-ceasefire/",
-            "published_at": "2026-03-27T09:57:51+00:00",
             "category": [],
             "language": "en"
         }
