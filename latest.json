@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-01T09:10:05+00:00",
+    "updated_at": "2026-04-01T10:10:05+00:00",
     "items": [
+        {
+            "title": "Colombia\u2019s Finance Minister Walks Out of Central Bank, Paralyzing Monetary Policy",
+            "url": "https://www.riotimesonline.com/colombia-central-bank-crisis-finance-minister-walkout/",
+            "published_at": "2026-04-01T10:09:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Iran War Pushes Brazil\u2019s IPO and Equity Window to May-June",
             "url": "https://www.riotimesonline.com/brazil-ipo-market-iran-war-equity-offerings/",
@@ -692,13 +699,6 @@
             "title": "Bitcoin ETFs Break 4-Week Streak, BTC at $66K \u2014 Rio Times",
             "url": "https://www.riotimesonline.com/bitcoin-etf-outflows-66k-morgan-stanley-kpmg-tether/",
             "published_at": "2026-03-28T09:24:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Drops as Trump Extends Iran Deadline",
-            "url": "https://www.riotimesonline.com/ibovespa-drops-trump-extends-iran-deadline-dow-correction/",
-            "published_at": "2026-03-28T08:43:24+00:00",
             "category": [],
             "language": "en"
         }
