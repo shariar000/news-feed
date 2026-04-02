@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-02T11:10:05+00:00",
+    "updated_at": "2026-04-02T12:10:05+00:00",
     "items": [
+        {
+            "title": "Venezuela Crosses 1 Million bpd in March as Vitol, Trafigura, and Chevron Lead Exports",
+            "url": "https://www.riotimesonline.com/venezuela-oil-exports-million-barrels-march-2026/",
+            "published_at": "2026-04-02T11:49:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petro Plans Fifth Tax Reform as Colombia\u2019s Deficit Stays Above 6% of GDP",
+            "url": "https://www.riotimesonline.com/colombia-petro-fifth-tax-reform-2026/",
+            "published_at": "2026-04-02T11:46:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Eliminates Financial Transaction Tax on Dollars in Bid to End Foreign Currency Crisis",
+            "url": "https://www.riotimesonline.com/bolivia-eliminates-itf-dollar-tax-fx-crisis-2026/",
+            "published_at": "2026-04-02T11:40:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay Exports Grow 9% in Q1 2026 to $3.16 Billion as Beef Leads Recovery",
+            "url": "https://www.riotimesonline.com/uruguay-exports-q1-2026-beef-cellulose/",
+            "published_at": "2026-04-02T11:33:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Projects 1.9-2.9% GDP Growth for 2027 as Investment Recovery Takes Hold",
+            "url": "https://www.riotimesonline.com/mexico-gdp-forecast-2027-hacienda-pre-criterios/",
+            "published_at": "2026-04-02T11:30:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Auto Sales Hit 257,801 in March as Chinese Brands Claim Five Top-50 Spots",
+            "url": "https://www.riotimesonline.com/brazil-auto-sales-march-2026-byd-chinese-brands/",
+            "published_at": "2026-04-02T11:14:27+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "BTG Pactual Takes Full Control of V.tal After Judge Overrides Creditor Veto",
             "url": "https://www.riotimesonline.com/btg-pactual-oi-vtal-stake-court-approval-2026/",
@@ -657,48 +699,6 @@
             "title": "Brazil Inflation Forecasts Rise Through 2028 as Iran War Feeds Into Prices",
             "url": "https://www.riotimesonline.com/brazil-inflation-forecast-focus-survey-iran-war/",
             "published_at": "2026-03-30T18:09:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Ends Two-Week Curfew With 1,200 Arrests and 707 Weapons Seized",
-            "url": "https://www.riotimesonline.com/ecuador-curfew-ends-1200-arrested-noboa/",
-            "published_at": "2026-03-30T18:08:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Election Profile: L\u00f3pez Aliaga Blends Milei Economics With Bukele Security Rhetoric",
-            "url": "https://www.riotimesonline.com/peru-election-lopez-aliaga-leads-april-2026/",
-            "published_at": "2026-03-30T18:02:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "SpaceX Drove Nasdaq to Change Its Rules \u2014 Now $30 Trillion in Capital Follows",
-            "url": "https://www.riotimesonline.com/nasdaq-fast-entry-rule-spacex-ipo-index/",
-            "published_at": "2026-03-30T17:47:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Defense Monitor \u2013 Mar 23\u201330, 2026",
-            "url": "https://www.riotimesonline.com/latam-defense-monitor-colombia-crash-ecuador-curfew/",
-            "published_at": "2026-03-30T17:40:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 March 30, 2026",
-            "url": "https://www.riotimesonline.com/europe-intel-brief-merz-afd-spain-airspace-poland-growth/",
-            "published_at": "2026-03-30T17:11:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s 50% Tax Burden Forces Paint Maker to Expand Into Venezuela and Peru",
-            "url": "https://www.riotimesonline.com/colombia-tax-burden-pushes-firms-abroad-pinturas-bler/",
-            "published_at": "2026-03-30T17:06:30+00:00",
             "category": [],
             "language": "en"
         }
