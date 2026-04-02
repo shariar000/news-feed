@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-02T17:10:04+00:00",
+    "updated_at": "2026-04-02T18:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Thursday, April 2, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-report-pharma-tariffs-gdp-slump/",
+            "published_at": "2026-04-02T17:24:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Thursday, April 2, 2026",
+            "url": "https://www.riotimesonline.com/europe-pulse-macron-rejects-hormuz-jet-fuel-risk/",
+            "published_at": "2026-04-02T17:23:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei Expels Iran\u2019s Charg\u00e9 d\u2019Affaires as Buenos Aires-Tehran Confrontation Escalates",
+            "url": "https://www.riotimesonline.com/argentina-expels-iran-diplomat-persona-non-grata-2026/",
+            "published_at": "2026-04-02T17:19:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Hottest March Ever, Worst Fire Season Starting, Super El Ni\u00f1o Loading: Summer 2026 Preview",
             "url": "https://www.riotimesonline.com/record-heat-2026-summer-climate-crisis/",
@@ -678,27 +699,6 @@
             "title": "Gold Surges as Trump Threatens to Obliterate Kharg",
             "url": "https://www.riotimesonline.com/gold-surges-trump-obliterate-kharg-brent-117-houthis/",
             "published_at": "2026-03-31T09:16:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecopetrol Board Deadlocks on Roa After 7-Hour Session as COLCAP Extends Slide",
-            "url": "https://www.riotimesonline.com/colombia-colcap-ecopetrol-board-deadlock-roa/",
-            "published_at": "2026-03-31T09:06:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean IPSA Tests 10,567 but Reverses to Flat as Sellers Reject Breakout",
-            "url": "https://www.riotimesonline.com/chile-ipsa-today-tests-10567-closes-flat/",
-            "published_at": "2026-03-31T09:01:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Strategy Pauses BTC Buying After 13-Week Streak",
-            "url": "https://www.riotimesonline.com/strategy-pauses-btc-buying-13-week-streak-brandt-2027/",
-            "published_at": "2026-03-31T08:53:19+00:00",
             "category": [],
             "language": "en"
         }
