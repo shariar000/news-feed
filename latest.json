@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-03T08:10:04+00:00",
+    "updated_at": "2026-04-03T09:10:04+00:00",
     "items": [
+        {
+            "title": "Colombian COLCAP Slides Again as BanRep Crisis Weighs",
+            "url": "https://www.riotimesonline.com/colcap-colombia-banrep-crisis-election-pressure/",
+            "published_at": "2026-04-03T09:08:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Friday, April 3, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-argentina-iran-kast-haiti/",
+            "published_at": "2026-04-03T08:57:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 April 3, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-oil-spikes-wti-111-tesla-miss/",
+            "published_at": "2026-04-03T08:53:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Thursday, April 2, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-report-pharma-tariffs-gdp-slump/",
@@ -678,27 +699,6 @@
             "title": "Mexico\u2019s IPC Rebounds 0.6% as Mining Stocks Surge With WTI Above $105",
             "url": "https://www.riotimesonline.com/mexico-ipc-today-rebounds-mining-rally-wti-105/",
             "published_at": "2026-03-31T09:45:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Surges 2.6% as YPF Nears Pre-Nationalization High and BCRA Cuts Reserves",
-            "url": "https://www.riotimesonline.com/merval-argentina-today-ypf-rally-bcra-encajes/",
-            "published_at": "2026-03-31T09:40:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Signs Law Creating 24,000 Federal Jobs With R$5.3 Billion Price Tag",
-            "url": "https://www.riotimesonline.com/brazil-public-sector-spending-lula-24000-positions/",
-            "published_at": "2026-03-31T09:35:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Surges as Trump Threatens to Obliterate Kharg",
-            "url": "https://www.riotimesonline.com/gold-surges-trump-obliterate-kharg-brent-117-houthis/",
-            "published_at": "2026-03-31T09:16:29+00:00",
             "category": [],
             "language": "en"
         }
