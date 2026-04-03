@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-03T11:10:05+00:00",
+    "updated_at": "2026-04-03T12:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Federal Government Sets Conditions for BRB Rescue as Master Crisis Threatens Systemic Risk",
+            "url": "https://www.riotimesonline.com/brazil-brb-bank-rescue-conditions-master-crisis-2026/",
+            "published_at": "2026-04-03T11:23:46+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Cuba Releases 2,010 Prisoners in Largest Pardon in a Decade as US Negotiations Intensify",
             "url": "https://www.riotimesonline.com/cuba-2010-prisoner-release-pardon-us-negotiations-2026/",
@@ -692,13 +699,6 @@
             "title": "Lula Confirms Alckmin as Running Mate for Unprecedented Fourth Term Bid",
             "url": "https://www.riotimesonline.com/brazil-2026-election-lula-alckmin-running-mate/",
             "published_at": "2026-03-31T16:33:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Tuesday, March 31, 2026",
-            "url": "https://www.riotimesonline.com/rio-nightlife-mar-31-2026/",
-            "published_at": "2026-03-31T16:22:58+00:00",
             "category": [],
             "language": "en"
         }
