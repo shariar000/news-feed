@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-03T16:10:04+00:00",
+    "updated_at": "2026-04-03T17:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Friday, April 3, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-report-jobs-beat-nato-threat-rates/",
+            "published_at": "2026-04-03T17:07:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Chile\u2019s Santiago Outranks Brazil\u2019s S\u00e3o Paulo as a Global Financial Centre",
+            "url": "https://www.riotimesonline.com/latam-financial-centres-gfci-39-sao-paulo-santiago-2026/",
+            "published_at": "2026-04-03T17:06:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Country Risk Q1 2026: Venezuela Halved, Argentina Rose, Region Held Flat",
+            "url": "https://www.riotimesonline.com/latam-country-risk-embi-q1-2026/",
+            "published_at": "2026-04-03T16:52:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Friday, April 3, 2026",
+            "url": "https://www.riotimesonline.com/asia-pulse-markets-rebound-hormuz-protocol-quake/",
+            "published_at": "2026-04-03T16:50:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Friday, April 3, 2026",
+            "url": "https://www.riotimesonline.com/europe-pulse-nato-crisis-airspace-bans-hormuz/",
+            "published_at": "2026-04-03T16:39:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Friday, April 3, 2026",
+            "url": "https://www.riotimesonline.com/africa-pulse-water-crisis-dangote-naira-gains/",
+            "published_at": "2026-04-03T16:27:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Friday, April 3, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-apr-3-2026/",
+            "published_at": "2026-04-03T16:21:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Friday, April 3, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-apr-3-2026/",
+            "published_at": "2026-04-03T16:16:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Federal Government Sets Conditions for BRB Rescue as Master Crisis Threatens Systemic Risk",
             "url": "https://www.riotimesonline.com/brazil-brb-bank-rescue-conditions-master-crisis-2026/",
@@ -643,62 +699,6 @@
             "title": "Golden Visa Wars: Ethiopia Enters at $10K, Challenging UAE, Singapore, and Latin America",
             "url": "https://www.riotimesonline.com/ethiopia-golden-visa-global-comparison-latam/",
             "published_at": "2026-03-31T18:35:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Builds 17,000 Hotel Rooms as World Cup 2026 Drives Investment Surge",
-            "url": "https://www.riotimesonline.com/mexico-hotel-investment-world-cup-2026/",
-            "published_at": "2026-03-31T18:27:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "$500 Billion in LATAM Renewable Projects Stall as Shipping Costs Surge",
-            "url": "https://www.riotimesonline.com/latin-america-clean-energy-iran-war-investment-gap/",
-            "published_at": "2026-03-31T17:58:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 March 31, 2026",
-            "url": "https://www.riotimesonline.com/europe-intel-brief-poland-fuel-caps-germany-cpi-hungary-gamechanger/",
-            "published_at": "2026-03-31T17:22:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Copper Output Falls to Nine-Year Low as Ore Grades Decline",
-            "url": "https://www.riotimesonline.com/chile-copper-production-nine-year-low-february-2026/",
-            "published_at": "2026-03-31T17:19:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 March 31, 2026",
-            "url": "https://www.riotimesonline.com/africa-intel-brief-ethiopia-visa-mozambique-gas-sahel-afreximbank/",
-            "published_at": "2026-03-31T17:14:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "After Banco Master, Brazil\u2019s Central Bank Eyes State-Owned BRB for Intervention",
-            "url": "https://www.riotimesonline.com/brazil-bank-crisis-brb-master-central-bank/",
-            "published_at": "2026-03-31T16:42:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Tuesday, March 31, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-mar-31-2026/",
-            "published_at": "2026-03-31T16:37:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Confirms Alckmin as Running Mate for Unprecedented Fourth Term Bid",
-            "url": "https://www.riotimesonline.com/brazil-2026-election-lula-alckmin-running-mate/",
-            "published_at": "2026-03-31T16:33:42+00:00",
             "category": [],
             "language": "en"
         }
