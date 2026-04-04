@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-04T09:10:04+00:00",
+    "updated_at": "2026-04-04T10:10:05+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Saturday, April 4, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-april-4-2026/",
+            "published_at": "2026-04-04T10:00:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Supreme Court Has Been One Justice Short for 6 Months. Here\u2019s Why",
+            "url": "https://www.riotimesonline.com/lula-stf-messias-nomination-senate-vote-2026/",
+            "published_at": "2026-04-04T09:56:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Mining Selloff Nobody Should Ignore",
+            "url": "https://www.riotimesonline.com/mining-selloff-iran-war-critical-minerals-opportunity-2026/",
+            "published_at": "2026-04-04T09:25:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Iran War: How Cheap Drones Bankrupt Rich Militaries",
             "url": "https://www.riotimesonline.com/munitions-crisis-cheap-drones-bankrupting-militaries-iran/",
@@ -678,27 +699,6 @@
             "title": "Latin American Pulse for Wednesday, April 1, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-mexico-storm-brazil-debt/",
             "published_at": "2026-04-01T08:02:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Wednesday, April 1, 2026",
-            "url": "https://www.riotimesonline.com/brazil-morning-call-relief-rally-q2-begins/",
-            "published_at": "2026-04-01T07:57:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How to Get a Visa and Stay Legally in Brazil \u2014 Complete Guide for Expats",
-            "url": "https://www.riotimesonline.com/how-to-get-a-visa-and-stay-legally-in-brazil-complete-guide-for-expats/",
-            "published_at": "2026-03-31T19:33:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 March 31, 2026",
-            "url": "https://www.riotimesonline.com/asia-intel-brief-japan-fy2026-china-hormuz-ships-korea-driving-curbs/",
-            "published_at": "2026-03-31T19:07:54+00:00",
             "category": [],
             "language": "en"
         }
