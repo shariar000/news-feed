@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-04T07:10:04+00:00",
+    "updated_at": "2026-04-04T08:10:05+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Saturday, April 4, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-ecuador-exception-nimitz-panama/",
+            "published_at": "2026-04-04T07:24:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Friday, April 3, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-report-jobs-beat-nato-threat-rates/",
@@ -692,13 +699,6 @@
             "title": "Colombia Government Debt Grows 54% Since Petro Took Office",
             "url": "https://www.riotimesonline.com/colombia-government-debt-record-february-2026/",
             "published_at": "2026-03-31T19:07:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Golden Visa Wars: Ethiopia Enters at $10K, Challenging UAE, Singapore, and Latin America",
-            "url": "https://www.riotimesonline.com/ethiopia-golden-visa-global-comparison-latam/",
-            "published_at": "2026-03-31T18:35:47+00:00",
             "category": [],
             "language": "en"
         }
