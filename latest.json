@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-04T10:10:05+00:00",
+    "updated_at": "2026-04-04T11:10:03+00:00",
     "items": [
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Saturday, April 4, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-april-4-2026/",
+            "published_at": "2026-04-04T10:16:29+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Daily Brief for Saturday, April 4, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-april-4-2026/",
@@ -692,13 +699,6 @@
             "title": "Global Economy Briefing \u2014 April 1, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-peace-rally-eurozone-cpi-beat/",
             "published_at": "2026-04-01T08:05:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Wednesday, April 1, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-mexico-storm-brazil-debt/",
-            "published_at": "2026-04-01T08:02:48+00:00",
             "category": [],
             "language": "en"
         }
