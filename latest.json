@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-06T18:10:04+00:00",
+    "updated_at": "2026-04-06T19:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Monday, April 6, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-pulse-jobs-tariffs-april-2026/",
+            "published_at": "2026-04-06T18:10:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Intelligence Brief for Monday, April 6, 2026",
             "url": "https://www.riotimesonline.com/europe-pulse-germany-italy-poland-april-2026/",
@@ -692,13 +699,6 @@
             "title": "Colombia\u2019s COLCAP Dips as Central Bank Crisis Deepens",
             "url": "https://www.riotimesonline.com/colcap-colombia-central-bank-crisis-rate-hike/",
             "published_at": "2026-04-02T09:17:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Lithium in 2026: The Deals, the Policy Shift, and the Race to Stay No. 2",
-            "url": "https://www.riotimesonline.com/chile-lithium-2026-guide/",
-            "published_at": "2026-04-02T09:10:39+00:00",
             "category": [],
             "language": "en"
         }
