@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-06T08:10:04+00:00",
+    "updated_at": "2026-04-06T09:10:04+00:00",
     "items": [
+        {
+            "title": "Corinthians Sack Dorival J\u00fanior After Nine-Match Winless Run",
+            "url": "https://www.riotimesonline.com/corinthians-sack-dorival-junior-brasileirao-2026/",
+            "published_at": "2026-04-06T08:30:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil Surges Then Cools: Brent $113, WTI $102",
+            "url": "https://www.riotimesonline.com/oil-brent-wti-inversion-hormuz-deadline-nfp/",
+            "published_at": "2026-04-06T08:21:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, April 6, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-kast-milei-peru-polls-petro/",
+            "published_at": "2026-04-06T08:17:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Gold and Silver Slide on Hawkish Trump Speech",
             "url": "https://www.riotimesonline.com/gold-silver-drop-trump-iran-hawkish-speech-2/",
@@ -678,27 +699,6 @@
             "title": "Costa Rica, Uruguay, and Panama Lead LATAM Minimum Wages by Wide Margin",
             "url": "https://www.riotimesonline.com/latin-america-minimum-wage-comparison-2026/",
             "published_at": "2026-04-01T11:41:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Milei Designates IRGC as Terrorist Group in Latest Move Aligned With Trump",
-            "url": "https://www.riotimesonline.com/argentina-irgc-terrorist-designation-milei/",
-            "published_at": "2026-04-01T11:31:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Collects Emergency Wealth Tax While Courts Decide If It\u2019s Legal",
-            "url": "https://www.riotimesonline.com/colombia-wealth-tax-emergency-oil-mining/",
-            "published_at": "2026-04-01T11:24:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Adds 370K Formal Jobs in Two Months, But Pace Falls 38% From Last Year",
-            "url": "https://www.riotimesonline.com/brazil-formal-employment-caged-february-2026/",
-            "published_at": "2026-04-01T11:13:00+00:00",
             "category": [],
             "language": "en"
         }
