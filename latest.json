@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-07T07:10:04+00:00",
+    "updated_at": "2026-04-07T08:10:04+00:00",
     "items": [
+        {
+            "title": "Chile\u2019s IPSA Drifts Lower to 10,695 as ATH Consolidation Continues",
+            "url": "https://www.riotimesonline.com/ipsa-chile-third-decline-ath-consolidation/",
+            "published_at": "2026-04-07T08:08:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ceasefire Hopes Lift Bitcoin Above $70K Briefly",
+            "url": "https://www.riotimesonline.com/bitcoin-70k-ceasefire-talks-iran-shorts-squeezed/",
+            "published_at": "2026-04-07T08:06:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Tuesday, April 7, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-peru-blackout-banrep-petrobras/",
+            "published_at": "2026-04-07T07:54:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Morning Call for Tuesday, April 7, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-trump-iran-deadline/",
+            "published_at": "2026-04-07T07:51:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Notice -Hogue Nonato Silva",
             "url": "https://www.riotimesonline.com/notice-hogue-nonato-silva-2/",
@@ -671,34 +699,6 @@
             "title": "Merval Edges Up 0.05% to 2,999,342 as Bulls Fail to Hold the 3-Million Breakout",
             "url": "https://www.riotimesonline.com/merval-argentina-labor-reform-privatization/",
             "published_at": "2026-04-02T09:56:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IPSA Surges 2.03% on Kast Reform Optimism",
-            "url": "https://www.riotimesonline.com/ipsa-chile-kast-mining-reform-rally/",
-            "published_at": "2026-04-02T09:43:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Edges Higher on Iran Ceasefire Hopes",
-            "url": "https://www.riotimesonline.com/ibovespa-ceasefire-hopes-banks-rally-petrobras-falls/",
-            "published_at": "2026-04-02T09:35:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Falls 3.3%, Silver Crashes 5.7% on Peace Trade",
-            "url": "https://www.riotimesonline.com/gold-silver-crash-iran-ceasefire-precious-metals/",
-            "published_at": "2026-04-02T09:31:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fluminense Dominates Corinthians 3-1 at Maracan\u00e3 as Winless Streak Hits Eight",
-            "url": "https://www.riotimesonline.com/fluminense-corinthians-brasileirao-round-9-2026/",
-            "published_at": "2026-04-02T09:24:57+00:00",
             "category": [],
             "language": "en"
         }
