@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-07T17:10:05+00:00",
+    "updated_at": "2026-04-07T18:10:04+00:00",
     "items": [
+        {
+            "title": "From $496 Million to $17.9 Billion: How Milei\u2019s RIGI Rewrote Vaca Muerta\u2019s Investment Map",
+            "url": "https://www.riotimesonline.com/vaca-muerta-rigi-filings-18-billion-oil-rush/",
+            "published_at": "2026-04-07T18:03:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Faces Fourth Downgrade as April Ratings Season Opens \u2014 But $110 Oil Buys Time",
+            "url": "https://www.riotimesonline.com/colombia-downgrade-risk-oil-price-election-2026/",
+            "published_at": "2026-04-07T17:54:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Backs Argentina on Falklands as South Atlantic Oil Dispute Escalates",
+            "url": "https://www.riotimesonline.com/kast-falklands-argentina-sovereignty-oil-dispute/",
+            "published_at": "2026-04-07T17:48:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Monday, April 7, 2026",
+            "url": "https://www.riotimesonline.com/asia-pulse-samsung-record-philippines-cpi-yen/",
+            "published_at": "2026-04-07T17:29:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Monday, April 7, 2026",
+            "url": "https://www.riotimesonline.com/africa-pulse-dangote-doubles-somalia-drills-lassa/",
+            "published_at": "2026-04-07T17:18:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "258 Flights Grounded: Argentina\u2019s Unions Strike Again, This Time on a Wider Front",
+            "url": "https://www.riotimesonline.com/argentina-cgt-strike-april-2026-flights-grounded/",
+            "published_at": "2026-04-07T17:11:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "$110 Oil Hits Latin America\u2019s Pumps: How Seven Countries Are Responding Differently",
             "url": "https://www.riotimesonline.com/latin-america-gasoline-prices-oil-surge-government-response/",
@@ -657,48 +699,6 @@
             "title": "Mexican IPC Pulls Back From 70K on Liberation Day Anniversary",
             "url": "https://www.riotimesonline.com/ipc-mexico-liberation-day-anniversary-pullback/",
             "published_at": "2026-04-03T09:50:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Drops Below $67K on Trump Speech",
-            "url": "https://www.riotimesonline.com/bitcoin-drops-67k-trump-iran-speech-liquidations/",
-            "published_at": "2026-04-03T09:45:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold Falls 1.7%, Silver Drops 2.8% on Trump",
-            "url": "https://www.riotimesonline.com/gold-silver-drop-trump-iran-hawkish-speech/",
-            "published_at": "2026-04-03T09:43:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Flat After Wild Swing on Trump",
-            "url": "https://www.riotimesonline.com/ibovespa-flat-wild-swing-trump-hormuz/",
-            "published_at": "2026-04-03T09:30:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombian COLCAP Slides Again as BanRep Crisis Weighs",
-            "url": "https://www.riotimesonline.com/colcap-colombia-banrep-crisis-election-pressure/",
-            "published_at": "2026-04-03T09:08:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Friday, April 3, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-argentina-iran-kast-haiti/",
-            "published_at": "2026-04-03T08:57:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 April 3, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-oil-spikes-wti-111-tesla-miss/",
-            "published_at": "2026-04-03T08:53:31+00:00",
             "category": [],
             "language": "en"
         }
