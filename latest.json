@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-07T08:10:04+00:00",
+    "updated_at": "2026-04-07T09:10:05+00:00",
     "items": [
+        {
+            "title": "Peru Elections 2026: Candidates, Polls and What\u2019s at Stake",
+            "url": "https://www.riotimesonline.com/peru-elections-2026-guide/",
+            "published_at": "2026-04-07T09:06:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Focus Report: Inflation Forecast Climbs for Fourth Straight Week as Iran War Weighs",
+            "url": "https://www.riotimesonline.com/brazil-focus-report-ipca-selic-april-2026/",
+            "published_at": "2026-04-07T09:06:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Board: Mello Pick Signals Policy Shift",
+            "url": "https://www.riotimesonline.com/petrobras-board-chair-guilherme-mello-nomination/",
+            "published_at": "2026-04-07T09:04:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s IPC Fails at 70K for Second Time, Drops 1.03% on Shooting Star",
+            "url": "https://www.riotimesonline.com/ipc-mexico-70000-second-failure-reversal/",
+            "published_at": "2026-04-07T08:48:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merval Recovers to 3,006,248 as 3-Million Level Holds After Selloff",
+            "url": "https://www.riotimesonline.com/merval-argentina-reclaims-3-million-recovery/",
+            "published_at": "2026-04-07T08:42:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Leaked Documents Expose Russia\u2019s Propaganda Network Across Latin America",
+            "url": "https://www.riotimesonline.com/russia-propaganda-latin-america-forbidden-stories-leak/",
+            "published_at": "2026-04-07T08:41:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Flat at 188K as Ceasefire Meets Trump",
+            "url": "https://www.riotimesonline.com/ibovespa-flat-ceasefire-trump-deadline-petrobras/",
+            "published_at": "2026-04-07T08:35:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "COLCAP Bounces 0.86% to 2,301 on Election Positioning",
+            "url": "https://www.riotimesonline.com/colcap-colombia-election-positioning-rebound/",
+            "published_at": "2026-04-07T08:16:06+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile\u2019s IPSA Drifts Lower to 10,695 as ATH Consolidation Continues",
             "url": "https://www.riotimesonline.com/ipsa-chile-third-decline-ath-consolidation/",
@@ -643,62 +699,6 @@
             "title": "BTG Pactual Takes Full Control of V.tal After Judge Overrides Creditor Veto",
             "url": "https://www.riotimesonline.com/btg-pactual-oi-vtal-stake-court-approval-2026/",
             "published_at": "2026-04-02T11:07:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "NASA Launches Artemis 2: First Crewed Moon Mission in 53 Years Lifts Off from Florida",
-            "url": "https://www.riotimesonline.com/nasa-artemis-2-launch-moon-mission-2026/",
-            "published_at": "2026-04-02T10:51:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Thursday, April 2, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-tigres-america-cruz-azul-clasico-rosarino/",
-            "published_at": "2026-04-02T10:37:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Thursday, April 2, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-thursday-april-2-2026/",
-            "published_at": "2026-04-02T10:19:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Thursday, April 2, 2026",
-            "url": "https://www.riotimesonline.com/rio-daily-brasileirao-r9-day2-april/",
-            "published_at": "2026-04-02T10:17:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The EU-Mercosur Deal Explained: What Starts on May 1, Who Wins, Who Loses, and What\u2019s Still at Risk",
-            "url": "https://www.riotimesonline.com/eu-mercosur-deal-explained-2026-guide/",
-            "published_at": "2026-04-02T10:09:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s IPC Surges 1.59% to 69,702 as Banxico Rate Cut Fuels Rally Toward 70,000",
-            "url": "https://www.riotimesonline.com/ipc-mexico-banxico-rate-cut-rally/",
-            "published_at": "2026-04-02T10:00:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula\u2019s Inner Circle Turns on Communications Chief as Approval Slides to 44%",
-            "url": "https://www.riotimesonline.com/lula-government-crisis-communications-sidonio-2026/",
-            "published_at": "2026-04-02T09:58:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Edges Up 0.05% to 2,999,342 as Bulls Fail to Hold the 3-Million Breakout",
-            "url": "https://www.riotimesonline.com/merval-argentina-labor-reform-privatization/",
-            "published_at": "2026-04-02T09:56:07+00:00",
             "category": [],
             "language": "en"
         }
