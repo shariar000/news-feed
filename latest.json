@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-07T04:10:05+00:00",
+    "updated_at": "2026-04-07T05:10:04+00:00",
     "items": [
+        {
+            "title": "Notice -Hogue Nonato Silva",
+            "url": "https://www.riotimesonline.com/notice-hogue-nonato-silva-2/",
+            "published_at": "2026-04-07T04:30:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Monday, April 6, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-pulse-jobs-tariffs-april-2026/",
@@ -692,13 +699,6 @@
             "title": "Fluminense Dominates Corinthians 3-1 at Maracan\u00e3 as Winless Streak Hits Eight",
             "url": "https://www.riotimesonline.com/fluminense-corinthians-brasileirao-round-9-2026/",
             "published_at": "2026-04-02T09:24:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s COLCAP Dips as Central Bank Crisis Deepens",
-            "url": "https://www.riotimesonline.com/colcap-colombia-central-bank-crisis-rate-hike/",
-            "published_at": "2026-04-02T09:17:13+00:00",
             "category": [],
             "language": "en"
         }
