@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-07T18:10:04+00:00",
+    "updated_at": "2026-04-07T19:10:05+00:00",
     "items": [
+        {
+            "title": "How Embraer Became Aviation\u2019s Third Force \u2014 and Why 2026 Is the Breakout Year",
+            "url": "https://www.riotimesonline.com/embraer-global-expansion-third-force-aviation/",
+            "published_at": "2026-04-07T18:19:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "From $496 Million to $17.9 Billion: How Milei\u2019s RIGI Rewrote Vaca Muerta\u2019s Investment Map",
             "url": "https://www.riotimesonline.com/vaca-muerta-rigi-filings-18-billion-oil-rush/",
@@ -692,13 +699,6 @@
             "title": "Argentina\u2019s Merval Drops ~5% as 3-Million Breakout Fails",
             "url": "https://www.riotimesonline.com/merval-argentina-3-million-failure-selloff/",
             "published_at": "2026-04-03T09:58:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican IPC Pulls Back From 70K on Liberation Day Anniversary",
-            "url": "https://www.riotimesonline.com/ipc-mexico-liberation-day-anniversary-pullback/",
-            "published_at": "2026-04-03T09:50:40+00:00",
             "category": [],
             "language": "en"
         }
