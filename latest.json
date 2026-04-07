@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-07T11:10:05+00:00",
+    "updated_at": "2026-04-07T12:10:04+00:00",
     "items": [
+        {
+            "title": "Peru\u2019s Public Investment Surges 18% in March as Election-Year Spending Rescues Q1",
+            "url": "https://www.riotimesonline.com/peru-public-investment-march-2026-election-spending/",
+            "published_at": "2026-04-07T11:34:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama Set to Authorize Ore Removal From Shuttered $10 Billion Cobre Panam\u00e1 Mine",
+            "url": "https://www.riotimesonline.com/cobre-panama-mine-first-quantum-ore-removal/",
+            "published_at": "2026-04-07T11:28:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fedesarrollo Cuts Colombia\u2019s Growth Forecast and Warns Inflation Won\u2019t Return to Target Until 2030",
+            "url": "https://www.riotimesonline.com/colombia-gdp-forecast-fedesarrollo-inflation-2026/",
+            "published_at": "2026-04-07T11:23:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Fertilizer Prices Surge 52% as Hormuz Closure and China Export Ban Squeeze the Food Chain",
+            "url": "https://www.riotimesonline.com/colombia-fertilizer-crisis-hormuz-prices-food-inflation/",
+            "published_at": "2026-04-07T11:11:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Tuesday, April 7, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-river-belgrano-argentinos-banfield-libertadores-launch/",
@@ -671,34 +699,6 @@
             "title": "Milei Expels Iran\u2019s Charg\u00e9 d\u2019Affaires as Buenos Aires-Tehran Confrontation Escalates",
             "url": "https://www.riotimesonline.com/argentina-expels-iran-diplomat-persona-non-grata-2026/",
             "published_at": "2026-04-02T17:19:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Hottest March Ever, Worst Fire Season Starting, Super El Ni\u00f1o Loading: Summer 2026 Preview",
-            "url": "https://www.riotimesonline.com/record-heat-2026-summer-climate-crisis/",
-            "published_at": "2026-04-02T17:05:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China\u2019s EV Revolution Meets the Hormuz Crisis \u2014 and the Overcapacity Narrative Dies",
-            "url": "https://www.riotimesonline.com/china-ev-new-toyota-oil-crisis-global-auto/",
-            "published_at": "2026-04-02T16:56:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Thursday, April 2, 2026",
-            "url": "https://www.riotimesonline.com/asia-pulse-stocks-crash-oil-107-korea-crisis/",
-            "published_at": "2026-04-02T16:28:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief for Thursday, April 2, 2026",
-            "url": "https://www.riotimesonline.com/africa-pulse-gdp-risk-mozambique-imf-sa-army/",
-            "published_at": "2026-04-02T16:23:05+00:00",
             "category": [],
             "language": "en"
         }
