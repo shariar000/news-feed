@@ -1,7 +1,70 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-08T10:10:05+00:00",
+    "updated_at": "2026-04-08T11:10:05+00:00",
     "items": [
+        {
+            "title": "Latin America Sports Daily for Wednesday, April 8, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-boca-libertadores-paredes-debut-continental-launch/",
+            "published_at": "2026-04-08T10:49:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brent Crashes to $93 and Latin America\u2019s Oil Map Flips Overnight",
+            "url": "https://www.riotimesonline.com/brent-crashes-to-93-and-latin-americas-oil-map-flips-overnight/",
+            "published_at": "2026-04-08T10:39:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "130 Million New Customers: Ethiopia Authorizes Brazilian Meat Imports",
+            "url": "https://www.riotimesonline.com/ethiopia-opens-brazilian-beef-poultry-pork-agro-2026/",
+            "published_at": "2026-04-08T10:32:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Economy 2026: Complete Investor Guide",
+            "url": "https://www.riotimesonline.com/argentina-economy-2026-complete-guide/",
+            "published_at": "2026-04-08T10:28:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela Crisis 2026: The Complete Guide",
+            "url": "https://www.riotimesonline.com/venezuela-crisis-2026-complete-guide/",
+            "published_at": "2026-04-08T10:28:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Economy 2026: Complete Guide",
+            "url": "https://www.riotimesonline.com/colombia-economy-2026-complete-guide/",
+            "published_at": "2026-04-08T10:27:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nearshoring Mexico 2026: The Complete Guide",
+            "url": "https://www.riotimesonline.com/nearshoring-mexico-2026-complete-guide/",
+            "published_at": "2026-04-08T10:27:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Mining 2026: Complete Sector Guide",
+            "url": "https://www.riotimesonline.com/brazil-mining-2026-complete-guide/",
+            "published_at": "2026-04-08T10:26:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Wednesday, April 8, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-masp-pinacoteca-ormuz/",
+            "published_at": "2026-04-08T10:18:21+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Daily Brief for Wednesday, April 8, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-buren-final-days-ormuz/",
@@ -636,69 +699,6 @@
             "title": "S\u00e3o Paulo Daily Brief for Saturday, April 4, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-april-4-2026/",
             "published_at": "2026-04-04T10:16:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Saturday, April 4, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-april-4-2026/",
-            "published_at": "2026-04-04T10:00:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Supreme Court Has Been One Justice Short for 6 Months. Here\u2019s Why",
-            "url": "https://www.riotimesonline.com/lula-stf-messias-nomination-senate-vote-2026/",
-            "published_at": "2026-04-04T09:56:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Mining Selloff Nobody Should Ignore",
-            "url": "https://www.riotimesonline.com/mining-selloff-iran-war-critical-minerals-opportunity-2026/",
-            "published_at": "2026-04-04T09:25:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iran War: How Cheap Drones Bankrupt Rich Militaries",
-            "url": "https://www.riotimesonline.com/munitions-crisis-cheap-drones-bankrupting-militaries-iran/",
-            "published_at": "2026-04-04T08:54:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Saturday, April 4, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-ecuador-exception-nimitz-panama/",
-            "published_at": "2026-04-04T07:24:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for Friday, April 3, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-report-jobs-beat-nato-threat-rates/",
-            "published_at": "2026-04-03T17:07:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Chile\u2019s Santiago Outranks Brazil\u2019s S\u00e3o Paulo as a Global Financial Centre",
-            "url": "https://www.riotimesonline.com/latam-financial-centres-gfci-39-sao-paulo-santiago-2026/",
-            "published_at": "2026-04-03T17:06:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Country Risk Q1 2026: Venezuela Halved, Argentina Rose, Region Held Flat",
-            "url": "https://www.riotimesonline.com/latam-country-risk-embi-q1-2026/",
-            "published_at": "2026-04-03T16:52:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Friday, April 3, 2026",
-            "url": "https://www.riotimesonline.com/asia-pulse-markets-rebound-hormuz-protocol-quake/",
-            "published_at": "2026-04-03T16:50:04+00:00",
             "category": [],
             "language": "en"
         }
