@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-08T09:10:04+00:00",
+    "updated_at": "2026-04-08T10:10:05+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Wednesday, April 8, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-buren-final-days-ormuz/",
+            "published_at": "2026-04-08T10:09:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Three Fronts, One Quarter: Nubank\u2019s Push Into Abu Dhabi, the US, and Full Banking",
             "url": "https://www.riotimesonline.com/nubank-abu-dhabi-headquarters-global-expansion-2026/",
@@ -692,13 +699,6 @@
             "title": "Asia Intelligence Brief for Friday, April 3, 2026",
             "url": "https://www.riotimesonline.com/asia-pulse-markets-rebound-hormuz-protocol-quake/",
             "published_at": "2026-04-03T16:50:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Friday, April 3, 2026",
-            "url": "https://www.riotimesonline.com/europe-pulse-nato-crisis-airspace-bans-hormuz/",
-            "published_at": "2026-04-03T16:39:50+00:00",
             "category": [],
             "language": "en"
         }
