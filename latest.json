@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-09T07:10:04+00:00",
+    "updated_at": "2026-04-09T08:10:04+00:00",
     "items": [
+        {
+            "title": "Bitcoin Consolidates at $71K as Ceasefire Holds",
+            "url": "https://www.riotimesonline.com/bitcoin-71k-ceasefire-iran-btc-tolls-fed-cuts/",
+            "published_at": "2026-04-09T08:03:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 April 9, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-ceasefire-oil-crash-dow-surges/",
+            "published_at": "2026-04-09T07:58:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Wednesday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-sp-colombia-glaciares-peru-final/",
+            "published_at": "2026-04-09T07:55:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Morning Call for Thursday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-ceasefire-frays-pce-day/",
+            "published_at": "2026-04-09T07:50:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Wednesday, April 8, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-report-fed-cuts-dimon-delta-semis-canada/",
@@ -671,34 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Monday, April 6, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-b3-reopens-ceasefire-april/",
             "published_at": "2026-04-06T10:29:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Corinthians Sack Dorival J\u00fanior After Nine-Match Winless Run",
-            "url": "https://www.riotimesonline.com/corinthians-sack-dorival-junior-brasileirao-2026/",
-            "published_at": "2026-04-06T08:30:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil Surges Then Cools: Brent $113, WTI $102",
-            "url": "https://www.riotimesonline.com/oil-brent-wti-inversion-hormuz-deadline-nfp/",
-            "published_at": "2026-04-06T08:21:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Monday, April 6, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-kast-milei-peru-polls-petro/",
-            "published_at": "2026-04-06T08:17:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Slide on Hawkish Trump Speech",
-            "url": "https://www.riotimesonline.com/gold-silver-drop-trump-iran-hawkish-speech-2/",
-            "published_at": "2026-04-06T08:10:02+00:00",
             "category": [],
             "language": "en"
         }
