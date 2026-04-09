@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-09T16:10:04+00:00",
+    "updated_at": "2026-04-09T17:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Thursday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-report-glasswing-powell-ontario-fed-defence/",
+            "published_at": "2026-04-09T16:51:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Thursday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/europe-pulse-hormuz-pact-sanchez-israel-death-penalty/",
+            "published_at": "2026-04-09T16:43:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Thursday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/asia-pulse-taiwan-china-pla-drill-bangladesh-islamabad/",
+            "published_at": "2026-04-09T16:29:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Thursday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/africa-pulse-nigeria-ftse-tigray-gitex-pensions-museveni/",
+            "published_at": "2026-04-09T16:24:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Thursday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-d-edge-moving-apr-9-2026/",
+            "published_at": "2026-04-09T16:19:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Thursday, April 9, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-thursday-escalation-apr-9-2026/",
+            "published_at": "2026-04-09T16:11:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina Inflation Forecast Jumps to 29% as Oil Shock Hits",
             "url": "https://www.riotimesonline.com/argentina-inflation-forecast-29-percent-rem-2026/",
@@ -657,48 +699,6 @@
             "title": "Ceasefire Hopes Lift Bitcoin Above $70K Briefly",
             "url": "https://www.riotimesonline.com/bitcoin-70k-ceasefire-talks-iran-shorts-squeezed/",
             "published_at": "2026-04-07T08:06:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Tuesday, April 7, 2026",
-            "url": "https://www.riotimesonline.com/latam-pulse-peru-blackout-banrep-petrobras/",
-            "published_at": "2026-04-07T07:54:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Morning Call for Tuesday, April 7, 2026",
-            "url": "https://www.riotimesonline.com/brazil-morning-call-trump-iran-deadline/",
-            "published_at": "2026-04-07T07:51:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Notice -Hogue Nonato Silva",
-            "url": "https://www.riotimesonline.com/notice-hogue-nonato-silva-2/",
-            "published_at": "2026-04-07T04:30:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for Monday, April 6, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-pulse-jobs-tariffs-april-2026/",
-            "published_at": "2026-04-06T18:10:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Monday, April 6, 2026",
-            "url": "https://www.riotimesonline.com/europe-pulse-germany-italy-poland-april-2026/",
-            "published_at": "2026-04-06T18:01:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Growing US Presence in Venezuela Is Reshaping the Country\u2019s Political and Economic Landscape",
-            "url": "https://www.riotimesonline.com/us-presence-venezuela-post-maduro-investment-oil-2026/",
-            "published_at": "2026-04-06T17:22:52+00:00",
             "category": [],
             "language": "en"
         }
