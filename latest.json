@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-10T09:10:05+00:00",
+    "updated_at": "2026-04-10T10:10:07+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Friday, April 10, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-buren-final-weekend-record/",
+            "published_at": "2026-04-10T10:04:23+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil 2026 Election: Lula Leads but Fl\u00e1vio Reaches Statistical Tie",
             "url": "https://www.riotimesonline.com/brazil-2026-election-poll-lula-flavio-tarcisio/",
@@ -692,13 +699,6 @@
             "title": "Latin America Sports Daily for Tuesday, April 7, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-river-belgrano-argentinos-banfield-libertadores-launch/",
             "published_at": "2026-04-07T11:03:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America\u2019s Auto Market in 2026: Record Sales, Chinese Dominance, and a Trade War on the Horizon",
-            "url": "https://www.riotimesonline.com/latin-america-auto-market-2026-china-byd-mexico-record/",
-            "published_at": "2026-04-07T10:59:00+00:00",
             "category": [],
             "language": "en"
         }
