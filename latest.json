@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-10T17:10:04+00:00",
+    "updated_at": "2026-04-10T18:10:04+00:00",
     "items": [
+        {
+            "title": "Embraer Names New CFO After Azul Poaches Antonio Garcia",
+            "url": "https://www.riotimesonline.com/embraer-new-cfo-felipe-santana-azul-garcia/",
+            "published_at": "2026-04-10T17:59:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Raises Colombia Tariffs to 100%; Petro Eyes CAN Exit",
+            "url": "https://www.riotimesonline.com/ecuador-colombia-tariff-100-can-mercosur/",
+            "published_at": "2026-04-10T17:57:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Puts BYD on Slave Labor Blacklist for Cama\u00e7ari Site",
+            "url": "https://www.riotimesonline.com/byd-brazil-slave-labor-dirty-list-camacari/",
+            "published_at": "2026-04-10T17:30:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil IPCA Surges to 0.88% in March on Fuel and Food Costs",
+            "url": "https://www.riotimesonline.com/brazil-ipca-march-2026-accelerates-fuel-food/",
+            "published_at": "2026-04-10T17:19:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil and US Launch Joint Operations on Organized Crime",
+            "url": "https://www.riotimesonline.com/brazil-us-joint-action-organized-crime/",
+            "published_at": "2026-04-10T17:12:52+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Asia Intelligence Brief for Friday, April 10, 2026",
             "url": "https://www.riotimesonline.com/asia-pulse-bok-hold-china-cpi-uniqlo-adb-cook-islands/",
@@ -664,41 +699,6 @@
             "title": "Latin America Defense Monitor \u2013 Mar 31\u2013Apr 7, 2026",
             "url": "https://www.riotimesonline.com/latam-defense-monitor-fidae-2026-colombia-c390/",
             "published_at": "2026-04-08T08:29:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Turns Green in Final Minutes, 7th Win",
-            "url": "https://www.riotimesonline.com/ibovespa-seventh-gain-trump-deadline-ceasefire/",
-            "published_at": "2026-04-08T08:22:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Falls 0.85% to 2,281 as Downgrade Risk Meets Oil Windfall",
-            "url": "https://www.riotimesonline.com/colcap-colombia-downgrade-risk-oil-windfall/",
-            "published_at": "2026-04-08T08:17:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Reclaims $72K on Iran Ceasefire Deal",
-            "url": "https://www.riotimesonline.com/bitcoin-72k-iran-ceasefire-etf-inflows-morgan-stanley/",
-            "published_at": "2026-04-08T08:10:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Drops to 2,972,629 as 3M Barrier Proves Stubborn",
-            "url": "https://www.riotimesonline.com/merval-argentina-below-3-million-again/",
-            "published_at": "2026-04-08T08:07:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 April 8, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-sentix-crash-pakistan-hormuz-deal/",
-            "published_at": "2026-04-08T08:02:19+00:00",
             "category": [],
             "language": "en"
         }
