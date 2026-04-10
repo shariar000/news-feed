@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-10T07:10:04+00:00",
+    "updated_at": "2026-04-10T08:10:04+00:00",
     "items": [
+        {
+            "title": "Bitcoin Holds $71.8K as Japan Classifies Crypto",
+            "url": "https://www.riotimesonline.com/bitcoin-72k-japan-crypto-law-blackrock-etf-inflows/",
+            "published_at": "2026-04-10T08:06:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Merval Just 392 Points Below 3M as Momentum Builds",
+            "url": "https://www.riotimesonline.com/merval-argentina-3-million-macd-expanding/",
+            "published_at": "2026-04-10T08:01:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 April 10, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-gdp-miss-hormuz-not-open-pce/",
+            "published_at": "2026-04-10T07:56:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Thursday, April 10, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-glacier-law-peru-silence-ibov-record/",
+            "published_at": "2026-04-10T07:53:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Morning Call for Friday, April 10, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-cpi-day-ibovespa-ath/",
+            "published_at": "2026-04-10T07:47:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Peace Process 2026: Total Peace, ELN Talks and What\u2019s at Stake",
+            "url": "https://www.riotimesonline.com/colombia-peace-process-2026-total-peace-eln-talks-and-whats-at-stake/",
+            "published_at": "2026-04-10T07:37:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Economy 2026: Dollarization, Oil Crisis and Growth Outlook",
+            "url": "https://www.riotimesonline.com/ecuador-economy-2026-dollarization-oil-crisis-and-growth-outlook/",
+            "published_at": "2026-04-10T07:34:14+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "War Reshapes Latin America\u2019s Tourism Map",
             "url": "https://www.riotimesonline.com/latam-tourism-winners-losers-middle-east-war/",
@@ -650,55 +699,6 @@
             "title": "Brazil Focus Report: Inflation Forecast Climbs for Fourth Straight Week as Iran War Weighs",
             "url": "https://www.riotimesonline.com/brazil-focus-report-ipca-selic-april-2026/",
             "published_at": "2026-04-07T09:06:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Board: Mello Pick Signals Policy Shift",
-            "url": "https://www.riotimesonline.com/petrobras-board-chair-guilherme-mello-nomination/",
-            "published_at": "2026-04-07T09:04:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s IPC Fails at 70K for Second Time, Drops 1.03% on Shooting Star",
-            "url": "https://www.riotimesonline.com/ipc-mexico-70000-second-failure-reversal/",
-            "published_at": "2026-04-07T08:48:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Merval Recovers to 3,006,248 as 3-Million Level Holds After Selloff",
-            "url": "https://www.riotimesonline.com/merval-argentina-reclaims-3-million-recovery/",
-            "published_at": "2026-04-07T08:42:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Leaked Documents Expose Russia\u2019s Propaganda Network Across Latin America",
-            "url": "https://www.riotimesonline.com/russia-propaganda-latin-america-forbidden-stories-leak/",
-            "published_at": "2026-04-07T08:41:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Flat at 188K as Ceasefire Meets Trump",
-            "url": "https://www.riotimesonline.com/ibovespa-flat-ceasefire-trump-deadline-petrobras/",
-            "published_at": "2026-04-07T08:35:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Bounces 0.86% to 2,301 on Election Positioning",
-            "url": "https://www.riotimesonline.com/colcap-colombia-election-positioning-rebound/",
-            "published_at": "2026-04-07T08:16:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s IPSA Drifts Lower to 10,695 as ATH Consolidation Continues",
-            "url": "https://www.riotimesonline.com/ipsa-chile-third-decline-ath-consolidation/",
-            "published_at": "2026-04-07T08:08:02+00:00",
             "category": [],
             "language": "en"
         }
