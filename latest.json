@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-10T11:10:04+00:00",
+    "updated_at": "2026-04-10T12:10:04+00:00",
     "items": [
+        {
+            "title": "Direcional (DIRR3) Q1 Sales Jump 19% to R$1.6B on Housing Demand",
+            "url": "https://www.riotimesonline.com/direcional-dirr3-q1-2026-sales-housing/",
+            "published_at": "2026-04-10T11:50:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cury (CURY3) Posts Record Q1 Production as Sales Top R$2.3B",
+            "url": "https://www.riotimesonline.com/cury-cury3-q1-2026-sales-production-record/",
+            "published_at": "2026-04-10T11:49:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuelan Workers Break Police Lines Demanding Pay",
+            "url": "https://www.riotimesonline.com/venezuela-salary-protest-workers-miraflores/",
+            "published_at": "2026-04-10T11:49:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela Eyes 12% Growth as War Fills Oil Coffers",
+            "url": "https://www.riotimesonline.com/venezuela-gdp-growth-12-percent-2026-oil/",
+            "published_at": "2026-04-10T11:26:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "U.S. Court Erases Juan Orlando Hern\u00e1ndez Narco Conviction",
+            "url": "https://www.riotimesonline.com/juan-orlando-hernandez-conviction-annulled-us/",
+            "published_at": "2026-04-10T11:21:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petroper\u00fa Buys Venezuelan Oil for First Time in 17 Years",
+            "url": "https://www.riotimesonline.com/petroperu-venezuelan-oil-purchase-first-2009/",
+            "published_at": "2026-04-10T11:12:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Peru Votes Saturday With No Clear Winner in Sight",
             "url": "https://www.riotimesonline.com/peru-election-april-2026-final-snapshot/",
@@ -657,48 +699,6 @@
             "title": "From $496 Million to $17.9 Billion: How Milei\u2019s RIGI Rewrote Vaca Muerta\u2019s Investment Map",
             "url": "https://www.riotimesonline.com/vaca-muerta-rigi-filings-18-billion-oil-rush/",
             "published_at": "2026-04-07T18:03:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Faces Fourth Downgrade as April Ratings Season Opens \u2014 But $110 Oil Buys Time",
-            "url": "https://www.riotimesonline.com/colombia-downgrade-risk-oil-price-election-2026/",
-            "published_at": "2026-04-07T17:54:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Backs Argentina on Falklands as South Atlantic Oil Dispute Escalates",
-            "url": "https://www.riotimesonline.com/kast-falklands-argentina-sovereignty-oil-dispute/",
-            "published_at": "2026-04-07T17:48:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Monday, April 7, 2026",
-            "url": "https://www.riotimesonline.com/asia-pulse-samsung-record-philippines-cpi-yen/",
-            "published_at": "2026-04-07T17:29:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief for Monday, April 7, 2026",
-            "url": "https://www.riotimesonline.com/africa-pulse-dangote-doubles-somalia-drills-lassa/",
-            "published_at": "2026-04-07T17:18:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "258 Flights Grounded: Argentina\u2019s Unions Strike Again, This Time on a Wider Front",
-            "url": "https://www.riotimesonline.com/argentina-cgt-strike-april-2026-flights-grounded/",
-            "published_at": "2026-04-07T17:11:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "$110 Oil Hits Latin America\u2019s Pumps: How Seven Countries Are Responding Differently",
-            "url": "https://www.riotimesonline.com/latin-america-gasoline-prices-oil-surge-government-response/",
-            "published_at": "2026-04-07T16:51:24+00:00",
             "category": [],
             "language": "en"
         }
