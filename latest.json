@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-10T10:10:07+00:00",
+    "updated_at": "2026-04-10T11:10:04+00:00",
     "items": [
+        {
+            "title": "Peru Votes Saturday With No Clear Winner in Sight",
+            "url": "https://www.riotimesonline.com/peru-election-april-2026-final-snapshot/",
+            "published_at": "2026-04-10T11:03:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Noboa Pledges Full Power Supply Through April",
+            "url": "https://www.riotimesonline.com/ecuador-energy-noboa-april-2026-electricity/",
+            "published_at": "2026-04-10T10:44:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Steel Industry Hits 25-Year Low Under US Tariffs",
+            "url": "https://www.riotimesonline.com/mexico-steel-tariffs-crisis-section-232/",
+            "published_at": "2026-04-10T10:38:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Top Court Kills Petro\u2019s Emergency Fiscal Decree",
+            "url": "https://www.riotimesonline.com/colombia-petro-emergency-decree-unconstitutional/",
+            "published_at": "2026-04-10T10:33:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Friday, April 10, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-corinthians-platense-di-maria-libertadores-md1-complete/",
+            "published_at": "2026-04-10T10:30:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Central Bank Makes Biggest Dollar Buy of 2026",
+            "url": "https://www.riotimesonline.com/argentina-bcra-largest-dollar-purchase-2026/",
+            "published_at": "2026-04-10T10:17:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Friday, April 10, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-record-rally-pinacoteca/",
+            "published_at": "2026-04-10T10:10:13+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Daily Brief for Friday, April 10, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-buren-final-weekend-record/",
@@ -650,55 +699,6 @@
             "title": "$110 Oil Hits Latin America\u2019s Pumps: How Seven Countries Are Responding Differently",
             "url": "https://www.riotimesonline.com/latin-america-gasoline-prices-oil-surge-government-response/",
             "published_at": "2026-04-07T16:51:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Tuesday, April 7, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-masp-free-apr-7-2026/",
-            "published_at": "2026-04-07T16:38:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Tuesday, April 7, 2026",
-            "url": "https://www.riotimesonline.com/rio-nightlife-choro-mar-free-apr-7-2026/",
-            "published_at": "2026-04-07T16:33:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Public Investment Surges 18% in March as Election-Year Spending Rescues Q1",
-            "url": "https://www.riotimesonline.com/peru-public-investment-march-2026-election-spending/",
-            "published_at": "2026-04-07T11:34:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Set to Authorize Ore Removal From Shuttered $10 Billion Cobre Panam\u00e1 Mine",
-            "url": "https://www.riotimesonline.com/cobre-panama-mine-first-quantum-ore-removal/",
-            "published_at": "2026-04-07T11:28:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fedesarrollo Cuts Colombia\u2019s Growth Forecast and Warns Inflation Won\u2019t Return to Target Until 2030",
-            "url": "https://www.riotimesonline.com/colombia-gdp-forecast-fedesarrollo-inflation-2026/",
-            "published_at": "2026-04-07T11:23:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Fertilizer Prices Surge 52% as Hormuz Closure and China Export Ban Squeeze the Food Chain",
-            "url": "https://www.riotimesonline.com/colombia-fertilizer-crisis-hormuz-prices-food-inflation/",
-            "published_at": "2026-04-07T11:11:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Tuesday, April 7, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-river-belgrano-argentinos-banfield-libertadores-launch/",
-            "published_at": "2026-04-07T11:03:40+00:00",
             "category": [],
             "language": "en"
         }
