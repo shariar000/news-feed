@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-10T18:10:04+00:00",
+    "updated_at": "2026-04-10T19:10:04+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief for Friday, April 10, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-report-cpi-warsh-cusma-housing-energy/",
+            "published_at": "2026-04-10T18:13:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Breaks 197,000 as Dollar Nears R$5.00 Mark",
+            "url": "https://www.riotimesonline.com/ibovespa-197k-record-dollar-5-ceasefire/",
+            "published_at": "2026-04-10T18:11:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Friday, April 10, 2026",
+            "url": "https://www.riotimesonline.com/europe-pulse-germany-fund-uk-pension-spain-poland-meloni/",
+            "published_at": "2026-04-10T18:10:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Embraer Names New CFO After Azul Poaches Antonio Garcia",
             "url": "https://www.riotimesonline.com/embraer-new-cfo-felipe-santana-azul-garcia/",
@@ -678,27 +699,6 @@
             "title": "Chile\u2019s IPSA Posts Sharpest Drop of Correction at \u22121.65%",
             "url": "https://www.riotimesonline.com/ipsa-chile-50-day-ma-test-correction/",
             "published_at": "2026-04-08T08:41:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oncocl\u00ednicas Loses Its Entire Board \u2014 and Has 15 Days of Cash Left",
-            "url": "https://www.riotimesonline.com/oncoclinicas-board-dissolved-cash-crisis-rescue-bids/",
-            "published_at": "2026-04-08T08:39:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s IPC Drifts to 68,529 on Hormuz Escalation and USMCA Fears",
-            "url": "https://www.riotimesonline.com/ipc-mexico-post-70k-decline-usmca-outlook/",
-            "published_at": "2026-04-08T08:36:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Defense Monitor \u2013 Mar 31\u2013Apr 7, 2026",
-            "url": "https://www.riotimesonline.com/latam-defense-monitor-fidae-2026-colombia-c390/",
-            "published_at": "2026-04-08T08:29:20+00:00",
             "category": [],
             "language": "en"
         }
