@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-11T07:10:04+00:00",
+    "updated_at": "2026-04-11T08:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Saturday, April 11, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-free-mar-buren-eve-record/",
+            "published_at": "2026-04-11T07:53:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Saturday, April 11, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-colombia-crisis-glacier-backlash-ibov-record/",
+            "published_at": "2026-04-11T07:30:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 April 11, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-cpi-surge-michigan-record-low/",
+            "published_at": "2026-04-11T07:14:45+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief for Friday, April 10, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-report-cpi-warsh-cusma-housing-energy/",
@@ -678,27 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Wednesday, April 8, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-buren-final-days-ormuz/",
             "published_at": "2026-04-08T10:09:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Three Fronts, One Quarter: Nubank\u2019s Push Into Abu Dhabi, the US, and Full Banking",
-            "url": "https://www.riotimesonline.com/nubank-abu-dhabi-headquarters-global-expansion-2026/",
-            "published_at": "2026-04-08T09:02:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Critical Minerals Become a Campaign Weapon in Brazil\u2019s 2026 Presidential Race",
-            "url": "https://www.riotimesonline.com/brazil-critical-minerals-presidential-race-2026-election/",
-            "published_at": "2026-04-08T08:52:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s IPSA Posts Sharpest Drop of Correction at \u22121.65%",
-            "url": "https://www.riotimesonline.com/ipsa-chile-50-day-ma-test-correction/",
-            "published_at": "2026-04-08T08:41:14+00:00",
             "category": [],
             "language": "en"
         }
