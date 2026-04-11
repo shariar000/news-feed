@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-11T18:10:04+00:00",
+    "updated_at": "2026-04-11T19:10:04+00:00",
     "items": [
+        {
+            "title": "Perplexity Computer Review: Dangerous, Destructive, Dishonest",
+            "url": "https://www.riotimesonline.com/perplexity-computer-field-test-ten-days-destruction/",
+            "published_at": "2026-04-11T19:06:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Nightlife Guide for Saturday, April 11, 2026",
             "url": "https://www.riotimesonline.com/rio-nightlife-peak-saturday-sailgp-apr-11-2026/",
@@ -395,6 +402,13 @@
             "language": "en"
         },
         {
+            "title": "How Social Media Affects Mental Health: Key Insights and Tips for a Balanced Life",
+            "url": "https://www.riotimesonline.com/how-social-media-affects-mental-health-key-insights-and-tips-for-a-balanced-life/",
+            "published_at": "2026-04-09T18:18:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Rio de Janeiro Nightlife Guide for Thursday, April 9, 2026",
             "url": "https://www.riotimesonline.com/rio-nightlife-thursday-escalation-apr-9-2026/",
             "published_at": "2026-04-09T18:15:00+00:00",
@@ -684,20 +698,6 @@
         {
             "title": "Robberies Hit a Record Low in S\u00e3o Paulo \u2014 Except in the 20 Districts Where They Didn\u2019t",
             "url": "https://www.riotimesonline.com/sao-paulo-crime-paradox-robberies-fall-vila-mariana-surges/",
-            "published_at": "2026-04-08T12:30:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petro\u2019s Spy Chief Secretly Met Colombia\u2019s Top Smuggler",
-            "url": "https://www.riotimesonline.com/petro-papa-pitufo-scandal-intelligence-smuggler-audios/",
-            "published_at": "2026-04-08T12:30:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil Flows, Democracy Doesn\u2019t: Venezuela Three Months After Maduro",
-            "url": "https://www.riotimesonline.com/venezuela-democracy-stalls-us-ties-oil-repression-2026/",
             "published_at": "2026-04-08T12:30:00+00:00",
             "category": [],
             "language": "en"
