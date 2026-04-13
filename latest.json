@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-13T07:05:08+00:00",
+    "updated_at": "2026-04-13T08:05:24+00:00",
     "items": [
+        {
+            "title": "Brazil Morning Call for Monday, April 13, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-hormuz-blockade-talks-fail/",
+            "published_at": "2026-04-13T08:00:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Peru Election: Keiko Wins First Round, Rival Unknown",
             "url": "https://www.riotimesonline.com/peru-election-results-keiko-runoff-2026/",
@@ -691,13 +698,6 @@
         {
             "title": "S&P Downgrades Colombia to BB- \u2014 Lowest Rating Since 1993",
             "url": "https://www.riotimesonline.com/sp-colombia-downgrade-bb-minus-lowest-1993/",
-            "published_at": "2026-04-09T12:30:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile March Inflation Hits 1% as Fuel Shock Arrives",
-            "url": "https://www.riotimesonline.com/chile-inflation-march-2026-fuel-shock-ipc/",
             "published_at": "2026-04-09T12:30:00+00:00",
             "category": [],
             "language": "en"
