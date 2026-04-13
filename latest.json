@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-13T16:05:08+00:00",
+    "updated_at": "2026-04-13T17:05:44+00:00",
     "items": [
+        {
+            "title": "Europe Intelligence Brief for Monday, April 13, 2026",
+            "url": "https://www.riotimesonline.com/europe-pulse-orban-falls-uk-refuses-italy-fuel-germany/",
+            "published_at": "2026-04-13T17:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Monday, April 13, 2026",
+            "url": "https://www.riotimesonline.com/asia-pulse-china-clean-tech-adb-cut-irgc-japan-india/",
+            "published_at": "2026-04-13T16:56:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Monday, April 13, 2026",
+            "url": "https://www.riotimesonline.com/africa-pulse-nigeria-strike-benin-votes-da-manufacturing/",
+            "published_at": "2026-04-13T16:46:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Monday, April 13, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-monday-reset-apr-13-2026/",
+            "published_at": "2026-04-13T16:27:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Monday, April 13, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-pedra-sal-monday-apr-13-2026/",
+            "published_at": "2026-04-13T16:17:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Sheinbaum, Lula, Petro Head to Barcelona for GPM Summit",
             "url": "https://www.riotimesonline.com/sheinbaum-lula-petro-barcelona-summit-april-2026/",
@@ -664,41 +699,6 @@
             "title": "Alarm over the number of Venezuelan military dead from COVID-19 without medical care or in temporary hospitals",
             "url": "https://www.riotimesonline.com/__trashed-4/",
             "published_at": "2026-04-10T10:15:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s foreign policy reconstruction and its relations with Latin America",
-            "url": "https://www.riotimesonline.com/__trashed-2/",
-            "published_at": "2026-04-10T10:15:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Friday, April 10, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-record-rally-pinacoteca/",
-            "published_at": "2026-04-10T10:15:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Friday, April 10, 2026",
-            "url": "https://www.riotimesonline.com/rio-daily-buren-final-weekend-record/",
-            "published_at": "2026-04-10T10:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Morning Call for Friday, April 10, 2026",
-            "url": "https://www.riotimesonline.com/brazil-morning-call-cpi-day-ibovespa-ath/",
-            "published_at": "2026-04-10T09:51:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "258 Flights Grounded: Argentina\u2019s Unions Strike Again, This Time on a Wider Front",
-            "url": "https://www.riotimesonline.com/argentina-cgt-strike-april-2026-flights-grounded/",
-            "published_at": "2026-04-10T09:00:00+00:00",
             "category": [],
             "language": "en"
         }
