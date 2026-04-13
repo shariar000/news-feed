@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-13T11:05:19+00:00",
+    "updated_at": "2026-04-13T12:06:05+00:00",
     "items": [
+        {
+            "title": "Sheinbaum, Lula, Petro Head to Barcelona for GPM Summit",
+            "url": "https://www.riotimesonline.com/sheinbaum-lula-petro-barcelona-summit-april-2026/",
+            "published_at": "2026-04-13T11:42:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Sheinbaum Cements Another Constitutional Reform in Mexico",
+            "url": "https://www.riotimesonline.com/mexico-plan-b-constitutional-reform-approved-2026/",
+            "published_at": "2026-04-13T11:31:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "New Prosecutor General in Venezuela: Continuity or Reform?",
+            "url": "https://www.riotimesonline.com/venezuela-new-prosecutor-general-devoe-machado-energy/",
+            "published_at": "2026-04-13T11:28:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei\u2019s Surplus, Provinces\u2019 Pain: 92 Conflicts in Q1",
+            "url": "https://www.riotimesonline.com/argentina-provinces-fiscal-crisis-labor-conflicts-q1-2026/",
+            "published_at": "2026-04-13T11:28:33+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mexico Pemex $21B Investment Plan for 2026",
             "url": "https://www.riotimesonline.com/mexico-pemex-425-billion-investment-plan-2026/",
@@ -671,34 +699,6 @@
             "title": "258 Flights Grounded: Argentina\u2019s Unions Strike Again, This Time on a Wider Front",
             "url": "https://www.riotimesonline.com/argentina-cgt-strike-april-2026-flights-grounded/",
             "published_at": "2026-04-10T09:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 April 10, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-gdp-miss-hormuz-not-open-pce/",
-            "published_at": "2026-04-10T08:45:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Consolidates at 1K as Ceasefire Holds",
-            "url": "https://www.riotimesonline.com/bitcoin-71k-ceasefire-iran-btc-tolls-fed-cuts/",
-            "published_at": "2026-04-09T22:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s IPC Finally Breaks 70,000 in Strongest Session of April",
-            "url": "https://www.riotimesonline.com/ipc-mexico-breaks-70000-barrier-surge/",
-            "published_at": "2026-04-09T21:55:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s COLCAP Bounces Tepidly as Santa Marta Nears",
-            "url": "https://www.riotimesonline.com/colcap-colombia-muted-rebound-santa-marta/",
-            "published_at": "2026-04-09T21:50:00+00:00",
             "category": [],
             "language": "en"
         }
