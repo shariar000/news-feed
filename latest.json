@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-13T09:05:25+00:00",
+    "updated_at": "2026-04-13T10:05:11+00:00",
     "items": [
+        {
+            "title": "COLCAP Hits One-Month High at 2,301 as Court Strikes Down Petro Emergency",
+            "url": "https://www.riotimesonline.com/colcap-colombia-court-ruling-one-month-high/",
+            "published_at": "2026-04-13T09:28:42+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina\u2019s Merval Dips 0.03% to 2,998,770 at 3M Line",
             "url": "https://www.riotimesonline.com/merval-argentina-3-million-line-bcra-reserves/",
@@ -692,13 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Thursday, April 9, 2026",
             "url": "https://www.riotimesonline.com/rio-nightlife-thursday-escalation-apr-9-2026/",
             "published_at": "2026-04-09T18:15:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Wednesday, April 9, 2026",
-            "url": "https://www.riotimesonline.com/latam-pulse-sp-colombia-glaciares-peru-final/",
-            "published_at": "2026-04-09T15:30:00+00:00",
             "category": [],
             "language": "en"
         }
