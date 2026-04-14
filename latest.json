@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-14T07:06:02+00:00",
+    "updated_at": "2026-04-14T08:05:32+00:00",
     "items": [
+        {
+            "title": "Brazil Morning Call for Tuesday, April 14, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-ibovespa-198k-ath-ppi-day/",
+            "published_at": "2026-04-14T07:56:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina\u2019s Glacier Law Reform Unlocks $40 Billion Mining Pipeline \u2014 and a Constitutional War",
             "url": "https://www.riotimesonline.com/argentina-glacier-law-reform-mining-constitutional-challenge/",
@@ -692,13 +699,6 @@
             "title": "Unforgettable Train Ride from Curitiba to Morretes in Paran\u00e1\u2019s Serra do Mar",
             "url": "https://www.riotimesonline.com/__trashed-16/",
             "published_at": "2026-04-10T10:16:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Jamaica Starts Talks With China, Cuba, and India for COVID Vaccines",
-            "url": "https://www.riotimesonline.com/__trashed-14/",
-            "published_at": "2026-04-10T10:16:39+00:00",
             "category": [],
             "language": "en"
         }
