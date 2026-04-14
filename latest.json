@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-14T09:06:12+00:00",
+    "updated_at": "2026-04-14T10:05:23+00:00",
     "items": [
+        {
+            "title": "Mexico\u2019s IPC Drops 0.61% Below 70K as Iran Blockade Sends Oil Back Above $99",
+            "url": "https://www.riotimesonline.com/ipc-mexico-below-70k-iran-blockade-oil/",
+            "published_at": "2026-04-14T09:12:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Merval Slips 0.23% to 2,991,781 as 3-Million Battle Enters Eighth Round",
             "url": "https://www.riotimesonline.com/merval-argentina-3-million-eighth-test/",
@@ -692,13 +699,6 @@
             "title": "Europe Intelligence Brief for Friday, April 10, 2026",
             "url": "https://www.riotimesonline.com/europe-pulse-germany-fund-uk-pension-spain-poland-meloni/",
             "published_at": "2026-04-10T11:30:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Friday, April 10, 2026",
-            "url": "https://www.riotimesonline.com/asia-pulse-bok-hold-china-cpi-uniqlo-adb-cook-islands/",
-            "published_at": "2026-04-10T11:15:00+00:00",
             "category": [],
             "language": "en"
         }
