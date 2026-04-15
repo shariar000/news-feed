@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-15T17:05:39+00:00",
+    "updated_at": "2026-04-15T18:05:36+00:00",
     "items": [
+        {
+            "title": "It\u2019s Keiko vs. the Left: S\u00e1nchez Overtakes L\u00f3pez Aliaga for Second Place as Peru\u2019s Dollar Spikes",
+            "url": "https://www.riotimesonline.com/peru-election-2026-results-sanchez-surges-runoff-2/",
+            "published_at": "2026-04-15T17:12:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Peace Process 2026: ELN Negotiations, FARC Residuals and Investor Risk",
+            "url": "https://www.riotimesonline.com/colombia-peace-process-2026-guide/",
+            "published_at": "2026-04-15T17:05:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Amazon 2026: Deforestation Data, Carbon Credits and the Lula Green Agenda",
             "url": "https://www.riotimesonline.com/brazil-amazon-deforestation-2026-guide/",
@@ -69,6 +83,13 @@
             "title": "Mexico\u2019s Government Debt Crosses 60% of GDP for the First Time in 20 Years \u2014 and the IMF Says It Will Stay There",
             "url": "https://www.riotimesonline.com/mexicos-government-debt-crosses-60-of-gdp-for-the-first-time-in-20-years-and-the-imf-says-it-will-stay-there/",
             "published_at": "2026-04-15T16:52:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Economy 2026: GDP Growth, Oil Crisis, Export Surge, and the Noboa Reform Agenda",
+            "url": "https://www.riotimesonline.com/ecuador-economy-2026-gdp-growth-oil-crisis-export-surge-and-the-noboa-reform-agenda/",
+            "published_at": "2026-04-15T16:44:25+00:00",
             "category": [],
             "language": "en"
         },
@@ -678,27 +699,6 @@
             "title": "Ibovespa Hits 197K Record Before Hormuz Blockade Rewrites the Script",
             "url": "https://www.riotimesonline.com/ibovespa-197k-record-hormuz-blockade-test/",
             "published_at": "2026-04-13T08:41:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Slides to $71K as Hormuz Blockade Erases Ceasefire Bounce",
-            "url": "https://www.riotimesonline.com/bitcoin-71k-hormuz-blockade-strategy-purchase/",
-            "published_at": "2026-04-13T08:32:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump Orders Hormuz Blockade After Iran Talks Collapse",
-            "url": "https://www.riotimesonline.com/trump-hormuz-blockade-iran-talks-collapse/",
-            "published_at": "2026-04-13T08:29:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Hungary After Orb\u00e1n: Europe\u2019s Most Successful Populist Falls",
-            "url": "https://www.riotimesonline.com/hungary-orban-defeated-magyar-eu-implications/",
-            "published_at": "2026-04-13T08:20:13+00:00",
             "category": [],
             "language": "en"
         }
