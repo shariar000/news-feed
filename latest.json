@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-15T09:06:26+00:00",
+    "updated_at": "2026-04-15T10:05:49+00:00",
     "items": [
         {
             "title": "Last Minute Rescue: The Brazilian Government Saved the Justices From Impeachment",
@@ -237,6 +237,13 @@
             "title": "Rio de Janeiro Daily Brief for Tuesday, April 14, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-free-mar-tuesday-record-198k/",
             "published_at": "2026-04-14T11:00:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Notice -Hogue Nonato Silva",
+            "url": "https://www.riotimesonline.com/notice-hogue-nonato-silva/",
+            "published_at": "2026-04-14T09:23:04+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "Global Economy Briefing \u2014 April 11, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-cpi-surge-michigan-record-low/",
             "published_at": "2026-04-11T09:00:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Holds 1.8K as Japan Classifies Crypto",
-            "url": "https://www.riotimesonline.com/bitcoin-72k-japan-crypto-law-blackrock-etf-inflows/",
-            "published_at": "2026-04-10T22:00:00+00:00",
             "category": [],
             "language": "en"
         }
