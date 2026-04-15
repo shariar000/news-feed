@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-15T12:05:34+00:00",
+    "updated_at": "2026-04-15T13:05:35+00:00",
     "items": [
+        {
+            "title": "Mexico\u2019s Computer Exports Surged 145% to $85 Billion in 2025 \u2014 Overtaking Cars as the Top U.S. Export",
+            "url": "https://www.riotimesonline.com/mexico-computer-exports-surge-145-percent-2025-ai-nearshoring/",
+            "published_at": "2026-04-15T12:21:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Passes Its Biggest Agrarian Shift in Decades \u2014 and the Fight Over What It Actually Does Has Begun",
+            "url": "https://www.riotimesonline.com/bolivia-land-reform-ley-157-credit-rural-paz/",
+            "published_at": "2026-04-15T12:19:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Election Count Tightens as Left-Wing S\u00e1nchez Surges Toward Second Place and a Runoff Against Keiko",
+            "url": "https://www.riotimesonline.com/peru-election-2026-results-sanchez-surges-runoff/",
+            "published_at": "2026-04-15T12:10:45+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Lula\u2019s New Congressional Chief Takes Office With the Escala 6\u00d71 Bill as His First and Biggest Test",
             "url": "https://www.riotimesonline.com/jose-guimaraes-lula-escala-6x1-congress-chief/",
@@ -678,27 +699,6 @@
             "title": "The EU-Mercosur Trade Deal Explained: Complete 2026 Guide",
             "url": "https://www.riotimesonline.com/mercosur-eu-trade-deal-complete-guide/",
             "published_at": "2026-04-12T08:26:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Banco Master Scandal: Brazil\u2019s Largest Bank Fraud Explained",
-            "url": "https://www.riotimesonline.com/banco-master-scandal-brazil-complete-timeline/",
-            "published_at": "2026-04-12T08:22:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil 2026 Elections: Complete Guide to Candidates, Polls & Key Dates",
-            "url": "https://www.riotimesonline.com/brazil-elections-2026-complete-guide/",
-            "published_at": "2026-04-12T08:21:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Perplexity Computer Review: Dangerous, Destructive, Dishonest",
-            "url": "https://www.riotimesonline.com/perplexity-computer-field-test-ten-days-destruction/",
-            "published_at": "2026-04-11T19:06:16+00:00",
             "category": [],
             "language": "en"
         }
