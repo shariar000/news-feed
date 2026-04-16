@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-16T07:05:44+00:00",
+    "updated_at": "2026-04-16T08:06:04+00:00",
     "items": [
+        {
+            "title": "Brazil Morning Call for Thursday, April 16, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-sp500-ath-china-gdp-beat/",
+            "published_at": "2026-04-16T07:53:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "It\u2019s Keiko vs. the Left: S\u00e1nchez Overtakes L\u00f3pez Aliaga for Second Place",
             "url": "https://www.riotimesonline.com/peru-election-2026-results-sanchez-surges-runoff-2/",
@@ -692,13 +699,6 @@
             "title": "IPSA Chile Surges 1.08% as Copper Rallies",
             "url": "https://www.riotimesonline.com/ipsa-chile-copper-rally-oil-relief/",
             "published_at": "2026-04-13T08:46:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Hits 197K Record Before Hormuz Blockade Rewrites the Script",
-            "url": "https://www.riotimesonline.com/ibovespa-197k-record-hormuz-blockade-test/",
-            "published_at": "2026-04-13T08:41:29+00:00",
             "category": [],
             "language": "en"
         }
