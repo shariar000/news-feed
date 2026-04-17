@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-17T08:05:44+00:00",
+    "updated_at": "2026-04-17T08:06:48+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 April 17, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-philly-fed-uk-gdp-beat/",
+            "published_at": "2026-04-17T08:05:47+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Friday, April 17, 2026",
             "url": "https://www.riotimesonline.com/latam-pulse-petrobras-approved-peru-dead-heat-brent-99/",
@@ -692,13 +699,6 @@
             "title": "Notice: Hogue Nonato Silva",
             "url": "https://www.riotimesonline.com/notice-hogue-nonato-silva/",
             "published_at": "2026-04-14T09:23:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Drops Below 70K as Iran Blockade Lifts Oil",
-            "url": "https://www.riotimesonline.com/ipc-mexico-below-70k-iran-blockade-oil/",
-            "published_at": "2026-04-14T09:12:05+00:00",
             "category": [],
             "language": "en"
         }
