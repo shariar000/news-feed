@@ -1,704 +1,704 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-04-22T03:10:02+00:00",
+    "updated_at": "2026-04-22T04:05:28+00:00",
     "items": [
         {
+            "title": "Hormuz Diplomacy Enters Its Final 24 Hours",
+            "url": "https://www.riotimesonline.com/hormuz-diplomacy-xi-iran-ceasefire-april-2026/",
+            "published_at": "2026-04-21T17:55:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Mexico\u2019s Nearshoring Boom Is Cooling in the North",
+            "url": "https://www.riotimesonline.com/mexico-industrial-construction-rebalancing-april-2026/",
+            "published_at": "2026-04-21T17:49:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/us-canada-pulse-canada-sentiment-housing-warsh/",
+            "published_at": "2026-04-21T17:43:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Abraham Accords Get a Latin American Sequel",
+            "url": "https://www.riotimesonline.com/isaac-accords-milei-netanyahu-jerusalem-april-2026/",
+            "published_at": "2026-04-21T17:30:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America\u2019s Silent 2026 Risk: A Returning El Ni\u00f1o",
+            "url": "https://www.riotimesonline.com/el-nino-2026-latin-america-economy-guide/",
+            "published_at": "2026-04-21T17:03:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/europe-pulse-macron-tusk-nuclear-visa-sanctions/",
+            "published_at": "2026-04-21T16:39:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/asia-pulse-japan-10b-fund-china-scs-pakistan-talks/",
+            "published_at": "2026-04-21T16:35:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/africa-pulse-airlines-paused-malema-jailed-zimbabwe/",
+            "published_at": "2026-04-21T16:32:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-tiradentes-holiday-apr-21-2026/",
+            "published_at": "2026-04-21T16:28:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-tiradentes-holiday-apr-21-2026/",
+            "published_at": "2026-04-21T16:22:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Argentine Households Are Substituting Beef With Donkey",
+            "url": "https://www.riotimesonline.com/argentina-beef-prices-donkey-meat-patagonia-april-2026/",
+            "published_at": "2026-04-21T12:03:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "From First Tier to Sixth-Worst: Milei\u2019s Regional Fall",
+            "url": "https://www.riotimesonline.com/milei-approval-ranking-argentina-april-2026-cb-global/",
+            "published_at": "2026-04-21T11:59:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Four Years of FDI Decline: Colombia\u2019s Capital Problem",
+            "url": "https://www.riotimesonline.com/colombia-fdi-q1-2026-lowest-since-2021-banrep-april/",
+            "published_at": "2026-04-21T11:57:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Electricity Cushion Disappears Before El Ni\u00f1o",
+            "url": "https://www.riotimesonline.com/colombia-acolgen-firm-energy-deficit-el-nino-april-2026/",
+            "published_at": "2026-04-21T11:46:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay-Brazil Alliance Wipes Out $43.5M of Narco Capital",
+            "url": "https://www.riotimesonline.com/paraguay-brazil-nueva-alianza-54-canindeyu-april-2026/",
+            "published_at": "2026-04-21T11:36:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil: Six Weeks of Upward Inflation Revisions Before Copom",
+            "url": "https://www.riotimesonline.com/brazil-focus-ipca-selic-sixth-week-revision-april-2026/",
+            "published_at": "2026-04-21T11:32:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uniformed Dead: The Scale of Colombia\u2019s Drone Threat\u00a0",
+            "url": "https://www.riotimesonline.com/colombia-drone-attacks-ipiales-catatumbo-security-april-2026/",
+            "published_at": "2026-04-21T11:20:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Most-Visited Ruin Closes After Fatal Shooting",
+            "url": "https://www.riotimesonline.com/teotihuacan-pyramid-moon-shooting-canadian-april-2026/",
+            "published_at": "2026-04-21T11:17:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico and U.S. Fix May 25 Start for Trade Review",
+            "url": "https://www.riotimesonline.com/usmca-tmec-formal-negotiations-may-25-ebrard-april-2026/",
+            "published_at": "2026-04-21T10:58:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador\u2019s Eighth State of Exception Becomes a Nightly Curfew",
+            "url": "https://www.riotimesonline.com/ecuador-noboa-curfew-may-3-18-nine-provinces-april-2026/",
+            "published_at": "2026-04-21T10:55:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Warsh Faces Senate With Powell Still Holding the Chair",
+            "url": "https://www.riotimesonline.com/warsh-fed-chair-independence-senate-hearing-april-2026/",
+            "published_at": "2026-04-21T10:44:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Third U.S. Troop Authorization This Year Lands in Scandal Week",
+            "url": "https://www.riotimesonline.com/mexico-senate-fenix-sof4-troop-request-chihuahua-april-2026/",
+            "published_at": "2026-04-21T10:42:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Anthropic Locks In 5 Gigawatts of AWS Compute for a Decade",
+            "url": "https://www.riotimesonline.com/amazon-anthropic-5-billion-aws-100-billion-april-2026/",
+            "published_at": "2026-04-21T10:35:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-tiradentes-masp-free-ciclofaixa/",
+            "published_at": "2026-04-21T10:23:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-tiradentes-holiday-beaches-museums/",
+            "published_at": "2026-04-21T10:22:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "BRB Offloads Master Crisis to a R$15B Quadra Capital Fund",
+            "url": "https://www.riotimesonline.com/brb-quadra-capital-master-fund-15-billion-april-2026/",
+            "published_at": "2026-04-21T09:09:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Washington Begins Returning $166 Billion in Illegal Tariffs",
+            "url": "https://www.riotimesonline.com/trump-tariff-refund-portal-cape-166-billion-april-2026/",
+            "published_at": "2026-04-21T09:07:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Two Hundred Tourists Trapped by Rio Shootout on Dois Irm\u00e3os",
+            "url": "https://www.riotimesonline.com/rio-vidigal-dois-irmaos-tourists-comando-vermelho-april-2026/",
+            "published_at": "2026-04-21T08:56:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Four Dead After Chihuahua Narcolab Raid, Two From U.S. Embassy",
+            "url": "https://www.riotimesonline.com/mexico-chihuahua-us-agents-killed-sheinbaum-april-2026/",
+            "published_at": "2026-04-21T08:53:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Strategy Tops 800,000 BTC After $2.5B Buy as Bitcoin Holds $75,773",
+            "url": "https://www.riotimesonline.com/bitcoin-75k-strategy-800k-btc-inflows/",
+            "published_at": "2026-04-21T08:46:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Bounces to 196,132 as Petrobras Recovers on $94 Oil \u2014 Ceasefire Expires When Markets Reopen Wednesday",
+            "url": "https://www.riotimesonline.com/ibovespa-today-196k-bounce-oil-94-braskem/",
+            "published_at": "2026-04-21T08:45:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Left Candidate Confronts Right After Months of Silence",
+            "url": "https://www.riotimesonline.com/colombia-election-cepeda-valencia-debate-april-2026/",
+            "published_at": "2026-04-21T08:45:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s IPC Smashes Through April Ceiling to Close at 70,083",
+            "url": "https://www.riotimesonline.com/ipc-mexico-breaks-70000-april-range-breakout/",
+            "published_at": "2026-04-21T08:26:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s COLCAP Hits 2,286 as Election Risk Tests Primary Trend",
+            "url": "https://www.riotimesonline.com/colcap-colombia-200-day-sma-session-low/",
+            "published_at": "2026-04-21T08:19:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s IPSA Posts Second Straight Decline to 11,343",
+            "url": "https://www.riotimesonline.com/ipsa-chile-slips-below-11400-rally-cools/",
+            "published_at": "2026-04-21T08:10:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Merval Reclaims Cloud Top as Friday Break Fails",
+            "url": "https://www.riotimesonline.com/merval-argentina-rebounds-cloud-reclaim/",
+            "published_at": "2026-04-21T08:06:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 April 21, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-april-21-2026/",
+            "published_at": "2026-04-21T08:02:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-mexico-chihuahua-hormuz-venezuela-100-days/",
+            "published_at": "2026-04-21T07:56:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Morning Call for Tuesday, April 21, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-ceasefire-expires-hormuz/",
+            "published_at": "2026-04-21T07:49:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/us-canada-pulse-goldman-record-russia-waiver-sp/",
+            "published_at": "2026-04-20T18:40:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Interim President Stops Peru\u2019s Largest-Ever Defense Contract",
+            "url": "https://www.riotimesonline.com/peru-f-16-lockheed-postponement-balcazar-april-2026/",
+            "published_at": "2026-04-20T18:39:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Launches Investor Pass to Capture Brazilian Wealth",
+            "url": "https://www.riotimesonline.com/paraguay-investor-pass-brazil-hnwi-pena-april-2026/",
+            "published_at": "2026-04-20T18:29:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Joins US Minerals Push With New Signed Agreements",
+            "url": "https://www.riotimesonline.com/chile-us-mining-security-agreements-kast-dinanno-april-2026/",
+            "published_at": "2026-04-20T18:11:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Only Working Engine Sputters as March Growth Hits Zero\u00a0",
+            "url": "https://www.riotimesonline.com/mexico-economy-march-2026-ioae-stall-services-retreat/",
+            "published_at": "2026-04-20T18:03:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/europe-pulse-bulgaria-radev-germany-gdp-nato-pipes/",
+            "published_at": "2026-04-20T17:20:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Only Rare Earth Mine Sold to Washington for US$2.8 Billion",
+            "url": "https://www.riotimesonline.com/usa-rare-earth-serra-verde-2-8-billion-acquisition-goias/",
+            "published_at": "2026-04-20T17:06:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Braskem Sale Becomes Binding: IG4 Fund Secures 50.1% Stake",
+            "url": "https://www.riotimesonline.com/braskem-novonor-ig4-shine-contract-signed-april-2026/",
+            "published_at": "2026-04-20T16:54:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/asia-pulse-sk-hynix-ai-japan-fund-india-oil/",
+            "published_at": "2026-04-20T16:41:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/africa-pulse-airlines-ground-drc-peace-libya-budget/",
+            "published_at": "2026-04-20T16:36:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump and Latin America 2026: Tariffs, the Maduro Capture, and the New Monroe Doctrine",
+            "url": "https://www.riotimesonline.com/trump-us-latin-america-policy-2026-guide/",
+            "published_at": "2026-04-20T16:21:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lula Government 2026: Approval Crisis, Election Race, and Brazil\u2019s Balancing Act",
+            "url": "https://www.riotimesonline.com/lula-government-brazil-2026-guide/",
+            "published_at": "2026-04-20T16:17:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-monday-reset-apr-20-2026/",
+            "published_at": "2026-04-20T16:14:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/rio-nightlife-pedra-do-sal-monday-apr-20-2026/",
+            "published_at": "2026-04-20T16:10:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Caracas Pivots to Europe After US Sanctions Relief",
+            "url": "https://www.riotimesonline.com/venezuela-sanctions-relief-delcy-rodriguez-europe-appeal/",
+            "published_at": "2026-04-20T11:54:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Runoff Delivers Regional Rebuke to New President",
+            "url": "https://www.riotimesonline.com/bolivia-runoff-vote-paz-defeat-april-2026/",
+            "published_at": "2026-04-20T11:48:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Washington Puts Brazil on Drug Precursor Source List",
+            "url": "https://www.riotimesonline.com/us-state-department-brazil-drug-precursor-list-rubio/",
+            "published_at": "2026-04-20T11:37:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Keeps Shipping to the Persian Gulf Despite Hormuz Blockade\u00a0",
+            "url": "https://www.riotimesonline.com/brazil-12-ships-gulf-hormuz-war-iran-corn/",
+            "published_at": "2026-04-20T11:31:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Agro-Industry Was Already Shrinking Before the Iran War Made Everything Worse",
+            "url": "https://www.riotimesonline.com/brazil-agro-industry-falls-february-fertilizer-hormuz/",
+            "published_at": "2026-04-20T11:22:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador and Colombia\u2019s Presidents Are Now Accusing Each Other of Working With Drug Cartels",
+            "url": "https://www.riotimesonline.com/ecuador-colombia-noboa-petro-mafia-tariffs-crisis/",
+            "published_at": "2026-04-20T11:05:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-superclasico-boca-river-paredes-flamengo-oscar-brasileirao/",
+            "published_at": "2026-04-20T11:01:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kast Backed Argentina on the Falklands \u2014 Then Chile\u2019s Own Senators Turned On Him",
+            "url": "https://www.riotimesonline.com/kast-milei-falklands-chile-maritime-sovereignty-backlash/",
+            "published_at": "2026-04-20T10:44:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s New President Lost a Third of His Support in 40 Days \u2014 Here\u2019s Why",
+            "url": "https://www.riotimesonline.com/kast-approval-collapse-33-percent-chile-fuel-crisis/",
+            "published_at": "2026-04-20T10:37:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-tiradentes-eve-rodizio-suspended/",
+            "published_at": "2026-04-20T10:18:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-tiradentes-eve-metro-special/",
+            "published_at": "2026-04-20T10:13:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asian Demand for Brazilian Oil Hits Record as Hormuz War Redirects Global Crude Flows",
+            "url": "https://www.riotimesonline.com/brazil-oil-exports-asia-record-hormuz-redirect/",
+            "published_at": "2026-04-20T09:11:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How a U.S. Raid and an Oil War Are Accidentally Reviving Venezuela\u2019s Economy",
+            "url": "https://www.riotimesonline.com/venezuela-economy-recovery-hormuz-oil-rodriguez-imf/",
+            "published_at": "2026-04-20T09:09:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Election Crisis Deepens as Street Protests Follow L\u00f3pez Aliaga\u2019s Fraud Claims",
+            "url": "https://www.riotimesonline.com/peru-election-protests-lopez-aliaga-fraud-sanchez-runoff/",
+            "published_at": "2026-04-20T09:05:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Reforma Casa Brasil Flops: R$1 Billion Lent Against R$30 Billion Allocated\u00a0",
+            "url": "https://www.riotimesonline.com/reforma-casa-brasil-failure-3-percent-lending-target/",
+            "published_at": "2026-04-20T08:59:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lula\u2019s Party Unveils Plan to Reverse Central Bank Independence and Reform the Military",
+            "url": "https://www.riotimesonline.com/pt-8th-congress-program-selic-judiciary-armed-forces-reform/",
+            "published_at": "2026-04-20T08:53:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lula Opens Hannover Messe With a Biofuels Challenge and 10 German Agreements",
+            "url": "https://www.riotimesonline.com/lula-hannover-messe-merz-biofuels-brazil-agreements/",
+            "published_at": "2026-04-20T08:45:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico IPC Prints Bullish Marubozu Near 70K on Pemex Energy Shift",
+            "url": "https://www.riotimesonline.com/ipc-mexico-rebounds-pemex-fracking-plan/",
+            "published_at": "2026-04-20T08:31:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s COLCAP Breaks Below Ichimoku Cloud in Bearish Marubozu",
+            "url": "https://www.riotimesonline.com/colcap-colombia-200-day-sma-election-risk/",
+            "published_at": "2026-04-20T08:29:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s IPSA Digests RSI Reset as ATH Sits 2.6% Above",
+            "url": "https://www.riotimesonline.com/ipsa-chile-consolidation-rsi-kast-megareform/",
+            "published_at": "2026-04-20T08:18:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Merval Enters Cloud for First Time in 2026 Rally",
+            "url": "https://www.riotimesonline.com/merval-argentina-cloud-breakdown-macd-cross/",
+            "published_at": "2026-04-20T08:05:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-bolivia-opposition-sweep-hormuz-ceasefire-peru/",
+            "published_at": "2026-04-20T07:59:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Morning Call for Monday, April 20, 2026",
+            "url": "https://www.riotimesonline.com/brazil-morning-call-hormuz-opens-ceasefire-expiration/",
+            "published_at": "2026-04-20T07:53:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Economy 2026: Kast, Copper, and the Path Forward",
+            "url": "https://www.riotimesonline.com/chile-economy-2026-kast-copper-and-the-path-forward/",
+            "published_at": "2026-04-20T05:10:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil and Energy in Latin America 2026: The Complete Guide",
+            "url": "https://www.riotimesonline.com/oil-and-energy-in-latin-america-2026-the-complete-guide/",
+            "published_at": "2026-04-20T05:08:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin and Crypto in Latin America 2026: The Complete Guide",
+            "url": "https://www.riotimesonline.com/bitcoin-and-crypto-in-latin-america-2026-the-complete-guide/",
+            "published_at": "2026-04-20T05:05:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Key Market Events for the Week of April 20\u201324, 2026",
+            "url": "https://www.riotimesonline.com/latam-pulse-pmis-retail-sales-ifo-april-2026/",
+            "published_at": "2026-04-19T19:14:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Sunday, April 19, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-sunday-april-19-2026/",
+            "published_at": "2026-04-19T16:36:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Sunday, April 19, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-sunday-april-19-2026/",
+            "published_at": "2026-04-19T16:31:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Sunday, April 19, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-sunday-april-19-2026/",
+            "published_at": "2026-04-19T09:09:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Sunday, April 19, 2026",
+            "url": "https://www.riotimesonline.com/rio-daily-iem-rio-grand-final-valentim/",
+            "published_at": "2026-04-19T08:58:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Economy 2026: Political Break, Reform Agenda, and What Comes Next",
+            "url": "https://www.riotimesonline.com/bolivia-economy-elections-2026-guide/",
+            "published_at": "2026-04-18T19:21:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Football 2026: Brasileir\u00e3o, World Cup, and the Business of the Beautiful Game",
+            "url": "https://www.riotimesonline.com/brazil-football-2026-brasileirao-guide/",
+            "published_at": "2026-04-18T19:21:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Safra Family and Banco Safra: A Complete Guide to Brazil\u2019s Banking Dynasty",
+            "url": "https://www.riotimesonline.com/safra-family-banco-safra-brazil-guide/",
+            "published_at": "2026-04-18T19:21:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gilmar Mendes and Brazil\u2019s Supreme Court (STF): A Complete Guide",
+            "url": "https://www.riotimesonline.com/gilmar-mendes-brazil-supreme-court-stf-guide/",
+            "published_at": "2026-04-18T19:21:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Saturday, April 18, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-april-18-2026/",
+            "published_at": "2026-04-18T17:03:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Saturday, April 18, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-saturday-april-18-2026/",
+            "published_at": "2026-04-18T15:58:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief for Saturday, April 18, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-pinacoteca-free-sheyla-ayo-final/",
+            "published_at": "2026-04-18T09:12:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief for Saturday, April 18, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-april-18-2026/",
+            "published_at": "2026-04-18T09:04:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Price Today: $77K as Hormuz Opens and Oil Crashes 10%",
+            "url": "https://www.riotimesonline.com/bitcoin-77k-hormuz-opening-oil-crash/",
+            "published_at": "2026-04-18T08:11:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "B3: Hormuz Reopening Turns Petrobras into the Drag That Unlocks the 200,000 Path",
+            "url": "https://www.riotimesonline.com/b3-hormuz-reopening-turns-petrobras-into-the-drag-that-unlocks-the-200000-path/",
+            "published_at": "2026-04-18T07:51:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Saturday, April 18, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-april-18-2026/",
+            "published_at": "2026-04-18T07:24:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 April 18, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-april-18-2026/",
+            "published_at": "2026-04-18T07:18:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "The Domino Effect: Chile\u2019s Deportation Flight Triggers Peru\u2019s Border Lockdown",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/peru-chile-border-tacna-deployment-kast-deportations/",
+            "url": "https://www.riotimesonline.com/peru-chile-border-tacna-deployment-kast-deportations/",
             "published_at": "2026-04-17T18:11:45+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Slim Proves Again He\u2019s Latin America\u2019s Smartest Commodity Trader",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/slim-sells-500-million-oil-stocks-hormuz-war-premium/",
+            "url": "https://www.riotimesonline.com/slim-sells-500-million-oil-stocks-hormuz-war-premium/",
             "published_at": "2026-04-17T18:04:33+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Messi Acquires Spanish Club Cornell\u00e0, Matching Ronaldo\u2019s Move Into Ownership",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/messi-buys-cornella-spanish-club-barcelona/",
+            "url": "https://www.riotimesonline.com/messi-buys-cornella-spanish-club-barcelona/",
             "published_at": "2026-04-17T18:02:17+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "USA & Canada Intelligence Brief for Thursday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/us-canada-pulse-bessent-sanctions-senate-vote-jobs/",
+            "url": "https://www.riotimesonline.com/us-canada-pulse-bessent-sanctions-senate-vote-jobs/",
             "published_at": "2026-04-17T17:38:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Ra\u00edzen Power Struggle: Creditors Want the Money, the Equity, and the Chairman\u00a0",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/raizen-creditors-8-billion-ometto-ouster-restructuring/",
-            "published_at": "2026-04-17T17:29:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for Thursday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/europe-pulse-hungary-reset-uk-hit-bulgaria-vote/",
-            "published_at": "2026-04-17T17:23:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for Thursday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/asia-pulse-nikkei-record-china-gdp-lng-crisis/",
-            "published_at": "2026-04-17T17:18:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief for Thursday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/africa-pulse-airlines-shutdown-meyer-us-djibouti/",
-            "published_at": "2026-04-17T16:51:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Friday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/sao-paulo-nightlife-peak-friday-apr-17-2026/",
-            "published_at": "2026-04-17T16:51:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Friday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/rio-nightlife-beto-guedes-peak-friday-apr-17-2026/",
-            "published_at": "2026-04-17T16:29:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay: Washington\u2019s Most Valued Ally in Latin America",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/paraguay-washington-anchor-latin-america-guide/",
-            "published_at": "2026-04-17T15:34:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Kast Launches First Deportation Flight as 2,180 Venezuelans Self-Deport",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/chile-kast-first-deportation-flight-migrants/",
-            "published_at": "2026-04-17T12:31:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s $2B World Bank Loan Adds Third Layer to Milei\u2019s Financing Fortress",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/argentina-world-bank-loan-2-billion-caputo-refinance/",
-            "published_at": "2026-04-17T12:21:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Latin America Turned Murder Into a Flourishing Global Industry",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/latin-america-sicariato-contract-killing-industry/",
-            "published_at": "2026-04-17T12:17:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela Replaces Central Bank President Days After Sanctions Lifted",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/venezuela-central-bank-president-luis-perez-credibility-imf/",
-            "published_at": "2026-04-17T11:44:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Friday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/latam-sports-flamengo-medellin-platense-penarol-libertadores-md2-superclasico/",
-            "published_at": "2026-04-17T11:13:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Argentina Became Israel\u2019s Strongest Ally as Latin America Turned Away",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/argentina-israel-alliance-milei-latam-diplomatic-split/",
-            "published_at": "2026-04-17T11:08:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Races to Rebuild Its Fertilizer Industry After Decades of Neglect",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-fertilizer-industry-import-dependency-petrobras-revival/",
-            "published_at": "2026-04-17T10:56:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Economy 2026: GDP, Peso, Nearshoring, Banxico and Trade",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/mexico-economy-2026-guide/",
-            "published_at": "2026-04-17T10:52:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Stock Markets 2026: Ibovespa, Merval, COLCAP, IPSA and IPC Guide",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/latin-america-stock-markets-2026-guide/",
-            "published_at": "2026-04-17T10:52:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iran War and Hormuz Crisis 2026: Oil, Latin America and the Global Fallout",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/iran-war-hormuz-crisis-2026-guide/",
-            "published_at": "2026-04-17T10:52:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Friday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/sao-paulo-daily-sheyla-ayo-final-islamabad/",
-            "published_at": "2026-04-17T10:48:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Friday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/rio-daily-mar-late-evening-islamabad-talks/",
-            "published_at": "2026-04-17T10:29:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Colombia Crisis 2026: Trade War, Border Conflict and the CAN Collapse",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ecuador-colombia-crisis-2026-complete-guide/",
-            "published_at": "2026-04-17T09:42:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Coffee 2026: Record Harvest, Farmer Holdouts and the Value Trap",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-coffee-2026-value-trap-record-harvest-explainer/",
-            "published_at": "2026-04-17T09:18:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale\u2019s Iron Ore Rises 3% in Q1 While Copper and Nickel Hit Records",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/vale-iron-ore-q1-2026-production-copper-nickel-record/",
-            "published_at": "2026-04-17T08:57:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Drops 0.78% to 69,095 as Wednesday Bounce Fades",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ipc-mexico-falls-sheinbaum-fracking-tortilla/",
-            "published_at": "2026-04-17T08:53:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Falls to 196,819 in Second Straight Decline as 198,951 Real-Terms Peak Rejects Index Twice",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ibovespa-196k-pullback-euro-bond-cpi-stf/",
-            "published_at": "2026-04-17T08:48:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s COLCAP Reclaims 21-EMA as Petro Rejects Tax Refund",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/colcap-colombia-petro-defies-court-rebound/",
-            "published_at": "2026-04-17T08:39:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Stock Market Races Toward ATH with 1.44% Surge to 11,477",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ipsa-chile-surges-1-44-rsi-70-cesco-copper/",
-            "published_at": "2026-04-17T08:35:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BTG and Goldman Agree: Brazil Wins the Emerging-Market Energy Trade",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/btg-and-goldman-agree-brazil-wins-the-emerging-market-energy-trade/",
-            "published_at": "2026-04-17T08:30:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin at $74,768 \u2014 Schwab, Goldman, Morgan Stanley Building On-Ramps While the Market Waits for Volume",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/bitcoin-74k-schwab-spot-drift-hack-miners/",
-            "published_at": "2026-04-17T08:24:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Snaps Losing Streak with Marginal 0.20% Gain",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/merval-argentina-kijun-stabilization-imf-flows/",
-            "published_at": "2026-04-17T08:19:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Alckmin Defends Import Tax on Small Packages as Lula Calls It a Mistake",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/alckmin-defends-import-tax-on-small-packages-as-lula-calls-it-a-mistake/",
-            "published_at": "2026-04-17T08:17:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/global-economy-briefing-philly-fed-uk-gdp-beat/",
-            "published_at": "2026-04-17T08:05:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Friday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/latam-pulse-petrobras-approved-peru-dead-heat-brent-99/",
-            "published_at": "2026-04-17T08:03:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Morning Call for Friday, April 17, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-morning-call-nasdaq-12-day-streak-deal-near/",
-            "published_at": "2026-04-17T08:02:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/usa-canada-report-pepsico-beats-irs-battle-sp-streak-ontario-housing/",
-            "published_at": "2026-04-16T17:40:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela\u2019s Delcy Rodr\u00edguez Rewrites the Economy in 100 Days",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/venezuela-delcy-rodriguez-economic-pivot-oil-mining-reform/",
-            "published_at": "2026-04-16T17:37:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Gas Production Falls to Record Low, Venezuela Fix Nearest",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/colombia-gas-crisis-production-low-imports-sirius-venezuela/",
-            "published_at": "2026-04-16T17:19:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief for April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/europe-pulse-spain-amnesty-opens-uk-deindustrialising-france-moratorium-magyar/",
-            "published_at": "2026-04-16T17:16:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Citi\u2019s LATAM Chief: Region Is Better Placed Than Asia or Europe",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/citi-latin-america-outlook-oil-opportunity-brazil-selic-fiscal/",
-            "published_at": "2026-04-16T17:13:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/asia-pulse-tsmc-record-helium-crisis-india-qatar-evergrande/",
-            "published_at": "2026-04-16T16:49:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief for April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/africa-pulse-nigeria-cpi-reversal-imf-4-3-aid-cuts-zimbabwe-zig/",
-            "published_at": "2026-04-16T16:45:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Top Court Strikes Down Petro\u2019s Emergency Tax Decree, Orders Refunds",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/colombia-constitutional-court-petro-emergency-tax-decree-ruling/",
-            "published_at": "2026-04-16T11:28:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula to El Pa\u00eds: \u201cTrump Has No Right to Wake Up and Threaten a Country\u201d",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/lula-to-el-pais-trump-has-no-right-to-wake-up-and-threaten-a-country/",
-            "published_at": "2026-04-16T11:22:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s 2027 Budget Law Sets R$73B Surplus Target, Debt Peak in 2029",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-2027-ldo-primary-surplus-target-debt-peak/",
-            "published_at": "2026-04-16T11:17:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Oil Exports to China Double in Q1 2026 as Hormuz Rewires Flow",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-oil-exports-china-q1-2026-record-hormuz/",
-            "published_at": "2026-04-16T11:06:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Election Crisis: Markets Crash as L\u00f3pez Aliaga Alleges Fraud",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/peru-election-crisis-lopez-aliaga-jne-sol-bvl-crash/",
-            "published_at": "2026-04-16T11:02:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMF Staff Clears Argentina\u2019s Second Review in $1 Billion Disbursement",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/imf-argentina-second-review-disbursement-april-2026/",
-            "published_at": "2026-04-16T10:54:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Buys $290M in Dollars to Fund $4 Billion Bond Buyback",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/colombia-bond-buyback-4-billion-dollar-purchases-petro-banrep/",
-            "published_at": "2026-04-16T10:44:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Thursday, April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/latam-sports-maracanazo-rivadavia-libertadores-md2-wednesday/",
-            "published_at": "2026-04-16T10:42:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Kast Unveils Sweeping Tax and Investment Megareform on TV",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/kast-chile-economic-reform-megareform-tax-reconstruction/",
-            "published_at": "2026-04-16T10:30:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Thursday, April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/sao-paulo-daily-rally-pauses-yahuarcani/",
-            "published_at": "2026-04-16T10:14:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Thursday, April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/rio-daily-mar-reopens-rally-pauses/",
-            "published_at": "2026-04-16T10:12:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Central Bank Pushes Back on Real Rally in Message to Investors",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-central-bank-nilton-david-real-rally-selic-calibration/",
-            "published_at": "2026-04-16T09:19:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Homebuilder Helbor Sees Q1 Sales Fall 32% on Tough Comp",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/helbor-hbor3-q1-2026-sales-drop-cyrela-mcmv-partnership/",
-            "published_at": "2026-04-16T09:17:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Power Clash in Bras\u00edlia: Supreme Court Targets Senator Who Accused It",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/gilmar-mendes-pgr-vieira-cpi-abuse-authority-brazil/",
-            "published_at": "2026-04-16T09:14:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Presidential Hopeful Zema Proposes Selling Every State Firm",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/zema-economic-plan-2026-privatization-custo-brasil/",
-            "published_at": "2026-04-16T09:05:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Jumps 1.01% Ending Two-Day Slide on Televisa Rally",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ipc-mexico-rebound-televisa-tortilla-usmca/",
-            "published_at": "2026-04-16T08:49:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Stock Market Drops 1.48% on Triple Political Blow",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/colcap-colombia-court-petro-imf-downgrade/",
-            "published_at": "2026-04-16T08:44:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s IPSA Digests Record Run as CESCO Week Kicks Off in Santiago",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ipsa-chile-consolidation-near-ath-copper-kast/",
-            "published_at": "2026-04-16T08:41:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Breaks Kijun as IMF $1B Disbursement Fails to Lift",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/merval-argentina-milei-approval-imf-disbursement/",
-            "published_at": "2026-04-16T08:32:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Snaps 11-Session Streak at 197,376 as BBAS3 Downgrade Cools Bank Rally",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ibovespa-snaps-11-session-streak-at-197376-as-bbas3-downgrade-cools-bank-rally/",
-            "published_at": "2026-04-16T08:19:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Taps $76,000 as Goldman Files ETF and Wall Street Piles In",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/bitcoin-75k-goldman-etf-morgan-stanley/",
-            "published_at": "2026-04-16T08:12:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/global-economy-briefing-sp-7000-china-gdp-beat/",
-            "published_at": "2026-04-16T08:08:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/latam-pulse-petrobras-agm-peru-sanchez-overtake/",
-            "published_at": "2026-04-16T08:06:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Morning Call for Thursday, April 16, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-morning-call-sp500-ath-china-gdp-beat/",
-            "published_at": "2026-04-16T07:53:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "It\u2019s Keiko vs. the Left: S\u00e1nchez Overtakes L\u00f3pez Aliaga for Second Place",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/peru-election-2026-results-sanchez-surges-runoff-2/",
-            "published_at": "2026-04-15T17:12:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Peace Process 2026: ELN, FARC and Investor Risk",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/colombia-peace-process-2026-guide/",
-            "published_at": "2026-04-15T17:05:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Amazon 2026: Deforestation, Carbon Credits, Lula Agenda",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-amazon-deforestation-2026-guide/",
-            "published_at": "2026-04-15T17:03:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Immigration 2026: Visas, Nomad Rules and Residency",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-immigration-visa-guide-2026/",
-            "published_at": "2026-04-15T17:03:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief for April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/usa-canada-report-bofa-record-carney-fuel-tax-buffett-ontario/",
-            "published_at": "2026-04-15T17:02:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Economy 2026: GDP, Nearshoring, Banxico and Peso",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/mexico-economy-2026-outlook/",
-            "published_at": "2026-04-15T17:01:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Renewable Energy 2026: Wind, Solar and Green Hydrogen",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/brazil-renewable-energy-2026-guide/",
-            "published_at": "2026-04-15T17:00:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Economy 2026: UPM, Safe-Haven Status and Outlook",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/uruguay-economy-2026-outlook/",
-            "published_at": "2026-04-15T16:59:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Economy 2026: Copper Supercycle, Lithium and IPSA",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/chile-economy-2026-outlook/",
-            "published_at": "2026-04-15T16:58:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Canal 2026: Drought Recovery, Fees and Trade Shifts",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/panama-canal-2026-guide/",
-            "published_at": "2026-04-15T16:58:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Economy Grew 3.68% in February \u2014 Beating Expectations as the Election Reshapes the Outlook",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/peru-gdp-february-2026-beats-expectations-retail-services/",
-            "published_at": "2026-04-15T16:57:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Government Debt Crosses 60% of GDP for the First Time in 20 Years \u2014 and the IMF Says It Will Stay There",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/mexicos-government-debt-crosses-60-of-gdp-for-the-first-time-in-20-years-and-the-imf-says-it-will-stay-there/",
-            "published_at": "2026-04-15T16:52:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Economy 2026: GDP, Oil Crisis and Noboa Reforms",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ecuador-economy-2026-outlook/",
-            "published_at": "2026-04-15T16:44:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief for April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/asia-pulse-markets-rally-china-exports-basf-solar-japan-labor/",
-            "published_at": "2026-04-15T16:36:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief for April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/africa-pulse-kenya-fuel-scandal-zimbabwe-zig-mozambique-sudan/",
-            "published_at": "2026-04-15T16:31:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Wednesday, April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/sao-paulo-nightlife-bemti-casa-salao-apr-15-2026/",
-            "published_at": "2026-04-15T16:26:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Wednesday, April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/rio-nightlife-cine-jazz-electric-miles-apr-15-2026/",
-            "published_at": "2026-04-15T16:14:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Computer Exports Surge 145% to $85B in 2025",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/mexico-computer-exports-surge-145-percent-2025-ai-nearshoring/",
-            "published_at": "2026-04-15T12:21:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia Land Reform: Ley 157 Reshapes Agrarian Policy",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/bolivia-land-reform-ley-157-credit-rural-paz/",
-            "published_at": "2026-04-15T12:19:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Election 2026: S\u00e1nchez Surges Toward Runoff",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/peru-election-2026-results-sanchez-surges-runoff/",
-            "published_at": "2026-04-15T12:10:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula\u2019s New Congress Chief Faces Escala 6\u00d71 Test",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/jose-guimaraes-lula-escala-6x1-congress-chief/",
-            "published_at": "2026-04-15T11:52:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Wednesday, April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/latam-sports-boca-bombonera-libertadores-md2-coquimbo-superclasico/",
-            "published_at": "2026-04-15T11:37:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nunes Marques Leads Brazil Electoral Court Before 2026 Vote",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/nunes-marques-tse-president-brazil-elections-2026/",
-            "published_at": "2026-04-15T11:34:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Tortilla Prices Rise as Iran War Fuels Inflation",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/mexico-tortilla-price-rise-fuel-subsidy-war-inflation/",
-            "published_at": "2026-04-15T10:49:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMF Latin America Outlook: Brazil Up, Argentina Cut",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/imf-weo-april-2026-latin-america-growth-war-scenarios/",
-            "published_at": "2026-04-15T10:42:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Inflation Hits 3.4% in March 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/argentina-inflation-march-2026-3-4-percent-milei/",
-            "published_at": "2026-04-15T10:32:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief: April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/sao-paulo-daily-masp-pinacoteca-199k/",
-            "published_at": "2026-04-15T10:25:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief: April 15, 2026",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/rio-daily-ibovespa-199k-intraday-record/",
-            "published_at": "2026-04-15T10:21:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Government Saves Justices From CPI Impeachment",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/cpi-crime-organizado-rejected-senate-swap-stf/",
-            "published_at": "2026-04-15T09:02:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Supreme Court Threatens Senators Over CPI",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/stf-threatens-senators-cpi-gonet-refuses-investigate/",
-            "published_at": "2026-04-15T08:55:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico IPC Falls 0.94% to 68,941 on Oil Drag",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/ipc-mexico-second-decline-bofa-bearish/",
-            "published_at": "2026-04-15T08:44:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "COLCAP Rallies to 2,359 as Petro Drops Ecuador Tariffs",
-            "url": "https://wordpress-1021692-6203902.cloudwaysapps.com/colcap-colombia-third-gain-ecuador-tariffs/",
-            "published_at": "2026-04-15T08:39:12+00:00",
             "category": [],
             "language": "en"
         }
