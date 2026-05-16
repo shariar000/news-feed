@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-16T06:10:04+00:00",
+    "updated_at": "2026-05-16T07:10:05+00:00",
     "items": [
+        {
+            "title": "Latin America Defense Monitor \u2014 May 2\u201315, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-defense-monitor-may-215-2026/",
+            "published_at": "2026-05-16T06:52:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 May 15, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-may-15-2026/",
@@ -692,13 +699,6 @@
             "title": "Colombia\u2019s Ecopetrol Posts Worst Q1 Since Pandemic at US$742 Million",
             "url": "https://www.riotimesonline.com/colombias-ecopetrol-posts-worst-q1-since-pandemic-at-us742-million/",
             "published_at": "2026-05-13T17:53:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Edges Fl\u00e1vio Bolsonaro 42% to 41% in Quaest Runoff Poll",
-            "url": "https://www.riotimesonline.com/lula-edges-flavio-bolsonaro-42-to-41-in-quaest-runoff-poll/",
-            "published_at": "2026-05-13T17:45:54+00:00",
             "category": [],
             "language": "en"
         }
