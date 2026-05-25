@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-25T15:10:04+00:00",
+    "updated_at": "2026-05-25T16:10:04+00:00",
     "items": [
+        {
+            "title": "Bringing Your Pet to Brazil: The Complete MAPA Guide for Expats",
+            "url": "https://www.riotimesonline.com/bringing-your-pet-to-brazil-the-complete-mapa-guide-for-expats/",
+            "published_at": "2026-05-25T15:50:23+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "You Just Landed in Brazil \u2014 The First 48 Hours",
             "url": "https://www.riotimesonline.com/you-just-landed-in-brazil-first-48-hours/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s First Power Trader Tradener Files for Bankruptcy",
             "url": "https://www.riotimesonline.com/tradener-recuperacao-judicial-brazil-power-trader-crisis/",
             "published_at": "2026-05-21T19:40:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "UAE\u2019s EDGE Pours $500M Into Brazil\u2019s Defense Industry",
-            "url": "https://www.riotimesonline.com/edge-group-uae-capital-brazil-defense-industry-investment/",
-            "published_at": "2026-05-21T19:38:24+00:00",
             "category": [],
             "language": "en"
         }
