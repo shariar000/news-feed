@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-25T20:10:04+00:00",
+    "updated_at": "2026-05-25T21:10:03+00:00",
     "items": [
+        {
+            "title": "Latin America Leads Global Music Growth, Up 17% in 2025",
+            "url": "https://www.riotimesonline.com/latam-recorded-music-growth-ifpi-2025-may-2026/",
+            "published_at": "2026-05-25T20:45:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Museum of the Portuguese Language Turns 20",
+            "url": "https://www.riotimesonline.com/museu-da-lingua-portuguesa-20-years-funk-may-2026/",
+            "published_at": "2026-05-25T20:25:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Pushes to Reclaim Fossils Held in 14 Countries",
+            "url": "https://www.riotimesonline.com/brazil-fossil-repatriation-14-countries-may-2026/",
+            "published_at": "2026-05-25T20:11:55+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Inflation Bets Rise 11th Week, IPCA Seen at 5.04%",
             "url": "https://www.riotimesonline.com/brazil-focus-inflation-504-selic-1325-may-2026/",
@@ -678,27 +699,6 @@
             "title": "Goldman Lifts Brazil\u2019s Usiminas to Buy as Steel Cycle Turns",
             "url": "https://www.riotimesonline.com/brazil-usiminas-goldman-upgrade-steel-may-2026/",
             "published_at": "2026-05-22T11:18:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Top Court Clears 933km Amazon Soy Railway in 8-1 Vote",
-            "url": "https://www.riotimesonline.com/brazil-ferrograo-soy-railway-stf-cleared-may-2026/",
-            "published_at": "2026-05-22T11:16:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Bradesco Targets Ultra-Rich With Private-Jet Loans",
-            "url": "https://www.riotimesonline.com/bradesco-aircraft-financing-private-jets-may-2026/",
-            "published_at": "2026-05-22T11:01:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil to Widen Budget Block Friday as Pension Costs Climb",
-            "url": "https://www.riotimesonline.com/brazil-budget-block-durigan-pension-bimonthly-may-2026/",
-            "published_at": "2026-05-22T10:56:57+00:00",
             "category": [],
             "language": "en"
         }
