@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-25T07:10:05+00:00",
+    "updated_at": "2026-05-25T08:10:05+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Monday, May 25, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-may-25-2026/",
+            "published_at": "2026-05-25T08:05:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, May 25, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-may-25-2026/",
+            "published_at": "2026-05-25T08:03:21+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "LatAm Pre-Open \u2014 Asia Doubles Down Risk-On, U.S and London Closed, LatAm Trades Alone",
             "url": "https://www.riotimesonline.com/latam-pre-open-asia-doubles-down-risk-on-us-and-london-closed-latam-trades-alone/",
@@ -24,6 +38,13 @@
             "language": "en"
         },
         {
+            "title": "Why Heated Rivalry Is the Queer Storytelling Turning Point",
+            "url": "https://www.riotimesonline.com/heated-rivalry-queer-revival-hbo-max-latam-may-2026/",
+            "published_at": "2026-05-25T02:56:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Microsoft Is Now a Safer Borrower Than the U.S. Government",
             "url": "https://www.riotimesonline.com/hyperscaler-bonds-treasury-yields-historic-shift-may-2026/",
             "published_at": "2026-05-24T20:09:25+00:00",
@@ -34,13 +55,6 @@
             "title": "Leaving Brazil 2026: The Deregistration Sequence for Foreign Residents",
             "url": "https://www.riotimesonline.com/leaving-brazil-2026-the-deregistration-sequence-for-foreign-residents/",
             "published_at": "2026-05-24T19:41:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Heated Rivalry Is the Queer Storytelling Turning Point",
-            "url": "https://www.riotimesonline.com/heated-rivalry-queer-revival-hbo-max-latam-may-2026/",
-            "published_at": "2026-05-24T18:56:42+00:00",
             "category": [],
             "language": "en"
         },
@@ -685,20 +699,6 @@
             "title": "Latin America Sports Daily for Thursday, May 21, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-flamengo-pedro-libertadores-last-16/",
             "published_at": "2026-05-21T10:37:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Thursday, May 21, 2026",
-            "url": "https://www.riotimesonline.com/sp-daily-masp-japan-house-virada-cultural-may-21/",
-            "published_at": "2026-05-21T10:28:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Thursday, May 21, 2026",
-            "url": "https://www.riotimesonline.com/rio-daily-mar-ccbb-exhibitions-rainy-day-may-21/",
-            "published_at": "2026-05-21T10:20:52+00:00",
             "category": [],
             "language": "en"
         }
