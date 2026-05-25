@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-25T18:10:04+00:00",
+    "updated_at": "2026-05-25T19:10:04+00:00",
     "items": [
+        {
+            "title": "Lula Begins Preventive Radiotherapy After Skin Cancer Op",
+            "url": "https://www.riotimesonline.com/brazil-lula-radiotherapy-skin-cancer-may-2026/",
+            "published_at": "2026-05-25T19:05:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Pays Record 15% Rates as Public Debt Hits a High",
+            "url": "https://www.riotimesonline.com/colombia-public-debt-record-rates-may-2026/",
+            "published_at": "2026-05-25T18:54:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Phases In 40-Hour Workweek, Reaching It by 2030",
+            "url": "https://www.riotimesonline.com/mexico-40-hour-workweek-reform-2030-may-2026/",
+            "published_at": "2026-05-25T18:42:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia\u2019s Paz Cuts His Own Salary 50% as Protests Mount",
+            "url": "https://www.riotimesonline.com/bolivia-paz-salary-cut-50-percent-protests-may-2026/",
+            "published_at": "2026-05-25T18:39:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Plus Ultra Adds Madrid-Buenos Aires Flights, 4th on Route",
             "url": "https://www.riotimesonline.com/plus-ultra-madrid-buenos-aires-route-launch-may-2026/",
@@ -671,34 +699,6 @@
             "title": "Brazil Opens $179M Airline Credit Line as Jet Fuel Doubles",
             "url": "https://www.riotimesonline.com/brazil-airline-credit-line-fuel-shock-may-2026/",
             "published_at": "2026-05-22T09:37:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Price Today Slips to $77,332 as Cuban Sells and HYPE Hits Record",
-            "url": "https://www.riotimesonline.com/bitcoin-price-today-77332-cuban-sells-hype-record/",
-            "published_at": "2026-05-22T09:10:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMF Approves $1B Argentina Disbursement in Second Review",
-            "url": "https://www.riotimesonline.com/imf-argentina-disbursement-second-review-board-may-2026/",
-            "published_at": "2026-05-22T09:10:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Stock Market Was Closed for Navy Day, Leaving the IPSA at 10,600",
-            "url": "https://www.riotimesonline.com/ipsa-chile-10600-navy-day-closure-pre-open-brief/",
-            "published_at": "2026-05-22T08:42:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stock Market Slips Back Below the Gate It Had Just Cleared",
-            "url": "https://www.riotimesonline.com/ipc-mexico-68384-slips-back-below-gate-macd/",
-            "published_at": "2026-05-22T08:38:47+00:00",
             "category": [],
             "language": "en"
         }
