@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-25T05:10:04+00:00",
+    "updated_at": "2026-05-25T06:10:05+00:00",
     "items": [
+        {
+            "title": "LatAm Pre-Open \u2014 Asia Doubles Down Risk-On, U.S and London Closed, LatAm Trades Alone",
+            "url": "https://www.riotimesonline.com/latam-pre-open-asia-doubles-down-risk-on-us-and-london-closed-latam-trades-alone/",
+            "published_at": "2026-05-25T06:00:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Loses Two Soldiers to Insurgent Drones in Six Days",
+            "url": "https://www.riotimesonline.com/colombia-drone-attacks-cauca-bolivar-tibu-may-2026/",
+            "published_at": "2026-05-25T05:53:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Microsoft Is Now a Safer Borrower Than the U.S. Government",
             "url": "https://www.riotimesonline.com/hyperscaler-bonds-treasury-yields-historic-shift-may-2026/",
@@ -685,20 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Thursday, May 21, 2026",
             "url": "https://www.riotimesonline.com/rio-daily-mar-ccbb-exhibitions-rainy-day-may-21/",
             "published_at": "2026-05-21T10:20:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "U.S. Indicts Ra\u00fal Castro for Murder Over 1996 Plane Shootdown",
-            "url": "https://www.riotimesonline.com/raul-castro-indicted-us-murder-brothers-rescue-cuba-2026/",
-            "published_at": "2026-05-21T10:06:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Starlink Prepares to Beam Phone Internet Directly to Brazil",
-            "url": "https://www.riotimesonline.com/starlink-direct-to-cell-brazil-phone-internet-launch-2026/",
-            "published_at": "2026-05-21T10:04:33+00:00",
             "category": [],
             "language": "en"
         }
