@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-25T19:10:04+00:00",
+    "updated_at": "2026-05-25T20:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Inflation Bets Rise 11th Week, IPCA Seen at 5.04%",
+            "url": "https://www.riotimesonline.com/brazil-focus-inflation-504-selic-1325-may-2026/",
+            "published_at": "2026-05-25T20:01:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Moves to End 6\u00d71 Work Scale, Cut Week to 40 Hours",
+            "url": "https://www.riotimesonline.com/brazil-pec-6x1-end-40-hour-workweek-lula-may-2026/",
+            "published_at": "2026-05-25T19:57:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "IMF Clears Argentina Review, Releases $1 Billion to Milei",
+            "url": "https://www.riotimesonline.com/imf-argentina-review-1-billion-disbursement-may-2026/",
+            "published_at": "2026-05-25T19:52:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Exports Hit Record $72 Billion in April, Up 32.6%",
+            "url": "https://www.riotimesonline.com/mexico-record-april-exports-trade-surplus-may-2026/",
+            "published_at": "2026-05-25T19:29:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "France\u2019s Loxam Buys Control of Brazil\u2019s Mills for R$3.8B",
+            "url": "https://www.riotimesonline.com/loxam-buys-control-brazil-mills-rental-may-2026/",
+            "published_at": "2026-05-25T19:28:11+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Lula Begins Preventive Radiotherapy After Skin Cancer Op",
             "url": "https://www.riotimesonline.com/brazil-lula-radiotherapy-skin-cancer-may-2026/",
@@ -664,41 +699,6 @@
             "title": "Brazil to Widen Budget Block Friday as Pension Costs Climb",
             "url": "https://www.riotimesonline.com/brazil-budget-block-durigan-pension-bimonthly-may-2026/",
             "published_at": "2026-05-22T10:56:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Friday, May 22, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-may-22-2026/",
-            "published_at": "2026-05-22T10:22:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Friday, May 22, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-may-22-2026/",
-            "published_at": "2026-05-22T10:09:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Court Auctions Oi\u2019s $253M Corporate Unit on June 17",
-            "url": "https://www.riotimesonline.com/brazil-oi-solucoes-auction-vtal-tim-bid-may-2026/",
-            "published_at": "2026-05-22T09:40:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sheinbaum Files Bill to Block Cartel Ties in 2027 Vote",
-            "url": "https://www.riotimesonline.com/mexico-cartel-candidate-vetting-ine-reform-may-2026/",
-            "published_at": "2026-05-22T09:37:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Opens $179M Airline Credit Line as Jet Fuel Doubles",
-            "url": "https://www.riotimesonline.com/brazil-airline-credit-line-fuel-shock-may-2026/",
-            "published_at": "2026-05-22T09:37:00+00:00",
             "category": [],
             "language": "en"
         }
