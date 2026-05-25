@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-25T06:10:05+00:00",
+    "updated_at": "2026-05-25T07:10:05+00:00",
     "items": [
         {
             "title": "LatAm Pre-Open \u2014 Asia Doubles Down Risk-On, U.S and London Closed, LatAm Trades Alone",
@@ -13,6 +13,13 @@
             "title": "Colombia Loses Two Soldiers to Insurgent Drones in Six Days",
             "url": "https://www.riotimesonline.com/colombia-drone-attacks-cauca-bolivar-tibu-may-2026/",
             "published_at": "2026-05-25T05:53:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Falls 0.81% to 176,210 as Real Slips Back Above R$5",
+            "url": "https://www.riotimesonline.com/ibovespa-falls-081-to-176210-as-real-slips-back-above-r5-on-iran-uranium-snag/",
+            "published_at": "2026-05-25T05:30:09+00:00",
             "category": [],
             "language": "en"
         },
@@ -174,13 +181,6 @@
             "title": "Bitcoin Price Today Drops to $75,174 as Warsh Takes Fed and Crypto Liquidates 2.95%",
             "url": "https://www.riotimesonline.com/bitcoin-price-today-drops-to-75174-as-warsh-takes-fed-and-crypto-liquidates-295/",
             "published_at": "2026-05-23T07:56:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa Falls 0.81% to 176,210 as Real Slips Back Above R$5",
-            "url": "https://www.riotimesonline.com/ibovespa-falls-081-to-176210-as-real-slips-back-above-r5-on-iran-uranium-snag/",
-            "published_at": "2026-05-23T07:30:09+00:00",
             "category": [],
             "language": "en"
         },
