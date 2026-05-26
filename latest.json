@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-26T09:10:04+00:00",
+    "updated_at": "2026-05-26T10:10:03+00:00",
     "items": [
+        {
+            "title": "Mills Shares Surge on Loxam Control Sale and Likely Delisting",
+            "url": "https://www.riotimesonline.com/mills-loxam-control-sale-delisting-may-2026/",
+            "published_at": "2026-05-26T10:08:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 May 26, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-may-26-2026/",
+            "published_at": "2026-05-26T10:06:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lula Signs Decree for R$0.44 Gasoline Subsidy to Blunt Oil Shock",
+            "url": "https://www.riotimesonline.com/brazil-gasoline-subsidy-decree-lula-may-2026/",
+            "published_at": "2026-05-26T09:44:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Iberia Expands in Brazil as Azul and Latam Cut Flights on Fuel",
+            "url": "https://www.riotimesonline.com/iberia-brazil-expansion-azul-latam-cuts-may-2026/",
+            "published_at": "2026-05-26T09:30:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copasa Privatization Advances as Aegea-Led Vehicle Files a Bid",
+            "url": "https://www.riotimesonline.com/aegea-livorno-copasa-30-percent-bid-may-2026/",
+            "published_at": "2026-05-26T09:25:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Freezes R$22.1 Billion and Shelves Pre-Salt Oil Auction",
+            "url": "https://www.riotimesonline.com/brazil-freezes-r22-1-billion-and-shelves-pre-salt-oil-auction/",
+            "published_at": "2026-05-26T09:17:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Falls Below R$600 Billion as Oil Slide Hits 2-Month Low",
+            "url": "https://www.riotimesonline.com/petrobras-market-cap-oil-drop-two-month-low-may-2026/",
+            "published_at": "2026-05-26T09:10:55+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Trade Surplus Hits US$30.4 Billion So Far in 2026",
             "url": "https://www.riotimesonline.com/brazil-trade-surplus-30-billion-may-2026/",
@@ -650,55 +699,6 @@
             "title": "Anitta Goals FIFA 2026: Brazil Anchors Three-Continent Anthem",
             "url": "https://www.riotimesonline.com/anitta-goals-fifa-2026-brazil-anchors-three-continent-anthem/",
             "published_at": "2026-05-23T06:45:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Court Suspends Dividend Tax Provision in Fresh Ruling",
-            "url": "https://www.riotimesonline.com/brazil-court-suspends-dividend-tax-15270-saga-may-2026/",
-            "published_at": "2026-05-22T18:37:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Halts Power Sales to Costa Rica in Trade Standoff",
-            "url": "https://www.riotimesonline.com/panama-halts-power-sales-to-costa-rica-in-trade-standoff/",
-            "published_at": "2026-05-22T18:30:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Friday, May 22, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-gop-vote-alberta-referendum/",
-            "published_at": "2026-05-22T18:15:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Friday, May 22, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-trump-nato-reversal-germany-gdp/",
-            "published_at": "2026-05-22T18:06:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fed Governor Waller Says Next Move Could Be a Rate Hike",
-            "url": "https://www.riotimesonline.com/waller-fed-rate-hike-signal-frankfurt-latam-may-2026/",
-            "published_at": "2026-05-22T17:52:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Oil-Gas Extraction Falls 2.7% as Gas Hits Record Low",
-            "url": "https://www.riotimesonline.com/colombia-oil-gas-extraction-q1-2026-decline-historic-low/",
-            "published_at": "2026-05-22T17:46:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Fines Enel $769,000 for Hydropower Price Distortion",
-            "url": "https://www.riotimesonline.com/colombia-enel-fine-betania-hydropower-price-may-2026/",
-            "published_at": "2026-05-22T17:39:58+00:00",
             "category": [],
             "language": "en"
         }
