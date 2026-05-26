@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-26T06:10:04+00:00",
+    "updated_at": "2026-05-26T07:10:04+00:00",
     "items": [
+        {
+            "title": "LatAm Pre-Open: Brazil Leads, Mexico Fades, U.S. Returns",
+            "url": "https://www.riotimesonline.com/latam-pre-open-brazil-leads-mexico-fades-us-returns/",
+            "published_at": "2026-05-26T06:36:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Leads Global Music Growth, Up 17% in 2025",
             "url": "https://www.riotimesonline.com/latam-recorded-music-growth-ifpi-2025-may-2026/",
@@ -692,13 +699,6 @@
             "title": "Latin America Sports Daily for Friday, May 22, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-neymar-calf-edema-brazil-river-sudamericana/",
             "published_at": "2026-05-22T11:55:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Goldman Lifts Brazil\u2019s Usiminas to Buy as Steel Cycle Turns",
-            "url": "https://www.riotimesonline.com/brazil-usiminas-goldman-upgrade-steel-may-2026/",
-            "published_at": "2026-05-22T11:18:06+00:00",
             "category": [],
             "language": "en"
         }
