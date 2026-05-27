@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-27T18:10:05+00:00",
+    "updated_at": "2026-05-27T19:10:04+00:00",
     "items": [
+        {
+            "title": "Brazilian Banks Tighten Farm Credit After a Wave of Defaults",
+            "url": "https://www.riotimesonline.com/brazilian-banks-tighten-farm-credit-after-a-wave-of-defaults/",
+            "published_at": "2026-05-27T18:55:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Job Creation Slowed to a 15-Year Low",
+            "url": "https://www.riotimesonline.com/mexicos-job-creation-slowed-to-a-15-year-low/",
+            "published_at": "2026-05-27T18:50:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Tax Havens Keep Growing, and What It Costs",
+            "url": "https://www.riotimesonline.com/why-tax-havens-keep-growing-and-what-it-costs/",
+            "published_at": "2026-05-27T18:38:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vaca Muerta Turns Argentina Into a Gas Powerhouse",
+            "url": "https://www.riotimesonline.com/vaca-muerta-turns-argentina-into-a-gas-powerhouse/",
+            "published_at": "2026-05-27T18:31:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Maduro\u2019s Image Fades as Venezuela Pivots Toward Washington",
+            "url": "https://www.riotimesonline.com/maduros-image-fades-as-venezuela-pivots-toward-washington/",
+            "published_at": "2026-05-27T18:17:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Machu Picchu Risks Losing Its Status as a World Wonder",
+            "url": "https://www.riotimesonline.com/machu-picchu-risks-losing-its-status-as-a-world-wonder/",
+            "published_at": "2026-05-27T18:13:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Global Financial Wealth Hit a Record as Latin America Joined the Climb",
             "url": "https://www.riotimesonline.com/global-financial-wealth-hit-a-record-as-latin-america-joined-the-climb/",
@@ -657,48 +699,6 @@
             "title": "Colombia Stock Market Jumps 2.4% as Oil Eases Before Vote",
             "url": "https://www.riotimesonline.com/colcap-2133-jumps-oversold-bounce-iran-oil-six-days-vote/",
             "published_at": "2026-05-26T08:26:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Bovespa Rises 0.9% to 177,816 as Iran Deal Hopes Sink Oil and Lift Banks",
-            "url": "https://www.riotimesonline.com/ibovespa-177k-rises-iran-deal-oil-below-100-banks-rally/",
-            "published_at": "2026-05-26T08:19:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Stock Market Closed for May 25 Holiday",
-            "url": "https://www.riotimesonline.com/merval-argentina-2846220-holiday-closed-best-latam-week/",
-            "published_at": "2026-05-26T08:12:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Tuesday, May 26, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-may-26-2026/",
-            "published_at": "2026-05-26T08:07:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Tuesday, May 26, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-may-26-2026/",
-            "published_at": "2026-05-26T07:59:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open: Brazil Leads, Mexico Fades, U.S. Returns",
-            "url": "https://www.riotimesonline.com/latam-pre-open-brazil-leads-mexico-fades-us-returns/",
-            "published_at": "2026-05-26T06:36:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Search for the Most Trusted AI Detector: Detector.io Reviewed",
-            "url": "https://www.riotimesonline.com/search-for-the-most-trusted-ai-detector-detectorio-reviewed/",
-            "published_at": "2026-05-26T03:54:07+00:00",
             "category": [],
             "language": "en"
         }
