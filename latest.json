@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-27T14:10:04+00:00",
+    "updated_at": "2026-05-27T15:10:04+00:00",
     "items": [
         {
             "title": "Latin America\u2019s Largest Creative-Economy Summit Opens in Rio",
@@ -230,13 +230,6 @@
             "title": "LatAm Pre-Open: U.S. Splits, Tech Bid, Argentine ADRs Explode",
             "url": "https://www.riotimesonline.com/latam-pre-open-us-splits-tech-bid-argentine-adrs-explode/",
             "published_at": "2026-05-27T06:43:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Notice: Melquias Vinicius Teles de Lima",
-            "url": "https://www.riotimesonline.com/notice-melquias-vinicius-teles-de-lima-3/",
-            "published_at": "2026-05-27T03:26:54+00:00",
             "category": [],
             "language": "en"
         },
@@ -699,6 +692,13 @@
             "title": "Mexico Exports Hit Record $72 Billion in April, Up 32.6%",
             "url": "https://www.riotimesonline.com/mexico-record-april-exports-trade-surplus-may-2026/",
             "published_at": "2026-05-25T19:29:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "France\u2019s Loxam Buys Control of Brazil\u2019s Mills for R$3.8B",
+            "url": "https://www.riotimesonline.com/loxam-buys-control-brazil-mills-rental-may-2026/",
+            "published_at": "2026-05-25T19:28:11+00:00",
             "category": [],
             "language": "en"
         }
