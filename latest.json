@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-27T03:10:04+00:00",
+    "updated_at": "2026-05-27T04:10:04+00:00",
     "items": [
+        {
+            "title": "Notice: Melquias Vinicius Teles de Lima",
+            "url": "https://www.riotimesonline.com/notice-melquias-vinicius-teles-de-lima-3/",
+            "published_at": "2026-05-27T03:26:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Tuesday, May 26, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-texas-runoff-consumer-confidence-alberta-separation-may-26/",
@@ -692,13 +699,6 @@
             "title": "Mexico\u2019s Stock Market Holds Steady as Sheinbaum Signs EU Trade Deal",
             "url": "https://www.riotimesonline.com/ipc-mexico-68333-eu-pact-signed-decouples-latam-peers/",
             "published_at": "2026-05-25T09:28:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Personally Told Master Banker to Reject BTG Buyout",
-            "url": "https://www.riotimesonline.com/brazil-lula-vorcaro-rejected-btg-planalto-may-2026/",
-            "published_at": "2026-05-25T09:25:29+00:00",
             "category": [],
             "language": "en"
         }
