@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-27T06:10:04+00:00",
+    "updated_at": "2026-05-27T07:10:04+00:00",
     "items": [
+        {
+            "title": "LatAm Pre-Open: U.S. Splits, Tech Bid, Argentine ADRs Explode",
+            "url": "https://www.riotimesonline.com/latam-pre-open-us-splits-tech-bid-argentine-adrs-explode/",
+            "published_at": "2026-05-27T06:43:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Notice: Melquias Vinicius Teles de Lima",
             "url": "https://www.riotimesonline.com/notice-melquias-vinicius-teles-de-lima-3/",
@@ -692,13 +699,6 @@
             "title": "How to Renew Brazil\u2019s Digital Nomad Visa in 2026 Without the Tax Trap",
             "url": "https://www.riotimesonline.com/how-to-renew-brazils-digital-nomad-visa-in-2026-without-the-tax-trap/",
             "published_at": "2026-05-25T09:35:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Stock Market Holds Steady as Sheinbaum Signs EU Trade Deal",
-            "url": "https://www.riotimesonline.com/ipc-mexico-68333-eu-pact-signed-decouples-latam-peers/",
-            "published_at": "2026-05-25T09:28:44+00:00",
             "category": [],
             "language": "en"
         }
