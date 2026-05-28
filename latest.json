@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-28T18:10:03+00:00",
+    "updated_at": "2026-05-28T19:10:04+00:00",
     "items": [
+        {
+            "title": "Where the Dollar Is Headed in Latin America",
+            "url": "https://www.riotimesonline.com/where-the-dollar-is-headed-in-latin-america/",
+            "published_at": "2026-05-28T19:04:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The U.S. Cartel Push Tests Mexico\u2019s Sovereignty and Trade",
+            "url": "https://www.riotimesonline.com/the-u-s-cartel-push-tests-mexicos-sovereignty-and-trade/",
+            "published_at": "2026-05-28T18:51:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Global Bond Selloff and What It Means for Latin America",
+            "url": "https://www.riotimesonline.com/the-global-bond-selloff-and-what-it-means-for-latin-america/",
+            "published_at": "2026-05-28T18:45:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Bahamas and Canada Set Ebola Travel Limits",
+            "url": "https://www.riotimesonline.com/the-bahamas-and-canada-set-ebola-travel-limits/",
+            "published_at": "2026-05-28T18:39:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South America\u2019s Six Teams at the 2026 World Cup",
+            "url": "https://www.riotimesonline.com/south-americas-six-teams-at-the-2026-world-cup/",
+            "published_at": "2026-05-28T18:35:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Leads the World Back to the Office",
+            "url": "https://www.riotimesonline.com/latin-america-leads-the-world-back-to-the-office/",
+            "published_at": "2026-05-28T18:25:17+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Thursday, May 28, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-pce-gdp-boc-fsr-loonie-may-28/",
@@ -657,48 +699,6 @@
             "title": "S\u00e3o Paulo Nightlife Guide for Tuesday, May 26, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-tuesday-may-26-2026/",
             "published_at": "2026-05-26T18:09:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Tuesday, May 26, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-tuesday-may-26-2026/",
-            "published_at": "2026-05-26T18:00:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Digital Bank Nubank Nears Five Million Customers in Colombia",
-            "url": "https://www.riotimesonline.com/nubank-five-million-customers-colombia-may-2026/",
-            "published_at": "2026-05-26T17:36:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "French App BlaBlaCar Brings Cheap Car-Sharing to Latin America",
-            "url": "https://www.riotimesonline.com/blablacar-launches-eight-latin-american-countries-may-2026/",
-            "published_at": "2026-05-26T17:35:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Visa Guide for Expats 2026: Every Option for Living and Working in Brazil",
-            "url": "https://www.riotimesonline.com/brazil-visa-guide-for-expats-2026-every-option-for-living-and-working-in-brazil/",
-            "published_at": "2026-05-26T17:25:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Ecopetrol Bids for Control of Brazil\u2019s Brava Energia",
-            "url": "https://www.riotimesonline.com/ecopetrol-tender-offer-brava-energia-brazil-may-2026/",
-            "published_at": "2026-05-26T17:23:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Avianca Adds More Summer Flights to Europe",
-            "url": "https://www.riotimesonline.com/avianca-more-europe-summer-flights-may-2026/",
-            "published_at": "2026-05-26T17:08:38+00:00",
             "category": [],
             "language": "en"
         }
