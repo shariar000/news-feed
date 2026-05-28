@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-28T06:10:04+00:00",
+    "updated_at": "2026-05-28T07:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 May 28, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-may-28-2026/",
+            "published_at": "2026-05-28T06:56:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Thursday, May 28, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-may-28-2026/",
+            "published_at": "2026-05-28T06:46:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Thursday, May 28, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-may-28-2026/",
+            "published_at": "2026-05-28T06:38:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open: Wednesday\u2019s Stall Confirms Tuesday Was a Peak, Argentine Banks Cycle Again",
+            "url": "https://www.riotimesonline.com/latam-pre-open-wednesdays-stall-confirms-tuesday-was-a-peak-argentine-banks-cycle-again/",
+            "published_at": "2026-05-28T06:32:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazilian Banks Tighten Farm Credit After a Wave of Defaults",
             "url": "https://www.riotimesonline.com/brazilian-banks-tighten-farm-credit-after-a-wave-of-defaults/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s Trade Surplus Hits US$30.4 Billion So Far in 2026",
             "url": "https://www.riotimesonline.com/brazil-trade-surplus-30-billion-may-2026/",
             "published_at": "2026-05-26T09:03:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Price Today Stalls Near $76,800 in Wait-and-See",
-            "url": "https://www.riotimesonline.com/bitcoin-price-today-76800-stalls-etf-outflows-iran-wait/",
-            "published_at": "2026-05-26T08:58:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Jumps 2.5% as Copper Lifts the Rally",
-            "url": "https://www.riotimesonline.com/ipsa-chile-10826-jumps-copper-oil-relief-strongest-session/",
-            "published_at": "2026-05-26T08:43:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stock Market Holds Steady as Trade Talks Begin",
-            "url": "https://www.riotimesonline.com/ipc-mexico-68261-holds-steady-usmca-talks-open/",
-            "published_at": "2026-05-26T08:34:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Stock Market Jumps 2.4% as Oil Eases Before Vote",
-            "url": "https://www.riotimesonline.com/colcap-2133-jumps-oversold-bounce-iran-oil-six-days-vote/",
-            "published_at": "2026-05-26T08:26:14+00:00",
             "category": [],
             "language": "en"
         }
