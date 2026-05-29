@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-29T03:10:04+00:00",
+    "updated_at": "2026-05-29T04:10:04+00:00",
     "items": [
+        {
+            "title": "Notice: Melquias Vinicius Teles de Lima",
+            "url": "https://www.riotimesonline.com/notice-melquias-vinicius-teles-de-lima-3/",
+            "published_at": "2026-05-29T03:26:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazilian Household Debt Climbs to a Record High",
             "url": "https://www.riotimesonline.com/brazilian-household-debt-climbs-to-a-record-high/",
@@ -692,13 +699,6 @@
             "title": "Brazil Meat Giant MBRF Bets on Collagen as Diet Drugs Boom",
             "url": "https://www.riotimesonline.com/mbrf-collagen-investment-weight-loss-boom-may-2026/",
             "published_at": "2026-05-26T18:34:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Approves Its First Local Rival to Ozempic",
-            "url": "https://www.riotimesonline.com/brazil-approves-ozivy-ozempic-rival-ems-may-2026/",
-            "published_at": "2026-05-26T18:33:33+00:00",
             "category": [],
             "language": "en"
         }
