@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-29T19:10:03+00:00",
+    "updated_at": "2026-05-29T20:10:04+00:00",
     "items": [
+        {
+            "title": "China Approves 74 GM Crop Varieties: Threat to LatAm Exporters",
+            "url": "https://www.riotimesonline.com/china-approves-74-gm-crop-varieties-threat-to-latam-exporters/",
+            "published_at": "2026-05-29T19:10:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "One in 10 Mexico Home Purchases Never Finalize, Legal Risks for Expats",
             "url": "https://www.riotimesonline.com/one-in-10-mexico-home-purchases-never-finalize-legal-risks-for-expats/",
@@ -692,13 +699,6 @@
             "title": "Global Economy Briefing \u2014 May 28, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-may-28-2026/",
             "published_at": "2026-05-28T06:56:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Thursday, May 28, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-may-28-2026/",
-            "published_at": "2026-05-28T06:46:12+00:00",
             "category": [],
             "language": "en"
         }
