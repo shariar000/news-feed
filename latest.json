@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-05-29T07:10:03+00:00",
+    "updated_at": "2026-05-29T08:10:04+00:00",
     "items": [
+        {
+            "title": "Chile State of the Nation Preview: Kast Faces Polls and Codelco",
+            "url": "https://www.riotimesonline.com/chile-state-of-the-nation-preview-kast-faces-polls-and-codelco/",
+            "published_at": "2026-05-29T08:08:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Price Today Stays Pinned as Risk Assets Rally",
+            "url": "https://www.riotimesonline.com/bitcoin-price-today-stays-pinned-as-risk-assets-rally/",
+            "published_at": "2026-05-29T07:25:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Stock Market Climbs a Second Day on Copper",
+            "url": "https://www.riotimesonline.com/chiles-stock-market-climbs-a-second-day-on-copper/",
+            "published_at": "2026-05-29T07:19:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina\u2019s Stock Market Extends Rally as YPF Tops $50",
             "url": "https://www.riotimesonline.com/argentinas-stock-market-extends-rally-as-ypf-tops-50/",
@@ -678,27 +699,6 @@
             "title": "Global Economy Briefing \u2014 May 27, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-may-27-2026/",
             "published_at": "2026-05-27T09:16:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stock Market Jumps 4.5% as Election Bets Shift",
-            "url": "https://www.riotimesonline.com/colcap-2228-jumps-election-bets-shift-above-200-day-line/",
-            "published_at": "2026-05-27T09:13:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Dips 0.7% but Keeps Its Big Gain",
-            "url": "https://www.riotimesonline.com/ipsa-chile-10747-dips-holds-copper-rally-consolidation/",
-            "published_at": "2026-05-27T08:42:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Stock Market Jumps 2.8% on Its Holiday Reopen",
-            "url": "https://www.riotimesonline.com/argentinas-stock-market-jumps-2-8-on-its-holiday-reopen/",
-            "published_at": "2026-05-27T08:40:53+00:00",
             "category": [],
             "language": "en"
         }
