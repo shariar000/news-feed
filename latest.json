@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-01T05:10:04+00:00",
+    "updated_at": "2026-06-01T06:10:07+00:00",
     "items": [
+        {
+            "title": "Colombia\u2019s Stock Market Eases Before Sunday\u2019s Election",
+            "url": "https://www.riotimesonline.com/colombias-stock-market-eases-before-sundays-election/",
+            "published_at": "2026-06-01T05:49:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Stock Market Slips a Third Day on Rate Worries",
+            "url": "https://www.riotimesonline.com/brazils-stock-market-slips-a-third-day-on-rate-worries/",
+            "published_at": "2026-06-01T05:40:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Stock Market Climbs a Second Day on Copper",
+            "url": "https://www.riotimesonline.com/chiles-stock-market-climbs-a-second-day-on-copper/",
+            "published_at": "2026-06-01T05:19:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Stock Market Extends Rally as YPF Tops $50",
+            "url": "https://www.riotimesonline.com/argentinas-stock-market-extends-rally-as-ypf-tops-50/",
+            "published_at": "2026-06-01T05:08:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Stock Market Reverses Sharply Back Below 70,000",
+            "url": "https://www.riotimesonline.com/mexicos-stock-market-reverses-sharply-back-below-70000/",
+            "published_at": "2026-06-01T05:00:17+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Sheinbaum Marks Two-Year Anniversary With CDMX Speech",
             "url": "https://www.riotimesonline.com/sheinbaum-two-year-anniversary-speech-monumento-revolucion-may-2026/",
@@ -650,41 +685,6 @@
             "title": "Bitcoin Price Today Stays Pinned as Risk Assets Rally",
             "url": "https://www.riotimesonline.com/bitcoin-price-today-stays-pinned-as-risk-assets-rally/",
             "published_at": "2026-05-29T07:25:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Climbs a Second Day on Copper",
-            "url": "https://www.riotimesonline.com/chiles-stock-market-climbs-a-second-day-on-copper/",
-            "published_at": "2026-05-29T07:19:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Stock Market Extends Rally as YPF Tops $50",
-            "url": "https://www.riotimesonline.com/argentinas-stock-market-extends-rally-as-ypf-tops-50/",
-            "published_at": "2026-05-29T07:08:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Stock Market Reverses Sharply Back Below 70,000",
-            "url": "https://www.riotimesonline.com/mexicos-stock-market-reverses-sharply-back-below-70000/",
-            "published_at": "2026-05-29T07:00:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stock Market Eases Before Sunday\u2019s Election",
-            "url": "https://www.riotimesonline.com/colombias-stock-market-eases-before-sundays-election/",
-            "published_at": "2026-05-29T06:49:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Stock Market Slips a Third Day on Rate Worries",
-            "url": "https://www.riotimesonline.com/brazils-stock-market-slips-a-third-day-on-rate-worries/",
-            "published_at": "2026-05-29T06:45:13+00:00",
             "category": [],
             "language": "en"
         },
