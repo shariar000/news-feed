@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-01T18:10:09+00:00",
+    "updated_at": "2026-06-01T19:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico and U.S. Wrap Up First Formal Round of North American Trade Pact Review",
+            "url": "https://www.riotimesonline.com/mexico-and-u-s-wrap-up-first-formal-round-of-north-american-trade-pact-review/",
+            "published_at": "2026-06-01T18:11:17+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Medell\u00edn Tightens Crackdown on Airbnb-Style Short-Term Rentals Used by Foreigners",
             "url": "https://www.riotimesonline.com/medellin-tightens-crackdown-on-airbnb-style-short-term-rentals-used-by-foreigners/",
@@ -166,7 +173,7 @@
         {
             "title": "Residency in Mexico for Expats: Temporary vs Permanent (2026)",
             "url": "https://www.riotimesonline.com/residency-in-mexico-for-expats-2026/",
-            "published_at": "2026-06-01T13:50:00+00:00",
+            "published_at": "2026-06-01T14:00:00+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "Brazilian Cinema\u2019s Two-Year Run: From Salles to Mendon\u00e7a Filho",
             "url": "https://www.riotimesonline.com/brazilian-cinema-ainda-estou-aqui-agente-secreto-may-2026/",
             "published_at": "2026-05-30T07:37:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Falls 1% as the Decoupling Breaks",
-            "url": "https://www.riotimesonline.com/chiles-stock-market-falls-1-as-the-decoupling-breaks/",
-            "published_at": "2026-05-30T07:37:17+00:00",
             "category": [],
             "language": "en"
         }
