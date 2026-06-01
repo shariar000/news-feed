@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-01T07:10:04+00:00",
+    "updated_at": "2026-06-01T08:10:07+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Monday, June 1, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-june-1-2026/",
+            "published_at": "2026-06-01T07:16:18+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Financial Morning Call for Monday, June 1, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-june-1-2026/",
@@ -692,13 +699,6 @@
             "title": "U.S. Venezuela Prosecutorial Warming: Prosecutors Told to Stand Down",
             "url": "https://www.riotimesonline.com/u-s-venezuela-prosecutorial-warming-prosecutors-told-to-stand-down/",
             "published_at": "2026-05-29T08:34:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Divided Congress Caps Structural Risk, JPMorgan Tells Clients",
-            "url": "https://www.riotimesonline.com/peru-divided-congress-caps-structural-risk-jpmorgan-tells-clients/",
-            "published_at": "2026-05-29T08:17:55+00:00",
             "category": [],
             "language": "en"
         }
