@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-02T18:10:03+00:00",
+    "updated_at": "2026-06-02T19:10:03+00:00",
     "items": [
+        {
+            "title": "Foreign Investors Pull Most From Brazil\u2019s Stock Market Since 2020",
+            "url": "https://www.riotimesonline.com/foreign-investors-pull-most-from-brazils-stock-market-since-2020/",
+            "published_at": "2026-06-02T18:30:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Abu Dhabi\u2019s AD Ports Buys Into Brazil Grain Terminals in Record Deal",
+            "url": "https://www.riotimesonline.com/abu-dhabis-ad-ports-buys-into-brazil-grain-terminals-in-record-deal/",
+            "published_at": "2026-06-02T18:24:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Investors Turn Cautious on Peru as Markets Brace for Runoff Vote",
             "url": "https://www.riotimesonline.com/investors-turn-cautious-on-peru-as-markets-brace-for-runoff-vote/",
@@ -685,20 +699,6 @@
             "title": "Sheinbaum Turns to Multilateral Banks to Fund Mexico\u2019s Growth Push",
             "url": "https://www.riotimesonline.com/sheinbaum-turns-to-multilateral-banks-to-fund-mexicos-growth-push/",
             "published_at": "2026-06-01T12:27:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pemex Logged 1,490 Spills and Leaks Since Late 2024, Records Show",
-            "url": "https://www.riotimesonline.com/pemex-logged-1490-spills-and-leaks-since-late-2024-records-show/",
-            "published_at": "2026-06-01T12:24:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Julio Le Parc, Argentine Master of Kinetic Art, Dies at 97",
-            "url": "https://www.riotimesonline.com/julio-le-parc-argentine-master-of-kinetic-art-dies-at-97/",
-            "published_at": "2026-06-01T12:05:51+00:00",
             "category": [],
             "language": "en"
         }
