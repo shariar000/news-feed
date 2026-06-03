@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-03T11:10:06+00:00",
+    "updated_at": "2026-06-03T12:10:06+00:00",
     "items": [
+        {
+            "title": "Six Countries, One Month: South America at the 2026 World Cup",
+            "url": "https://www.riotimesonline.com/six-countries-one-month-south-america-at-the-2026-world-cup/",
+            "published_at": "2026-06-03T11:36:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China-Owned Ride App 99 Hits 60 Million Users in Brazil Super App Push",
+            "url": "https://www.riotimesonline.com/china-owned-ride-app-99-hits-60-million-users-in-brazil-super-app-push/",
+            "published_at": "2026-06-03T11:30:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Oil Output Hits Record for a Third Straight Month",
+            "url": "https://www.riotimesonline.com/brazil-oil-output-hits-record-for-a-third-straight-month/",
+            "published_at": "2026-06-03T11:30:15+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Moves to Mine More Uranium and Become an Exporter",
             "url": "https://www.riotimesonline.com/brazil-moves-to-mine-more-uranium-and-become-an-exporter/",
@@ -678,27 +699,6 @@
             "title": "Brazil Launches Tela Brasil, Free Public Film Streaming",
             "url": "https://www.riotimesonline.com/brazil-launches-tela-brasil-free-streaming/",
             "published_at": "2026-06-02T08:36:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Remittances Post Sharpest Monthly Drop Since 2020 in April",
-            "url": "https://www.riotimesonline.com/mexicos-remittances-post-sharpest-monthly-drop-since-2020-in-april/",
-            "published_at": "2026-06-02T08:30:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Scraps Its 100% Tariff on Colombian Goods, Ending a Trade War",
-            "url": "https://www.riotimesonline.com/ecuador-scraps-its-100-tariff-on-colombian-goods-ending-a-trade-war/",
-            "published_at": "2026-06-02T08:25:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s State Postal Correios Q1 Loss Doubles to $626M on Import Tax",
-            "url": "https://www.riotimesonline.com/correios-q1-2026-loss-brazil-postal/",
-            "published_at": "2026-06-02T08:07:13+00:00",
             "category": [],
             "language": "en"
         }
