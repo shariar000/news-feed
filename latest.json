@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-03T15:10:04+00:00",
+    "updated_at": "2026-06-03T16:10:46+00:00",
     "items": [
+        {
+            "title": "Mexico and Spain Revive Energy Ties After Years of Friction",
+            "url": "https://www.riotimesonline.com/mexico-and-spain-revive-energy-ties-2026/",
+            "published_at": "2026-06-03T16:06:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Living in M\u00e9rida: The 2026 Expat Guide",
+            "url": "https://www.riotimesonline.com/living-in-merida-expat-guide-2026/",
+            "published_at": "2026-06-03T15:30:28+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Six Countries, One Month: South America at the 2026 World Cup",
             "url": "https://www.riotimesonline.com/six-countries-one-month-south-america-at-the-2026-world-cup/",
@@ -685,20 +699,6 @@
             "title": "Festas Juninas: A Guide to Brazil\u2019s Winter Festival Season",
             "url": "https://www.riotimesonline.com/festas-juninas-brazil-winter-festival-guide/",
             "published_at": "2026-06-02T08:43:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nubank Names Ex-Visa Executive Rob Livingston as Global CFO",
-            "url": "https://www.riotimesonline.com/nubank-names-ex-visa-executive-rob-livingston-as-global-cfo/",
-            "published_at": "2026-06-02T08:37:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Launches Tela Brasil, Free Public Film Streaming",
-            "url": "https://www.riotimesonline.com/brazil-launches-tela-brasil-free-streaming/",
-            "published_at": "2026-06-02T08:36:31+00:00",
             "category": [],
             "language": "en"
         }
