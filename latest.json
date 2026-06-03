@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-03T17:10:11+00:00",
+    "updated_at": "2026-06-03T18:10:03+00:00",
     "items": [
+        {
+            "title": "Living in Medell\u00edn: The 2026 Expat Guide",
+            "url": "https://www.riotimesonline.com/living-in-medellin-expat-guide-2026/",
+            "published_at": "2026-06-03T17:39:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Melia Pulls Brands From 15 Cuba Hotels Under US Sanctions Threat",
+            "url": "https://www.riotimesonline.com/melia-exits-15-cuba-hotels-us-sanctions-2026/",
+            "published_at": "2026-06-03T17:36:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Living in Playa del Carmen: The 2026 Expat Guide",
+            "url": "https://www.riotimesonline.com/living-in-playa-del-carmen-expat-guide-2026/",
+            "published_at": "2026-06-03T17:35:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Wednesday, June 3, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-wednesday-june-3-2026/",
+            "published_at": "2026-06-03T17:19:13+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe & EU Intelligence Brief \u2014 Wednesday, June 3, 2026",
             "url": "https://www.riotimesonline.com/europe-eu-intelligence-brief-stocks-slip-oil-ecb-hike-june-3/",
@@ -671,34 +699,6 @@
             "title": "Rio de Janeiro Daily Brief for Tuesday, June 2, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-june-2-2026/",
             "published_at": "2026-06-02T10:11:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Homebuilder MRV Lifts May Output Above First-Quarter Pace",
-            "url": "https://www.riotimesonline.com/brazil-homebuilder-mrv-lifts-may-output-above-first-quarter-pace/",
-            "published_at": "2026-06-02T10:04:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tecnisa Closes Sale of S\u00e3o Paulo Project Stake to BTG for R$260.9m",
-            "url": "https://www.riotimesonline.com/tecnisa-closes-sale-of-sao-paulo-project-stake-to-btg-for-r260-9m/",
-            "published_at": "2026-06-02T10:03:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What to Do in Mexico City This June, Beyond the World Cup",
-            "url": "https://www.riotimesonline.com/what-to-do-in-mexico-city-this-june-2026/",
-            "published_at": "2026-06-02T09:32:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China\u2019s Silk Road Fund to Take Minority Stake in Brazil Power Venture",
-            "url": "https://www.riotimesonline.com/chinas-silk-road-fund-to-take-minority-stake-in-brazil-power-venture/",
-            "published_at": "2026-06-02T09:29:24+00:00",
             "category": [],
             "language": "en"
         }
