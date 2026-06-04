@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-04T09:10:36+00:00",
+    "updated_at": "2026-06-04T10:11:09+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Thursday, June 4, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-june-4-2026/",
+            "published_at": "2026-06-04T10:04:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Web Summit Rio Returns This Month as Latin America\u2019s Tech Magnet",
             "url": "https://www.riotimesonline.com/web-summit-rio-returns-this-month-as-latin-americas-tech-magnet/",
@@ -692,13 +699,6 @@
             "title": "Bolivia\u2019s La Paz Declares Health Emergency as Blockades Cut Off Oxygen",
             "url": "https://www.riotimesonline.com/bolivias-la-paz-declares-health-emergency-as-blockades-cut-off-oxygen/",
             "published_at": "2026-06-03T06:15:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 June 3, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-june-3-2026/",
-            "published_at": "2026-06-03T06:08:45+00:00",
             "category": [],
             "language": "en"
         }
