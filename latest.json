@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-04T11:10:41+00:00",
+    "updated_at": "2026-06-04T12:10:35+00:00",
     "items": [
+        {
+            "title": "Brazil Could Face Stacked U.S. Tariffs of Up to 37.5%, Group Warns",
+            "url": "https://www.riotimesonline.com/brazil-could-face-stacked-u-s-tariffs-of-up-to-37-5-group-warns/",
+            "published_at": "2026-06-04T11:24:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Equatorial Wins Control of Brazil Water Utility Copasa as Rival Quits",
+            "url": "https://www.riotimesonline.com/equatorial-wins-control-of-brazil-water-utility-copasa-as-rival-quits/",
+            "published_at": "2026-06-04T11:20:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vasco da Gama, A Big Rio Club Is Sinking: Can a Cup Run Abroad Rescue Its Season?",
+            "url": "https://www.riotimesonline.com/vasco-da-gama-a-big-rio-club-is-sinking-can-a-cup-run-abroad-rescue-its-season/",
+            "published_at": "2026-06-04T11:14:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "U.S. Share of Brazil Exports Falls as May Trade Surplus Beats Forecast",
             "url": "https://www.riotimesonline.com/u-s-share-of-brazil-exports-falls-as-may-trade-surplus-beats-forecast/",
@@ -678,27 +699,6 @@
             "title": "Argentina Government Cheers Falling Prices While Utility Bills Soar",
             "url": "https://www.riotimesonline.com/argentina-government-cheers-falling-prices-while-utility-bills-soar/",
             "published_at": "2026-06-03T07:59:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open: Wall Street Stalls as Semis and Metals Rip",
-            "url": "https://www.riotimesonline.com/latam-pre-open-wall-street-stalls-as-semis-and-metals-rip-nubank-craters-and-argentina-fades/",
-            "published_at": "2026-06-03T07:18:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Price Today Slides Below 66K on Iran Strikes",
-            "url": "https://www.riotimesonline.com/bitcoin-price-today-slides-below-66k-on-iran-strikes/",
-            "published_at": "2026-06-03T07:06:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Falls 1.5% as the Copper Bid Fades",
-            "url": "https://www.riotimesonline.com/chiles-stock-market-falls-15-as-the-copper-bid-fades/",
-            "published_at": "2026-06-03T06:59:49+00:00",
             "category": [],
             "language": "en"
         }
