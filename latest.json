@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-05T08:10:03+00:00",
+    "updated_at": "2026-06-05T09:10:03+00:00",
     "items": [
+        {
+            "title": "Peru Heads to a Knife-Edge Runoff: Fujimori, Sanchez Tie",
+            "url": "https://www.riotimesonline.com/peru-heads-to-a-knife-edge-runoff-fujimori-sanchez-tie/",
+            "published_at": "2026-06-05T08:57:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "iFood Says Hacker Exposed 1.2 Million Brazilians Names and Tax IDs",
+            "url": "https://www.riotimesonline.com/ifood-says-hacker-exposed-1-2-million-brazilians-names-and-tax-ids/",
+            "published_at": "2026-06-05T08:48:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fitch Lifts Brazil 2026 Growth to 2.1%, Trims 2027 on Fiscal Fade",
+            "url": "https://www.riotimesonline.com/fitch-lifts-brazil-2026-growth-to-2-1-trims-2027-on-fiscal-fade/",
+            "published_at": "2026-06-05T08:40:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Wins Guatemala Beef Access in New Farm Cooperation Deal",
+            "url": "https://www.riotimesonline.com/brazil-wins-guatemala-beef-access-in-new-farm-cooperation-deal/",
+            "published_at": "2026-06-05T08:38:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Industrial Output Rises a Fourth Month on Oil and Mining",
+            "url": "https://www.riotimesonline.com/brazil-industrial-output-rises-a-fourth-month-on-oil-and-mining/",
+            "published_at": "2026-06-05T08:24:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Campos Oil Output Rises but Sits Near 25-Year Low",
+            "url": "https://www.riotimesonline.com/brazil-campos-oil-output-rises-but-sits-near-25-year-low/",
+            "published_at": "2026-06-05T08:16:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Applies to Join the Trans-Pacific Trade Pact CPTPP",
+            "url": "https://www.riotimesonline.com/argentina-applies-to-join-the-trans-pacific-trade-pact-cptpp/",
+            "published_at": "2026-06-05T08:12:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bitcoin Slides Below 62,000 as the Crypto Rout Deepens",
             "url": "https://www.riotimesonline.com/bitcoin-slides-below-62000-as-the-crypto-rout-deepens/",
@@ -650,55 +699,6 @@
             "title": "LatAm Expat & Nomad Daily Guide for Thursday, June 4, 2026",
             "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-june-4-2026/",
             "published_at": "2026-06-04T07:34:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What\u2019s On in Latin America This Weekend (June 6\u20138)",
-            "url": "https://www.riotimesonline.com/whats-on-latin-america-june-6-8-2026/",
-            "published_at": "2026-06-04T07:28:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Tumbles Below $62,000 in a Brutal Crypto Selloff",
-            "url": "https://www.riotimesonline.com/bitcoin-tumbles-below-62000-in-a-brutal-crypto-selloff/",
-            "published_at": "2026-06-04T07:23:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Falls Again as Copper Loses Its Lift",
-            "url": "https://www.riotimesonline.com/chiles-stock-market-falls-again-as-copper-loses-its-lift/",
-            "published_at": "2026-06-04T07:16:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Stock Market Takes a Breather Near Its Record",
-            "url": "https://www.riotimesonline.com/argentinas-stock-market-takes-a-breather-near-its-record/",
-            "published_at": "2026-06-04T07:06:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Stock Market Slips Back Into Its Quiet Range",
-            "url": "https://www.riotimesonline.com/mexicos-stock-market-slips-back-into-its-quiet-range/",
-            "published_at": "2026-06-04T06:58:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stock Market Eases as the Rally Takes a Breath",
-            "url": "https://www.riotimesonline.com/colombias-stock-market-eases-as-the-rally-takes-a-breath/",
-            "published_at": "2026-06-04T06:33:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Stock Market Falls 2.2% as the Bounce Fails",
-            "url": "https://www.riotimesonline.com/brazils-stock-market-falls-22-as-the-bounce-fails/",
-            "published_at": "2026-06-04T06:18:32+00:00",
             "category": [],
             "language": "en"
         }
