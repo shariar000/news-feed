@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-05T05:10:03+00:00",
+    "updated_at": "2026-06-05T06:10:06+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Friday, June 5, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-june-5-2026/",
+            "published_at": "2026-06-05T06:04:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open: One Chip-Earnings Miss Splits the World",
+            "url": "https://www.riotimesonline.com/latam-pre-open-one-chip-earnings-miss-splits-the-world/",
+            "published_at": "2026-06-05T05:49:15+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Uruguay Inflation Climbs to 3.77% as Fuel Hikes Bite",
             "url": "https://www.riotimesonline.com/uruguay-inflation-rises-3-77-percent-fuel-hikes-may-2026/",
@@ -685,20 +699,6 @@
             "title": "Living in Florian\u00f3polis: The 2026 Expat Guide",
             "url": "https://www.riotimesonline.com/living-in-florianopolis-expat-guide-2026/",
             "published_at": "2026-06-03T19:50:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Living in Rio de Janeiro: The 2026 Expat Guide",
-            "url": "https://www.riotimesonline.com/living-in-rio-de-janeiro-expat-guide-2026/",
-            "published_at": "2026-06-03T19:46:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Living in S\u00e3o Paulo: The 2026 Expat Guide",
-            "url": "https://www.riotimesonline.com/living-in-sao-paulo-expat-guide-2026/",
-            "published_at": "2026-06-03T19:44:10+00:00",
             "category": [],
             "language": "en"
         }
