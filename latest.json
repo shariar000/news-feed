@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-05T13:10:03+00:00",
+    "updated_at": "2026-06-05T14:10:05+00:00",
     "items": [
+        {
+            "title": "LatAm Expat & Nomad Daily Guide for Friday, June 5, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-june-5-2026/",
+            "published_at": "2026-06-05T13:43:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup Works Push Mexico City Sex Workers Off Their Streets",
             "url": "https://www.riotimesonline.com/world-cup-works-push-mexico-city-sex-workers-off-their-streets/",
@@ -692,13 +699,6 @@
             "title": "Mirassol, A Tiny Brazilian Club Faces Relegation at Home, the Last 16 Abroad",
             "url": "https://www.riotimesonline.com/mirassol-a-tiny-brazilian-club-faces-relegation-at-home-the-last-16-abroad/",
             "published_at": "2026-06-04T10:54:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Thursday, June 4, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-libertadores-r16-brazil-morocco-basking-ridge/",
-            "published_at": "2026-06-04T10:48:44+00:00",
             "category": [],
             "language": "en"
         }
