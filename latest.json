@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-06T14:10:03+00:00",
+    "updated_at": "2026-06-06T15:10:03+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Saturday, June 6, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-saturday-june-6-2026/",
+            "published_at": "2026-06-06T15:06:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Defense Monitor \u2014 June 2\u20136, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-defense-monitor-june-26-2026/",
+            "published_at": "2026-06-06T14:45:45+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Ticket Fraud: How Fans Can Avoid Scams",
             "url": "https://www.riotimesonline.com/world-cup-2026-ticket-fraud-how-fans-avoid-scams/",
@@ -685,20 +699,6 @@
             "title": "Brazil\u2019s Raizen Sells Argentina Business for $1.42bn to Cut Debt",
             "url": "https://www.riotimesonline.com/brazils-raizen-sells-argentina-business-for-1-42bn-to-cut-debt/",
             "published_at": "2026-06-04T17:18:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Three Latin American Nations Rank Among World\u2019s Worst for Workers",
-            "url": "https://www.riotimesonline.com/three-latin-america-nations-worst-workers-rights-ituc-2026/",
-            "published_at": "2026-06-04T17:17:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Nears $14,000 as Aluminum Hits a Four-Year High",
-            "url": "https://www.riotimesonline.com/copper-14000-aluminum-four-year-high-us-tariff-2026/",
-            "published_at": "2026-06-04T17:17:49+00:00",
             "category": [],
             "language": "en"
         }
