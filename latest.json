@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-07T10:10:03+00:00",
+    "updated_at": "2026-06-07T11:10:04+00:00",
     "items": [
+        {
+            "title": "Chile\u2019s Biggest Retailer Bets on Hard-Discount Stores",
+            "url": "https://www.riotimesonline.com/cencosud-don-salva-discount-supermarket-chile-2026/",
+            "published_at": "2026-06-07T10:24:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "S\u00e3o Paulo Nightlife Guide for Sunday, June 7, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-sunday-june-7-2026/",
@@ -181,6 +188,97 @@
             "title": "Rio de Janeiro Daily Brief for Sunday, June 7, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-june-7-2026/",
             "published_at": "2026-06-07T06:16:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Healthcare in Uruguay for Expats",
+            "url": "https://www.riotimesonline.com/healthcare-in-uruguay-for-expats-2026/",
+            "published_at": "2026-06-07T03:39:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cost of Living in Uruguay: A Realistic 2026 Budget",
+            "url": "https://www.riotimesonline.com/cost-of-living-in-uruguay-2026/",
+            "published_at": "2026-06-07T03:36:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Living in Punta del Este: The 2026 Expat Guide",
+            "url": "https://www.riotimesonline.com/living-in-punta-del-este-expat-guide-2026/",
+            "published_at": "2026-06-07T03:33:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Working Legally in Colombia: the RUT and DIAN",
+            "url": "https://www.riotimesonline.com/working-legally-rut-dian-colombia-2026/",
+            "published_at": "2026-06-07T03:29:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Internet, Mobile and Coworking in Colombia",
+            "url": "https://www.riotimesonline.com/internet-mobile-coworking-colombia-2026/",
+            "published_at": "2026-06-07T03:26:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Driving in Colombia: Licence, Cars and Apps",
+            "url": "https://www.riotimesonline.com/driving-in-colombia-2026/",
+            "published_at": "2026-06-07T03:23:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cost of Living in Colombia: A Realistic 2026 Budget",
+            "url": "https://www.riotimesonline.com/cost-of-living-in-colombia-2026/",
+            "published_at": "2026-06-07T03:20:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Renting an Apartment in Colombia",
+            "url": "https://www.riotimesonline.com/renting-an-apartment-in-colombia-2026/",
+            "published_at": "2026-06-07T03:17:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Working Legally in Argentina: the Monotributo",
+            "url": "https://www.riotimesonline.com/working-legally-monotributo-argentina-2026/",
+            "published_at": "2026-06-07T03:14:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Schools and Education for Expat Families in Argentina",
+            "url": "https://www.riotimesonline.com/schools-education-argentina-expats-2026/",
+            "published_at": "2026-06-07T03:11:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Internet, Mobile and Coworking in Argentina",
+            "url": "https://www.riotimesonline.com/internet-mobile-coworking-argentina-2026/",
+            "published_at": "2026-06-07T03:08:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Driving in Argentina: Licence, Cars and Apps",
+            "url": "https://www.riotimesonline.com/driving-in-argentina-2026/",
+            "published_at": "2026-06-07T03:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cost of Living in Argentina: A Realistic 2026 Budget",
+            "url": "https://www.riotimesonline.com/cost-of-living-in-argentina-2026/",
+            "published_at": "2026-06-07T03:02:00+00:00",
             "category": [],
             "language": "en"
         },
@@ -601,104 +699,6 @@
             "title": "Uruguay\u2019s Digital Nomad Permit, Explained",
             "url": "https://www.riotimesonline.com/uruguay-digital-nomad-permit-2026/",
             "published_at": "2026-06-05T14:47:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s June 21 Runoff: A Guide for Expats",
-            "url": "https://www.riotimesonline.com/bogota-runoff-june-21-2026-expats/",
-            "published_at": "2026-06-05T14:47:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Calesita 2026: One Big Food Night in Buenos Aires",
-            "url": "https://www.riotimesonline.com/calesita-2026-buenos-aires-food-night/",
-            "published_at": "2026-06-05T14:47:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Where to Watch the World Cup in Rio 2026",
-            "url": "https://www.riotimesonline.com/rio-world-cup-fan-zones-2026/",
-            "published_at": "2026-06-05T14:47:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Friday, June 5, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-june-5-2026/",
-            "published_at": "2026-06-05T13:43:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup Works Push Mexico City Sex Workers Off Their Streets",
-            "url": "https://www.riotimesonline.com/world-cup-works-push-mexico-city-sex-workers-off-their-streets/",
-            "published_at": "2026-06-05T11:27:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela Moves to Open Its Collapsed Power Sector to Private Capital",
-            "url": "https://www.riotimesonline.com/venezuela-moves-to-open-its-collapsed-power-sector-to-private-capital/",
-            "published_at": "2026-06-05T11:21:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Telefonica Asks U.S. Courts to Make Colombia Pay a $380M Award",
-            "url": "https://www.riotimesonline.com/telefonica-asks-u-s-courts-to-make-colombia-pay-a-380m-award/",
-            "published_at": "2026-06-05T11:05:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay Return to the World Cup After a 16-Year Absence",
-            "url": "https://www.riotimesonline.com/paraguay-return-to-the-world-cup-after-a-16-year-absence/",
-            "published_at": "2026-06-05T11:01:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Teachers Topple World Cup Statues a Week Before Kickoff",
-            "url": "https://www.riotimesonline.com/mexican-teachers-topple-world-cup-statues-a-week-before-kickoff/",
-            "published_at": "2026-06-05T10:42:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Friday, June 5, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-ancelotti-raphinha-brazil-morocco-wc-preview/",
-            "published_at": "2026-06-05T10:39:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Reach the World Cup With South America\u2019s Best Defense",
-            "url": "https://www.riotimesonline.com/ecuador-reach-the-world-cup-with-south-americas-best-defense/",
-            "published_at": "2026-06-05T10:26:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Reasserts Full Sovereignty Over the Strait of Magellan",
-            "url": "https://www.riotimesonline.com/chile-reasserts-full-sovereignty-over-the-strait-of-magellan/",
-            "published_at": "2026-06-05T10:10:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Brutal Post-World Cup Calendar: Three Competitions, 21 Days",
-            "url": "https://www.riotimesonline.com/brazils-brutal-post-world-cup-calendar-three-competitions-21-days/",
-            "published_at": "2026-06-05T10:00:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Clears Two More Investment Projects as Reserves Hit Target",
-            "url": "https://www.riotimesonline.com/argentina-clears-two-more-investment-projects-as-reserves-hit-target/",
-            "published_at": "2026-06-05T09:45:55+00:00",
             "category": [],
             "language": "en"
         }
