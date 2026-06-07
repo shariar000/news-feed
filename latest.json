@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-07T17:10:03+00:00",
+    "updated_at": "2026-06-07T18:10:04+00:00",
     "items": [
+        {
+            "title": "Key Market Events for the Week of June 8\u201312, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-june-812-2026/",
+            "published_at": "2026-06-07T17:12:23+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile\u2019s Biggest Retailer Bets on Hard-Discount Stores",
             "url": "https://www.riotimesonline.com/cencosud-don-salva-discount-supermarket-chile-2026/",
@@ -692,13 +699,6 @@
             "title": "Costa Rica Opens Residency for Stuck Asylum Seekers",
             "url": "https://www.riotimesonline.com/costa-rica-residency-asylum-seekers-2026/",
             "published_at": "2026-06-05T14:48:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay\u2019s Digital Nomad Permit, Explained",
-            "url": "https://www.riotimesonline.com/uruguay-digital-nomad-permit-2026/",
-            "published_at": "2026-06-05T14:47:48+00:00",
             "category": [],
             "language": "en"
         }
