@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-07T07:10:04+00:00",
+    "updated_at": "2026-06-07T08:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico Captures Alleged MS-13 Leader Near the Guatemala Border",
+            "url": "https://www.riotimesonline.com/mexico-captures-ms-13-leader-tapachula-2026/",
+            "published_at": "2026-06-07T07:45:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "EU Formally Bans Brazilian Meat From September Over Antimicrobial Rules",
+            "url": "https://www.riotimesonline.com/eu-ban-brazilian-meat-september-2026/",
+            "published_at": "2026-06-07T07:38:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Major Fire at Ecuador\u2019s Port of Manta Destroys Dozens of Fishing Boats",
+            "url": "https://www.riotimesonline.com/manta-ecuador-port-fire-fishing-boats-2026/",
+            "published_at": "2026-06-07T07:32:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela Inflation Slows to 6.3% in May, BCV\u2019s Lowest in 19 Months",
+            "url": "https://www.riotimesonline.com/venezuela-inflation-may-2026-bcv-lowest-19-months/",
+            "published_at": "2026-06-07T07:20:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Jamaica Hit by Islandwide Blackout, Grid Restored by Morning",
+            "url": "https://www.riotimesonline.com/jamaica-islandwide-blackout-june-2026/",
+            "published_at": "2026-06-07T07:20:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Noboa Cuts Ecuador\u2019s Cabinet From 14 Ministries to 10",
+            "url": "https://www.riotimesonline.com/ecuador-noboa-cuts-ministries-14-to-10-2026/",
+            "published_at": "2026-06-07T07:20:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Scotland Return to the World Cup After 28 Years, Led by McTominay",
             "url": "https://www.riotimesonline.com/scotland-world-cup-return-1998-mctominay-2026/",
@@ -657,48 +699,6 @@
             "title": "Brazil Wins Guatemala Beef Access in New Farm Cooperation Deal",
             "url": "https://www.riotimesonline.com/brazil-wins-guatemala-beef-access-in-new-farm-cooperation-deal/",
             "published_at": "2026-06-05T08:38:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Industrial Output Rises a Fourth Month on Oil and Mining",
-            "url": "https://www.riotimesonline.com/brazil-industrial-output-rises-a-fourth-month-on-oil-and-mining/",
-            "published_at": "2026-06-05T08:24:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Campos Oil Output Rises but Sits Near 25-Year Low",
-            "url": "https://www.riotimesonline.com/brazil-campos-oil-output-rises-but-sits-near-25-year-low/",
-            "published_at": "2026-06-05T08:16:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Applies to Join the Trans-Pacific Trade Pact CPTPP",
-            "url": "https://www.riotimesonline.com/argentina-applies-to-join-the-trans-pacific-trade-pact-cptpp/",
-            "published_at": "2026-06-05T08:12:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Slides Below 62,000 as the Crypto Rout Deepens",
-            "url": "https://www.riotimesonline.com/bitcoin-slides-below-62000-as-the-crypto-rout-deepens/",
-            "published_at": "2026-06-05T07:03:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Sit Dead While Copper Climbs to Records",
-            "url": "https://www.riotimesonline.com/gold-and-silver-sit-dead-while-copper-climbs-to-records/",
-            "published_at": "2026-06-05T06:52:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Slips to Its Floor as Copper Stays Soft",
-            "url": "https://www.riotimesonline.com/chiles-stock-market-slips-to-its-floor-as-copper-stays-soft/",
-            "published_at": "2026-06-05T06:44:39+00:00",
             "category": [],
             "language": "en"
         }
