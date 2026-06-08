@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-08T11:10:04+00:00",
+    "updated_at": "2026-06-08T12:10:04+00:00",
     "items": [
+        {
+            "title": "Paraguay World Cup Hopes Hinge on Julio Enciso Injury Scare",
+            "url": "https://www.riotimesonline.com/julio-enciso-paraguay-world-cup-injury-2026/",
+            "published_at": "2026-06-08T11:28:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Unveils Olinia, Its First Homegrown Electric Car",
+            "url": "https://www.riotimesonline.com/mexico-olinia-first-homegrown-electric-car-2026/",
+            "published_at": "2026-06-08T11:15:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Monday, June 8, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-morocco-norway-ancelotti-xi-ecuador-unbeaten-wc/",
+            "published_at": "2026-06-08T11:13:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "How Ecuador Built South America Quietest 19-Game Unbeaten Run",
             "url": "https://www.riotimesonline.com/ecuador-unbeaten-run-19-games-world-cup-2026/",
@@ -678,27 +699,6 @@
             "title": "Argentina Central Bank Hits $10bn Dollar Target in Five Months",
             "url": "https://www.riotimesonline.com/argentina-central-bank-10bn-dollar-target-five-months-2026/",
             "published_at": "2026-06-06T07:59:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Saturday, June 6, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-june-6-2026/",
-            "published_at": "2026-06-06T06:52:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 June 6, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-june-6-2026/",
-            "published_at": "2026-06-06T06:36:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Mexico City: Getting to the Azteca",
-            "url": "https://www.riotimesonline.com/world-cup-2026-mexico-city-azteca-transport/",
-            "published_at": "2026-06-06T06:11:49+00:00",
             "category": [],
             "language": "en"
         }
