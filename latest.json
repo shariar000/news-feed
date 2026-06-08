@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-08T05:10:04+00:00",
+    "updated_at": "2026-06-08T06:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Monday, June 8, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-june-8-2026/",
+            "published_at": "2026-06-08T06:09:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of June 8\u201312, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-june-812-2026/",
@@ -692,13 +699,6 @@
             "title": "Mexico\u2019s Teacher Standoff Hits the World Cup Clock",
             "url": "https://www.riotimesonline.com/mexico-city-teacher-deal-world-cup-2026/",
             "published_at": "2026-06-05T14:48:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica Opens Residency for Stuck Asylum Seekers",
-            "url": "https://www.riotimesonline.com/costa-rica-residency-asylum-seekers-2026/",
-            "published_at": "2026-06-05T14:48:06+00:00",
             "category": [],
             "language": "en"
         }
