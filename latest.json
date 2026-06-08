@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-08T07:10:03+00:00",
+    "updated_at": "2026-06-08T08:10:05+00:00",
     "items": [
+        {
+            "title": "Airline Profits to Halve in 2026 as Fuel Costs Surge, IATA Warns",
+            "url": "https://www.riotimesonline.com/airline-profits-2026-halve-fuel-iata-rio-2026/",
+            "published_at": "2026-06-08T08:03:21+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bitcoin Reclaims $63,000 in an Oversold Bounce After Its Worst Week Since FTX",
             "url": "https://www.riotimesonline.com/bitcoin-reclaims-63000-in-an-oversold-bounce-after-its-worst-week-since-ftx/",
@@ -692,13 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 Friday, June 5, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-who-owns-ai-boom-june-5/",
             "published_at": "2026-06-05T16:39:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Friday, June 5, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-nigeria-inflows-tanzania-buildout-june-5/",
-            "published_at": "2026-06-05T16:35:20+00:00",
             "category": [],
             "language": "en"
         }
