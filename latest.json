@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-08T18:10:04+00:00",
+    "updated_at": "2026-06-08T19:10:03+00:00",
     "items": [
+        {
+            "title": "Mexico Car Production Slips Even as Exports and Sales Rise",
+            "url": "https://www.riotimesonline.com/mexico-car-production-fall-exports-may-2026/",
+            "published_at": "2026-06-08T19:07:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Internal Displacement Is Redrawing Latin America From Within",
+            "url": "https://www.riotimesonline.com/latin-america-internal-displacement-criminal-violence-2026/",
+            "published_at": "2026-06-08T19:04:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Country Risk Falls Below 400 for First Time in 12 Years",
+            "url": "https://www.riotimesonline.com/ecuador-country-risk-400-points-12-year-low-2026/",
+            "published_at": "2026-06-08T18:53:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Inflation Climbs to 5.84%, Its Highest Since 2024",
+            "url": "https://www.riotimesonline.com/colombia-inflation-may-2026-5-84-percent-highest-since-2024/",
+            "published_at": "2026-06-08T18:18:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Coffee Output Rebounds in May but Is Down 19% for the Year",
+            "url": "https://www.riotimesonline.com/colombia-coffee-production-2026-rebound-yearly-decline/",
+            "published_at": "2026-06-08T18:12:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Inflation Cools Sharply Just as the Rate Call Looms",
             "url": "https://www.riotimesonline.com/chile-inflation-may-2026-cools-rate-decision/",
@@ -664,41 +699,6 @@
             "title": "Latin America Defense Monitor \u2014 June 2\u20136, 2026",
             "url": "https://www.riotimesonline.com/latin-america-defense-monitor-june-26-2026/",
             "published_at": "2026-06-06T14:45:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Ticket Fraud: How Fans Can Avoid Scams",
-            "url": "https://www.riotimesonline.com/world-cup-2026-ticket-fraud-how-fans-avoid-scams/",
-            "published_at": "2026-06-06T12:16:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Mexico Hotels Slash Rates as Demand Lags",
-            "url": "https://www.riotimesonline.com/world-cup-2026-mexico-hotels-slash-rates-demand-lags/",
-            "published_at": "2026-06-06T12:16:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Saturday, June 6, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-saturday-june-6-2026/",
-            "published_at": "2026-06-06T11:07:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil World Cup Lockdown: Inside the Squad Code of Conduct",
-            "url": "https://www.riotimesonline.com/brazil-world-cup-squad-code-of-conduct-2026/",
-            "published_at": "2026-06-06T10:31:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Heads Into a Knife-Edge Runoff Markets Are Watching",
-            "url": "https://www.riotimesonline.com/peru-presidential-runoff-2026-markets-fujimori-sanchez/",
-            "published_at": "2026-06-06T10:10:21+00:00",
             "category": [],
             "language": "en"
         }
