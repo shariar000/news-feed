@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-08T13:10:04+00:00",
+    "updated_at": "2026-06-08T14:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup Health Scare: Mexico Braces as Ebola-Hit DRC Arrives",
+            "url": "https://www.riotimesonline.com/world-cup-ebola-mexico-health-protocols-drc-2026/",
+            "published_at": "2026-06-08T13:56:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Renames Army Command to Guard Its New Oil Frontier",
+            "url": "https://www.riotimesonline.com/brazil-army-eastern-amazon-command-foz-oil-2026/",
+            "published_at": "2026-06-08T13:56:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Contrarian Case for Falling Interest Rates, Not Rising Ones",
+            "url": "https://www.riotimesonline.com/falling-interest-rates-contrarian-case-inflation-2026/",
+            "published_at": "2026-06-08T13:31:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Paraguay World Cup Hopes Hinge on Julio Enciso Injury Scare",
             "url": "https://www.riotimesonline.com/julio-enciso-paraguay-world-cup-injury-2026/",
@@ -678,27 +699,6 @@
             "title": "The Weak-Dollar Bet That Lifted Latin America Is Losing Steam",
             "url": "https://www.riotimesonline.com/weak-dollar-trade-latin-america-loses-conviction-bofa-2026/",
             "published_at": "2026-06-06T07:59:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Andean Exchange Merger Posts Record Quarter as Volumes Jump 75%",
-            "url": "https://www.riotimesonline.com/nuam-andean-exchange-record-q1-2026-colombia-chile-peru/",
-            "published_at": "2026-06-06T07:59:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Argentines Keep Hoarding Dollars Even as the Peso Steadies",
-            "url": "https://www.riotimesonline.com/argentina-households-dollar-hoarding-39bn-capital-flight-2026/",
-            "published_at": "2026-06-06T07:59:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Central Bank Hits $10bn Dollar Target in Five Months",
-            "url": "https://www.riotimesonline.com/argentina-central-bank-10bn-dollar-target-five-months-2026/",
-            "published_at": "2026-06-06T07:59:44+00:00",
             "category": [],
             "language": "en"
         }
