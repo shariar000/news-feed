@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-09T11:10:03+00:00",
+    "updated_at": "2026-06-09T12:10:03+00:00",
     "items": [
+        {
+            "title": "Why Colombia\u2019s Foreign Investment Data Tells Two Different Stories",
+            "url": "https://www.riotimesonline.com/colombia-foreign-investment-q1-2026-conflicting-data-explained/",
+            "published_at": "2026-06-09T11:33:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Wesley: The Brazil Right-Back Whose World Cup Ended in a Warm-Up",
+            "url": "https://www.riotimesonline.com/brazil-right-back-wesley-world-cup-injury-cut-2026/",
+            "published_at": "2026-06-09T11:29:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama Sets Up a Task Force to Decide the Cobre Panam\u00e1 Mine\u2019s Future",
+            "url": "https://www.riotimesonline.com/cobre-panama-mine-task-force-reopening-decision-june-2026/",
+            "published_at": "2026-06-09T11:14:17+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Louis Dreyfus to Build $400m Sunflower and Soy Plant in Argentina",
             "url": "https://www.riotimesonline.com/louis-dreyfus-400m-argentina-sunflower-soy-plant-bahia-blanca-2026/",
@@ -678,27 +699,6 @@
             "title": "Brazil\u2019s Nomad Visa Gets Tougher for Freelancers",
             "url": "https://www.riotimesonline.com/brazil-nomad-visa-freelancers-2026/",
             "published_at": "2026-06-07T10:05:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Sunday, June 7, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-sunday-june-7-2026/",
-            "published_at": "2026-06-07T09:56:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Marks the World Cup With a Different Kind of Football Cinema",
-            "url": "https://www.riotimesonline.com/mexico-cineteca-football-cinema-world-cup-women-2026/",
-            "published_at": "2026-06-07T09:46:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Diego Luna Film Skewers How Mexico Won the 1986 World Cup",
-            "url": "https://www.riotimesonline.com/mexico-86-diego-luna-netflix-world-cup-film-2026/",
-            "published_at": "2026-06-07T09:46:13+00:00",
             "category": [],
             "language": "en"
         }
