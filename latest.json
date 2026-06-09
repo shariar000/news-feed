@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-09T17:10:03+00:00",
+    "updated_at": "2026-06-09T18:10:03+00:00",
     "items": [
+        {
+            "title": "Argentina Tears Up Old Price and Shelf Controls in Deregulation Drive",
+            "url": "https://www.riotimesonline.com/argentina-deregulation-price-shelf-rules-scrapped-june-2026/",
+            "published_at": "2026-06-09T18:01:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Tuesday, June 9, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-ai-ipo-race-june-9/",
+            "published_at": "2026-06-09T17:53:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Tuesday, June 9, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-germany-output-inflation-split-june-9/",
+            "published_at": "2026-06-09T17:43:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Tuesday, June 9, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-japan-boj-currencies-june-9/",
+            "published_at": "2026-06-09T17:36:32+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa Intelligence Brief \u2014 Tuesday, June 9, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-south-africa-gdp-central-banks-june-9/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s Financial Morning Call for Monday, June 8, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-june-8-2026/",
             "published_at": "2026-06-08T06:11:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Monday, June 8, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-june-8-2026/",
-            "published_at": "2026-06-08T06:09:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Ibovespa Falls to 169,019 as a Strong Dollar Sweeps Latin America",
-            "url": "https://www.riotimesonline.com/ibovespa-falls-strong-dollar-latin-america-june-5-2026/",
-            "published_at": "2026-06-08T05:46:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Colcap Falls 1.58% to 2,193 as Oil Drags the Index Lower",
-            "url": "https://www.riotimesonline.com/colombia-colcap-falls-2193-oil-slides-june-5-2026/",
-            "published_at": "2026-06-08T05:35:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s IPC Falls 1.86% to 66,141 as the Dollar Hits Stocks",
-            "url": "https://www.riotimesonline.com/mexico-ipc-falls-66141-dollar-strength-june-5-2026/",
-            "published_at": "2026-06-08T05:32:45+00:00",
             "category": [],
             "language": "en"
         }
