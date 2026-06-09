@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-09T18:10:03+00:00",
+    "updated_at": "2026-06-09T19:10:03+00:00",
     "items": [
+        {
+            "title": "Paraguay Leads the World in Tourism Growth for a Second Straight Year",
+            "url": "https://www.riotimesonline.com/paraguay-world-tourism-growth-leader-q1-2026/",
+            "published_at": "2026-06-09T18:13:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "MercadoLibre Raises Its Mexico Bet to $4.6 Billion for 2026",
+            "url": "https://www.riotimesonline.com/mercadolibre-mexico-investment-4-6-billion-2026/",
+            "published_at": "2026-06-09T18:10:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina Tears Up Old Price and Shelf Controls in Deregulation Drive",
             "url": "https://www.riotimesonline.com/argentina-deregulation-price-shelf-rules-scrapped-june-2026/",
@@ -685,20 +699,6 @@
             "title": "Fujimori Leads Peru Runoff as S\u00e1nchez Refuses to Concede",
             "url": "https://www.riotimesonline.com/peru-election-runoff-fujimori-sanchez-too-close-2026/",
             "published_at": "2026-06-08T06:23:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Keep Falling as Gold Sinks Below Its Long-Term Line",
-            "url": "https://www.riotimesonline.com/gold-and-silver-keep-falling-as-gold-sinks-below-its-long-term-line/",
-            "published_at": "2026-06-08T06:20:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Monday, June 8, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-june-8-2026/",
-            "published_at": "2026-06-08T06:11:20+00:00",
             "category": [],
             "language": "en"
         }
