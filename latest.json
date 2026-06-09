@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-09T10:10:04+00:00",
+    "updated_at": "2026-06-09T11:10:03+00:00",
     "items": [
+        {
+            "title": "Louis Dreyfus to Build $400m Sunflower and Soy Plant in Argentina",
+            "url": "https://www.riotimesonline.com/louis-dreyfus-400m-argentina-sunflower-soy-plant-bahia-blanca-2026/",
+            "published_at": "2026-06-09T10:29:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Tuesday, June 9, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-wesley-out-brazil-wc-messi-iceland-spurs-game3/",
+            "published_at": "2026-06-09T10:16:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Cura\u00e7ao: the 156,000-Strong Island Making World Cup History",
             "url": "https://www.riotimesonline.com/curacao-world-cup-2026-smallest-nation-caribbean-debut/",
@@ -685,20 +699,6 @@
             "title": "Diego Luna Film Skewers How Mexico Won the 1986 World Cup",
             "url": "https://www.riotimesonline.com/mexico-86-diego-luna-netflix-world-cup-film-2026/",
             "published_at": "2026-06-07T09:46:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Sunday, June 7, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-sunday-june-7-2026/",
-            "published_at": "2026-06-07T09:39:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Cuts Solar Power for First Time as Output Floods Grid",
-            "url": "https://www.riotimesonline.com/brazil-ons-first-emergency-solar-curtailment-2026/",
-            "published_at": "2026-06-07T09:33:12+00:00",
             "category": [],
             "language": "en"
         }
