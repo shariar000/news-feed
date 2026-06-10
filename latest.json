@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-10T08:10:03+00:00",
+    "updated_at": "2026-06-10T09:10:04+00:00",
     "items": [
+        {
+            "title": "Argentine Firm Moves to Revive Venezuela\u2019s Stalled Power Dams",
+            "url": "https://www.riotimesonline.com/impsa-venezuela-hydroelectric-tocoma-macagua-672mw-june-2026/",
+            "published_at": "2026-06-10T09:09:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Nears MSCI Upgrade That Could Pull In $1bn",
+            "url": "https://www.riotimesonline.com/argentina-msci-upgrade-emerging-market-june-2026/",
+            "published_at": "2026-06-10T08:59:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "EU Races US for Brazil Rare Earths After Trump Locks Up Serra Verde",
+            "url": "https://www.riotimesonline.com/eu-brazil-rare-earths-serra-verde-us-deal-june-2026/",
+            "published_at": "2026-06-10T08:46:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chinese Giants Bid for Brazil\u2019s Second-Biggest Cement Maker",
+            "url": "https://www.riotimesonline.com/csn-cimentos-sale-chinese-bidders-12-billion-june-2026/",
+            "published_at": "2026-06-10T08:41:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei Deregulation Bill Stalls in Argentina Senate",
+            "url": "https://www.riotimesonline.com/milei-deregulation-bill-stalls-argentina-senate-june-2026/",
+            "published_at": "2026-06-10T08:28:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico City Shuts Offices and Schools for World Cup Opener",
+            "url": "https://www.riotimesonline.com/mexico-city-world-cup-opener-remote-work-schools-june-2026/",
+            "published_at": "2026-06-10T08:23:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Ecuador Tariff War Ends After 124 Days",
+            "url": "https://www.riotimesonline.com/colombia-ecuador-tariff-war-ends-decree-0583-june-2026/",
+            "published_at": "2026-06-10T08:10:55+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bitcoin\u2019s Bounce Unravels as Crypto, Gold and Tech Fall Together",
             "url": "https://www.riotimesonline.com/bitcoins-bounce-unravels-as-crypto-gold-and-tech-fall-together/",
@@ -650,55 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 Monday, June 8, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-monday-june-8-2026/",
             "published_at": "2026-06-08T17:00:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Monday, June 8, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-dangote-refinery-ipo-june-8/",
-            "published_at": "2026-06-08T16:41:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Monday, June 8, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-monday-june-8-2026/",
-            "published_at": "2026-06-08T16:30:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Monday, June 8, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-monday-june-8-2026/",
-            "published_at": "2026-06-08T16:16:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Knife-Edge Vote: What It Means for Expats",
-            "url": "https://www.riotimesonline.com/peru-new-president-expats-2026/",
-            "published_at": "2026-06-08T14:52:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Iran Bases in Tijuana Amid US Visa Standoff",
-            "url": "https://www.riotimesonline.com/world-cup-2026-iran-tijuana-base-visa-standoff/",
-            "published_at": "2026-06-08T14:50:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup Health Scare: Mexico Braces as Ebola-Hit DRC Arrives",
-            "url": "https://www.riotimesonline.com/world-cup-ebola-mexico-health-protocols-drc-2026/",
-            "published_at": "2026-06-08T13:56:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Renames Army Command to Guard Its New Oil Frontier",
-            "url": "https://www.riotimesonline.com/brazil-army-eastern-amazon-command-foz-oil-2026/",
-            "published_at": "2026-06-08T13:56:00+00:00",
             "category": [],
             "language": "en"
         }
