@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-10T12:10:03+00:00",
+    "updated_at": "2026-06-10T13:10:04+00:00",
     "items": [
+        {
+            "title": "The Hidden Reason Gold, Bitcoin and Tech Crash Together",
+            "url": "https://www.riotimesonline.com/market-liquidity-margin-calls-correlation-asset-selloff-analysis-june-2026/",
+            "published_at": "2026-06-10T12:26:43+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Beatriz Gonzalez, The Great Colombian Artist of Grief Gets a Major European Show",
             "url": "https://www.riotimesonline.com/beatriz-gonzalez-colombian-artist-retrospective-legacy-june-2026/",
@@ -692,13 +699,6 @@
             "title": "Tax Residency in Colombia: The 183-Day Rule",
             "url": "https://www.riotimesonline.com/tax-residency-in-colombia-183-day-rule-2026/",
             "published_at": "2026-06-09T03:34:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Work Visa in Colombia: The Employer-Sponsored M Visa",
-            "url": "https://www.riotimesonline.com/work-visa-in-colombia-2026/",
-            "published_at": "2026-06-09T03:31:00+00:00",
             "category": [],
             "language": "en"
         }
