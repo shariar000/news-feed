@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-11T11:10:07+00:00",
+    "updated_at": "2026-06-11T12:10:03+00:00",
     "items": [
+        {
+            "title": "Argentina Courts Europe on Defense, Days After a U.S. Deal",
+            "url": "https://www.riotimesonline.com/argentina-eu-defense-framework-talks-milei-two-track-june-2026/",
+            "published_at": "2026-06-11T11:22:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "New Investor Revives Colombia Wind Farms a Rival Firm Abandoned",
             "url": "https://www.riotimesonline.com/colombia-la-guajira-wind-farms-greenwood-alpha-beta-revived-june-2026/",
@@ -692,13 +699,6 @@
             "title": "Global Economy Briefing \u2014 June 10, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-june-10-2026/",
             "published_at": "2026-06-10T05:52:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open: Brazil Rises as AI Tech Sells Off",
-            "url": "https://www.riotimesonline.com/latam-pre-open-brazil-rises-as-ai-tech-sells-off/",
-            "published_at": "2026-06-10T05:29:50+00:00",
             "category": [],
             "language": "en"
         }
