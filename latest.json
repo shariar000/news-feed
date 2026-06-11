@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-11T19:10:03+00:00",
+    "updated_at": "2026-06-11T20:10:03+00:00",
     "items": [
+        {
+            "title": "Brazil Lands Two Cafes Among the World\u2019s 100 Best Coffee Shops",
+            "url": "https://www.riotimesonline.com/brazil-cafes-worlds-100-best-coffee-shops-rio-sao-paulo-2026/",
+            "published_at": "2026-06-11T19:34:11+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio de Janeiro Posts $11.8bn Trade Surplus as Oil Powers Exports",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-state-trade-surplus-oil-exports-china-june-2026/",
@@ -692,13 +699,6 @@
             "title": "Argentine Firm Moves to Revive Venezuela\u2019s Stalled Power Dams",
             "url": "https://www.riotimesonline.com/impsa-venezuela-hydroelectric-tocoma-macagua-672mw-june-2026/",
             "published_at": "2026-06-10T09:09:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Nears MSCI Upgrade That Could Pull In $1bn",
-            "url": "https://www.riotimesonline.com/argentina-msci-upgrade-emerging-market-june-2026/",
-            "published_at": "2026-06-10T08:59:48+00:00",
             "category": [],
             "language": "en"
         }
