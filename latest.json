@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-11T17:10:04+00:00",
+    "updated_at": "2026-06-11T18:10:03+00:00",
     "items": [
+        {
+            "title": "Moody\u2019s Cools Hopes for Mexico World Cup Windfall",
+            "url": "https://www.riotimesonline.com/mexico-world-cup-economic-windfall-moodys-reality-check-june-2026/",
+            "published_at": "2026-06-11T18:06:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Utilities Triple Their Weight on the Ibovespa Stock Index",
+            "url": "https://www.riotimesonline.com/brazil-utilities-triple-ibovespa-weight-defensive-stocks-june-2026/",
+            "published_at": "2026-06-11T17:52:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santo Domingo Hosts the Centennial Caribbean Games This Summer",
+            "url": "https://www.riotimesonline.com/santo-domingo-2026-central-american-caribbean-games-centennial/",
+            "published_at": "2026-06-11T17:37:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "What the Santo Domingo Merengue Festival Says About the Caribbean",
+            "url": "https://www.riotimesonline.com/santo-domingo-merengue-festival-2026-dominican-republic-guide/",
+            "published_at": "2026-06-11T17:27:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Paraguay: Back After 16 Years, Facing the USA",
+            "url": "https://www.riotimesonline.com/world-cup-2026-paraguay-usa-opener-sofi/",
+            "published_at": "2026-06-11T17:25:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bad Bunny to Play First Ever UK Stadium Shows in London",
+            "url": "https://www.riotimesonline.com/bad-bunny-first-uk-stadium-shows-london-2026-latin-music/",
+            "published_at": "2026-06-11T17:20:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Thursday, June 11, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-prices-and-growth-june-11/",
+            "published_at": "2026-06-11T17:17:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Where to Invest in Latin America in 2026: Brazil Leads, Argentina Surges",
+            "url": "https://www.riotimesonline.com/best-latin-american-country-to-invest-in-2026/",
+            "published_at": "2026-06-11T17:13:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Intelligence Brief \u2014 Thursday, June 11, 2026",
             "url": "https://www.riotimesonline.com/europe-intelligence-brief-stagflation-bind-june-11/",
@@ -66,7 +122,7 @@
             "language": "en"
         },
         {
-            "title": "Argentina Courts Europe on Defense, Days After a U.S. Deal",
+            "title": "Argentina Courts Europe on Defense, Days After a US Deal",
             "url": "https://www.riotimesonline.com/argentina-eu-defense-framework-talks-milei-two-track-june-2026/",
             "published_at": "2026-06-11T11:22:54+00:00",
             "category": [],
@@ -640,65 +696,9 @@
             "language": "en"
         },
         {
-            "title": "Milei Deregulation Bill Stalls in Argentina Senate",
-            "url": "https://www.riotimesonline.com/milei-deregulation-bill-stalls-argentina-senate-june-2026/",
-            "published_at": "2026-06-10T08:28:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico City Shuts Offices and Schools for World Cup Opener",
-            "url": "https://www.riotimesonline.com/mexico-city-world-cup-opener-remote-work-schools-june-2026/",
-            "published_at": "2026-06-10T08:23:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Ecuador Tariff War Ends After 124 Days",
-            "url": "https://www.riotimesonline.com/colombia-ecuador-tariff-war-ends-decree-0583-june-2026/",
-            "published_at": "2026-06-10T08:10:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil vs Mexico for Expats in 2026: Which Is Better?",
-            "url": "https://www.riotimesonline.com/brazil-vs-mexico-for-expats-2026/",
-            "published_at": "2026-06-10T08:00:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin\u2019s Bounce Unravels as Crypto, Gold and Tech Fall Together",
-            "url": "https://www.riotimesonline.com/bitcoins-bounce-unravels-as-crypto-gold-and-tech-fall-together/",
-            "published_at": "2026-06-10T07:21:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Find No Bottom, Sliding Deeper Into the Abyss",
-            "url": "https://www.riotimesonline.com/gold-and-silver-find-no-bottom-sliding-deeper-into-the-abyss/",
-            "published_at": "2026-06-10T07:13:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Driving in Uruguay: Licence, Cars and Apps",
-            "url": "https://www.riotimesonline.com/driving-in-uruguay-2026/",
-            "published_at": "2026-06-10T07:10:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Wednesday, June 10, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-june-10-2026/",
-            "published_at": "2026-06-10T06:46:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Springs Off the Line and Leads the Region Higher",
-            "url": "https://www.riotimesonline.com/chiles-stock-market-springs-off-the-line-and-leads-the-region-higher/",
-            "published_at": "2026-06-10T06:45:12+00:00",
+            "title": "Doing Business in Uruguay: Starting a Company",
+            "url": "https://www.riotimesonline.com/doing-business-in-uruguay-2026/",
+            "published_at": "2026-06-10T08:30:00+00:00",
             "category": [],
             "language": "en"
         }
