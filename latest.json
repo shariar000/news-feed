@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-12T13:10:03+00:00",
+    "updated_at": "2026-06-12T14:10:03+00:00",
     "items": [
+        {
+            "title": "Russia\u2019s Africa Corps Is Quietly Redrawing the Map of the Sahel",
+            "url": "https://www.riotimesonline.com/russia-africa-corps-sahel-2026/",
+            "published_at": "2026-06-12T13:52:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "EU Concludes Its First Deep Africa Trade Deal With Four Island States",
             "url": "https://www.riotimesonline.com/eu-africa-trade-deal-indian-ocean-epa-2026/",
@@ -692,13 +699,6 @@
             "title": "Latin America Sports Daily for Thursday, June 11, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-world-cup-opens-june11-knicks-comeback-finals/",
             "published_at": "2026-06-11T10:47:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America IPO Revival: Why Listings Are Back in 2026",
-            "url": "https://www.riotimesonline.com/latin-america-ipo-revival-brazil-mexico-b3-2026/",
-            "published_at": "2026-06-11T10:42:41+00:00",
             "category": [],
             "language": "en"
         }
