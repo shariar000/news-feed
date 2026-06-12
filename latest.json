@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-12T21:10:03+00:00",
+    "updated_at": "2026-06-12T22:10:04+00:00",
     "items": [
+        {
+            "title": "Healthcare in Panama: Hospitals, the CSS and 911",
+            "url": "https://www.riotimesonline.com/healthcare-in-practice-panama-2026/",
+            "published_at": "2026-06-12T21:10:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Wall Street Circles Venezuela as It Tries to Restructure Its Huge Debt",
             "url": "https://www.riotimesonline.com/venezuela-debt-restructuring-centerview-bonds-wall-street-june-2026/",
@@ -692,13 +699,6 @@
             "title": "How to Invest in Argentina from Abroad in 2026: The Milei Trade, Explained",
             "url": "https://www.riotimesonline.com/how-to-invest-in-argentina-as-a-foreigner-2026/",
             "published_at": "2026-06-11T20:25:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How to Invest in Colombia from Abroad in 2026: ETFs, Stocks and Bonds",
-            "url": "https://www.riotimesonline.com/how-to-invest-in-colombia-as-a-foreigner-2026/",
-            "published_at": "2026-06-11T20:25:46+00:00",
             "category": [],
             "language": "en"
         }
