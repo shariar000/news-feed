@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-12T18:10:04+00:00",
+    "updated_at": "2026-06-12T19:10:03+00:00",
     "items": [
+        {
+            "title": "Half of Americans Shrug at the World Cup on Their Own Soil",
+            "url": "https://www.riotimesonline.com/us-world-cup-indifference-americans-surveys-soccer-june-2026/",
+            "published_at": "2026-06-12T19:04:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Football Is Becoming an Asset Class, and Big Money Has Noticed",
+            "url": "https://www.riotimesonline.com/football-investable-asset-class-ubs-world-cup-private-equity-june-2026/",
+            "published_at": "2026-06-12T18:38:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chinese Apps Take On Brazil Food-Delivery Giant in a Costly Fight",
+            "url": "https://www.riotimesonline.com/china-keeta-99-ifood-brazil-food-delivery-battle-june-2026/",
+            "published_at": "2026-06-12T18:37:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Internet, Mobile and Coworking in Panama",
+            "url": "https://www.riotimesonline.com/internet-mobile-coworking-panama-2026/",
+            "published_at": "2026-06-12T18:28:19+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Inflation Breaks Above Target, Clouding Hopes of Rate Cuts",
             "url": "https://www.riotimesonline.com/brazil-inflation-may-above-target-ceiling-selic-rate-cuts-june-2026/",
@@ -671,34 +699,6 @@
             "title": "Brazil Lands Two Cafes Among the World\u2019s 100 Best Coffee Shops",
             "url": "https://www.riotimesonline.com/brazil-cafes-worlds-100-best-coffee-shops-rio-sao-paulo-2026/",
             "published_at": "2026-06-11T19:34:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Posts $11.8bn Trade Surplus as Oil Powers Exports",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-state-trade-surplus-oil-exports-china-june-2026/",
-            "published_at": "2026-06-11T18:59:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Trump Has Become a Central Force in Brazil Election",
-            "url": "https://www.riotimesonline.com/trump-influence-brazil-2026-election-lula-flavio-bolsonaro-tariffs/",
-            "published_at": "2026-06-11T18:56:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Warns: Paid Content for World Cup on a Tourist Visa Is Work",
-            "url": "https://www.riotimesonline.com/us-warns-foreign-influencers-tourist-visa-world-cup-content-june-2026/",
-            "published_at": "2026-06-11T18:53:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Election: Fujimori Leads by 651 Votes",
-            "url": "https://www.riotimesonline.com/peru-election-runoff-651-votes-fujimori-sanchez-judicial-review-june-2026/",
-            "published_at": "2026-06-11T18:19:41+00:00",
             "category": [],
             "language": "en"
         }
