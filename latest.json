@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-12T19:10:03+00:00",
+    "updated_at": "2026-06-12T20:10:04+00:00",
     "items": [
+        {
+            "title": "Wall Street Circles Venezuela as It Tries to Restructure Its Huge Debt",
+            "url": "https://www.riotimesonline.com/venezuela-debt-restructuring-centerview-bonds-wall-street-june-2026/",
+            "published_at": "2026-06-12T19:51:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Obesity Is Now Brazil Top Health Risk, Overtaking High Blood Pressure",
+            "url": "https://www.riotimesonline.com/obesity-brazil-leading-health-risk-factor-lancet-global-burden-june-2026/",
+            "published_at": "2026-06-12T19:46:28+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Half of Americans Shrug at the World Cup on Their Own Soil",
             "url": "https://www.riotimesonline.com/us-world-cup-indifference-americans-surveys-soccer-june-2026/",
@@ -685,20 +699,6 @@
             "title": "How to Invest in Colombia from Abroad in 2026: ETFs, Stocks and Bonds",
             "url": "https://www.riotimesonline.com/how-to-invest-in-colombia-as-a-foreigner-2026/",
             "published_at": "2026-06-11T20:25:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How to Invest in Mexico from Abroad in 2026: ETFs, Stocks and CETES",
-            "url": "https://www.riotimesonline.com/how-to-invest-in-mexico-as-a-foreigner-2026/",
-            "published_at": "2026-06-11T20:25:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Lands Two Cafes Among the World\u2019s 100 Best Coffee Shops",
-            "url": "https://www.riotimesonline.com/brazil-cafes-worlds-100-best-coffee-shops-rio-sao-paulo-2026/",
-            "published_at": "2026-06-11T19:34:11+00:00",
             "category": [],
             "language": "en"
         }
