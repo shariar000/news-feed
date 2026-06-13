@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-13T22:10:03+00:00",
+    "updated_at": "2026-06-13T23:10:03+00:00",
     "items": [
+        {
+            "title": "Asia Intelligence Brief \u2014 Saturday, June 13, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-2026-06-13/",
+            "published_at": "2026-06-13T22:26:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Saturday, June 13, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-2026-06-13/",
+            "published_at": "2026-06-13T22:25:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Saturday, June 13, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-2026-06-13/",
+            "published_at": "2026-06-13T22:23:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Saturday, June 13, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-2026-06-13/",
+            "published_at": "2026-06-13T22:22:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "El Salvador Moves to Try 563 Gang Leaders in One Case",
             "url": "https://www.riotimesonline.com/el-salvador-barrio-18-mass-prosecution-gang-leaders-june-2026/",
@@ -671,34 +699,6 @@
             "title": "Latin America Sports Daily for Friday, June 12, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-mexico-wc-opener-paraguay-usa-brazil-morocco/",
             "published_at": "2026-06-12T11:14:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "SpaceX: The Biggest Stock Listing Ever Is Worth Nearly Twice All of Brazil",
-            "url": "https://www.riotimesonline.com/spacex-record-ipo-nasdaq-brazil-stock-market-comparison-june-2026/",
-            "published_at": "2026-06-12T11:11:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Western Oil Majors Pour Back Into Venezuela as the US Eases Sanctions",
-            "url": "https://www.riotimesonline.com/venezuela-oil-gas-shell-schlumberger-us-sanctions-easing-june-2026/",
-            "published_at": "2026-06-12T11:07:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Builds Its First Plant to Bury the Carbon From Making Ethanol",
-            "url": "https://www.riotimesonline.com/brazil-first-ethanol-carbon-capture-plant-sao-paulo-beccs-june-2026/",
-            "published_at": "2026-06-12T11:07:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China Now Wants to Power Brazil Grid, Not Just Drive Its Roads",
-            "url": "https://www.riotimesonline.com/byd-battery-storage-brazil-grid-auction-china-energy-june-2026/",
-            "published_at": "2026-06-12T11:05:02+00:00",
             "category": [],
             "language": "en"
         }
