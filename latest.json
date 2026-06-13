@@ -1,14 +1,7 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-13T17:10:04+00:00",
+    "updated_at": "2026-06-13T18:10:04+00:00",
     "items": [
-        {
-            "title": "Asia Intelligence Brief for Saturday, June 13, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-2026-06-13/",
-            "published_at": "2026-06-13T16:55:06+00:00",
-            "category": [],
-            "language": "en"
-        },
         {
             "title": "El Salvador Moves to Try 563 Gang Leaders in One Case",
             "url": "https://www.riotimesonline.com/el-salvador-barrio-18-mass-prosecution-gang-leaders-june-2026/",
@@ -699,6 +692,13 @@
             "title": "Brazil Builds Its First Plant to Bury the Carbon From Making Ethanol",
             "url": "https://www.riotimesonline.com/brazil-first-ethanol-carbon-capture-plant-sao-paulo-beccs-june-2026/",
             "published_at": "2026-06-12T11:07:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China Now Wants to Power Brazil Grid, Not Just Drive Its Roads",
+            "url": "https://www.riotimesonline.com/byd-battery-storage-brazil-grid-auction-china-energy-june-2026/",
+            "published_at": "2026-06-12T11:05:02+00:00",
             "category": [],
             "language": "en"
         }
