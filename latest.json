@@ -1,11 +1,32 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-14T10:10:03+00:00",
+    "updated_at": "2026-06-14T11:10:03+00:00",
     "items": [
+        {
+            "title": "Colombia Palm Oil Boom Faces a Looming EU Deforestation Deadline",
+            "url": "https://www.riotimesonline.com/colombia-palm-oil-coffee-eu-deforestation-rule-june-2026/",
+            "published_at": "2026-06-14T10:38:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Shakira Sets the Record for the Biggest Latin Music Tour Ever",
             "url": "https://www.riotimesonline.com/shakira-tour-las-mujeres-record-latin-music-june-2026/",
-            "published_at": "2026-06-14T09:32:33+00:00",
+            "published_at": "2026-06-14T10:35:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Africa Wins First Fitch Upgrade in 21 Years as Fiscal Discipline Pays Off",
+            "url": "https://www.riotimesonline.com/south-africa-fitch-upgrade-2026/",
+            "published_at": "2026-06-14T10:34:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ghana\u2019s Inflation Falls to a Near 30-Year Low as Its Markets Surge in 2026",
+            "url": "https://www.riotimesonline.com/ghana-inflation-stock-market-boom-2026/",
+            "published_at": "2026-06-14T10:33:09+00:00",
             "category": [],
             "language": "en"
         },
@@ -27,13 +48,6 @@
             "title": "At 83, Brazil Tropic\u00e1lia Icon Caetano Veloso Is Still Touring",
             "url": "https://www.riotimesonline.com/caetano-veloso-tropicalia-brazil-icon-touring-june-2026/",
             "published_at": "2026-06-14T09:30:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Palm Oil Boom Faces a Looming EU Deforestation Deadline",
-            "url": "https://www.riotimesonline.com/colombia-palm-oil-coffee-eu-deforestation-rule-june-2026/",
-            "published_at": "2026-06-14T09:06:59+00:00",
             "category": [],
             "language": "en"
         },
@@ -685,20 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Friday, June 12, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-friday-june-12-2026/",
             "published_at": "2026-06-12T16:24:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Industry Posts Its Biggest Monthly Jump in Five Years",
-            "url": "https://www.riotimesonline.com/mexico-industrial-activity-april-2026-construction-surge-inegi/",
-            "published_at": "2026-06-12T16:23:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Stock Market Jumps 8% as a Knife-Edge Election Is Counted",
-            "url": "https://www.riotimesonline.com/bolsa-lima-peru-stock-market-rally-election-runoff-fujimori-sanchez-june-2026/",
-            "published_at": "2026-06-12T16:23:40+00:00",
             "category": [],
             "language": "en"
         }
