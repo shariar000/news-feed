@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-14T06:10:04+00:00",
+    "updated_at": "2026-06-14T07:10:04+00:00",
     "items": [
+        {
+            "title": "Latin America Sports Daily for Sunday, June 14, 2026",
+            "url": "https://www.riotimesonline.com/latam-sports-brazil-morocco-draw-knicks-champions-june14/",
+            "published_at": "2026-06-14T07:08:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "What\u2019s On in Latin America: Your Week Ahead (June 15\u201321)",
+            "url": "https://www.riotimesonline.com/whats-on-latin-america-week-ahead-june-15-2026/",
+            "published_at": "2026-06-14T06:21:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide \u2014 Sunday, June 14, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-sunday-june-14-2026/",
+            "published_at": "2026-06-14T06:14:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Brazil Held by Morocco as Vin\u00edcius Rescues Point",
+            "url": "https://www.riotimesonline.com/world-cup-2026-brazil-morocco-1-1-vinicius/",
+            "published_at": "2026-06-14T06:13:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Asia Intelligence Brief \u2014 Saturday, June 13, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-2026-06-13/",
@@ -671,34 +699,6 @@
             "title": "Never Have So Many Over-40s Played at a World Cup",
             "url": "https://www.riotimesonline.com/world-cup-2026-record-players-over-40-ronaldo-ochoa-june-2026/",
             "published_at": "2026-06-12T11:17:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The World Cup Opens in the US Under the Shadow of Immigration Raids",
-            "url": "https://www.riotimesonline.com/usmnt-world-cup-opener-sofi-stadium-workers-ice-immigration-june-2026/",
-            "published_at": "2026-06-12T11:17:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Court Reopens Ecuador to Arbitration Voters Twice Rejected",
-            "url": "https://www.riotimesonline.com/ecuador-constitutional-court-investor-arbitration-article-422-june-2026/",
-            "published_at": "2026-06-12T11:16:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Inflation Cools Again, Easing the Pressure on Milei",
-            "url": "https://www.riotimesonline.com/argentina-inflation-slows-may-2-1-percent-milei-disinflation-june-2026/",
-            "published_at": "2026-06-12T11:16:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Friday, June 12, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-mexico-wc-opener-paraguay-usa-brazil-morocco/",
-            "published_at": "2026-06-12T11:14:32+00:00",
             "category": [],
             "language": "en"
         }
