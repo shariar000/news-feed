@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-15T13:10:03+00:00",
+    "updated_at": "2026-06-15T14:10:03+00:00",
     "items": [
+        {
+            "title": "Lesotho\u2019s $6.2 Billion Kobong Project Bets on Hydropower and AI",
+            "url": "https://www.riotimesonline.com/lesotho-kobong-project-hydropower-ai-data-center-2026/",
+            "published_at": "2026-06-15T13:51:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Venezuela Wants Its Oil Talent Back. Many Refuse to Return.",
             "url": "https://www.riotimesonline.com/venezuela-oil-revival-talent-shortage-diaspora-june-2026/",
@@ -692,13 +699,6 @@
             "title": "Rio Restaurant Week Offers Three-Course Meals From $12",
             "url": "https://www.riotimesonline.com/rio-restaurant-week-2026-world-cup-menus-affordable-dining-june-2026/",
             "published_at": "2026-06-13T08:37:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World\u2019s Most-Visited Immersive Art Show Opens in Rio",
-            "url": "https://www.riotimesonline.com/klimt-gaudi-immersive-exhibition-rio-design-barra-ano-gaudi-june-2026/",
-            "published_at": "2026-06-13T08:37:17+00:00",
             "category": [],
             "language": "en"
         }
