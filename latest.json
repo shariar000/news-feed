@@ -1,18 +1,18 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-15T19:10:03+00:00",
+    "updated_at": "2026-06-15T20:10:03+00:00",
     "items": [
         {
-            "title": "Why Wall Street Soured on Brazil\u2019s Nubank This Year",
-            "url": "https://www.riotimesonline.com/nubank-stock-analyst-downgrades-credit-cycle-june-2026/",
-            "published_at": "2026-06-15T19:08:58+00:00",
+            "title": "Why Brazil\u2019s Crowded Skies Raise the Odds of Helicopter Crashes",
+            "url": "https://www.riotimesonline.com/brazil-helicopter-fleet-crowded-skies-rio-sao-paulo-june-2026/",
+            "published_at": "2026-06-15T19:08:01+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Why Brazil\u2019s Crowded Skies Raise the Odds of Helicopter Crashes",
-            "url": "https://www.riotimesonline.com/brazil-helicopter-fleet-crowded-skies-rio-sao-paulo-june-2026/",
-            "published_at": "2026-06-15T19:05:01+00:00",
+            "title": "Why Wall Street Soured on Brazil\u2019s Nubank This Year",
+            "url": "https://www.riotimesonline.com/nubank-stock-analyst-downgrades-credit-cycle-june-2026/",
+            "published_at": "2026-06-15T19:05:58+00:00",
             "category": [],
             "language": "en"
         },
@@ -626,13 +626,6 @@
             "language": "en"
         },
         {
-            "title": "Brazil Cleared to Buy $330m of US Stinger Missiles for Its Skies",
-            "url": "https://www.riotimesonline.com/brazil-stinger-missiles-us-330m-air-defense-deal-june-2026/",
-            "published_at": "2026-06-14T08:00:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Why Haiti Could Trouble Brazil After a Brave World Cup Bow",
             "url": "https://www.riotimesonline.com/brazil-haiti-world-cup-group-c-preview-june-2026/",
             "published_at": "2026-06-14T08:00:27+00:00",
@@ -699,6 +692,13 @@
             "title": "Asia Intelligence Brief \u2014 Saturday, June 13, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-2026-06-13/",
             "published_at": "2026-06-13T22:26:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Saturday, June 13, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-2026-06-13/",
+            "published_at": "2026-06-13T22:25:19+00:00",
             "category": [],
             "language": "en"
         }
