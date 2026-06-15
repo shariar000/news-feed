@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-15T17:10:03+00:00",
+    "updated_at": "2026-06-15T18:10:03+00:00",
     "items": [
+        {
+            "title": "A Brazilian Egg Giant Is Now the World\u2019s Fourth Largest",
+            "url": "https://www.riotimesonline.com/mantiqueira-jbs-eggs-united-states-fourth-largest-june-2026/",
+            "published_at": "2026-06-15T17:48:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Monday, June 15, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-quiet-before-the-fed-june-15/",
+            "published_at": "2026-06-15T17:41:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Monday, June 15, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-summit-abroad-squeeze-at-home-june-15/",
+            "published_at": "2026-06-15T17:25:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia & Pacific Intelligence Brief \u2014 Monday, June 15, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-rally-meets-its-test-june-15/",
+            "published_at": "2026-06-15T17:20:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa Intelligence Brief \u2014 Monday, June 15, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-map-redraws-again-june-15/",
@@ -671,34 +699,6 @@
             "title": "Colombian Peso Roars Back to a Five-Year High vs Dollar",
             "url": "https://www.riotimesonline.com/colombian-peso-five-year-high-dollar-strongest-emerging-currency-june-2026/",
             "published_at": "2026-06-13T11:27:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Throws Open Its Power Grid to Private Renewables",
-            "url": "https://www.riotimesonline.com/mexico-renewables-cfe-mixed-scheme-private-investment-june-2026/",
-            "published_at": "2026-06-13T11:23:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria\u2019s Capital Inflows Nearly Double to $10.37 Billion \u2014 But Most Is Hot Money",
-            "url": "https://www.riotimesonline.com/nigeria-capital-importation-q1-2026/",
-            "published_at": "2026-06-13T10:52:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "National Arts Festival Asks What Ubuntu Means in an Age of Algorithms",
-            "url": "https://www.riotimesonline.com/national-arts-festival-makhanda-2026-ubuntu-algorithms/",
-            "published_at": "2026-06-13T10:22:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Angola\u2019s Oil Export Revenue Falls 22% to $24.4 Billion in 2025",
-            "url": "https://www.riotimesonline.com/angola-oil-exports-2025-revenue-decline-2026/",
-            "published_at": "2026-06-13T10:22:21+00:00",
             "category": [],
             "language": "en"
         }
