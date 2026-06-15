@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-15T08:10:04+00:00",
+    "updated_at": "2026-06-15T09:10:03+00:00",
     "items": [
+        {
+            "title": "How Much the 2026 World Cup Is Really Worth to the Economy",
+            "url": "https://www.riotimesonline.com/world-cup-2026-fifa-economic-impact-global-june-2026/",
+            "published_at": "2026-06-15T08:58:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Most Unofficial World Cup Songs Are Now Made by AI, Deezer Finds",
+            "url": "https://www.riotimesonline.com/deezer-ai-generated-world-cup-songs-streaming-june-2026/",
+            "published_at": "2026-06-15T08:44:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador\u2019s World Cup Hangs on One Game Against Cura\u00e7ao",
+            "url": "https://www.riotimesonline.com/ecuador-world-cup-curacao-stakes-qualification-june-2026/",
+            "published_at": "2026-06-15T08:28:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Peru Picked a Fighter Jet, Then Tore Up the Deal and Switched",
+            "url": "https://www.riotimesonline.com/peru-fighter-jet-reversal-f16-gripen-south-america-june-2026/",
+            "published_at": "2026-06-15T08:25:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Bought a Swedish Fighter Jet With an American Engine",
+            "url": "https://www.riotimesonline.com/colombia-gripen-fighter-jet-us-engine-leverage-defense-june-2026/",
+            "published_at": "2026-06-15T08:25:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why It Took Argentina 40 Years to Buy a New Fighter Jet",
+            "url": "https://www.riotimesonline.com/argentina-f16-fighter-jets-uk-veto-falklands-defense-june-2026/",
+            "published_at": "2026-06-15T08:25:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Colombia\u2019s Caribbean Coast Became the Home of Latin Afrobeats",
+            "url": "https://www.riotimesonline.com/colombia-coast-afrobeats-beele-kapo-champeta-june-2026/",
+            "published_at": "2026-06-15T08:24:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Fuel Shock Is Quietly Turning Drivers Toward Electric Cars",
+            "url": "https://www.riotimesonline.com/chile-electric-vehicle-sales-fuel-prices-june-2026/",
+            "published_at": "2026-06-15T08:15:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Greatest Painter Gets His First Big Show in Asia",
             "url": "https://www.riotimesonline.com/portinari-brazil-exhibition-china-beijing-cultural-year-june-2026/",
@@ -643,62 +699,6 @@
             "title": "Brazil Fiscal Squeeze Deepens as Finance Chief Warns on Spending",
             "url": "https://www.riotimesonline.com/brazil-fiscal-spending-warning-durigan-finance-minister-june-2026/",
             "published_at": "2026-06-13T07:08:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Jo\u00e3o in S\u00e3o Paulo: The Free Villa-Lobos Festa This Weekend",
-            "url": "https://www.riotimesonline.com/sao-joao-sao-paulo-2026/",
-            "published_at": "2026-06-13T07:06:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Jo\u00e3o in Rio: The Best Arrai\u00e1s and Forr\u00f3 This Weekend",
-            "url": "https://www.riotimesonline.com/sao-joao-rio-de-janeiro-2026/",
-            "published_at": "2026-06-13T07:06:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Saturday, June 13, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-paraguay-usa-4-1-brazil-morocco-today-june13/",
-            "published_at": "2026-06-13T07:05:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco Master Founder\u2019s Second Plea Deal Rejected by Police",
-            "url": "https://www.riotimesonline.com/banco-master-vorcaro-second-plea-deal-rejected-police-june-2026/",
-            "published_at": "2026-06-13T06:58:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Saturday, June 13, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-june-13-2026/",
-            "published_at": "2026-06-13T06:58:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Firms as the SpaceX Crypto Trade Falls Apart",
-            "url": "https://www.riotimesonline.com/bitcoin-firms-spacex-crypto-trade-falls-apart-june-12-2026/",
-            "published_at": "2026-06-13T06:54:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Saturday, June 13, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-june-13-2026/",
-            "published_at": "2026-06-13T06:54:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Saturday, June 13, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-saturday-june-13-2026/",
-            "published_at": "2026-06-13T06:52:32+00:00",
             "category": [],
             "language": "en"
         }
