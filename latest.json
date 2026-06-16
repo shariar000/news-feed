@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-16T14:10:04+00:00",
+    "updated_at": "2026-06-16T15:10:04+00:00",
     "items": [
+        {
+            "title": "Morocco Wins $650 Million from the World Bank for Its Digital and Climate Push",
+            "url": "https://www.riotimesonline.com/morocco-digital-transformation-world-bank-650-million-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Seplat Energy Names Tony Elumelu Chairman in a Nigerian Oil Power Shift",
+            "url": "https://www.riotimesonline.com/seplat-energy-leadership-elumelu-chairman-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Who Profits When Latin America Watches the World Cup",
             "url": "https://www.riotimesonline.com/world-cup-broadcast-rights-latin-america-television-june-2026/",
@@ -265,6 +279,13 @@
             "title": "Family Bank\u2019s Nairobi Debut Signals the End of East Africa\u2019s IPO Drought",
             "url": "https://www.riotimesonline.com/family-bank-nse-listing-east-africa-ipo-2026/",
             "published_at": "2026-06-16T06:48:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fifty Years After Soweto, South Africa\u2019s Youth Fight a Battle for Jobs",
+            "url": "https://www.riotimesonline.com/soweto-uprising-50th-anniversary-2026/",
+            "published_at": "2026-06-16T06:48:06+00:00",
             "category": [],
             "language": "en"
         },
@@ -678,27 +699,6 @@
             "title": "Coris Holding Tightens Its Grip on Cape Verde\u2019s Biggest Bank",
             "url": "https://www.riotimesonline.com/coris-holding-cape-verde-bank-bca-2026/",
             "published_at": "2026-06-15T07:08:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Egypt\u2019s MNT-Halan Hits $1.4 Billion as Its Biggest Bank Buys In",
-            "url": "https://www.riotimesonline.com/mnt-halan-1-4-billion-valuation-egypt-bank-2026/",
-            "published_at": "2026-06-15T07:07:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Jumps to a Two-Week High as the Iran Deal Reopens Hormuz",
-            "url": "https://www.riotimesonline.com/bitcoin-jumps-two-week-high-iran-deal-reopens-hormuz-june-2026/",
-            "published_at": "2026-06-15T06:36:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Climb Back Toward the Rim Before the Fed",
-            "url": "https://www.riotimesonline.com/gold-silver-climb-back-toward-rim-before-fed-june-2026/",
-            "published_at": "2026-06-15T06:32:11+00:00",
             "category": [],
             "language": "en"
         }
