@@ -1,7 +1,77 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-16T08:10:04+00:00",
+    "updated_at": "2026-06-16T09:10:03+00:00",
     "items": [
+        {
+            "title": "Steelmaker Gerdau Now Self-Generates Half Its Own Clean Power",
+            "url": "https://www.riotimesonline.com/gerdau-dona-francisca-hydro-clean-power-self-generation-june-2026/",
+            "published_at": "2026-06-16T09:00:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "GE Signs Deal to Rebuild Venezuela\u2019s Broken Power Grid",
+            "url": "https://www.riotimesonline.com/ge-vernova-venezuela-power-grid-deal-payment-risk-june-2026/",
+            "published_at": "2026-06-16T08:54:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why the World\u2019s Streamers Keep Betting on Brazilian Stories",
+            "url": "https://www.riotimesonline.com/brazil-streaming-netflix-globoplay-content-investment-june-2026/",
+            "published_at": "2026-06-16T08:51:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil-Rich Guyana Builds Brazil a New Road to the Sea",
+            "url": "https://www.riotimesonline.com/guyana-brazil-roraima-road-corridor-panama-canal-june-2026/",
+            "published_at": "2026-06-16T08:45:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay\u2019s Injury Crisis Tests a World Cup Contender",
+            "url": "https://www.riotimesonline.com/uruguay-world-cup-injuries-arrascaeta-araujo-cape-verde-june-2026/",
+            "published_at": "2026-06-16T08:42:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Mexicans Still Pack the Cinema in 2026",
+            "url": "https://www.riotimesonline.com/mexico-cinema-box-office-streaming-resilience-june-2026/",
+            "published_at": "2026-06-16T08:35:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Investors Are Buying Up Mexican Football Clubs",
+            "url": "https://www.riotimesonline.com/liga-mx-us-investors-mexican-football-clubs-june-2026/",
+            "published_at": "2026-06-16T08:35:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Quechua-Language Film Is Conquering the World",
+            "url": "https://www.riotimesonline.com/la-hija-condor-bolivia-quechua-film-global-festivals-june-2026/",
+            "published_at": "2026-06-16T08:34:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Hollywood Is Remaking Latin America\u2019s Soap Operas",
+            "url": "https://www.riotimesonline.com/globo-telenovela-us-remake-format-export-june-2026/",
+            "published_at": "2026-06-16T08:34:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Bets $3bn on a Make-or-Break Lithium Project",
+            "url": "https://www.riotimesonline.com/chile-lithium-salar-futuro-codelco-sqm-environmental-review-june-2026/",
+            "published_at": "2026-06-16T08:23:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "A Puerto Rican Firm Is Quietly Rolling Up Brazil\u2019s Fintech",
             "url": "https://www.riotimesonline.com/evertec-dimensa-brazil-fintech-acquisition-june-2026/",
@@ -629,76 +699,6 @@
             "title": "Key Market Events for the Week of June 15\u201319, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-june-15-19-2026/",
             "published_at": "2026-06-14T18:12:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Sunday, June 14, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-sunday-june-14-2026/",
-            "published_at": "2026-06-14T18:09:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Sunday, June 14, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-sunday-june-14-2026/",
-            "published_at": "2026-06-14T18:09:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Palm Oil Boom Faces a Looming EU Deforestation Deadline",
-            "url": "https://www.riotimesonline.com/colombia-palm-oil-coffee-eu-deforestation-rule-june-2026/",
-            "published_at": "2026-06-14T10:38:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Shakira Sets the Record for the Biggest Latin Music Tour Ever",
-            "url": "https://www.riotimesonline.com/shakira-tour-las-mujeres-record-latin-music-june-2026/",
-            "published_at": "2026-06-14T10:35:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Africa Wins First Fitch Upgrade in 21 Years as Fiscal Discipline Pays Off",
-            "url": "https://www.riotimesonline.com/south-africa-fitch-upgrade-2026/",
-            "published_at": "2026-06-14T10:34:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana\u2019s Inflation Falls to a Near 30-Year Low as Its Markets Surge in 2026",
-            "url": "https://www.riotimesonline.com/ghana-inflation-stock-market-boom-2026/",
-            "published_at": "2026-06-14T10:33:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Mexican Music Quietly Conquered the World Streaming Charts",
-            "url": "https://www.riotimesonline.com/mexican-music-corridos-tumbados-global-streaming-june-2026/",
-            "published_at": "2026-06-14T09:31:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "FLIP, Brazil Biggest Literary Festival Honors a Cult Poet This July",
-            "url": "https://www.riotimesonline.com/flip-paraty-2026-orides-fontela-literary-festival-june-2026/",
-            "published_at": "2026-06-14T09:31:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "At 83, Brazil Tropic\u00e1lia Icon Caetano Veloso Is Still Touring",
-            "url": "https://www.riotimesonline.com/caetano-veloso-tropicalia-brazil-icon-touring-june-2026/",
-            "published_at": "2026-06-14T09:30:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Lifts Deficit Target, Leaving a Fiscal Mess for Next Leader",
-            "url": "https://www.riotimesonline.com/colombia-fiscal-deficit-target-mfmp-2026-june-2026/",
-            "published_at": "2026-06-14T08:52:57+00:00",
             "category": [],
             "language": "en"
         }
