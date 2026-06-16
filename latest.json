@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-16T07:10:04+00:00",
+    "updated_at": "2026-06-16T08:10:04+00:00",
     "items": [
+        {
+            "title": "A Puerto Rican Firm Is Quietly Rolling Up Brazil\u2019s Fintech",
+            "url": "https://www.riotimesonline.com/evertec-dimensa-brazil-fintech-acquisition-june-2026/",
+            "published_at": "2026-06-16T08:09:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Holds Its Ground on the Eve of the Fed Decision",
+            "url": "https://www.riotimesonline.com/bitcoin-holds-ground-eve-fed-decision-june-15-2026/",
+            "published_at": "2026-06-16T07:58:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s 2026 Residency Fees Doubled: What Expats Now Pay",
+            "url": "https://www.riotimesonline.com/mexico-residency-fees-2026-increase-expats/",
+            "published_at": "2026-06-16T07:30:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Election Security: Armed-Group Claims Cloud the Runoff",
+            "url": "https://www.riotimesonline.com/colombia-election-security-runoff-armed-groups-2026/",
+            "published_at": "2026-06-16T07:30:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Tuesday, June 16, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-june-16-2026/",
+            "published_at": "2026-06-16T07:16:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm at the World Cup: Where the Region\u2019s Teams Stand",
+            "url": "https://www.riotimesonline.com/latam-world-cup-week-two-teams-2026/",
+            "published_at": "2026-06-16T07:13:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide \u2014 Tuesday, June 16, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-tuesday-june-16-2026/",
+            "published_at": "2026-06-16T07:11:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina\u2019s Stock Market Was Closed for a Holiday on Monday",
             "url": "https://www.riotimesonline.com/argentinas-stock-market-was-closed-for-a-holiday-on-monday/",
@@ -493,7 +542,7 @@
             "language": "en"
         },
         {
-            "title": "Colombia\u2019s Runoff, Six Days Out: What June 21 Means for Expats",
+            "title": "Colombia\u2019s Runoff: What June 21 Means for Expats",
             "url": "https://www.riotimesonline.com/colombia-runoff-june-21-polls-expats-2026/",
             "published_at": "2026-06-15T06:08:12+00:00",
             "category": [],
@@ -650,55 +699,6 @@
             "title": "Colombia Lifts Deficit Target, Leaving a Fiscal Mess for Next Leader",
             "url": "https://www.riotimesonline.com/colombia-fiscal-deficit-target-mfmp-2026-june-2026/",
             "published_at": "2026-06-14T08:52:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Eases More Venezuela Oil Rules as Schlumberger Signs On",
-            "url": "https://www.riotimesonline.com/venezuela-oil-us-licenses-schlumberger-slb-deal-june-2026/",
-            "published_at": "2026-06-14T08:44:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMF Tells Brazil to Save Oil Revenue Windfall, Not Spend It",
-            "url": "https://www.riotimesonline.com/brazil-oil-revenue-imf-fiscal-framework-windfall-june-2026/",
-            "published_at": "2026-06-14T08:41:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Top Shareholder Moves to Oust Vale Board Chairman in Boardroom Fight",
-            "url": "https://www.riotimesonline.com/vale-board-chairman-previ-removal-shareholder-fight-june-2026/",
-            "published_at": "2026-06-14T08:33:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil and US Hold Tariff Talks as a 25% Levy Deadline Nears",
-            "url": "https://www.riotimesonline.com/brazil-us-tariffs-section-301-negotiation-deadline-june-2026/",
-            "published_at": "2026-06-14T08:33:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Moves to Lift Tax Ceiling for Millions of Micro-Businesses",
-            "url": "https://www.riotimesonline.com/brazil-mei-tax-ceiling-raise-small-business-june-2026/",
-            "published_at": "2026-06-14T08:33:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cuba Unveils Economic Reforms as US Squeeze Deepens Crisis",
-            "url": "https://www.riotimesonline.com/cuba-economic-reforms-diaz-canel-us-embargo-june-2026/",
-            "published_at": "2026-06-14T08:00:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China Turns Away Brazilian Soybeans as Import Squeeze Turns Real",
-            "url": "https://www.riotimesonline.com/china-soybean-imports-brazil-ship-returns-squeeze-june-2026/",
-            "published_at": "2026-06-14T08:00:41+00:00",
             "category": [],
             "language": "en"
         }
