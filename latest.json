@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-17T11:10:03+00:00",
+    "updated_at": "2026-06-17T12:10:04+00:00",
     "items": [
+        {
+            "title": "Why Ecuador\u2019s Copy of El Salvador\u2019s Crime Crackdown Is Failing",
+            "url": "https://www.riotimesonline.com/ecuador-bukele-security-model-failing-analysis-june-2026/",
+            "published_at": "2026-06-17T11:44:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Two Rival Economic Plans Are on Colombia\u2019s Ballot This Sunday",
+            "url": "https://www.riotimesonline.com/colombia-election-economy-de-la-espriella-cepeda-plans-june-2026/",
+            "published_at": "2026-06-17T11:36:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Spain\u2019s Repsol Bets on New Venezuelan Oil Ground as Majors Return",
+            "url": "https://www.riotimesonline.com/repsol-venezuela-horcon-oil-exploration-majors-race-june-2026/",
+            "published_at": "2026-06-17T11:11:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Messi Is One Goal From a World Cup Record Held by a German",
             "url": "https://www.riotimesonline.com/messi-world-cup-goals-record-klose-one-away-june-2026/",
@@ -678,27 +699,6 @@
             "title": "LatAm at the World Cup: Where the Region\u2019s Teams Stand",
             "url": "https://www.riotimesonline.com/latam-world-cup-week-two-teams-2026/",
             "published_at": "2026-06-16T07:13:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Tuesday, June 16, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-tuesday-june-16-2026/",
-            "published_at": "2026-06-16T07:11:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Stock Market Was Closed for a Holiday on Monday",
-            "url": "https://www.riotimesonline.com/argentinas-stock-market-was-closed-for-a-holiday-on-monday/",
-            "published_at": "2026-06-16T07:04:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stock Market Was Closed for a Holiday on Monday",
-            "url": "https://www.riotimesonline.com/colombias-stock-market-was-closed-for-a-holiday-on-monday/",
-            "published_at": "2026-06-16T07:01:47+00:00",
             "category": [],
             "language": "en"
         }
