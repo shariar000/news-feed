@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-18T09:10:04+00:00",
+    "updated_at": "2026-06-18T10:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief for Thursday, June 18, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-june-18-2026/",
+            "published_at": "2026-06-18T10:09:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Permanent Residency and Citizenship in Panama",
+            "url": "https://www.riotimesonline.com/permanent-residency-citizenship-panama-2026/",
+            "published_at": "2026-06-18T10:04:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "No Bidders Show for Oi\u2019s Last Big Asset as Telecom Wind-Down Stalls",
+            "url": "https://www.riotimesonline.com/oi-solucoes-auction-no-bidders-failed-sale-telecom-wind-down-june-2026/",
+            "published_at": "2026-06-18T09:54:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Banks Fight Foreign Bondholders Over Ambipar in US Court",
+            "url": "https://www.riotimesonline.com/ambipar-brazilian-banks-houston-court-bondholders-chapter-11-june-2026/",
+            "published_at": "2026-06-18T09:40:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup Windfall Falls Short in Mexico\u2019s Three Host Cities",
+            "url": "https://www.riotimesonline.com/world-cup-2026-mexico-windfall-falls-short-host-cities-hotels-moodys-june-2026/",
+            "published_at": "2026-06-18T09:35:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Braskem Moves to Skip Bond Payments as a New Owner Takes Control",
+            "url": "https://www.riotimesonline.com/braskem-edges-toward-restructuring/",
+            "published_at": "2026-06-18T09:22:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Makes Telecom Shed 6 Million Customers to Buy Telef\u00f3nica",
+            "url": "https://www.riotimesonline.com/argentina-telecom-telefonica-merger-conditions-6-million-customers-clarin-june-2026/",
+            "published_at": "2026-06-18T09:14:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vale\u2019s New Brazil Mine Scare Wasn\u2019t the Dam Disaster It Looked Like",
+            "url": "https://www.riotimesonline.com/vale-manages-a-new-minas-gerais-scare/",
+            "published_at": "2026-06-18T09:11:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "How Ecuador Became Latin America\u2019s Deadliest Country and a War Zone",
             "url": "https://www.riotimesonline.com/ecuador-drug-war-us-military-narco-gangs-background-2026/",
@@ -643,62 +699,6 @@
             "title": "Why Rio Is Pitching Its Film Industry to Investors in China",
             "url": "https://www.riotimesonline.com/rio-film-industry-china-shanghai-investment-riofilme-june-2026/",
             "published_at": "2026-06-17T07:57:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Fund Just Took a Fifth of Brazil\u2019s Newly Privatized Water Giant Copasa",
-            "url": "https://www.riotimesonline.com/perfin-copasa-water-utility-20-percent-stake-brazil-june-2026/",
-            "published_at": "2026-06-17T07:54:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dangote Plans Africa\u2019s Biggest IPO, Listing His Refinery Across the Continent",
-            "url": "https://www.riotimesonline.com/dangote-refinery-ipo-pan-african-listing-2026/",
-            "published_at": "2026-06-17T07:15:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Johann Rupert\u2019s Remgro Wins Control of South Africa\u2019s Mediclinic Hospitals",
-            "url": "https://www.riotimesonline.com/remgro-mediclinic-deal-south-africa-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Congo\u2019s Copper Returns to the Lobito Corridor as the West\u2019s Mineral Railway Reopens",
-            "url": "https://www.riotimesonline.com/lobito-corridor-congo-copper-2026/",
-            "published_at": "2026-06-17T07:15:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cameroon Lines Up $957 Million for Its Kribi Refinery and Fuel Terminal",
-            "url": "https://www.riotimesonline.com/kribi-refinery-cameroon-financing-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ricardo Arjona\u2019s Record Santiago Residency: Final Nights This Week",
-            "url": "https://www.riotimesonline.com/ricardo-arjona-santiago-movistar-arena-2026/",
-            "published_at": "2026-06-17T06:37:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup Fans vs the Blockades: Colombia\u2019s Azteca Debut Day",
-            "url": "https://www.riotimesonline.com/cdmx-world-cup-fans-blockades-colombia-azteca-2026/",
-            "published_at": "2026-06-17T06:32:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Wednesday, June 17, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-wednesday-june-17-2026/",
-            "published_at": "2026-06-17T06:31:20+00:00",
             "category": [],
             "language": "en"
         }
