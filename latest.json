@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-18T07:10:03+00:00",
+    "updated_at": "2026-06-18T08:10:03+00:00",
     "items": [
+        {
+            "title": "Egypt Joins the African Pooled Procurement Plan, and Will Host It",
+            "url": "https://www.riotimesonline.com/egypt-african-pooled-procurement-medicines-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Africa Lands a $1 Billion BRICS Bank Loan to Fix Its Cities",
+            "url": "https://www.riotimesonline.com/brics-bank-loan-south-africa-cities-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Tax Residency in Panama: The 183-Day Rule",
             "url": "https://www.riotimesonline.com/tax-residency-panama-183-day-2026/",
@@ -685,20 +699,6 @@
             "title": "Brazil\u2019s Stock Market Drifts to Its Floor Before Twin Rate Calls",
             "url": "https://www.riotimesonline.com/brazils-stock-market-drifts-to-its-floor-before-twin-rate-calls/",
             "published_at": "2026-06-17T05:57:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 June 17, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-june-17-2026/",
-            "published_at": "2026-06-17T05:55:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open: On Fed Day, Investors Flee Tech for Banks",
-            "url": "https://www.riotimesonline.com/latam-pre-open-on-fed-day-investors-flee-tech-for-banks/",
-            "published_at": "2026-06-17T05:43:09+00:00",
             "category": [],
             "language": "en"
         }
