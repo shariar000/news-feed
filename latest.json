@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-18T11:10:03+00:00",
+    "updated_at": "2026-06-18T12:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico Targets Near-Total Power Coverage by 2028 in Rural Push",
+            "url": "https://www.riotimesonline.com/mexico-electricity-coverage-plan-99-percent-2028-cfe-energy-justice-2026/",
+            "published_at": "2026-06-18T11:29:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Portugal Carry Diogo Jota Into the World Cup He Trained For",
+            "url": "https://www.riotimesonline.com/diogo-jota-tribute-portugal-world-cup-2026/",
+            "published_at": "2026-06-18T11:23:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Messi and Ronaldo Reach a Sixth World Cup on Two Different Nights",
             "url": "https://www.riotimesonline.com/messi-ronaldo-sixth-world-cup-2026-opening-comparison/",
@@ -685,20 +699,6 @@
             "title": "Chile\u2019s Lithium Champion Now Wants Copper Too",
             "url": "https://www.riotimesonline.com/sqm-copper-exploration-ivanhoe-chile-diversification-june-2026/",
             "published_at": "2026-06-17T08:24:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The World\u2019s Top Pulp Maker Wants to Sell You the Tissue Too",
-            "url": "https://www.riotimesonline.com/suzano-record-pulp-tissue-value-chain-brazil-june-2026/",
-            "published_at": "2026-06-17T08:23:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Mexican Cement Giant Rebuilding Around Fewer, Richer Markets",
-            "url": "https://www.riotimesonline.com/cemex-cement-portfolio-focus-americas-decarbonization-june-2026/",
-            "published_at": "2026-06-17T08:23:23+00:00",
             "category": [],
             "language": "en"
         }
