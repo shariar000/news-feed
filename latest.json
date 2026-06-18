@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-18T14:10:03+00:00",
+    "updated_at": "2026-06-18T15:10:03+00:00",
     "items": [
+        {
+            "title": "Bharti Airtel Moves to Take Airtel Africa Private in a $2.9 Billion Deal",
+            "url": "https://www.riotimesonline.com/bharti-airtel-africa-2-9-billion-stake-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Threatens 12.5% Tariffs on Eight African Economies",
+            "url": "https://www.riotimesonline.com/us-tariffs-africa-section-301-eight-economies-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "ExxonMobil Backs South Africa\u2019s First LNG Import Terminal",
+            "url": "https://www.riotimesonline.com/south-africa-lng-terminal-exxonmobil-richards-bay-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mexico Targets Near-Total Power Coverage by 2028 in Rural Push",
             "url": "https://www.riotimesonline.com/mexico-electricity-coverage-plan-99-percent-2028-cfe-energy-justice-2026/",
@@ -678,27 +699,6 @@
             "title": "Carlos Slim\u2019s Phone Giant Quietly Powers a Whole Stock Market",
             "url": "https://www.riotimesonline.com/america-movil-carlos-slim-telecom-profit-brazil-june-2026/",
             "published_at": "2026-06-17T08:25:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Brazilian Fintech IPO Reopens a Long-Shut Window on Wall Street",
-            "url": "https://www.riotimesonline.com/picpay-nasdaq-ipo-brazil-fintech-listing-june-2026/",
-            "published_at": "2026-06-17T08:25:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The World\u2019s Biggest Meat Company Finally Lists in New York",
-            "url": "https://www.riotimesonline.com/jbs-nyse-listing-dual-listing-meat-giant-june-2026/",
-            "published_at": "2026-06-17T08:25:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Lithium Champion Now Wants Copper Too",
-            "url": "https://www.riotimesonline.com/sqm-copper-exploration-ivanhoe-chile-diversification-june-2026/",
-            "published_at": "2026-06-17T08:24:46+00:00",
             "category": [],
             "language": "en"
         }
