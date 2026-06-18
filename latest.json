@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-18T15:10:03+00:00",
+    "updated_at": "2026-06-18T16:10:03+00:00",
     "items": [
+        {
+            "title": "Mexico Slides Seven Places in Global Competitiveness Ranking",
+            "url": "https://www.riotimesonline.com/mexico-imd-competitiveness-ranking-2026-falls-62nd-governance/",
+            "published_at": "2026-06-18T16:01:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Spain\u2019s PLD Space Bets $41M on a Private Launch Pad in French Guiana",
+            "url": "https://www.riotimesonline.com/french-guiana-pld-space-kourou-private-launch-complex-miura-5-june-2026/",
+            "published_at": "2026-06-18T15:57:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Slides to 65th of 70 in IMD Competitiveness Ranking for 2026",
+            "url": "https://www.riotimesonline.com/brazil-imd-competitiveness-ranking-2026-falls-65th-cost-of-capital/",
+            "published_at": "2026-06-18T15:54:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Orders a Caribbean Power Utility Shut Down, Raising Blackout Fears",
+            "url": "https://www.riotimesonline.com/colombia-air-e-liquidation-caribbean-blackout-risk-el-nino-june-2026/",
+            "published_at": "2026-06-18T15:34:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why a Swiss Shareholder Could Sink China\u2019s Bid for Brazil\u2019s Cement Maker CSN",
+            "url": "https://www.riotimesonline.com/csn-cimentos-sale-huaxin-holcim-resistance-china-bid-june-2026/",
+            "published_at": "2026-06-18T15:26:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bharti Airtel Moves to Take Airtel Africa Private in a $2.9 Billion Deal",
             "url": "https://www.riotimesonline.com/bharti-airtel-africa-2-9-billion-stake-2026/",
@@ -664,41 +699,6 @@
             "title": "Cabo Verde \u2013 How a World Cup Save Turned a Tiny Nation Into a Brand Overnight",
             "url": "https://www.riotimesonline.com/cabo-verde-vozinha-world-cup-viral-fame-business-june-2026/",
             "published_at": "2026-06-17T08:44:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s State Bank BNDES Builds a Fund to Pull Foreign Money Into Startups",
-            "url": "https://www.riotimesonline.com/bndes-startup-venture-capital-fund-foreign-investors-brazil-june-2026/",
-            "published_at": "2026-06-17T08:38:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Cinema Boom \u2013 How Two Oscar Runs Rebuilt an Industry",
-            "url": "https://www.riotimesonline.com/brazil-cinema-boom-secret-agent-oscar-film-industry-june-2026/",
-            "published_at": "2026-06-17T08:32:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Retailer Betting on Peru\u2019s Everyday Shopper",
-            "url": "https://www.riotimesonline.com/inretail-peru-supermarkets-pharmacies-consumer-growth-june-2026/",
-            "published_at": "2026-06-17T08:26:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Embraer\u2019s Order Book Hits a Record as the World Buys Its Jets",
-            "url": "https://www.riotimesonline.com/embraer-record-backlog-e2-jet-orders-brazil-june-2026/",
-            "published_at": "2026-06-17T08:26:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Carlos Slim\u2019s Phone Giant Quietly Powers a Whole Stock Market",
-            "url": "https://www.riotimesonline.com/america-movil-carlos-slim-telecom-profit-brazil-june-2026/",
-            "published_at": "2026-06-17T08:25:57+00:00",
             "category": [],
             "language": "en"
         }
