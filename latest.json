@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-18T05:10:03+00:00",
+    "updated_at": "2026-06-18T06:10:03+00:00",
     "items": [
+        {
+            "title": "Brazil Cuts Rates to 14.25% but Toughens Its Inflation Message",
+            "url": "https://www.riotimesonline.com/brazil-cuts-selic-14-25-copom-hawkish-communique-inflation-june-2026/",
+            "published_at": "2026-06-18T06:07:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open June 18: The Fed Kills the Rate-Cut Dream",
+            "url": "https://www.riotimesonline.com/latam-pre-open-june-18-the-fed-kills-the-rate-cut-dream-and-wall-street-tumbles/",
+            "published_at": "2026-06-18T06:05:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Buying Property in Panama as a Foreigner",
+            "url": "https://www.riotimesonline.com/buying-property-panama-2026/",
+            "published_at": "2026-06-18T06:03:47+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Hawkish Fed Tightens the Vise on Brazil\u2019s Rate Cuts",
             "url": "https://www.riotimesonline.com/fed-holds-rates-hawkish-dot-plot-warsh-brazil-real-copom-june-2026/",
@@ -678,27 +699,6 @@
             "title": "Latin America Sports Daily for Tuesday, June 16, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-uruguay-saudi-draw-spain-capeverde-argentina-wc/",
             "published_at": "2026-06-16T11:17:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s State Oil Giant Moves to Take Over a Brazilian Producer",
-            "url": "https://www.riotimesonline.com/ecopetrol-brava-energia-brazil-oil-takeover-tender-june-2026/",
-            "published_at": "2026-06-16T11:13:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Moves to Link Its Grid to Venezuela\u2019s",
-            "url": "https://www.riotimesonline.com/colombia-venezuela-power-grid-interconnection-vichada-june-2026/",
-            "published_at": "2026-06-16T11:05:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "AI Deepfakes Are Already Flooding Brazil\u2019s Election Courts",
-            "url": "https://www.riotimesonline.com/brazil-election-ai-deepfake-lawsuits-tse-lula-flavio-june-2026/",
-            "published_at": "2026-06-16T10:56:16+00:00",
             "category": [],
             "language": "en"
         }
