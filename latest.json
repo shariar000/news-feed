@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-19T17:10:03+00:00",
+    "updated_at": "2026-06-19T18:10:03+00:00",
     "items": [
+        {
+            "title": "Vinicius Junior Hits 500 Games as Brazil Faces Haiti in Philadelphia",
+            "url": "https://www.riotimesonline.com/vinicius-junior-500-games-milestone-ancelotti-world-cup-value-2026/",
+            "published_at": "2026-06-19T18:03:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Knife-Edge Result Contested as S\u00e1nchez Calls Lima March",
+            "url": "https://www.riotimesonline.com/peru-election-2026-sanchez-contests-result-lima-march-june/",
+            "published_at": "2026-06-19T17:59:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TotalEnergies Says No to French Guiana Oil as Paris Moves to Allow It",
+            "url": "https://www.riotimesonline.com/french-guiana-oil-totalenergies-refuses-drilling-ban-2026/",
+            "published_at": "2026-06-19T17:44:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Jamaica Tourism Recovery Hits Growth Phase as Sandals Bets $200M",
+            "url": "https://www.riotimesonline.com/jamaica-tourism-recovery-growth-sandals-200-million-melissa-2026/",
+            "published_at": "2026-06-19T17:24:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Guyana Plans to Turn Its Gas Into an Industry That Outlasts Oil",
+            "url": "https://www.riotimesonline.com/guyana-berbice-gas-industrial-complex-diversification-2026/",
+            "published_at": "2026-06-19T17:21:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "A Canadian Bank Is Quitting the Caribbean in a $1.8 Billion Deal",
             "url": "https://www.riotimesonline.com/butterfield-cibc-caribbean-acquisition-1-8-billion-bank-deal-2026/",
@@ -664,41 +699,6 @@
             "title": "Mexico Slides Seven Places in Global Competitiveness Ranking",
             "url": "https://www.riotimesonline.com/mexico-imd-competitiveness-ranking-2026-falls-62nd-governance/",
             "published_at": "2026-06-18T16:01:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Spain\u2019s PLD Space Bets $41M on a Private Launch Pad in French Guiana",
-            "url": "https://www.riotimesonline.com/french-guiana-pld-space-kourou-private-launch-complex-miura-5-june-2026/",
-            "published_at": "2026-06-18T15:57:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Slides to 65th of 70 in IMD Competitiveness Ranking for 2026",
-            "url": "https://www.riotimesonline.com/brazil-imd-competitiveness-ranking-2026-falls-65th-cost-of-capital/",
-            "published_at": "2026-06-18T15:54:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Orders a Caribbean Power Utility Shut Down, Raising Blackout Fears",
-            "url": "https://www.riotimesonline.com/colombia-air-e-liquidation-caribbean-blackout-risk-el-nino-june-2026/",
-            "published_at": "2026-06-18T15:34:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why a Swiss Shareholder Could Sink China\u2019s Bid for Brazil\u2019s Cement Maker CSN",
-            "url": "https://www.riotimesonline.com/csn-cimentos-sale-huaxin-holcim-resistance-china-bid-june-2026/",
-            "published_at": "2026-06-18T15:26:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bharti Airtel Moves to Take Airtel Africa Private in a $2.9 Billion Deal",
-            "url": "https://www.riotimesonline.com/bharti-airtel-africa-2-9-billion-stake-2026/",
-            "published_at": false,
             "category": [],
             "language": "en"
         }
