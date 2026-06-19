@@ -1,7 +1,140 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-19T15:10:04+00:00",
+    "updated_at": "2026-06-19T16:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina Misses Its MSCI Upgrade Again, Delaying a $1bn Inflow",
+            "url": "https://www.riotimesonline.com/argentina-msci-upgrade-miss-standalone-emerging-market-2026/",
+            "published_at": "2026-06-19T16:05:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Friday, June 19, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-friday-june-19-2026/",
+            "published_at": "2026-06-19T15:56:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Japan Joins the Wall Against Chinese Steel, and Brazil Feels It",
+            "url": "https://www.riotimesonline.com/japan-steel-dumping-probe-china-trade-diversion-brazil-2026/",
+            "published_at": "2026-06-19T15:53:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Friday, June 19, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-friday-june-19-2026/",
+            "published_at": "2026-06-19T15:52:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Hands Its Export Lifeline to a Private Operator at Last",
+            "url": "https://www.riotimesonline.com/argentina-hidrovia-privatization-vnt-jan-de-nul-servimagnus-2026/",
+            "published_at": "2026-06-19T15:37:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Canada\u2019s Quiet Stall: A Flat Quarter the World Overlooked",
+            "url": "https://www.riotimesonline.com/canada-economy-flat-quarter-housing-patient-bank-2026/",
+            "published_at": "2026-06-19T15:37:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Brazil Bars and Restaurants Eye Record $469M Haul",
+            "url": "https://www.riotimesonline.com/world-cup-2026-brazil-bars-restaurants-record-consumption-cnc-june-2026/",
+            "published_at": "2026-06-19T15:25:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana Local Content Push Targets Expat-Level Pay for Oil Workers",
+            "url": "https://www.riotimesonline.com/guyana-local-content-oil-worker-pay-parity-rent-a-citizen-crackdown-2026/",
+            "published_at": "2026-06-19T15:25:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China\u2019s 55% Beef Tariff Hits Australia First, Brazil Next in Line",
+            "url": "https://www.riotimesonline.com/china-beef-tariff-australia-quota-trigger-brazil-next-2026/",
+            "published_at": "2026-06-19T15:25:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Economy Underneath the Noise: America\u2019s Quiet Freeze",
+            "url": "https://www.riotimesonline.com/us-economy-quiet-freeze-labor-housing-2026/",
+            "published_at": "2026-06-19T15:16:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chips Come Home? The US Reshoring Bet and Its Limits",
+            "url": "https://www.riotimesonline.com/us-chip-reshoring-apple-intel-bet-limits-2026/",
+            "published_at": "2026-06-19T15:16:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Currency Tell: When Asia\u2019s Story Moved to Exchange Rates",
+            "url": "https://www.riotimesonline.com/asia-currency-tell-japan-yen-korea-won-2026/",
+            "published_at": "2026-06-19T15:16:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Warsh Doctrine: A New Fed Chair Remakes the Institution",
+            "url": "https://www.riotimesonline.com/warsh-doctrine-fed-communication-overhaul-emerging-markets-2026/",
+            "published_at": "2026-06-19T15:16:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The ECB\u2019s Hard Choice: Hiking Into a Weakening Economy",
+            "url": "https://www.riotimesonline.com/ecb-rate-hike-stagflation-bind-eurozone-2026/",
+            "published_at": "2026-06-19T15:16:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Two Speeds: Asia\u2019s Great Central-Bank Divergence",
+            "url": "https://www.riotimesonline.com/asia-central-bank-divergence-philippines-china-rates-2026/",
+            "published_at": "2026-06-19T15:16:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Learns to Set Its Own Price",
+            "url": "https://www.riotimesonline.com/africa-price-setter-cocoa-coordination-resource-sovereignty-2026/",
+            "published_at": "2026-06-19T15:16:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Power Meets the Law: Africa\u2019s Governance Ledger",
+            "url": "https://www.riotimesonline.com/africa-governance-ledger-diezani-acquittal-zimbabwe-term-2026/",
+            "published_at": "2026-06-19T15:16:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Germany\u2019s Industrial Reckoning: When Europe\u2019s Engine Stalls",
+            "url": "https://www.riotimesonline.com/germany-industrial-reckoning-europe-manufacturing-decline-2026/",
+            "published_at": "2026-06-19T15:16:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Chips Rewrote Asia\u2019s Map: Taiwan and Korea Eclipse the Giants",
+            "url": "https://www.riotimesonline.com/asia-chip-reordering-taiwan-korea-markets-india-china-2026/",
+            "published_at": "2026-06-19T15:15:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Will Neymar Play a Single Minute at the 2026 World Cup?",
             "url": "https://www.riotimesonline.com/neymar-world-cup-2026-will-he-play-injury-scotland-brazil/",
@@ -566,139 +699,6 @@
             "title": "Doing Business in Panama: Company Setup for Foreigners",
             "url": "https://www.riotimesonline.com/doing-business-panama-2026/",
             "published_at": "2026-06-18T11:05:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Wednesday, June 18, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-colombia-win-portugal-draw-brazil-haiti-friday/",
-            "published_at": "2026-06-18T10:58:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Distressed Farms Flood Brazil\u2019s Auctions as the Debt Crisis Deepens",
-            "url": "https://www.riotimesonline.com/brazil-farmland-auctions-surge-rural-debt-crisis-2026/",
-            "published_at": "2026-06-18T10:52:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Canacol Nears Liquidation as Colombia\u2019s Top Gas Producer Runs Dry",
-            "url": "https://www.riotimesonline.com/canacol-energy-liquidation-colombia-gas-sale-deadline-2026/",
-            "published_at": "2026-06-18T10:45:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Thursday, June 18, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-thursday-june-18-2026/",
-            "published_at": "2026-06-18T10:23:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Thursday, June 18, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-june-18-2026/",
-            "published_at": "2026-06-18T10:09:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Permanent Residency and Citizenship in Panama",
-            "url": "https://www.riotimesonline.com/permanent-residency-citizenship-panama-2026/",
-            "published_at": "2026-06-18T10:04:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "No Bidders Show for Oi\u2019s Last Big Asset as Telecom Wind-Down Stalls",
-            "url": "https://www.riotimesonline.com/oi-solucoes-auction-no-bidders-failed-sale-telecom-wind-down-june-2026/",
-            "published_at": "2026-06-18T09:54:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Banks Fight Foreign Bondholders Over Ambipar in US Court",
-            "url": "https://www.riotimesonline.com/ambipar-brazilian-banks-houston-court-bondholders-chapter-11-june-2026/",
-            "published_at": "2026-06-18T09:40:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup Windfall Falls Short in Mexico\u2019s Three Host Cities",
-            "url": "https://www.riotimesonline.com/world-cup-2026-mexico-windfall-falls-short-host-cities-hotels-moodys-june-2026/",
-            "published_at": "2026-06-18T09:35:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Braskem Moves to Skip Bond Payments as a New Owner Takes Control",
-            "url": "https://www.riotimesonline.com/braskem-edges-toward-restructuring/",
-            "published_at": "2026-06-18T09:22:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Makes Telecom Shed 6 Million Customers to Buy Telef\u00f3nica",
-            "url": "https://www.riotimesonline.com/argentina-telecom-telefonica-merger-conditions-6-million-customers-clarin-june-2026/",
-            "published_at": "2026-06-18T09:14:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale\u2019s New Brazil Mine Scare Wasn\u2019t the Dam Disaster It Looked Like",
-            "url": "https://www.riotimesonline.com/vale-manages-a-new-minas-gerais-scare/",
-            "published_at": "2026-06-18T09:11:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Ecuador Became Latin America\u2019s Deadliest Country and a War Zone",
-            "url": "https://www.riotimesonline.com/ecuador-drug-war-us-military-narco-gangs-background-2026/",
-            "published_at": "2026-06-18T09:02:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Navy Gains Its Second-Biggest Warship as British Ship Lands",
-            "url": "https://www.riotimesonline.com/brazil-navy-ndm-oiapoque-british-warship-arrival-june-2026/",
-            "published_at": "2026-06-18T09:02:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LATAM Posts a Record Quarter, Then Trims Flights as Fuel Spikes",
-            "url": "https://www.riotimesonline.com/latam-posts-a-record-quarter-then-trims-flights-as-fuel-spikes/",
-            "published_at": "2026-06-18T08:43:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Embraer\u2019s Flying-Taxi Bet Slips to 2028",
-            "url": "https://www.riotimesonline.com/embraers-flying-taxi-bet-slips-to-2028/",
-            "published_at": "2026-06-18T08:32:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Retiring in Panama: The Pensionado Route",
-            "url": "https://www.riotimesonline.com/retiring-in-panama-pensionado-2026/",
-            "published_at": "2026-06-18T08:22:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Mexican Sculptor\u2019s Survey Anchors S\u00e3o Paulo\u2019s Big Latin Art Year",
-            "url": "https://www.riotimesonline.com/damian-ortega-masp-sao-paulo-survey-latin-american-art-2026/",
-            "published_at": "2026-06-18T08:21:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How the Caribbean Turned Reggae and Carnival Into a Tourism Engine",
-            "url": "https://www.riotimesonline.com/caribbean-music-tourism-strategy-jamaica-reggae-sumfest-2026/",
-            "published_at": "2026-06-18T08:21:13+00:00",
             "category": [],
             "language": "en"
         }
