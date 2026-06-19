@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-19T11:10:03+00:00",
+    "updated_at": "2026-06-19T12:10:03+00:00",
     "items": [
+        {
+            "title": "Will Neymar Play a Single Minute at the 2026 World Cup?",
+            "url": "https://www.riotimesonline.com/neymar-world-cup-2026-will-he-play-injury-scotland-brazil/",
+            "published_at": "2026-06-19T11:14:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay\u2019s World Cup Hangs on One Night Against Turkey",
+            "url": "https://www.riotimesonline.com/paraguay-world-cup-2026-turkey-must-win-alfaro-crossroads/",
+            "published_at": "2026-06-19T11:11:19+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Oil Money Is Building Guyana a Real Military From Scratch",
             "url": "https://www.riotimesonline.com/guyana-defence-force-oil-funded-military-modernization-2026/",
@@ -685,20 +699,6 @@
             "title": "How the Caribbean Turned Reggae and Carnival Into a Tourism Engine",
             "url": "https://www.riotimesonline.com/caribbean-music-tourism-strategy-jamaica-reggae-sumfest-2026/",
             "published_at": "2026-06-18T08:21:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "MercadoLibre\u2019s Post-Founder Era Opens at Full Sprint",
-            "url": "https://www.riotimesonline.com/mercadolibres-post-founder-era-opens-at-full-sprint/",
-            "published_at": "2026-06-18T08:17:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Egypt Joins the African Pooled Procurement Plan, and Will Host It",
-            "url": "https://www.riotimesonline.com/egypt-african-pooled-procurement-medicines-2026/",
-            "published_at": false,
             "category": [],
             "language": "en"
         }
