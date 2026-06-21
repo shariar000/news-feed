@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-21T22:10:34+00:00",
+    "updated_at": "2026-06-21T23:10:04+00:00",
     "items": [
+        {
+            "title": "De la Espriella Wins Colombia Election, Markets Cheer a Fiscal Squeeze",
+            "url": "https://www.riotimesonline.com/de-la-espriella-wins-colombia-election-markets-cheer-a-fiscal-squeeze/",
+            "published_at": "2026-06-21T23:03:14+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Spain Crush Saudi Arabia 4-0 to Top Group H",
             "url": "https://www.riotimesonline.com/world-cup-2026-spain-saudi-arabia-4-0/",
@@ -692,13 +699,6 @@
             "title": "Africa Intelligence Brief \u2014 Friday, June 19, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-africa-sets-its-own-terms-june-19/",
             "published_at": "2026-06-19T16:10:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Misses Its MSCI Upgrade Again, Delaying a $1bn Inflow",
-            "url": "https://www.riotimesonline.com/argentina-msci-upgrade-miss-standalone-emerging-market-2026/",
-            "published_at": "2026-06-19T16:05:59+00:00",
             "category": [],
             "language": "en"
         }
