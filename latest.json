@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-21T12:10:04+00:00",
+    "updated_at": "2026-06-21T13:10:04+00:00",
     "items": [
+        {
+            "title": "Nigeria\u2019s Aradel Triples Profit as Western Oil Majors Retreat",
+            "url": "https://www.riotimesonline.com/aradel-holdings-profit-192-percent-2025-acquisitions-2026/",
+            "published_at": "2026-06-21T12:33:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Net-Firing Drones Will Guard the 2026 World Cup\u2019s US Stadiums",
             "url": "https://www.riotimesonline.com/world-cup-2026-drone-defense-fortem-dronehunter-us-venues/",
@@ -692,13 +699,6 @@
             "title": "Africa Learns to Set Its Own Price",
             "url": "https://www.riotimesonline.com/africa-price-setter-cocoa-coordination-resource-sovereignty-2026/",
             "published_at": "2026-06-19T15:16:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Power Meets the Law: Africa\u2019s Governance Ledger",
-            "url": "https://www.riotimesonline.com/africa-governance-ledger-diezani-acquittal-zimbabwe-term-2026/",
-            "published_at": "2026-06-19T15:16:10+00:00",
             "category": [],
             "language": "en"
         }
