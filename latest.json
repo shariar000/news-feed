@@ -1,9 +1,44 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-21T13:10:04+00:00",
+    "updated_at": "2026-06-21T14:10:03+00:00",
     "items": [
         {
-            "title": "Nigeria\u2019s Aradel Triples Profit as Western Oil Majors Retreat",
+            "title": "Morocco and Egypt Join Forces to Build a Factory Bloc",
+            "url": "https://www.riotimesonline.com/morocco-egypt-partnership-industrial-integration-2026/",
+            "published_at": "2026-06-21T13:24:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa\u2019s Bank Backs Uganda\u2019s Arua Airport in a \u20ac156M Bet",
+            "url": "https://www.riotimesonline.com/afdb-arua-airport-uganda-upgrade-2026/",
+            "published_at": "2026-06-21T13:24:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenya Lines Up a $750M World Bank Loan, Tied to Reform",
+            "url": "https://www.riotimesonline.com/kenya-world-bank-750-million-loan-reforms-2026/",
+            "published_at": "2026-06-21T13:24:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa\u2019s Energy Bank Launches as the West Stops Lending",
+            "url": "https://www.riotimesonline.com/africa-energy-bank-launch-oil-gas-financing-2026/",
+            "published_at": "2026-06-21T13:24:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Absa Bets $239M on Fuller Control of Its Kenyan Bank",
+            "url": "https://www.riotimesonline.com/absa-bank-kenya-stake-tender-2026/",
+            "published_at": "2026-06-21T13:24:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria\u2019s Aradel Triples Profit as Oil Majors Retreat",
             "url": "https://www.riotimesonline.com/aradel-holdings-profit-192-percent-2025-acquisitions-2026/",
             "published_at": "2026-06-21T12:33:10+00:00",
             "category": [],
@@ -664,41 +699,6 @@
             "title": "Chips Come Home? The US Reshoring Bet and Its Limits",
             "url": "https://www.riotimesonline.com/us-chip-reshoring-apple-intel-bet-limits-2026/",
             "published_at": "2026-06-19T15:16:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Currency Tell: When Asia\u2019s Story Moved to Exchange Rates",
-            "url": "https://www.riotimesonline.com/asia-currency-tell-japan-yen-korea-won-2026/",
-            "published_at": "2026-06-19T15:16:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Warsh Doctrine: A New Fed Chair Remakes the Institution",
-            "url": "https://www.riotimesonline.com/warsh-doctrine-fed-communication-overhaul-emerging-markets-2026/",
-            "published_at": "2026-06-19T15:16:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The ECB\u2019s Hard Choice: Hiking Into a Weakening Economy",
-            "url": "https://www.riotimesonline.com/ecb-rate-hike-stagflation-bind-eurozone-2026/",
-            "published_at": "2026-06-19T15:16:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Two Speeds: Asia\u2019s Great Central-Bank Divergence",
-            "url": "https://www.riotimesonline.com/asia-central-bank-divergence-philippines-china-rates-2026/",
-            "published_at": "2026-06-19T15:16:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Learns to Set Its Own Price",
-            "url": "https://www.riotimesonline.com/africa-price-setter-cocoa-coordination-resource-sovereignty-2026/",
-            "published_at": "2026-06-19T15:16:15+00:00",
             "category": [],
             "language": "en"
         }
