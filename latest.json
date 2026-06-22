@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-22T08:10:03+00:00",
+    "updated_at": "2026-06-22T09:10:03+00:00",
     "items": [
+        {
+            "title": "Mexico Is Quietly Winning Back Its Looted Ancient Treasures",
+            "url": "https://www.riotimesonline.com/mexico-repatriation-pre-columbian-artifacts-heritage-2026/",
+            "published_at": "2026-06-22T09:07:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Suriname Struck Oil \u2014 Now the Fight Is Who Keeps the Money",
+            "url": "https://www.riotimesonline.com/suriname-local-content-seogs-2026-no-law-granmorgu/",
+            "published_at": "2026-06-22T08:59:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ramiro Vald\u00e9s, One of the Last Men Who Sailed With Cuba\u2019s Castro Has Died",
+            "url": "https://www.riotimesonline.com/ramiro-valdes-cuban-revolution-commander-dies-94-2026/",
+            "published_at": "2026-06-22T08:37:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Loser Cepeda Wants 33,000 Tables Recounted. Will It Matter?",
+            "url": "https://www.riotimesonline.com/colombia-election-cepeda-impugnacion-escrutinio-transition-2026/",
+            "published_at": "2026-06-22T08:31:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Wants to Put Ozempic-Style Drugs in Its Public Clinics",
+            "url": "https://www.riotimesonline.com/brazil-sus-weight-loss-drugs-ozempic-pilot-glp1-2026/",
+            "published_at": "2026-06-22T08:19:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold and Silver Bounce Off Their Lows as the Dollar Eases",
+            "url": "https://www.riotimesonline.com/gold-silver-bounce-dollar-eases-june-22-2026/",
+            "published_at": "2026-06-22T08:13:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Steadies Near $64,000 but the Bounce Looks Shallow",
+            "url": "https://www.riotimesonline.com/bitcoin-steadies-near-64000-but-the-bounce-looks-shallow/",
+            "published_at": "2026-06-22T08:11:28+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa\u2019s Trade Tops $1.5 Trillion, Outpacing the World",
             "url": "https://www.riotimesonline.com/african-trade-report-1-5-trillion-2026/",
@@ -650,55 +699,6 @@
             "title": "S\u00e3o Paulo Daily Brief for Saturday, June 20, 2026",
             "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-june-20-2026/",
             "published_at": "2026-06-20T07:21:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Saturday, June 20, 2026",
-            "url": "https://www.riotimesonline.com/latlatin-america-sports-daily-for-saturday-june-20-2026/",
-            "published_at": "2026-06-20T07:20:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Saturday, June 20, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-june-20-2026/",
-            "published_at": "2026-06-20T07:20:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Markets Bet on a Pro-Business Win Before Sunday\u2019s Vote",
-            "url": "https://www.riotimesonline.com/colombia-runoff-markets-peso-bvc-de-la-espriella-cepeda-2026/",
-            "published_at": "2026-06-20T07:16:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Falls Again as Its One Tailwind Slips Away",
-            "url": "https://www.riotimesonline.com/bitcoin-crypto-falls-iran-deal-rates-june-19-2026/",
-            "published_at": "2026-06-20T07:14:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Fall Again as Rates Beat War Once More",
-            "url": "https://www.riotimesonline.com/gold-silver-fall-rates-june-19-2026/",
-            "published_at": "2026-06-20T07:12:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Stock Market Climbs a Second Day as Copper Holds Firm",
-            "url": "https://www.riotimesonline.com/chile-stock-market-climbs-june-19-2026/",
-            "published_at": "2026-06-20T07:08:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Stock Market Pulls Back From Records Before a Key Ruling",
-            "url": "https://www.riotimesonline.com/argentina-stock-market-pulls-back-june-19-2026/",
-            "published_at": "2026-06-20T07:04:34+00:00",
             "category": [],
             "language": "en"
         }
