@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-22T07:10:03+00:00",
+    "updated_at": "2026-06-22T08:10:03+00:00",
     "items": [
+        {
+            "title": "Africa\u2019s Trade Tops $1.5 Trillion, Outpacing the World",
+            "url": "https://www.riotimesonline.com/african-trade-report-1-5-trillion-2026/",
+            "published_at": "2026-06-22T07:26:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa\u2019s Record 10 Teams at the 2026 World Cup",
+            "url": "https://www.riotimesonline.com/african-teams-2026-world-cup-record-ten/",
+            "published_at": "2026-06-22T07:20:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dangote Says His Refinery Alone Is Worth $40 Billion",
+            "url": "https://www.riotimesonline.com/dangote-refinery-valuation-40-billion-2026/",
+            "published_at": "2026-06-22T07:20:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Richemont\u2019s Record Year Can\u2019t Shake Its China Risk",
+            "url": "https://www.riotimesonline.com/richemont-record-year-china-risk-2026/",
+            "published_at": "2026-06-22T07:20:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ethiopia Nears Its First Stock Index, Opening to Investors",
             "url": "https://www.riotimesonline.com/ethiopian-securities-exchange-first-index-2026/",
@@ -671,34 +699,6 @@
             "title": "Argentina\u2019s Stock Market Pulls Back From Records Before a Key Ruling",
             "url": "https://www.riotimesonline.com/argentina-stock-market-pulls-back-june-19-2026/",
             "published_at": "2026-06-20T07:04:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Stock Market Slides a Third Day as the Dollar Bites",
-            "url": "https://www.riotimesonline.com/mexico-stock-market-slides-june-19-2026/",
-            "published_at": "2026-06-20T07:02:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stock Market Soars Past 2,500 in a Pre-Runoff Surge",
-            "url": "https://www.riotimesonline.com/colombia-stock-market-soars-june-19-2026/",
-            "published_at": "2026-06-20T07:01:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Stock Market Holds Flat as It Steadies on Key Support",
-            "url": "https://www.riotimesonline.com/brazil-stock-market-flat-june-19-2026/",
-            "published_at": "2026-06-20T06:55:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 June 20, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-june-20-2026/",
-            "published_at": "2026-06-20T06:47:49+00:00",
             "category": [],
             "language": "en"
         }
