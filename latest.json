@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-22T11:10:04+00:00",
+    "updated_at": "2026-06-22T12:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Illiteracy Rate Falls Below 5% for the First Time on Record",
+            "url": "https://www.riotimesonline.com/brazil-illiteracy-rate-below-5-percent-record-low-ibge-2025/",
+            "published_at": "2026-06-22T11:24:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Segalmex: Mexico Fines Ex-Officials $40m Over Its Biggest Corruption Scandal",
+            "url": "https://www.riotimesonline.com/mexico-segalmex-corruption-sanction-777-million-pesos-officials-2026/",
+            "published_at": "2026-06-22T11:22:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Vaca Muerta Has a Waste Problem Growing Faster Than Its Boom",
             "url": "https://www.riotimesonline.com/vaca-muerta-fracking-waste-treatment-capacity-argentina-2026/",
@@ -685,20 +699,6 @@
             "title": "Switzerland Falls, Hong Kong Rises: The Wealth Crown Changes Hands",
             "url": "https://www.riotimesonline.com/hong-kong-overtakes-switzerland-cross-border-wealth-hub-2026/",
             "published_at": "2026-06-20T08:37:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Central Bank Turns More Upbeat, Lifting Its Growth Forecast",
-            "url": "https://www.riotimesonline.com/peru-central-bank-raises-growth-forecast-private-investment-2026/",
-            "published_at": "2026-06-20T08:25:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cuba Approves Its Biggest Economic Overhaul Since the Revolution",
-            "url": "https://www.riotimesonline.com/cuba-economic-reforms-approved-assembly-private-banks-2026/",
-            "published_at": "2026-06-20T08:10:01+00:00",
             "category": [],
             "language": "en"
         }
