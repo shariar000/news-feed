@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-22T13:10:06+00:00",
+    "updated_at": "2026-06-22T14:10:03+00:00",
     "items": [
+        {
+            "title": "Petrobras Bets $1.2 Billion on Jet Fuel Made From Plants",
+            "url": "https://www.riotimesonline.com/petrobras-biorefining-rpbc-bio-jet-fuel-renewable-diesel-2026/",
+            "published_at": "2026-06-22T14:09:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Teams Up With Equinor to Drill a New Campos Frontier",
+            "url": "https://www.riotimesonline.com/petrobras-equinor-itaimbezinho-campos-basin-block-2026/",
+            "published_at": "2026-06-22T14:08:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oxxo, Mexico\u2019s Biggest Convenience Chain, Bets It Can Become a Major Lender",
+            "url": "https://www.riotimesonline.com/femsa-spin-oxxo-qed-lending-bank-licence-2026/",
+            "published_at": "2026-06-22T13:59:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay: South America\u2019s Quiet Economic Miracle, Explained",
+            "url": "https://www.riotimesonline.com/paraguay-economy-2026-pillar-guide-investors/",
+            "published_at": "2026-06-22T13:44:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Wants Into the Rich Countries\u2019 Club, and Fast",
+            "url": "https://www.riotimesonline.com/paraguay-oecd-accession-investment-grade-growth-2026/",
+            "published_at": "2026-06-22T13:39:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay\u2019s Biggest-Ever Investment Hangs on the Price of Power",
+            "url": "https://www.riotimesonline.com/uruguay-hif-global-e-fuels-energy-price-deadline-2026/",
+            "published_at": "2026-06-22T13:32:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Lifts Its Growth Forecast Even as the Mining Boom Stalls",
+            "url": "https://www.riotimesonline.com/peru-economy-bcrp-growth-forecast-mining-flat-2026/",
+            "published_at": "2026-06-22T13:26:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Suriname Accused of Spending Its Oil Windfall Before the First Barrel",
+            "url": "https://www.riotimesonline.com/suriname-budget-deficit-dispute-economists-oil-revenue-2026/",
+            "published_at": "2026-06-22T13:11:27+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Illiteracy Rate Falls Below 5% for the First Time on Record",
             "url": "https://www.riotimesonline.com/brazil-illiteracy-rate-below-5-percent-record-low-ibge-2025/",
@@ -643,62 +699,6 @@
             "title": "Argentina Wants to Rearm Its Military, but the Money Is Not There",
             "url": "https://www.riotimesonline.com/argentina-defense-spending-plan-arma-milei-budget-lowest-2026/",
             "published_at": "2026-06-20T09:53:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Shell-Backed Ra\u00edzen Sells Its Argentina Fuel Arm to Mercuria",
-            "url": "https://www.riotimesonline.com/raizen-sells-argentina-downstream-mercuria-shell-deleveraging-2026/",
-            "published_at": "2026-06-20T09:46:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Foreign Buyers Are Snapping Up Rio Studios, and Rents Are Climbing",
-            "url": "https://www.riotimesonline.com/rio-foreign-buyers-studios-airbnb-rent-surge-regulation-2026/",
-            "published_at": "2026-06-20T09:21:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Art Is Having Its Moment, at Auction and in Museums",
-            "url": "https://www.riotimesonline.com/latin-american-art-market-boom-auction-records-museums-2026/",
-            "published_at": "2026-06-20T09:21:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How a Brazilian YouTuber Out-Bid TV Giants for Football Rights",
-            "url": "https://www.riotimesonline.com/cazetv-casimiro-brazil-football-rights-creator-economy-2026/",
-            "published_at": "2026-06-20T09:20:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Netflix Turned Macondo Real, and Tourists Are Flocking to Aracataca",
-            "url": "https://www.riotimesonline.com/aracataca-macondo-garcia-marquez-netflix-literary-tourism-2026/",
-            "published_at": "2026-06-20T09:20:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Elliott Buys Into Braskem\u2019s Debt, Raising the Stakes in Its Rescue",
-            "url": "https://www.riotimesonline.com/braskem-elliott-svp-debt-restructuring-creditors-2026/",
-            "published_at": "2026-06-20T08:56:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Key Audit Clears the Path to Reopen Panama\u2019s Giant Copper Mine",
-            "url": "https://www.riotimesonline.com/cobre-panama-audit-first-quantum-restart-compliance-2026/",
-            "published_at": "2026-06-20T08:40:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Switzerland Falls, Hong Kong Rises: The Wealth Crown Changes Hands",
-            "url": "https://www.riotimesonline.com/hong-kong-overtakes-switzerland-cross-border-wealth-hub-2026/",
-            "published_at": "2026-06-20T08:37:53+00:00",
             "category": [],
             "language": "en"
         }
