@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-22T05:10:03+00:00",
+    "updated_at": "2026-06-22T06:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Monday, June 22, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-june-22-2026/",
+            "published_at": "2026-06-22T05:56:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, June 22, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-june-22-2026/",
+            "published_at": "2026-06-22T05:47:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Stock Market Edges Up as It Shrugs Off a Stronger Dollar",
+            "url": "https://www.riotimesonline.com/chile-stock-market-edges-up-june-18-2026/",
+            "published_at": "2026-06-22T05:30:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Stock Market Hits a Fresh Record on Index-Upgrade Hopes",
+            "url": "https://www.riotimesonline.com/argentina-stock-market-record-june-18-2026/",
+            "published_at": "2026-06-22T05:26:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Stock Market Ends Flat as a Rebound Fades and the Dollar Stays Firm",
+            "url": "https://www.riotimesonline.com/mexico-stock-market-flat-june-18-2026/",
+            "published_at": "2026-06-22T05:23:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Stock Market Surges to a Fresh High as Banks Lead Before the Vote",
+            "url": "https://www.riotimesonline.com/colombia-stock-market-surges-june-18-2026/",
+            "published_at": "2026-06-22T05:21:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Friday, June 19, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-june-19-2026/",
+            "published_at": "2026-06-22T05:09:06+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "De la Espriella Wins Colombia Election, Markets Cheer a Fiscal Squeeze",
             "url": "https://www.riotimesonline.com/de-la-espriella-wins-colombia-election-markets-cheer-a-fiscal-squeeze/",
@@ -650,55 +699,6 @@
             "title": "Jamaica Tourism Recovery Hits Growth Phase as Sandals Bets $200M",
             "url": "https://www.riotimesonline.com/jamaica-tourism-recovery-growth-sandals-200-million-melissa-2026/",
             "published_at": "2026-06-19T17:24:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Guyana Plans to Turn Its Gas Into an Industry That Outlasts Oil",
-            "url": "https://www.riotimesonline.com/guyana-berbice-gas-industrial-complex-diversification-2026/",
-            "published_at": "2026-06-19T17:21:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Canadian Bank Is Quitting the Caribbean in a $1.8 Billion Deal",
-            "url": "https://www.riotimesonline.com/butterfield-cibc-caribbean-acquisition-1-8-billion-bank-deal-2026/",
-            "published_at": "2026-06-19T17:00:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A $3 Billion Argentine Lithium Project Is Hunting a Third Backer",
-            "url": "https://www.riotimesonline.com/ganfeng-lithium-argentina-ppg-third-investor-salta-2026/",
-            "published_at": "2026-06-19T16:58:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Friday, June 19, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-canada-takes-the-stage-june-19/",
-            "published_at": "2026-06-19T16:38:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Friday, June 19, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-the-industrial-reckoning-june-19/",
-            "published_at": "2026-06-19T16:28:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia & Pacific Intelligence Brief \u2014 Friday, June 19, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-asias-new-pecking-order-june-19/",
-            "published_at": "2026-06-19T16:19:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Friday, June 19, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-africa-sets-its-own-terms-june-19/",
-            "published_at": "2026-06-19T16:10:35+00:00",
             "category": [],
             "language": "en"
         }
