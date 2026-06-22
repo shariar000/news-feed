@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-22T17:10:03+00:00",
+    "updated_at": "2026-06-22T18:10:04+00:00",
     "items": [
+        {
+            "title": "A New Tourism Playbook Tells Governments How to Attract Investors",
+            "url": "https://www.riotimesonline.com/wttc-tourism-investment-seven-principles-2026/",
+            "published_at": "2026-06-22T18:02:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Monday, June 22, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-american-machine-in-motion-june-22/",
+            "published_at": "2026-06-22T17:25:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Monday, June 22, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-south-climbs-north-splits-june-22/",
+            "published_at": "2026-06-22T17:12:55+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Asia & Pacific Intelligence Brief \u2014 Monday, June 22, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-china-strikes-back-june-22/",
@@ -678,27 +699,6 @@
             "title": "Latin America Sports Daily for Sunday, June 21, 2026",
             "url": "https://www.riotimesonline.com/latam-sports-ecuador-0-0-curacao-15-shots-must-beat-germany/",
             "published_at": "2026-06-21T07:03:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Sunday, June 21, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-sunday-june-21-2026/",
-            "published_at": "2026-06-21T06:56:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Sunday, June 21, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-june-21-2026/",
-            "published_at": "2026-06-21T06:51:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Guide for Saturday, June 20, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-june-20-2026/",
-            "published_at": "2026-06-20T15:58:00+00:00",
             "category": [],
             "language": "en"
         }
