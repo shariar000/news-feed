@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-22T23:10:03+00:00",
+    "updated_at": "2026-06-23T01:10:03+00:00",
     "items": [
+        {
+            "title": "OPay Lines Up a $4 Billion US Listing From Lagos",
+            "url": "https://www.riotimesonline.com/opay-nigeria-us-ipo-4-billion-2026/",
+            "published_at": "2026-06-23T00:33:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "America\u2019s Split Economy: The Boom and the Worker",
             "url": "https://www.riotimesonline.com/america-split-economy-boom-worker-disconnect-2026/",
@@ -692,13 +699,6 @@
             "title": "Vale\u2019s Top Shareholder Sets July 22 Vote to Oust Its Chairman",
             "url": "https://www.riotimesonline.com/vale-board-previ-oust-chairman-stieler-july-vote-2026/",
             "published_at": "2026-06-21T07:49:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador vs Germany: What Beating Germany Would Actually Take",
-            "url": "https://www.riotimesonline.com/ecuador-germany-june-25-world-cup-what-a-win-would-require-2026/",
-            "published_at": "2026-06-21T07:27:03+00:00",
             "category": [],
             "language": "en"
         }
