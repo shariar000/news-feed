@@ -1,7 +1,84 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-23T16:10:04+00:00",
+    "updated_at": "2026-06-23T17:10:04+00:00",
     "items": [
+        {
+            "title": "Asia & Pacific Intelligence Brief \u2014 Tuesday, June 23, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-the-reckoning-june-23/",
+            "published_at": "2026-06-23T17:02:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Tuesday, June 23, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-one-shock-two-africas-june-23/",
+            "published_at": "2026-06-23T16:56:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Tuesday, June 23, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-tuesday-june-23-2026/",
+            "published_at": "2026-06-23T16:36:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Police Raid Digimais, the Bank of Brazil\u2019s Most Powerful Bishop",
+            "url": "https://www.riotimesonline.com/digimais-edir-macedo-federal-police-operacao-miragem-2026/",
+            "published_at": "2026-06-23T16:27:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "EU\u2019s Brazil Rare-Earth Push Turns From Politics to Deals",
+            "url": "https://www.riotimesonline.com/eu-brazil-rare-earth-sikela-viridis-solvay-2026/",
+            "published_at": "2026-06-23T16:27:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Farm Rio May Be Worth More Than the Group That Owns It",
+            "url": "https://www.riotimesonline.com/farm-rio-brand-valuation-azzas-morgan-stanley-2026/",
+            "published_at": "2026-06-23T16:26:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Yuan Bond Anchors a Wider Money Mission in China",
+            "url": "https://www.riotimesonline.com/brazil-china-finance-mission-yuan-bond-durigan-2026/",
+            "published_at": "2026-06-23T16:26:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "YPF Signs McDonald\u2019s Deal to Turn Argentina\u2019s Gas Stations Into Shops",
+            "url": "https://www.riotimesonline.com/ypf-mcdonalds-argentina-service-stations-retail-pivot-2026/",
+            "published_at": "2026-06-23T16:26:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Cali Factory That Beat Asia to Make Colombia\u2019s World Cup Shirt",
+            "url": "https://www.riotimesonline.com/supertex-cali-colombia-world-cup-shirt-adidas-2026/",
+            "published_at": "2026-06-23T16:26:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Bets Billions on AI Data Centers Its Power Grid May Not Feed",
+            "url": "https://www.riotimesonline.com/mexico-data-centers-power-grid-constraint-sener-2026/",
+            "published_at": "2026-06-23T16:25:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Tuesday, June 23, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-tuesday-june-23-2026/",
+            "published_at": "2026-06-23T16:19:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa Oy\u00e9 Brings the Continent\u2019s Music to Liverpool",
             "url": "https://www.riotimesonline.com/africa-oye-festival-liverpool-2026/",
@@ -195,13 +272,6 @@
             "title": "Why Brazil\u2019s Oil Giant Petrobras Is Suddenly Chasing Battery Metals",
             "url": "https://www.riotimesonline.com/petrobras-bndes-critical-minerals-battery-metals-2026/",
             "published_at": "2026-06-23T08:27:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Church-Owned Bank Digimais Is the Next Test of Brazil\u2019s Master Crisis",
-            "url": "https://www.riotimesonline.com/digimais-fitch-downgrade-master-contagion-2026/",
-            "published_at": "2026-06-23T08:17:24+00:00",
             "category": [],
             "language": "en"
         },
@@ -629,76 +699,6 @@
             "title": "Brazil\u2019s Illiteracy Rate Falls Below 5% for the First Time on Record",
             "url": "https://www.riotimesonline.com/brazil-illiteracy-rate-below-5-percent-record-low-ibge-2025/",
             "published_at": "2026-06-22T11:24:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Segalmex: Mexico Fines Ex-Officials $40m Over Its Biggest Corruption Scandal",
-            "url": "https://www.riotimesonline.com/mexico-segalmex-corruption-sanction-777-million-pesos-officials-2026/",
-            "published_at": "2026-06-22T11:22:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vaca Muerta Has a Waste Problem Growing Faster Than Its Boom",
-            "url": "https://www.riotimesonline.com/vaca-muerta-fracking-waste-treatment-capacity-argentina-2026/",
-            "published_at": "2026-06-22T11:05:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay\u2019s Missing Spine: The Number Behind Two World Cup Draws",
-            "url": "https://www.riotimesonline.com/uruguay-arrascaeta-araujo-injury-cost-spain-world-cup-2026/",
-            "published_at": "2026-06-22T10:59:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama\u2019s Tocumen Airport Nears 10 Million Passengers and Widens Its Hub Lead",
-            "url": "https://www.riotimesonline.com/panama-tocumen-airport-passengers-hub-americas-2026/",
-            "published_at": "2026-06-22T10:49:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Expats and Nomads: Your City Voted Against Colombia\u2019s New President",
-            "url": "https://www.riotimesonline.com/colombia-election-map-cities-voted-left-expats-2026/",
-            "published_at": "2026-06-22T10:44:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Water Problem Sits Under Capstone\u2019s Chile Copper Expansion",
-            "url": "https://www.riotimesonline.com/chile-capstone-mantos-blancos-groundwater-copper-expansion-2026/",
-            "published_at": "2026-06-22T10:27:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief for Monday, June 22, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-monday-june-22-2026/",
-            "published_at": "2026-06-22T10:11:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief for Monday, June 22, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-monday-june-22-2026/",
-            "published_at": "2026-06-22T10:00:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Is Chile the Mystery Buyer of 11 F-35 Stealth Jets?",
-            "url": "https://www.riotimesonline.com/chile-f35-mystery-buyer-fach-fifth-generation-fighter-2026/",
-            "published_at": "2026-06-22T09:44:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Scraps Its Navy Ship Deal With Spain and Alleges Fraud",
-            "url": "https://www.riotimesonline.com/uruguay-cardama-opv-contract-cancelled-fraud-navy-2026/",
-            "published_at": "2026-06-22T09:38:59+00:00",
             "category": [],
             "language": "en"
         }
