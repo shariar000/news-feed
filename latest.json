@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-23T22:10:04+00:00",
+    "updated_at": "2026-06-23T23:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 England Held 0-0 by Resolute Ghana in Boston",
+            "url": "https://www.riotimesonline.com/world-cup-2026-england-ghana-0-0/",
+            "published_at": "2026-06-23T22:38:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Portugal Crush Uzbekistan 5-0 on Ronaldo Brace",
+            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-uzbekistan-5-0/",
+            "published_at": "2026-06-23T22:37:46+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Oracle Cut 21,000 Jobs and Blamed AI. The Numbers Tell the Story",
             "url": "https://www.riotimesonline.com/oracle-ai-job-cuts-2026-computed-numbers-latam/",
@@ -685,20 +699,6 @@
             "title": "Rio de Janeiro Nightlife Guide for Monday, June 22, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-monday-june-22-2026/",
             "published_at": "2026-06-22T16:20:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Globant Stock Hits Its Lowest Since 2017, Even as It Sponsors the World Cup",
-            "url": "https://www.riotimesonline.com/globant-stock-2017-low-world-cup-lawsuits-2026/",
-            "published_at": "2026-06-22T16:20:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Clears Path to Borrow $5 Billion to Cover July Debt",
-            "url": "https://www.riotimesonline.com/argentina-5-billion-guaranteed-loans-decree-2026/",
-            "published_at": "2026-06-22T16:20:21+00:00",
             "category": [],
             "language": "en"
         }
