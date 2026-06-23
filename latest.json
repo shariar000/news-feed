@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-23T02:10:03+00:00",
+    "updated_at": "2026-06-23T03:10:03+00:00",
     "items": [
+        {
+            "title": "Morocco Hosts an Expanded Women\u2019s AFCON in 2026",
+            "url": "https://www.riotimesonline.com/womens-afcon-2026-morocco-nigeria/",
+            "published_at": "2026-06-23T02:34:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TotalEnergies Restarts Mozambique\u2019s $20bn Gas Project",
+            "url": "https://www.riotimesonline.com/mozambique-lng-totalenergies-restart-2026/",
+            "published_at": "2026-06-23T02:34:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "African Films Sweep the Prizes at Tribeca 2026",
             "url": "https://www.riotimesonline.com/african-films-tribeca-2026-awards/",
@@ -685,20 +699,6 @@
             "title": "Nutresa Buys Ecuador Chocolate Icon Despite Colombia Trade War",
             "url": "https://www.riotimesonline.com/nutresa-la-universal-ecuador-chocolate-acquisition-trade-war-2026/",
             "published_at": "2026-06-21T08:40:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Volkswagen Convicted Over Slave Labor on Its Amazon Cattle Ranch",
-            "url": "https://www.riotimesonline.com/volkswagen-brazil-slave-labor-conviction-amazon-ranch-para-2026/",
-            "published_at": "2026-06-21T08:30:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Piau\u00ed Readies First Iron Ore Cargo to China From New Port",
-            "url": "https://www.riotimesonline.com/porto-piaui-first-iron-ore-export-china-luis-correia-2026/",
-            "published_at": "2026-06-21T08:15:47+00:00",
             "category": [],
             "language": "en"
         }
