@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-23T21:10:04+00:00",
+    "updated_at": "2026-06-23T22:10:04+00:00",
     "items": [
+        {
+            "title": "Oracle Cut 21,000 Jobs and Blamed AI. The Numbers Tell the Story",
+            "url": "https://www.riotimesonline.com/oracle-ai-job-cuts-2026-computed-numbers-latam/",
+            "published_at": "2026-06-23T21:38:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mercosur Strikes Its First Asia Deal, and Singapore Is the Door",
+            "url": "https://www.riotimesonline.com/mercosur-singapore-deal-first-asia-trade-pact-2026/",
+            "published_at": "2026-06-23T21:38:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Day the AI Trade Turned: One Shock, Four Very Different Markets",
+            "url": "https://www.riotimesonline.com/ai-selloff-2026-four-markets-concentration-latam/",
+            "published_at": "2026-06-23T21:38:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "One Oil Shock, Two Africas: How a Single Price Move Split a Continent",
+            "url": "https://www.riotimesonline.com/africa-oil-shock-2026-exporters-importers-divide/",
+            "published_at": "2026-06-23T21:37:42+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "More Benin Bronzes Head Home as Returns Gather Pace",
             "url": "https://www.riotimesonline.com/benin-bronzes-return-2026/",
@@ -671,34 +699,6 @@
             "title": "Argentina Clears Path to Borrow $5 Billion to Cover July Debt",
             "url": "https://www.riotimesonline.com/argentina-5-billion-guaranteed-loans-decree-2026/",
             "published_at": "2026-06-22T16:20:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Banks Turn to Mexico After US Brands Its Gangs Terrorists",
-            "url": "https://www.riotimesonline.com/brazil-banks-mexico-lessons-pcc-cv-terrorist-designation-2026/",
-            "published_at": "2026-06-22T16:20:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kenya\u2019s Gen Z Returns to the Streets, a Year On",
-            "url": "https://www.riotimesonline.com/kenya-gen-z-protests-anniversary-2026/",
-            "published_at": "2026-06-22T15:33:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Afrobeats Takes Over Portugal at Afro Nation 2026",
-            "url": "https://www.riotimesonline.com/afro-nation-2026-portugal-afrobeats-festival/",
-            "published_at": "2026-06-22T15:33:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana\u2019s Gold Boom Lifts Growth, Squeezes Cocoa",
-            "url": "https://www.riotimesonline.com/ghana-gold-boom-growth-cocoa-cedi-2026/",
-            "published_at": "2026-06-22T15:33:22+00:00",
             "category": [],
             "language": "en"
         }
