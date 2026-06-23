@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-23T14:10:04+00:00",
+    "updated_at": "2026-06-23T15:10:03+00:00",
     "items": [
+        {
+            "title": "Africa Oy\u00e9 Brings the Continent\u2019s Music to Liverpool",
+            "url": "https://www.riotimesonline.com/africa-oye-festival-liverpool-2026/",
+            "published_at": "2026-06-23T14:50:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Afrobeats Stars Headline the FIFA World Cup 2026 Album",
             "url": "https://www.riotimesonline.com/fifa-world-cup-2026-album-afrobeats/",
@@ -692,13 +699,6 @@
             "title": "Uruguay Scraps Its Navy Ship Deal With Spain and Alleges Fraud",
             "url": "https://www.riotimesonline.com/uruguay-cardama-opv-contract-cancelled-fraud-navy-2026/",
             "published_at": "2026-06-22T09:38:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Defense Monitor \u2014 June 14\u201322, 2026",
-            "url": "https://www.riotimesonline.com/latam-defense-monitor-chile-f35-uruguay-opv/",
-            "published_at": "2026-06-22T09:31:46+00:00",
             "category": [],
             "language": "en"
         }
