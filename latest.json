@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-23T01:10:03+00:00",
+    "updated_at": "2026-06-23T02:10:03+00:00",
     "items": [
+        {
+            "title": "African Films Sweep the Prizes at Tribeca 2026",
+            "url": "https://www.riotimesonline.com/african-films-tribeca-2026-awards/",
+            "published_at": "2026-06-23T01:34:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria\u2019s Reserves Hit a 17-Year High of $51 Billion",
+            "url": "https://www.riotimesonline.com/nigeria-external-reserves-51-billion-2026/",
+            "published_at": "2026-06-23T01:33:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "OPay Lines Up a $4 Billion US Listing From Lagos",
             "url": "https://www.riotimesonline.com/opay-nigeria-us-ipo-4-billion-2026/",
@@ -685,20 +699,6 @@
             "title": "Piau\u00ed Readies First Iron Ore Cargo to China From New Port",
             "url": "https://www.riotimesonline.com/porto-piaui-first-iron-ore-export-china-luis-correia-2026/",
             "published_at": "2026-06-21T08:15:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Sunday, June 21, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-sunday-june-21-2026/",
-            "published_at": "2026-06-21T07:52:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale\u2019s Top Shareholder Sets July 22 Vote to Oust Its Chairman",
-            "url": "https://www.riotimesonline.com/vale-board-previ-oust-chairman-stieler-july-vote-2026/",
-            "published_at": "2026-06-21T07:49:45+00:00",
             "category": [],
             "language": "en"
         }
