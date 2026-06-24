@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-24T21:10:04+00:00",
+    "updated_at": "2026-06-24T22:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Bosnia Beat Qatar 3-1 to Reach Last 32",
+            "url": "https://www.riotimesonline.com/world-cup-2026-bosnia-beat-qatar-3-1-to-reach-last-32/",
+            "published_at": "2026-06-24T21:19:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Switzerland Beat Canada to Win Group B",
+            "url": "https://www.riotimesonline.com/world-cup-2026-switzerland-beat-canada-to-win-group-b/",
+            "published_at": "2026-06-24T21:16:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Seven Leaders in a Decade: Britain\u2019s Instability and What It Costs",
             "url": "https://www.riotimesonline.com/uk-seven-leaders-decade-borrowing-cost-gilts-2026/",
@@ -685,20 +699,6 @@
             "title": "Mexico Bets Billions on AI Data Centers Its Power Grid May Not Feed",
             "url": "https://www.riotimesonline.com/mexico-data-centers-power-grid-constraint-sener-2026/",
             "published_at": "2026-06-23T16:25:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Guide for Tuesday, June 23, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-tuesday-june-23-2026/",
-            "published_at": "2026-06-23T16:19:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Oy\u00e9 Brings the Continent\u2019s Music to Liverpool",
-            "url": "https://www.riotimesonline.com/africa-oye-festival-liverpool-2026/",
-            "published_at": "2026-06-23T14:50:39+00:00",
             "category": [],
             "language": "en"
         }
