@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-25T07:10:04+00:00",
+    "updated_at": "2026-06-25T08:10:04+00:00",
     "items": [
+        {
+            "title": "A Devastating Quake Strikes Venezuela Just as It Reopens to the World",
+            "url": "https://www.riotimesonline.com/venezuela-earthquake-caracas-economy-recovery-2026/",
+            "published_at": "2026-06-25T08:06:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mozambique Starts Refining Its Own Graphite for Batteries",
+            "url": "https://www.riotimesonline.com/mozambique-graphite-battery-supply-chain-2026/",
+            "published_at": "2026-06-25T07:54:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "East Africa Weighs a Dangote-Style Oil Refinery",
+            "url": "https://www.riotimesonline.com/east-africa-oil-refinery-dangote-2026/",
+            "published_at": "2026-06-25T07:54:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "DR Congo Raises $1.25 Billion in Its First Eurobond",
+            "url": "https://www.riotimesonline.com/dr-congo-eurobond-debut-2026/",
+            "published_at": "2026-06-25T07:54:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Africa and Morocco Lead Africa into the World Cup Last 32",
+            "url": "https://www.riotimesonline.com/african-teams-world-cup-2026-last-32/",
+            "published_at": "2026-06-25T07:53:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Egypt Clears $6.1 Billion in Oil and Gas Arrears",
+            "url": "https://www.riotimesonline.com/egypt-energy-arrears-cleared-2026/",
+            "published_at": "2026-06-25T07:53:50+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Thursday, June 25, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-june-25-2026/",
@@ -153,6 +195,13 @@
             "title": "LatAm Expat & Nomad Daily Guide \u2014 Thursday, June 25, 2026",
             "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-june-25-2026/",
             "published_at": "2026-06-25T05:37:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Banned Casinos in 1946 Yet Built One of the World\u2019s Biggest Online Gambling Markets",
+            "url": "https://www.riotimesonline.com/brazil-online-gambling-without-casinos-june-2026/",
+            "published_at": "2026-06-25T03:11:00+00:00",
             "category": [],
             "language": "en"
         },
@@ -650,55 +699,6 @@
             "title": "Argentina\u2019s Dollar Hits a 2026 High: What It Means for Your Buenos Aires Budget",
             "url": "https://www.riotimesonline.com/argentina-dollar-2026-high-buenos-aires-budget/",
             "published_at": "2026-06-24T05:53:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Wednesday, June 24, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-wednesday-june-24-2026/",
-            "published_at": "2026-06-24T05:53:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Wednesday, June 24, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-wednesday-june-24-2026/",
-            "published_at": "2026-06-24T05:50:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 June 24, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-june-24-2026/",
-            "published_at": "2026-06-24T05:48:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 England Held 0-0 by Resolute Ghana in Boston",
-            "url": "https://www.riotimesonline.com/world-cup-2026-england-ghana-0-0/",
-            "published_at": "2026-06-23T22:38:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Portugal Crush Uzbekistan 5-0 on Ronaldo Brace",
-            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-uzbekistan-5-0/",
-            "published_at": "2026-06-23T22:37:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oracle Cut 21,000 Jobs and Blamed AI. The Numbers Tell the Story",
-            "url": "https://www.riotimesonline.com/oracle-ai-job-cuts-2026-computed-numbers-latam/",
-            "published_at": "2026-06-23T21:38:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mercosur Strikes Its First Asia Deal, and Singapore Is the Door",
-            "url": "https://www.riotimesonline.com/mercosur-singapore-deal-first-asia-trade-pact-2026/",
-            "published_at": "2026-06-23T21:38:14+00:00",
             "category": [],
             "language": "en"
         }
