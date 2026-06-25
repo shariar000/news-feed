@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-25T17:10:04+00:00",
+    "updated_at": "2026-06-25T18:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Softer June Inflation Tilts Bets Toward an August Rate Cut",
+            "url": "https://www.riotimesonline.com/brazil-ipca-june-2026-soft-inflation-august-selic-cut-bets/",
+            "published_at": "2026-06-25T17:58:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Police Widen Americanas Fraud Case to Its Billionaire Owners",
+            "url": "https://www.riotimesonline.com/americanas-fraud-police-operation-disclosure-phase-two-shareholders-banks-2026/",
+            "published_at": "2026-06-25T17:57:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Barbados Tourism Powers Ahead as Buyer Interest Jumps 51%",
+            "url": "https://www.riotimesonline.com/barbados-tourism-2026-connect-buyers-record-arrivals-economy/",
+            "published_at": "2026-06-25T17:47:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Brazilian Plant Aims to Turn Mining\u2019s Red Mud Into Green Iron",
+            "url": "https://www.riotimesonline.com/red-mud-green-iron-new-wave-hydro-alunorte-bauxite-residue-2026/",
+            "published_at": "2026-06-25T17:37:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Informal Workforce Tops 33 Million Ahead of World Cup",
+            "url": "https://www.riotimesonline.com/mexico-labor-informality-sheinbaum-world-cup-june-2026/",
+            "published_at": "2026-06-25T17:12:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Thursday, June 25, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-one-builds-one-takes-stock-june-25/",
+            "published_at": "2026-06-25T17:12:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FIFA Defies Iran and Egypt to Allow Pride Flags at World Cup",
+            "url": "https://www.riotimesonline.com/fifa-pride-flags-iran-egypt-world-cup-seattle-june-2026/",
+            "published_at": "2026-06-25T17:12:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Intelligence Brief \u2014 Thursday, June 25, 2026",
             "url": "https://www.riotimesonline.com/europe-intelligence-brief-europe-sits-down-to-talk-june-25/",
@@ -650,55 +699,6 @@
             "title": "Mexico vs Czechia: Hosts Through as Group A Race Tightens",
             "url": "https://www.riotimesonline.com/mexico-vs-czechia-hosts-through-as-group-a-race-tightens/",
             "published_at": "2026-06-24T16:55:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Wednesday, June 24, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-a-rare-win-then-a-walkaway-june-24/",
-            "published_at": "2026-06-24T16:55:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Wednesday, June 24, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-ai-trade-cracks-alibaba-pentagon-june-24/",
-            "published_at": "2026-06-24T16:49:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Wednesday, June 24, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-who-really-decides-june-24/",
-            "published_at": "2026-06-24T16:40:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "East Africa Sets a June Deadline to Scrap Trade Barriers",
-            "url": "https://www.riotimesonline.com/east-african-community-trade-barriers-2026/",
-            "published_at": "2026-06-24T16:26:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "\u2018Autoplay\u2019: Africa\u2019s First AI Opera Hits the Stage",
-            "url": "https://www.riotimesonline.com/autoplay-africa-first-ai-opera-2026/",
-            "published_at": "2026-06-24T16:26:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana Tells Miners to Sell 30% of Gold to Its Central Bank",
-            "url": "https://www.riotimesonline.com/ghana-gold-reserves-miners-30-percent-2026/",
-            "published_at": "2026-06-24T16:26:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Senegal\u2019s Political Crisis Deepens as Faye Sacks Sonko",
-            "url": "https://www.riotimesonline.com/senegal-political-crisis-faye-sonko-2026/",
-            "published_at": "2026-06-24T16:26:41+00:00",
             "category": [],
             "language": "en"
         }
