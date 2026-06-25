@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-25T22:10:03+00:00",
+    "updated_at": "2026-06-25T23:10:03+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Ecuador Beat Germany to Reach Last 32",
+            "url": "https://www.riotimesonline.com/world-cup-2026-ecuador-germany-2-1/",
+            "published_at": "2026-06-25T22:27:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Ivory Coast Beat Cura\u00e7ao to Reach Last 32",
+            "url": "https://www.riotimesonline.com/world-cup-2026-ivory-coast-curacao-2-0/",
+            "published_at": "2026-06-25T22:27:04+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Softer June Inflation Tilts Bets Toward an August Rate Cut",
             "url": "https://www.riotimesonline.com/brazil-ipca-june-2026-soft-inflation-august-selic-cut-bets/",
@@ -685,20 +699,6 @@
             "title": "Morocco vs Haiti: Atlas Lions Chase Group C Top Spot",
             "url": "https://www.riotimesonline.com/morocco-vs-haiti-atlas-lions-chase-group-c-top-spot/",
             "published_at": "2026-06-24T16:56:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Canada vs Switzerland: Hosts Eye Top Spot in Group B Finale",
-            "url": "https://www.riotimesonline.com/canada-vs-switzerland-hosts-eye-top-spot-in-group-b-finale/",
-            "published_at": "2026-06-24T16:55:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico vs Czechia: Hosts Through as Group A Race Tightens",
-            "url": "https://www.riotimesonline.com/mexico-vs-czechia-hosts-through-as-group-a-race-tightens/",
-            "published_at": "2026-06-24T16:55:49+00:00",
             "category": [],
             "language": "en"
         }
