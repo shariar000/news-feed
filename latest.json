@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-27T09:10:03+00:00",
+    "updated_at": "2026-06-27T10:10:03+00:00",
     "items": [
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Saturday, June 27, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-june-27-2026/",
+            "published_at": "2026-06-27T10:06:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Saturday, June 27, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-saturday-june-27-2026/",
+            "published_at": "2026-06-27T10:05:57+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa Pushes for New World Heritage Sites in 2026",
             "url": "https://www.riotimesonline.com/africa-world-heritage-sites-2026/",
@@ -685,20 +699,6 @@
             "title": "Latin American Pulse for Friday, June 26, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-june-26-2026/",
             "published_at": "2026-06-26T06:40:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Breaks Its Floor as Crypto Splits From Stocks",
-            "url": "https://www.riotimesonline.com/bitcoin-crypto-breaks-floor-june-25-2026/",
-            "published_at": "2026-06-26T06:40:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Egypt Face Iran With Last 32 in Sight",
-            "url": "https://www.riotimesonline.com/world-cup-2026-egypt-face-iran-with-last-32-in-sight/",
-            "published_at": "2026-06-26T06:37:19+00:00",
             "category": [],
             "language": "en"
         }
