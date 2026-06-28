@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-28T16:10:03+00:00",
+    "updated_at": "2026-06-28T17:10:04+00:00",
     "items": [
+        {
+            "title": "Latin America Defense Monitor \u2014 June 23\u201328, 2026: Six Air Forces Open Salitre, Brazil Launches a New Frigate, US Forces Surge to Venezuela",
+            "url": "https://www.riotimesonline.com/latam-defense-monitor-salitre-2026-tamandare-frigate/",
+            "published_at": "2026-06-28T16:53:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Key Market Events for the Week of June 29 \u2013 July 3, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-june-29-july-3-2026/",
+            "published_at": "2026-06-28T16:46:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "DR Congo Asks Belgium to Return Colonial-Era Remains",
             "url": "https://www.riotimesonline.com/dr-congo-belgium-colonial-remains-2026/",
@@ -685,20 +699,6 @@
             "title": "Ecuador\u2019s Strange Numbers and the Round of 32 Question",
             "url": "https://www.riotimesonline.com/ecuador-world-cup-conversion-rate-shots-variance-round-of-32-2026/",
             "published_at": "2026-06-26T08:50:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela Puts Its Hidden Debt Near $240 Billion",
-            "url": "https://www.riotimesonline.com/venezuela-debt-240-billion-disclosure-restructuring-2026/",
-            "published_at": "2026-06-26T08:48:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Must Import Diesel Again, Exposing a Refining Gap",
-            "url": "https://www.riotimesonline.com/petrobras-diesel-import-july-refining-deficit-2026/",
-            "published_at": "2026-06-26T08:39:11+00:00",
             "category": [],
             "language": "en"
         }
