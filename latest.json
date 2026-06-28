@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-28T12:10:03+00:00",
+    "updated_at": "2026-06-28T13:10:03+00:00",
     "items": [
+        {
+            "title": "Mexico Exports Surge 22.6% but the Car Engine Stalls",
+            "url": "https://www.riotimesonline.com/mexico-exports-surge-22-percent-manufacturing-autos-trade-surplus-2026/",
+            "published_at": "2026-06-28T12:51:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Mining Regulator Chief Indicted Over Iron Ore Scheme",
+            "url": "https://www.riotimesonline.com/brazil-mining-regulator-anm-director-general-indicted-pf-2026/",
+            "published_at": "2026-06-28T12:42:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Ends Its Dollar Peg, Devaluing the Boliviano 30%",
+            "url": "https://www.riotimesonline.com/bolivia-ends-dollar-peg-flexible-exchange-rate-devaluation-2026/",
+            "published_at": "2026-06-28T12:39:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Germany Face Paraguay in Boston Last-32 Tie",
+            "url": "https://www.riotimesonline.com/world-cup-2026-germany-paraguay-preview/",
+            "published_at": "2026-06-28T12:31:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Netherlands Meet Morocco in Monterrey",
+            "url": "https://www.riotimesonline.com/world-cup-2026-netherlands-morocco-preview/",
+            "published_at": "2026-06-28T12:31:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Brazil Face Japan in Houston Last-32 Tie",
+            "url": "https://www.riotimesonline.com/world-cup-2026-brazil-japan-preview/",
+            "published_at": "2026-06-28T12:31:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 South Africa Meet Canada in Last-32 Opener",
+            "url": "https://www.riotimesonline.com/world-cup-2026-south-africa-canada-preview/",
+            "published_at": "2026-06-28T12:29:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Milei Cabinet Chief Adorni Resigns as Corruption Scandal Peaks",
             "url": "https://www.riotimesonline.com/argentina-milei-cabinet-chief-adorni-resigns-corruption-2026/",
@@ -650,55 +699,6 @@
             "title": "Kenya Nears a Critical Minerals Deal With the US on Its Own Terms",
             "url": "https://www.riotimesonline.com/kenya-us-critical-minerals-deal-2026/",
             "published_at": "2026-06-26T08:29:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Turkish Drones Are Quietly Redrawing Africa\u2019s Security Map",
-            "url": "https://www.riotimesonline.com/turkish-drones-africa-security-2026/",
-            "published_at": "2026-06-26T08:29:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sudan\u2019s Rival Banknotes Harden a Country Split in Two",
-            "url": "https://www.riotimesonline.com/sudan-rival-banknotes-currency-split-2026/",
-            "published_at": "2026-06-26T08:29:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Races to Make Its Own Vaccines",
-            "url": "https://www.riotimesonline.com/african-vaccine-sovereignty-2026/",
-            "published_at": "2026-06-26T08:29:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rwanda Throws Open Its Borders to All of Africa",
-            "url": "https://www.riotimesonline.com/rwanda-visa-free-africa-2026/",
-            "published_at": "2026-06-26T08:29:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria\u2019s Senate Backs State Police in a Historic Shift",
-            "url": "https://www.riotimesonline.com/nigeria-state-police-senate-2026/",
-            "published_at": "2026-06-26T08:29:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South African Banks Scramble for a Foothold in Kenya",
-            "url": "https://www.riotimesonline.com/south-african-banks-kenya-nedbank-ncba-2026/",
-            "published_at": "2026-06-26T08:29:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Central Bank Faces a Rate Test as Power Shifts",
-            "url": "https://www.riotimesonline.com/colombia-central-bank-rate-test-independence-june-30-2026/",
-            "published_at": "2026-06-26T08:16:30+00:00",
             "category": [],
             "language": "en"
         }
