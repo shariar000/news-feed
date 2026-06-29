@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-29T18:10:03+00:00",
+    "updated_at": "2026-06-29T19:10:03+00:00",
     "items": [
+        {
+            "title": "SLC Agricola Wins a $358M Land Fight, and JP Morgan Winces",
+            "url": "https://www.riotimesonline.com/slc-agricola-radar-mato-grosso-farmland-cosan-bom-futuro-2026/",
+            "published_at": "2026-06-29T18:14:50+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "iFood Is Now Selling Decolar Trips, and the Numbers Just Landed",
             "url": "https://www.riotimesonline.com/prosus-ifood-decolar-cross-sell-fy2026-results-2026/",
@@ -692,13 +699,6 @@
             "title": "World Cup 2026 Croatia Beat Ghana 2-1 to Reach Last 32",
             "url": "https://www.riotimesonline.com/world-cup-2026-croatia-ghana-2-1/",
             "published_at": "2026-06-28T07:17:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 England Beat Panama 2-0 to Win Group L",
-            "url": "https://www.riotimesonline.com/world-cup-2026-england-panama-2-0/",
-            "published_at": "2026-06-28T07:17:50+00:00",
             "category": [],
             "language": "en"
         }
