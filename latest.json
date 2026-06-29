@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-29T22:10:03+00:00",
+    "updated_at": "2026-06-29T23:10:03+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Portugal Face Croatia in Last-32 Tie",
+            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-croatia-preview/",
+            "published_at": "2026-06-29T22:52:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Spain Face Austria in Last-32 Tie",
+            "url": "https://www.riotimesonline.com/world-cup-2026-spain-austria-preview/",
+            "published_at": "2026-06-29T22:52:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Brazil Beat Japan 2-1 to Reach the Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-brazil-beat-japan-2-1-to-reach-the-last-16/",
+            "published_at": "2026-06-29T22:46:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "SLC Agricola Wins a $358M Land Fight, and JP Morgan Winces",
             "url": "https://www.riotimesonline.com/slc-agricola-radar-mato-grosso-farmland-cosan-bom-futuro-2026/",
@@ -678,27 +699,6 @@
             "title": "Where to Watch the World Cup Knockouts Across Latin America",
             "url": "https://www.riotimesonline.com/world-cup-2026-knockouts-where-to-watch-latin-america/",
             "published_at": "2026-06-28T08:51:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Sunday, June 28, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-sunday-june-28-2026/",
-            "published_at": "2026-06-28T08:51:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Algeria Draw Austria 3-3 to Reach Last 32",
-            "url": "https://www.riotimesonline.com/world-cup-2026-austria-algeria-3-3/",
-            "published_at": "2026-06-28T07:18:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Croatia Beat Ghana 2-1 to Reach Last 32",
-            "url": "https://www.riotimesonline.com/world-cup-2026-croatia-ghana-2-1/",
-            "published_at": "2026-06-28T07:17:57+00:00",
             "category": [],
             "language": "en"
         }
