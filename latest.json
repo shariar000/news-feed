@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-30T04:10:04+00:00",
+    "updated_at": "2026-06-30T05:10:04+00:00",
     "items": [
+        {
+            "title": "LatAm Pre-Open: Tech Roars Back as Brazil Pauses at Record",
+            "url": "https://www.riotimesonline.com/latam-pre-open-tech-roars-back-as-brazil-pauses-at-record/",
+            "published_at": "2026-06-30T05:05:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Portugal Face Croatia in Last-32 Tie",
             "url": "https://www.riotimesonline.com/world-cup-2026-portugal-croatia-preview/",
@@ -692,13 +699,6 @@
             "title": "Colombia\u2019s First Cabinet Name: Rodrigo Lara Heads to Interior",
             "url": "https://www.riotimesonline.com/colombia-de-la-espriella-first-cabinet-rodrigo-lara-2026/",
             "published_at": "2026-06-28T08:51:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Where to Watch the World Cup Knockouts Across Latin America",
-            "url": "https://www.riotimesonline.com/world-cup-2026-knockouts-where-to-watch-latin-america/",
-            "published_at": "2026-06-28T08:51:34+00:00",
             "category": [],
             "language": "en"
         }
