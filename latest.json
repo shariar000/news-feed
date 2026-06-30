@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-30T09:10:04+00:00",
+    "updated_at": "2026-06-30T10:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Tuesday, June 30, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-june-30-2026/",
+            "published_at": "2026-06-30T10:03:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Markets Are Pricing a \u201cGodzilla\u201d Weather Risk in Brazil",
+            "url": "https://www.riotimesonline.com/el-nino-brazil-markets-soy-stocks-itau-2026/",
+            "published_at": "2026-06-30T09:44:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio\u2019s Buses Grind to a Halt, Exposing a Broken Funding Model",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-bus-strike-subsidy-crisis-june-2026/",
+            "published_at": "2026-06-30T09:29:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "One Brazilian Oil Field Now Out-Pumps Whole OPEC Nations",
+            "url": "https://www.riotimesonline.com/petrobras-buzios-record-1-2-million-bpd-presalt-2026/",
+            "published_at": "2026-06-30T09:17:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "JBS Joins a Major US Index, and the Passive Money Starts to Flow",
+            "url": "https://www.riotimesonline.com/jbs-russell-3000-index-inclusion-passive-flows-2026/",
+            "published_at": "2026-06-30T09:12:49+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Cosan Drops the Denials and Puts Its Rumo Stake in Play",
             "url": "https://www.riotimesonline.com/cosan-rumo-stake-btg-mandate-deleveraging-2026/",
@@ -664,41 +699,6 @@
             "title": "Argentina\u2019s Stock Market Recovers as the Reform Trade Steadies",
             "url": "https://www.riotimesonline.com/argentina-stock-market-recovers-june-26-2026/",
             "published_at": "2026-06-29T04:37:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stock Market Rebounds as the Election Overhang Lifts",
-            "url": "https://www.riotimesonline.com/colombia-stock-market-rebounds-june-26-2026/",
-            "published_at": "2026-06-29T04:18:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Stock Market Rises a Second Day as Rate-Cut Bets Broaden",
-            "url": "https://www.riotimesonline.com/brazil-stock-market-rises-june-26-2026/",
-            "published_at": "2026-06-29T04:00:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Mexico Host Ecuador at the Azteca",
-            "url": "https://www.riotimesonline.com/world-cup-2026-mexico-ecuador-preview/",
-            "published_at": "2026-06-28T22:05:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 France Face Sweden in Last-32 Tie",
-            "url": "https://www.riotimesonline.com/world-cup-2026-france-sweden-preview/",
-            "published_at": "2026-06-28T22:04:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Ivory Coast Face Norway in Last-32 Tie",
-            "url": "https://www.riotimesonline.com/world-cup-2026-ivory-coast-norway-preview/",
-            "published_at": "2026-06-28T22:04:40+00:00",
             "category": [],
             "language": "en"
         }
