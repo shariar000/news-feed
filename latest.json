@@ -1,7 +1,126 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-30T16:10:04+00:00",
+    "updated_at": "2026-06-30T17:10:04+00:00",
     "items": [
+        {
+            "title": "The Clock Starts Ticking on North America\u2019s $2 Trillion Trade Pact",
+            "url": "https://www.riotimesonline.com/usmca-review-trump-not-extend-countdown-2026/",
+            "published_at": "2026-06-30T17:02:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Budget Swings From Surplus to Deficit in an Election Year",
+            "url": "https://www.riotimesonline.com/brazil-budget-surplus-deficit-reversal-may-2026/",
+            "published_at": "2026-06-30T17:01:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The IMF Hands Honduras $242 Million, With Strings on Its Power Company",
+            "url": "https://www.riotimesonline.com/honduras-imf-242-million-disbursement-2026/",
+            "published_at": "2026-06-30T17:01:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Tuesday, June 30, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-asia-reads-the-hard-numbers-june-30/",
+            "published_at": "2026-06-30T16:56:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "DR Congo and Rwanda\u2019s Fragile Peace Turns One",
+            "url": "https://www.riotimesonline.com/congo-rwanda-peace-deal-one-year-2026/",
+            "published_at": "2026-06-30T16:46:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ghana-UK Growth Partnership: A \u00a3215M Investment Push",
+            "url": "https://www.riotimesonline.com/ghana-uk-growth-partnership-2026/",
+            "published_at": "2026-06-30T16:46:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenya Freezes Diageo\u2019s $2.3 Billion EABL Deal",
+            "url": "https://www.riotimesonline.com/diageo-eabl-deal-kenya-2026/",
+            "published_at": "2026-06-30T16:46:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China\u2019s New Minerals Law Tightens Its Grip on Africa",
+            "url": "https://www.riotimesonline.com/china-minerals-law-africa-2026/",
+            "published_at": "2026-06-30T16:46:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Tuesday, June 30, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-day-of-reckoning-arrives-june-30/",
+            "published_at": "2026-06-30T16:45:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Guide for Tuesday, June 30, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-tuesday-june-30-2026/",
+            "published_at": "2026-06-30T16:33:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Guide for Tuesday, June 30, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-guide-for-tuesday-june-30-2026/",
+            "published_at": "2026-06-30T16:22:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "After Venezuela\u2019s Quake, Families Search the Web for the Missing",
+            "url": "https://www.riotimesonline.com/venezuela-earthquake-internet-blackout-missing-uninsured-2026/",
+            "published_at": "2026-06-30T16:20:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Biniam Girmay Leads Africa\u2019s Charge at the 2026 Tour",
+            "url": "https://www.riotimesonline.com/biniam-girmay-tour-de-france-2026/",
+            "published_at": "2026-06-30T16:17:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "\u2018The Four of Us\u2019 Takes South African TV Global on Netflix",
+            "url": "https://www.riotimesonline.com/the-four-of-us-south-africa-netflix-2026/",
+            "published_at": "2026-06-30T16:17:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Egypt\u2019s Nassef Sawiris Bids to Take OCI Global Private",
+            "url": "https://www.riotimesonline.com/nassef-sawiris-oci-global-private-2026/",
+            "published_at": "2026-06-30T16:17:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rawbank, Congo\u2019s Biggest Bank, Eyes Regional Expansion",
+            "url": "https://www.riotimesonline.com/rawbank-congo-regional-expansion-2026/",
+            "published_at": "2026-06-30T16:17:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Senegal Chases an IMF Deal as Debt Tops 130% of GDP",
+            "url": "https://www.riotimesonline.com/senegal-imf-deal-debt-2026/",
+            "published_at": "2026-06-30T16:17:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Paraguay Broke Germany, the World Cup\u2019s Surest Shootout Team",
             "url": "https://www.riotimesonline.com/paraguay-germany-penalty-shootout-streak-world-cup-2026/",
@@ -580,125 +699,6 @@
             "title": "S\u00e3o Paulo Names Maur\u00edcio de Sousa\u2019s Work Cultural Heritage at 90",
             "url": "https://www.riotimesonline.com/brazil-mauricio-de-sousa-90-sao-paulo-cultural-heritage-2026/",
             "published_at": "2026-06-29T09:30:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Flip 2026 Program: Exile, Zadie Smith and a Supreme Court Justice",
-            "url": "https://www.riotimesonline.com/brazil-flip-2026-paraty-program-zadie-smith-carmen-lucia/",
-            "published_at": "2026-06-29T09:27:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Six Latin American Teams in the Round of 32: How Far Can Each Go?",
-            "url": "https://www.riotimesonline.com/world-cup-2026-latin-america-round-of-32-how-far-each-can-go/",
-            "published_at": "2026-06-29T09:11:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Crash Out as a Muslera Error Ends a World Cup of Drought",
-            "url": "https://www.riotimesonline.com/uruguay-world-cup-exit-muslera-bielsa-2026/",
-            "published_at": "2026-06-29T09:04:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Launches Cheaper Loans for Brazilians Who Pay on Time",
-            "url": "https://www.riotimesonline.com/brazil-desenrola-adimplentes-good-payers-informal-workers-credit-june-2026/",
-            "published_at": "2026-06-29T08:39:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Foreign Tourists Spent a Record US$4.8 Billion in Brazil This Year",
-            "url": "https://www.riotimesonline.com/brazil-foreign-tourist-spending-record-2026/",
-            "published_at": "2026-06-29T08:35:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Domino\u2019s Brazil Goes 100% Franchised as High Rates Bite",
-            "url": "https://www.riotimesonline.com/brazil-dominos-100-percent-franchised-capital-light-high-rates-2026/",
-            "published_at": "2026-06-29T08:24:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Court Suspends Oi\u2019s US$870M V.tal Stake Sale to BTG Funds",
-            "url": "https://www.riotimesonline.com/brazil-oi-vtal-stake-sale-suspended-btg-2026/",
-            "published_at": "2026-06-29T08:23:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Top Court Clears Retroactive Pay Perks for Judges",
-            "url": "https://www.riotimesonline.com/brazil-stf-penduricalhos-retroactive-pay-judges-2026/",
-            "published_at": "2026-06-29T08:10:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bain and Advent Team Up on a Fresh Bid for Brazil\u2019s Amil",
-            "url": "https://www.riotimesonline.com/brazil-amil-bain-advent-private-equity-bid-2026/",
-            "published_at": "2026-06-29T08:00:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "East Africa Pushes to Build a Digital Single Market",
-            "url": "https://www.riotimesonline.com/east-africa-digital-single-market-2026/",
-            "published_at": "2026-06-29T07:55:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Botswana\u2019s Kebinatshipi Smashes a 400m Record in Paris",
-            "url": "https://www.riotimesonline.com/kebinatshipi-400m-diamond-league-record-2026/",
-            "published_at": "2026-06-29T07:55:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria\u2019s Oil Output Climbs Past Its OPEC Quota",
-            "url": "https://www.riotimesonline.com/nigeria-oil-production-opec-quota-2026/",
-            "published_at": "2026-06-29T07:55:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe\u2019s Russian Gas Ban Opens a Door for African Gas",
-            "url": "https://www.riotimesonline.com/african-gas-exports-europe-russia-ban-2026/",
-            "published_at": "2026-06-29T07:55:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Algeria Face Switzerland in Last-32 Tie",
-            "url": "https://www.riotimesonline.com/world-cup-2026-algeria-switzerland-preview/",
-            "published_at": "2026-06-29T06:41:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Egypt Face Australia With History in Sight",
-            "url": "https://www.riotimesonline.com/world-cup-2026-egypt-australia-preview/",
-            "published_at": "2026-06-29T06:41:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Ghana Meet Colombia in Last-32 Tie",
-            "url": "https://www.riotimesonline.com/world-cup-2026-ghana-colombia-preview/",
-            "published_at": "2026-06-29T06:41:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Cape Verde Take On Champions Argentina",
-            "url": "https://www.riotimesonline.com/world-cup-2026-cape-verde-argentina-preview/",
-            "published_at": "2026-06-29T06:40:33+00:00",
             "category": [],
             "language": "en"
         }
