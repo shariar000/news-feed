@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-30T18:10:04+00:00",
+    "updated_at": "2026-06-30T19:10:04+00:00",
     "items": [
+        {
+            "title": "Trinidad Bets on AI to Wean Itself Off Oil and Gas",
+            "url": "https://www.riotimesonline.com/trinidad-tobago-tech-hub-ai-diversification-summit-2026/",
+            "published_at": "2026-06-30T18:21:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Lets Its Currency Float at Last, at 9.73 to the Dollar",
+            "url": "https://www.riotimesonline.com/bolivia-floating-exchange-rate-live-paz-imf-2026/",
+            "published_at": "2026-06-30T18:13:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Tuesday, June 30, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-north-americas-verdicts-land-june-30/",
@@ -685,20 +699,6 @@
             "title": "Braskem Wins a 60-Day Court Shield in Its $9.4 Billion Debt Fight",
             "url": "https://www.riotimesonline.com/braskem-court-creditor-stay-60-days-restructuring-2026/",
             "published_at": "2026-06-29T10:46:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru and Guatemala Switch On a Free-Trade Deal 14 Years in the Making",
-            "url": "https://www.riotimesonline.com/peru-guatemala-free-trade-agreement-tariffs-july-2026/",
-            "published_at": "2026-06-29T10:39:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Monday, June 29, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-uruguay-out-messi-record-brazil-japan-today/",
-            "published_at": "2026-06-29T10:39:24+00:00",
             "category": [],
             "language": "en"
         }
