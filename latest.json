@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-30T22:10:04+00:00",
+    "updated_at": "2026-06-30T23:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Norway Beat Ivory Coast 2-1 on Haaland Winner",
+            "url": "https://www.riotimesonline.com/world-cup-2026-norway-ivory-coast-2-1/",
+            "published_at": "2026-06-30T23:06:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 France Beat Sweden 3-0 to Reach Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-france-sweden-3-0/",
+            "published_at": "2026-06-30T23:06:04+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Trinidad Bets on AI to Wean Itself Off Oil and Gas",
             "url": "https://www.riotimesonline.com/trinidad-tobago-tech-hub-ai-diversification-summit-2026/",
@@ -685,20 +699,6 @@
             "title": "Rio Agrees to Share Its River as S\u00e3o Paulo\u2019s Reservoirs Run Low",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-paraiba-do-sul-water-deal-sao-paulo-2026/",
             "published_at": "2026-06-29T11:12:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Abu Dhabi\u2019s Mubadala Puts Rio\u2019s Metro Up for Sale",
-            "url": "https://www.riotimesonline.com/mubadala-metrorio-stake-sale-santander-hmobi-2026/",
-            "published_at": "2026-06-29T10:53:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Braskem Wins a 60-Day Court Shield in Its $9.4 Billion Debt Fight",
-            "url": "https://www.riotimesonline.com/braskem-court-creditor-stay-60-days-restructuring-2026/",
-            "published_at": "2026-06-29T10:46:43+00:00",
             "category": [],
             "language": "en"
         }
