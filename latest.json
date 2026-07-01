@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-01T07:10:40+00:00",
+    "updated_at": "2026-07-01T08:10:04+00:00",
     "items": [
+        {
+            "title": "South Africa\u2019s Fuel Prices Fall Even as the Levy Returns",
+            "url": "https://www.riotimesonline.com/south-africa-fuel-prices-levy-july-2026/",
+            "published_at": "2026-07-01T07:53:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Morocco Rewires Its Capital Market to Court Global Money",
+            "url": "https://www.riotimesonline.com/morocco-capital-market-reforms-2026/",
+            "published_at": "2026-07-01T07:53:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenya Overtakes Nigeria as Africa\u2019s Startup Capital",
+            "url": "https://www.riotimesonline.com/kenya-startup-funding-tops-africa-2026/",
+            "published_at": "2026-07-01T07:53:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Africa Signs a $14 Billion Afreximbank Programme",
+            "url": "https://www.riotimesonline.com/afreximbank-south-africa-14-billion-programme-2026/",
+            "published_at": "2026-07-01T07:53:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria\u2019s Stock Market Ends the Half-Year as Africa\u2019s Best",
+            "url": "https://www.riotimesonline.com/nigerian-stock-market-africa-best-2026/",
+            "published_at": "2026-07-01T07:53:33+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Wednesday, July 1, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-july-1-2026/",
@@ -664,41 +699,6 @@
             "title": "World Cup 2026 Portugal Face Croatia in Last-32 Tie",
             "url": "https://www.riotimesonline.com/world-cup-2026-portugal-croatia-preview/",
             "published_at": "2026-06-29T22:52:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Spain Face Austria in Last-32 Tie",
-            "url": "https://www.riotimesonline.com/world-cup-2026-spain-austria-preview/",
-            "published_at": "2026-06-29T22:52:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Brazil Beat Japan 2-1 to Reach the Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-brazil-beat-japan-2-1-to-reach-the-last-16/",
-            "published_at": "2026-06-29T22:46:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "SLC Agricola Wins a $358M Land Fight, and JP Morgan Winces",
-            "url": "https://www.riotimesonline.com/slc-agricola-radar-mato-grosso-farmland-cosan-bom-futuro-2026/",
-            "published_at": "2026-06-29T18:14:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "iFood Is Now Selling Decolar Trips, and the Numbers Just Landed",
-            "url": "https://www.riotimesonline.com/prosus-ifood-decolar-cross-sell-fy2026-results-2026/",
-            "published_at": "2026-06-29T18:03:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador\u2019s Biggest Wind Farm Seeks a $104 Million Lifeline",
-            "url": "https://www.riotimesonline.com/ecuador-villonaco-iii-wind-idb-invest-loan-cobra-2026/",
-            "published_at": "2026-06-29T17:59:13+00:00",
             "category": [],
             "language": "en"
         }
