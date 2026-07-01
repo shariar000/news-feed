@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-01T09:10:03+00:00",
+    "updated_at": "2026-07-01T10:10:04+00:00",
     "items": [
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Wednesday, July 1, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-wednesday-july-1-2026/",
+            "published_at": "2026-07-01T10:07:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Mexico City Show Asks Who the World Cup Really Serves",
+            "url": "https://www.riotimesonline.com/mexico-city-sportswashing-exhibition-world-cup-2026/",
+            "published_at": "2026-07-01T10:04:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Biggest Farm Show Returns, With Milei to Close It",
+            "url": "https://www.riotimesonline.com/argentina-rural-exhibition-palermo-2026-milei-farm-show/",
+            "published_at": "2026-07-01T10:01:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Wednesday, July 1, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-july-1-2026/",
+            "published_at": "2026-07-01T10:00:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why the Americas\u2019 Biggest Anime Festival Is Held in Brazil",
+            "url": "https://www.riotimesonline.com/anime-friends-2026-sao-paulo-asian-pop-culture-economy/",
+            "published_at": "2026-07-01T09:52:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Toyota Closes Its Corolla Plant in Brazil After 28 Years",
+            "url": "https://www.riotimesonline.com/toyota-corolla-indaiatuba-plant-closes-brazil-sorocaba-2026/",
+            "published_at": "2026-07-01T09:15:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Farm-Credit Plan Lands Below What Farmers Wanted",
+            "url": "https://www.riotimesonline.com/brazil-plano-safra-2026-27-figures-announced-agriculture-credit/",
+            "published_at": "2026-07-01T09:11:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The World Cup\u2019s Water Breaks Have Become a $600 Million TV Business",
+            "url": "https://www.riotimesonline.com/world-cup-cooling-break-tv-advertising-revenue-2026/",
+            "published_at": "2026-07-01T09:10:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "For the First Time, Central Banks Plan to Hold Fewer Dollars",
             "url": "https://www.riotimesonline.com/central-banks-cut-dollar-reserves-omfif-de-dollarization-2026/",
@@ -643,62 +699,6 @@
             "title": "Braskem Hits Near-Default Grade Even as Its Shares Rally",
             "url": "https://www.riotimesonline.com/braskem-fitch-downgrade-c-default-creditor-injunction-2026/",
             "published_at": "2026-06-30T08:14:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Moves to Lift the Cap on Its 13 Million Microbusinesses",
-            "url": "https://www.riotimesonline.com/brazil-mei-revenue-limit-raise-bill-2026/",
-            "published_at": "2026-06-30T07:26:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ra\u00edzen\u2019s Loss Balloons to $1.45 Billion as Brazil\u2019s Biggest Debt Deal Nears",
-            "url": "https://www.riotimesonline.com/raizen-raiz4-q4-safra-2025-26-loss/",
-            "published_at": "2026-06-30T06:44:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "After 15 Weeks, Brazil\u2019s Inflation Forecasts Finally Stop Rising",
-            "url": "https://www.riotimesonline.com/brazil-focus-survey-inflation-selic-pause-june-2026/",
-            "published_at": "2026-06-30T06:29:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Canada Face Morocco in Last-16 Rematch",
-            "url": "https://www.riotimesonline.com/world-cup-2026-canada-morocco-preview/",
-            "published_at": "2026-06-30T06:27:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Holds Below 60,000 as Ether and Solana Pull Away",
-            "url": "https://www.riotimesonline.com/bitcoin-below-60000-ether-solana-rise-june-30-2026/",
-            "published_at": "2026-06-30T06:10:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Morocco Beat Netherlands on Penalties in Last 32",
-            "url": "https://www.riotimesonline.com/world-cup-2026-morocco-netherlands-penalties/",
-            "published_at": "2026-06-30T05:45:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Paraguay Knock Germany Out on Penalties",
-            "url": "https://www.riotimesonline.com/world-cup-2026-paraguay-germany-penalties/",
-            "published_at": "2026-06-30T05:44:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America\u2019s World Cup Knockouts: Who\u2019s Through, Who Plays Tonight, Who\u2019s Friday",
-            "url": "https://www.riotimesonline.com/world-cup-2026-latin-america-knockouts-scorecard/",
-            "published_at": "2026-06-30T05:44:05+00:00",
             "category": [],
             "language": "en"
         }
