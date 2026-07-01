@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-06-30T23:10:04+00:00",
+    "updated_at": "2026-07-01T00:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Paraguay Take On France in the Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-paraguay-france-preview/",
+            "published_at": "2026-06-30T23:28:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Brazil Face Norway in Last-16 Showdown",
+            "url": "https://www.riotimesonline.com/world-cup-2026-brazil-norway-preview/",
+            "published_at": "2026-06-30T23:22:47+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Norway Beat Ivory Coast 2-1 on Haaland Winner",
             "url": "https://www.riotimesonline.com/world-cup-2026-norway-ivory-coast-2-1/",
@@ -685,20 +699,6 @@
             "title": "Suriname Draws Its First Oil Bidder as It Chases Guyana\u2019s Boom",
             "url": "https://www.riotimesonline.com/suriname-staatsolie-open-door-first-bid-offshore-licensing-2026/",
             "published_at": "2026-06-29T11:24:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay\u2019s Year-Old President Sinks to 20% as a Truck Scandal Bites",
-            "url": "https://www.riotimesonline.com/uruguay-orsi-approval-20-percent-cifra-poll-truck-scandal-2026/",
-            "published_at": "2026-06-29T11:14:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio Agrees to Share Its River as S\u00e3o Paulo\u2019s Reservoirs Run Low",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-paraiba-do-sul-water-deal-sao-paulo-2026/",
-            "published_at": "2026-06-29T11:12:13+00:00",
             "category": [],
             "language": "en"
         }
