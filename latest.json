@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-01T20:10:03+00:00",
+    "updated_at": "2026-07-01T21:10:03+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Mexico Face England in Azteca Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-mexico-england-preview/",
+            "published_at": "2026-07-01T20:12:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 England Beat DR Congo 2-1 on Kane Brace",
+            "url": "https://www.riotimesonline.com/world-cup-2026-england-dr-congo-2-1/",
+            "published_at": "2026-07-01T20:10:06+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Suzano Closes $1.3 Billion Deal to Launch Tissue Giant Arbex",
             "url": "https://www.riotimesonline.com/suzano-kimberly-clark-arbex-tissue-venture-launch-2026/",
@@ -685,20 +699,6 @@
             "title": "Kenya Freezes Diageo\u2019s $2.3 Billion EABL Deal",
             "url": "https://www.riotimesonline.com/diageo-eabl-deal-kenya-2026/",
             "published_at": "2026-06-30T16:46:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China\u2019s New Minerals Law Tightens Its Grip on Africa",
-            "url": "https://www.riotimesonline.com/china-minerals-law-africa-2026/",
-            "published_at": "2026-06-30T16:46:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Tuesday, June 30, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-day-of-reckoning-arrives-june-30/",
-            "published_at": "2026-06-30T16:45:09+00:00",
             "category": [],
             "language": "en"
         }
