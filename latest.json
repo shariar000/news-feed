@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-02T22:10:04+00:00",
+    "updated_at": "2026-07-02T23:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Spain Cruise Past Austria 3-0 Into Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-spain-austria-3-0/",
+            "published_at": "2026-07-02T22:52:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Europe Bakes Under a Record Heat Dome \u2013 and the World Gets a Preview of Its Own Future",
             "url": "https://www.riotimesonline.com/europe-bakes-under-a-record-heat-dome-and-the-world-gets-a-2026-07-02/",
@@ -691,13 +698,6 @@
         {
             "title": "When Africa Meets Latin America at the World Cup",
             "url": "https://www.riotimesonline.com/africa-world-cup-latin-america-2026/",
-            "published_at": "2026-07-01T16:12:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tyla\u2019s Second Album A*POP Arrives on 24 July",
-            "url": "https://www.riotimesonline.com/tyla-apop-album-2026/",
             "published_at": "2026-07-01T16:12:02+00:00",
             "category": [],
             "language": "en"
