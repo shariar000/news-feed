@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-02T18:10:04+00:00",
+    "updated_at": "2026-07-02T20:10:03+00:00",
     "items": [
+        {
+            "title": "Europe Bakes Under a Record Heat Dome \u2013 and the World Gets a Preview of Its Own Future",
+            "url": "https://www.riotimesonline.com/europe-bakes-under-a-record-heat-dome-and-the-world-gets-a-2026-07-02/",
+            "published_at": "2026-07-02T19:26:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Washington Lets USMCA Slide Into Annual Reviews \u2013 And Reshapes the Hemisphere\u2019s Trade Map",
+            "url": "https://www.riotimesonline.com/washington-lets-usmca-slide-into-annual-reviews-and-2026-07-02/",
+            "published_at": "2026-07-02T19:26:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Advent Reaches 8% of Natura, Winning Two Seats on the Beauty Group\u2019s Board",
+            "url": "https://www.riotimesonline.com/natura-advent-private-equity-stake-founders-board-2026/",
+            "published_at": "2026-07-02T18:31:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Is Latin America\u2019s Most Competitive Economy, IMD Finds",
+            "url": "https://www.riotimesonline.com/chile-most-competitive-economy-latin-america-imd-ranking-2026/",
+            "published_at": "2026-07-02T18:16:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "US Money Enters Brazil\u2019s Data Center Race as Ares Breaks Ground",
             "url": "https://www.riotimesonline.com/ada-ares-gru10-data-center-sao-paulo-brazil-us-investment-2026/",
@@ -150,7 +178,7 @@
             "language": "en"
         },
         {
-            "title": "Absa\u2019s Shares Tumble as a Stronger Rand Bites",
+            "title": "A Stronger Rand Bruises Absa, One of Africa\u2019s Biggest Banks",
             "url": "https://www.riotimesonline.com/absa-shares-trading-update-2026/",
             "published_at": "2026-07-02T13:09:52+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "Tyla\u2019s Second Album A*POP Arrives on 24 July",
             "url": "https://www.riotimesonline.com/tyla-apop-album-2026/",
             "published_at": "2026-07-01T16:12:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Mexico City Show Asks Who the World Cup Really Serves",
-            "url": "https://www.riotimesonline.com/mexico-city-sportswashing-exhibition-world-cup-2026/",
-            "published_at": "2026-07-01T15:26:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "David Lamelas Saw the Post-Truth Age Coming Decades Ago",
-            "url": "https://www.riotimesonline.com/santiago-david-lamelas-duane-media-power-exhibition-2026/",
-            "published_at": "2026-07-01T15:22:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bogot\u00e1\u2019s Film Market Bets on Netflix to Go Regional",
-            "url": "https://www.riotimesonline.com/bogota-audiovisual-market-bam-2026-film-industry-coproduction/",
-            "published_at": "2026-07-01T15:17:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why MercadoLibre\u2019s Future Now Rests on Its Bank, Not Its Store",
-            "url": "https://www.riotimesonline.com/mercadolibre-fintech-mercado-pago-competitive-advantage-2026/",
-            "published_at": "2026-07-01T11:27:59+00:00",
             "category": [],
             "language": "en"
         }
