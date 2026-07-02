@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-02T07:10:04+00:00",
+    "updated_at": "2026-07-02T08:10:03+00:00",
     "items": [
+        {
+            "title": "Brazil and France Scrap Visas for French Guiana Border",
+            "url": "https://www.riotimesonline.com/brazil-france-french-guiana-visa-free-border-security-2026/",
+            "published_at": "2026-07-02T08:08:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Thursday, July 2, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-july-2-2026/",
@@ -692,13 +699,6 @@
             "title": "World Cup 2026 Mexico Beat Ecuador 2-0 to Reach Last 16",
             "url": "https://www.riotimesonline.com/world-cup-2026-mexico-ecuador-2-0/",
             "published_at": "2026-07-01T05:10:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Paraguay Take On France in the Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-paraguay-france-preview/",
-            "published_at": "2026-06-30T23:28:44+00:00",
             "category": [],
             "language": "en"
         }
