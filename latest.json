@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-02T12:10:04+00:00",
+    "updated_at": "2026-07-02T13:10:04+00:00",
     "items": [
+        {
+            "title": "A Johannesburg Writer Takes Africa\u2019s Commonwealth Short Story Prize",
+            "url": "https://www.riotimesonline.com/commonwealth-short-story-prize-africa-2026/",
+            "published_at": "2026-07-02T13:09:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria Makes E-Invoicing Compulsory for Its Biggest Companies",
+            "url": "https://www.riotimesonline.com/nigeria-e-invoicing-large-taxpayers-2026/",
+            "published_at": "2026-07-02T13:09:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Morocco\u2019s Tourism Boom Races Toward the 2030 World Cup",
+            "url": "https://www.riotimesonline.com/morocco-tourism-boom-2026/",
+            "published_at": "2026-07-02T13:09:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Absa\u2019s Shares Tumble as a Stronger Rand Bites",
+            "url": "https://www.riotimesonline.com/absa-shares-trading-update-2026/",
+            "published_at": "2026-07-02T13:09:52+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Why Brazil Is Building Latin America\u2019s First Nuclear Submarine",
             "url": "https://www.riotimesonline.com/brazil-nuclear-submarine-prosub-alvaro-alberto-latin-america-2026/",
@@ -671,34 +699,6 @@
             "title": "Europe Tightens the Door on Brazilian Steel, and Bras\u00edlia Bristles",
             "url": "https://www.riotimesonline.com/eu-steel-quota-brazil-cut-compensation-2026/",
             "published_at": "2026-07-01T09:04:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nubank Bids for a Portuguese-Owned Bank to Win a Full License",
-            "url": "https://www.riotimesonline.com/nubank-binding-bid-banco-caixa-geral-brasil-banking-license-2026/",
-            "published_at": "2026-07-01T08:59:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico and Canada Ask to Extend the USMCA to 2042 as the US Waits",
-            "url": "https://www.riotimesonline.com/usmca-review-mexico-canada-extend-2042-july-2026/",
-            "published_at": "2026-07-01T08:50:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mercosur Opens Trade Talks With Japan, Eyeing a $7 Trillion Zone",
-            "url": "https://www.riotimesonline.com/mercosur-japan-trade-talks-launch-asuncion-summit-2026/",
-            "published_at": "2026-07-01T08:47:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How Goldman Sachs Turned the World Cup Into a Trading Model",
-            "url": "https://www.riotimesonline.com/goldman-sachs-world-cup-2026-forecast-model/",
-            "published_at": "2026-07-01T08:39:11+00:00",
             "category": [],
             "language": "en"
         }
