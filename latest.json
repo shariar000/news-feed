@@ -1,7 +1,119 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-02T05:10:04+00:00",
+    "updated_at": "2026-07-02T06:10:04+00:00",
     "items": [
+        {
+            "title": "Latin American Pulse for Thursday, July 2, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-july-2-2026/",
+            "published_at": "2026-07-02T06:02:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Climbs Back Above 60,000 as the Chip-Stock Trade Cracks",
+            "url": "https://www.riotimesonline.com/bitcoin-above-60000-chip-stocks-crack-july-2-2026/",
+            "published_at": "2026-07-02T06:02:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold and Silver Rebound for a Second Day, but Is It Really a Bottom?",
+            "url": "https://www.riotimesonline.com/gold-silver-rebound-bottom-question-july-2-2026/",
+            "published_at": "2026-07-02T05:56:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Stocks Pause After the Breakout as Copper Holds the Line",
+            "url": "https://www.riotimesonline.com/chilean-stocks-pause-after-breakout-copper-july-2-2026/",
+            "published_at": "2026-07-02T05:54:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela Earthquake Sparks Health Crisis as Hospitals Buckle",
+            "url": "https://www.riotimesonline.com/venezuela-earthquake-health-crisis-hospitals-disease-2026/",
+            "published_at": "2026-07-02T05:53:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Market Turns Back From Resistance as the Recovery Stalls",
+            "url": "https://www.riotimesonline.com/argentina-market-turns-back-resistance-july-2-2026/",
+            "published_at": "2026-07-02T05:49:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexican Stocks Rebound as the Trade-Deal Verdict Proves Less Harsh Than Feared",
+            "url": "https://www.riotimesonline.com/mexican-stocks-rebound-usmca-verdict-july-2-2026/",
+            "published_at": "2026-07-02T05:46:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Riviera Maya\u2019s Record Sargassum Season: Where the Clean Beaches Are",
+            "url": "https://www.riotimesonline.com/riviera-maya-sargassum-record-clean-beaches-2026/",
+            "published_at": "2026-07-02T05:46:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide for Thursday, July 2, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-july-2-2026/",
+            "published_at": "2026-07-02T05:45:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Market Slips as Ecopetrol Sinks While ETB Soars to a One-Year High",
+            "url": "https://www.riotimesonline.com/colombia-market-slips-ecopetrol-etb-july-2-2026/",
+            "published_at": "2026-07-02T05:44:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open: Chips Crack, Banks Rally, Brazil Steadies",
+            "url": "https://www.riotimesonline.com/latam-pre-open-chips-crack-banks-rally-brazil-steadies/",
+            "published_at": "2026-07-02T05:42:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Stocks Drift as US Sanctions Push the Dollar to a Three-Month High",
+            "url": "https://www.riotimesonline.com/brazil-stocks-drift-dollar-three-month-high-july-2-2026/",
+            "published_at": "2026-07-02T05:42:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 2, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-2-2026/",
+            "published_at": "2026-07-02T05:40:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Thursday, July 2, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-july-2-2026/",
+            "published_at": "2026-07-02T05:38:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 USA Beat Bosnia 2-0 to Reach the Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-usa-bosnia-2-0/",
+            "published_at": "2026-07-02T05:20:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Belgium Stun Senegal 3-2 in Record Comeback",
+            "url": "https://www.riotimesonline.com/world-cup-2026-belgium-senegal-3-2/",
+            "published_at": "2026-07-02T05:20:17+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Mexico Face England in Azteca Last 16",
             "url": "https://www.riotimesonline.com/world-cup-2026-mexico-england-preview/",
@@ -587,118 +699,6 @@
             "title": "World Cup 2026 Paraguay Take On France in the Last 16",
             "url": "https://www.riotimesonline.com/world-cup-2026-paraguay-france-preview/",
             "published_at": "2026-06-30T23:28:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Brazil Face Norway in Last-16 Showdown",
-            "url": "https://www.riotimesonline.com/world-cup-2026-brazil-norway-preview/",
-            "published_at": "2026-06-30T23:22:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Norway Beat Ivory Coast 2-1 on Haaland Winner",
-            "url": "https://www.riotimesonline.com/world-cup-2026-norway-ivory-coast-2-1/",
-            "published_at": "2026-06-30T23:06:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 France Beat Sweden 3-0 to Reach Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-france-sweden-3-0/",
-            "published_at": "2026-06-30T23:06:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trinidad Bets on AI to Wean Itself Off Oil and Gas",
-            "url": "https://www.riotimesonline.com/trinidad-tobago-tech-hub-ai-diversification-summit-2026/",
-            "published_at": "2026-06-30T18:21:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia Lets Its Currency Float at Last, at 9.73 to the Dollar",
-            "url": "https://www.riotimesonline.com/bolivia-floating-exchange-rate-live-paz-imf-2026/",
-            "published_at": "2026-06-30T18:13:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Tuesday, June 30, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-north-americas-verdicts-land-june-30/",
-            "published_at": "2026-06-30T17:31:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Tuesday, June 30, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-inflation-eases-unevenly-june-30/",
-            "published_at": "2026-06-30T17:21:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Bets $100 Million a Year on Holding Mercosur Together",
-            "url": "https://www.riotimesonline.com/lula-mercosur-focem-fund-100-million-paraguay-summit-2026/",
-            "published_at": "2026-06-30T17:15:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s 100 Biggest Firms Now Earn as Much as the Whole Economy",
-            "url": "https://www.riotimesonline.com/colombia-largest-companies-2025-supersociedades-gdp-2026/",
-            "published_at": "2026-06-30T17:10:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Clock Starts Ticking on North America\u2019s $2 Trillion Trade Pact",
-            "url": "https://www.riotimesonline.com/usmca-review-trump-not-extend-countdown-2026/",
-            "published_at": "2026-06-30T17:02:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Budget Swings From Surplus to Deficit in an Election Year",
-            "url": "https://www.riotimesonline.com/brazil-budget-surplus-deficit-reversal-may-2026/",
-            "published_at": "2026-06-30T17:01:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The IMF Hands Honduras $242 Million, With Strings on Its Power Company",
-            "url": "https://www.riotimesonline.com/honduras-imf-242-million-disbursement-2026/",
-            "published_at": "2026-06-30T17:01:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Tuesday, June 30, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-asia-reads-the-hard-numbers-june-30/",
-            "published_at": "2026-06-30T16:56:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "DR Congo and Rwanda\u2019s Fragile Peace Turns One",
-            "url": "https://www.riotimesonline.com/congo-rwanda-peace-deal-one-year-2026/",
-            "published_at": "2026-06-30T16:46:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana-UK Growth Partnership: A \u00a3215M Investment Push",
-            "url": "https://www.riotimesonline.com/ghana-uk-growth-partnership-2026/",
-            "published_at": "2026-06-30T16:46:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kenya Freezes Diageo\u2019s $2.3 Billion EABL Deal",
-            "url": "https://www.riotimesonline.com/diageo-eabl-deal-kenya-2026/",
-            "published_at": "2026-06-30T16:46:37+00:00",
             "category": [],
             "language": "en"
         }
