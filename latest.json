@@ -1,7 +1,147 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-03T08:10:04+00:00",
+    "updated_at": "2026-07-03T09:10:04+00:00",
     "items": [
+        {
+            "title": "A Painter Who Hangs Her Canvases Like Laundry Comes to Buenos Aires",
+            "url": "https://www.riotimesonline.com/vivian-suter-malba-buenos-aires-installation-2026/",
+            "published_at": "2026-07-03T09:01:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Music From Rio\u2019s Favelas Conquered the World\u2019s Playlists",
+            "url": "https://www.riotimesonline.com/baile-funk-brazil-global-music-export-2026/",
+            "published_at": "2026-07-03T09:00:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "An Argentine Fintech Buys Its Way Into Brazil With the Warren Deal",
+            "url": "https://www.riotimesonline.com/cocos-capital-argentina-warren-brazil-fintech-acquisition-2026/",
+            "published_at": "2026-07-03T08:59:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why BlackRock Cooled on Emerging Markets but Kept Its Brazil Bet",
+            "url": "https://www.riotimesonline.com/blackrock-brazil-overweight-emerging-markets-neutral-critical-minerals-2026/",
+            "published_at": "2026-07-03T08:59:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Companies Are Rushing to Raise Money Before the Election",
+            "url": "https://www.riotimesonline.com/brazil-capital-market-record-issuance-election-rush-2026/",
+            "published_at": "2026-07-03T08:59:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Sweden\u2019s Boliden Circles Votorantim\u2019s Stake in Zinc Giant Nexa",
+            "url": "https://www.riotimesonline.com/votorantim-nexa-boliden-zinc-stake-sale-brazil-mining-2026/",
+            "published_at": "2026-07-03T08:56:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Court Orders Brazil to Fix Its Underfunded Market Watchdog",
+            "url": "https://www.riotimesonline.com/brazil-cvm-restructuring-dino-supreme-court-market-regulator-2026/",
+            "published_at": "2026-07-03T08:40:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Tightens Money-Laundering Checks on Foreign Investors",
+            "url": "https://www.riotimesonline.com/brazil-tightens-money-laundering-rules-foreign-investors-b3-2026/",
+            "published_at": "2026-07-03T08:35:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Timitar, Morocco\u2019s Free Festival of Berber Music, Fills Agadir",
+            "url": "https://www.riotimesonline.com/timitar-festival-agadir-amazigh-music-2026/",
+            "published_at": "2026-07-03T08:33:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenya\u2019s Distance Runners, the World\u2019s Best, Chase New Records",
+            "url": "https://www.riotimesonline.com/kenyan-distance-runners-records-2026/",
+            "published_at": "2026-07-03T08:33:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Baba Danpullo, Central Africa\u2019s Richest Man, Bets Big on an Airline",
+            "url": "https://www.riotimesonline.com/baba-danpullo-cameroon-airline-airports-2026/",
+            "published_at": "2026-07-03T08:33:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Funke Akindele\u2019s \u2018Behind The Scenes\u2019 Becomes Nollywood\u2019s Biggest Film",
+            "url": "https://www.riotimesonline.com/funke-akindele-behind-the-scenes-nollywood-record-2026/",
+            "published_at": "2026-07-03T08:32:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Botswana, the World\u2019s Diamond Capital, Pivots to Critical Minerals",
+            "url": "https://www.riotimesonline.com/botswana-critical-minerals-diamonds-2026/",
+            "published_at": "2026-07-03T08:32:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paris Hosts a High-Stakes Africa Mining Summit",
+            "url": "https://www.riotimesonline.com/africa-mining-summit-paris-2026/",
+            "published_at": "2026-07-03T08:32:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Egypt\u2019s Economy Holds Firm as the IMF Trims Its Forecast",
+            "url": "https://www.riotimesonline.com/egypt-economy-imf-forecast-2026/",
+            "published_at": "2026-07-03T08:32:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold\u2019s Slide Tests African Gold Miners",
+            "url": "https://www.riotimesonline.com/african-gold-miners-price-2026/",
+            "published_at": "2026-07-03T08:32:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa\u2019s Bond Market Roars Back to Life in 2026",
+            "url": "https://www.riotimesonline.com/africa-bond-market-comeback-2026/",
+            "published_at": "2026-07-03T08:32:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "African Portraiture Takes Center Stage at New York\u2019s MoMA",
+            "url": "https://www.riotimesonline.com/african-portraiture-moma-2026/",
+            "published_at": "2026-07-03T08:32:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Top Court Clears the Way to Seize Kirchner\u2019s Assets",
+            "url": "https://www.riotimesonline.com/cristina-kirchner-asset-confiscation-supreme-court-vialidad-argentina-2026/",
+            "published_at": "2026-07-03T08:26:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Leaked US Draft Calls Brazil \u201cCountry X\u201d in a Rare-Earths Pitch",
+            "url": "https://www.riotimesonline.com/us-rare-earth-proposal-brazil-country-x-serra-verde-2026/",
+            "published_at": "2026-07-03T08:11:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Friday, July 3, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-july-3-2026/",
@@ -559,146 +699,6 @@
             "title": "Gold and Silver Rebound for a Second Day, but Is It Really a Bottom?",
             "url": "https://www.riotimesonline.com/gold-silver-rebound-bottom-question-july-2-2026/",
             "published_at": "2026-07-02T05:56:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Stocks Pause After the Breakout as Copper Holds the Line",
-            "url": "https://www.riotimesonline.com/chilean-stocks-pause-after-breakout-copper-july-2-2026/",
-            "published_at": "2026-07-02T05:54:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela Earthquake Sparks Health Crisis as Hospitals Buckle",
-            "url": "https://www.riotimesonline.com/venezuela-earthquake-health-crisis-hospitals-disease-2026/",
-            "published_at": "2026-07-02T05:53:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Market Turns Back From Resistance as the Recovery Stalls",
-            "url": "https://www.riotimesonline.com/argentina-market-turns-back-resistance-july-2-2026/",
-            "published_at": "2026-07-02T05:49:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Stocks Rebound as the Trade-Deal Verdict Proves Less Harsh Than Feared",
-            "url": "https://www.riotimesonline.com/mexican-stocks-rebound-usmca-verdict-july-2-2026/",
-            "published_at": "2026-07-02T05:46:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Riviera Maya\u2019s Record Sargassum Season: Where the Clean Beaches Are",
-            "url": "https://www.riotimesonline.com/riviera-maya-sargassum-record-clean-beaches-2026/",
-            "published_at": "2026-07-02T05:46:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Thursday, July 2, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-july-2-2026/",
-            "published_at": "2026-07-02T05:45:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Market Slips as Ecopetrol Sinks While ETB Soars to a One-Year High",
-            "url": "https://www.riotimesonline.com/colombia-market-slips-ecopetrol-etb-july-2-2026/",
-            "published_at": "2026-07-02T05:44:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open: Chips Crack, Banks Rally, Brazil Steadies",
-            "url": "https://www.riotimesonline.com/latam-pre-open-chips-crack-banks-rally-brazil-steadies/",
-            "published_at": "2026-07-02T05:42:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Stocks Drift as US Sanctions Push the Dollar to a Three-Month High",
-            "url": "https://www.riotimesonline.com/brazil-stocks-drift-dollar-three-month-high-july-2-2026/",
-            "published_at": "2026-07-02T05:42:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 2, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-2-2026/",
-            "published_at": "2026-07-02T05:40:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Thursday, July 2, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-july-2-2026/",
-            "published_at": "2026-07-02T05:38:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 USA Beat Bosnia 2-0 to Reach the Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-usa-bosnia-2-0/",
-            "published_at": "2026-07-02T05:20:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Belgium Stun Senegal 3-2 in Record Comeback",
-            "url": "https://www.riotimesonline.com/world-cup-2026-belgium-senegal-3-2/",
-            "published_at": "2026-07-02T05:20:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Mexico Face England in Azteca Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-mexico-england-preview/",
-            "published_at": "2026-07-01T20:12:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 England Beat DR Congo 2-1 on Kane Brace",
-            "url": "https://www.riotimesonline.com/world-cup-2026-england-dr-congo-2-1/",
-            "published_at": "2026-07-01T20:10:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Suzano Closes $1.3 Billion Deal to Launch Tissue Giant Arbex",
-            "url": "https://www.riotimesonline.com/suzano-kimberly-clark-arbex-tissue-venture-launch-2026/",
-            "published_at": "2026-07-01T18:28:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio Turns Its Winter Into a $1.4 Billion Tourist Season",
-            "url": "https://www.riotimesonline.com/rio-winter-tourism-2026-economy-7-4-billion/",
-            "published_at": "2026-07-01T18:14:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fujimori\u2019s Plan for Peru: US$5bn in Investment a Year, 500,000 Jobs",
-            "url": "https://www.riotimesonline.com/fujimori-economic-plan-peru-investment-jobs-2026/",
-            "published_at": "2026-07-01T17:55:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bancolombia Owner Closes $1.4 Billion Sale of Panama\u2019s Banistmo",
-            "url": "https://www.riotimesonline.com/cibest-bancolombia-banistmo-sale-cuscatlan-panama-2026/",
-            "published_at": "2026-07-01T17:36:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guatemala\u2019s US Trade Deal Hangs on a July Tariff Deadline",
-            "url": "https://www.riotimesonline.com/guatemala-us-reciprocal-trade-deal-tariffs-july-2026/",
-            "published_at": "2026-07-01T17:22:05+00:00",
             "category": [],
             "language": "en"
         }
