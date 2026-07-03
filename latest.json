@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-03T22:10:03+00:00",
+    "updated_at": "2026-07-03T23:10:03+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Egypt Beat Australia on Penalties for Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-egypt-australia-penalties/",
+            "published_at": "2026-07-03T22:47:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Two July Deadlines in Washington Will Test Peru\u2019s Record Export Run",
             "url": "https://www.riotimesonline.com/peru-exports-july-2026-us-tariff-deadlines-copper-critical-minerals/",
@@ -692,13 +699,6 @@
             "title": "A Stronger Rand Bruises Absa, One of Africa\u2019s Biggest Banks",
             "url": "https://www.riotimesonline.com/absa-shares-trading-update-2026/",
             "published_at": "2026-07-02T13:09:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Brazil Is Building Latin America\u2019s First Nuclear Submarine",
-            "url": "https://www.riotimesonline.com/brazil-nuclear-submarine-prosub-alvaro-alberto-latin-america-2026/",
-            "published_at": "2026-07-02T11:50:20+00:00",
             "category": [],
             "language": "en"
         }
