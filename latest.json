@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-03T15:10:07+00:00",
+    "updated_at": "2026-07-03T16:10:04+00:00",
     "items": [
+        {
+            "title": "Sahel States Quit the ICC in a Break From the West",
+            "url": "https://www.riotimesonline.com/sahel-states-icc-withdrawal-2026/",
+            "published_at": "2026-07-03T15:18:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "A Weak US Jobs Report And Cheaper Oil: The Quiet Shift That Reaches Latin America",
             "url": "https://www.riotimesonline.com/a-weak-us-jobs-report-and-cheaper-oil-the-quiet-shift-that-2026-07-03/",
@@ -692,13 +699,6 @@
             "title": "Discipline Without Growth: Italy\u2019s Meloni Paradox",
             "url": "https://www.riotimesonline.com/italy-meloni-deficit-discipline-without-growth-2026/",
             "published_at": "2026-07-02T09:19:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Mining Money Starts to Flow, Not Just Sit on a List",
-            "url": "https://www.riotimesonline.com/peru-mining-investment-first-half-2026-surge-copper-infrastructure/",
-            "published_at": "2026-07-02T09:18:31+00:00",
             "category": [],
             "language": "en"
         }
