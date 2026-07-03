@@ -1,23 +1,58 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-03T09:10:04+00:00",
+    "updated_at": "2026-07-03T10:10:04+00:00",
     "items": [
         {
-            "title": "A Painter Who Hangs Her Canvases Like Laundry Comes to Buenos Aires",
+            "title": "Rio de Janeiro Daily Brief \u2014 Friday, July 3, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-july-3-2026/",
+            "published_at": "2026-07-03T10:03:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Argentine Novelist Rewriting the Colonial Story for the World",
+            "url": "https://www.riotimesonline.com/gabriela-cabezon-camara-argentine-literature-global-2026/",
+            "published_at": "2026-07-03T09:35:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Grupo M\u00e9xico Locks In Funding for a Long-Stalled Peru Copper Mine",
+            "url": "https://www.riotimesonline.com/southern-copper-tia-maria-peru-financing-grupo-mexico-2026/",
+            "published_at": "2026-07-03T09:30:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Company Behind Every McDonald\u2019s in Latin America",
+            "url": "https://www.riotimesonline.com/arcos-dorados-mcdonalds-latin-america-largest-franchisee-2026/",
+            "published_at": "2026-07-03T09:19:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolsonaro Asks Trump to Delay Brazil Tariffs Until After the Vote",
+            "url": "https://www.riotimesonline.com/flavio-bolsonaro-ustr-tariff-delay-180-days-election-2026/",
+            "published_at": "2026-07-03T09:13:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vivian Suter Brings Her Hanging Canvases to Buenos Aires\u2019s MALBA",
             "url": "https://www.riotimesonline.com/vivian-suter-malba-buenos-aires-installation-2026/",
             "published_at": "2026-07-03T09:01:00+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "How Music From Rio\u2019s Favelas Conquered the World\u2019s Playlists",
+            "title": "Brazilian Funk: How Rio\u2019s Favela Sound Took Over Global Playlists",
             "url": "https://www.riotimesonline.com/baile-funk-brazil-global-music-export-2026/",
             "published_at": "2026-07-03T09:00:33+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "An Argentine Fintech Buys Its Way Into Brazil With the Warren Deal",
+            "title": "Argentina\u2019s Cocos Capital Buys Warren to Break Into Brazil",
             "url": "https://www.riotimesonline.com/cocos-capital-argentina-warren-brazil-fintech-acquisition-2026/",
             "published_at": "2026-07-03T08:59:46+00:00",
             "category": [],
@@ -451,7 +486,7 @@
             "language": "en"
         },
         {
-            "title": "The Novel That Made Argentine Cities Speak, Turns 100",
+            "title": "Roberto Arlt\u2019s Landmark Novel Turns 100",
             "url": "https://www.riotimesonline.com/roberto-arlt-juguete-rabioso-centenary-argentine-literature-2026/",
             "published_at": "2026-07-02T11:47:47+00:00",
             "category": [],
@@ -479,7 +514,7 @@
             "language": "en"
         },
         {
-            "title": "Chile\u2019s Great Rock Band Turns a Neruda Poem Into a Tour",
+            "title": "Chile\u2019s Los Jaivas Turn a Neruda Poem Into a 45th-Anniversary Tour",
             "url": "https://www.riotimesonline.com/los-jaivas-alturas-machu-picchu-45-years-chile-neruda-2026/",
             "published_at": "2026-07-02T10:46:13+00:00",
             "category": [],
@@ -591,7 +626,7 @@
             "language": "en"
         },
         {
-            "title": "Two LatAm Players Sent Off for a Rule That Didn\u2019t Exist Before",
+            "title": "New World Cup Rule Sends Off Two Latin American Players for Covering Their Mouths",
             "url": "https://www.riotimesonline.com/world-cup-2026-covering-mouth-red-card-rule-latam-almiron-hincapie/",
             "published_at": "2026-07-02T08:57:12+00:00",
             "category": [],
@@ -664,41 +699,6 @@
             "title": "East Africa Cements Its Place as the Continent\u2019s Growth Engine",
             "url": "https://www.riotimesonline.com/east-africa-growth-engine-2026/",
             "published_at": "2026-07-02T08:11:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "DR Congo Is Set to Become Africa\u2019s Eighth-Largest Economy",
-            "url": "https://www.riotimesonline.com/dr-congo-economy-eighth-largest-2026/",
-            "published_at": "2026-07-02T08:11:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil and France Scrap Visas for French Guiana Border",
-            "url": "https://www.riotimesonline.com/brazil-france-french-guiana-visa-free-border-security-2026/",
-            "published_at": "2026-07-02T08:08:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, July 2, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-july-2-2026/",
-            "published_at": "2026-07-02T06:02:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Climbs Back Above 60,000 as the Chip-Stock Trade Cracks",
-            "url": "https://www.riotimesonline.com/bitcoin-above-60000-chip-stocks-crack-july-2-2026/",
-            "published_at": "2026-07-02T06:02:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Rebound for a Second Day, but Is It Really a Bottom?",
-            "url": "https://www.riotimesonline.com/gold-silver-rebound-bottom-question-july-2-2026/",
-            "published_at": "2026-07-02T05:56:43+00:00",
             "category": [],
             "language": "en"
         }
