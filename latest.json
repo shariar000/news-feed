@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-03T05:10:04+00:00",
+    "updated_at": "2026-07-03T06:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Switzerland Beat Algeria 2-0 for Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-switzerland-algeria-2-0/",
+            "published_at": "2026-07-03T06:01:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Portugal Beat Croatia 2-1 to Reach Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-croatia-2-1/",
+            "published_at": "2026-07-03T06:01:27+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Spain Cruise Past Austria 3-0 Into Last 16",
             "url": "https://www.riotimesonline.com/world-cup-2026-spain-austria-3-0/",
@@ -684,20 +698,6 @@
         {
             "title": "Tunisia Spurns the IMF and Bets on Itself",
             "url": "https://www.riotimesonline.com/tunisia-imf-debt-2026/",
-            "published_at": "2026-07-01T16:12:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guinea\u2019s Bauxite Boom Makes It Africa\u2019s Fastest-Growing Economy",
-            "url": "https://www.riotimesonline.com/guinea-bauxite-boom-fastest-growing-2026/",
-            "published_at": "2026-07-01T16:12:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "When Africa Meets Latin America at the World Cup",
-            "url": "https://www.riotimesonline.com/africa-world-cup-latin-america-2026/",
             "published_at": "2026-07-01T16:12:02+00:00",
             "category": [],
             "language": "en"
