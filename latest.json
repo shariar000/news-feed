@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-04T08:10:03+00:00",
+    "updated_at": "2026-07-04T09:10:03+00:00",
     "items": [
+        {
+            "title": "Methanol Giant Methanex Idles a Trinidad Plant as the Gas Runs Short",
+            "url": "https://www.riotimesonline.com/trinidad-methanex-titan-methanol-idle-gas-shortage-guyana-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Debutant Ceiling: How Far the World Cup\u2019s Newcomers Really Got",
+            "url": "https://www.riotimesonline.com/world-cup-2026-debutant-ceiling-cape-verde-dr-congo-south-africa-r32/",
+            "published_at": "2026-07-04T08:33:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "South Africa\u2019s Anti-Migrant Unrest Rattles the Continent",
             "url": "https://www.riotimesonline.com/south-africa-anti-migrant-unrest-2026/",
@@ -685,20 +699,6 @@
             "title": "Chile Is Latin America\u2019s Most Competitive Economy, IMD Finds",
             "url": "https://www.riotimesonline.com/chile-most-competitive-economy-latin-america-imd-ranking-2026/",
             "published_at": "2026-07-02T18:16:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Money Enters Brazil\u2019s Data Center Race as Ares Breaks Ground",
-            "url": "https://www.riotimesonline.com/ada-ares-gru10-data-center-sao-paulo-brazil-us-investment-2026/",
-            "published_at": "2026-07-02T17:45:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Two of Guyana\u2019s Three Oil Partners Have Put In No Cash for Two Years",
-            "url": "https://www.riotimesonline.com/guyana-hess-cnooc-no-investment-stabroek-block-self-funding-2026/",
-            "published_at": "2026-07-02T17:37:47+00:00",
             "category": [],
             "language": "en"
         }
