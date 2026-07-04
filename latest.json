@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-04T14:10:04+00:00",
+    "updated_at": "2026-07-04T15:10:04+00:00",
     "items": [
+        {
+            "title": "Milei Scraps an Argentine Ministry and Hands One Ally Sweeping Power",
+            "url": "https://www.riotimesonline.com/milei-abolishes-interior-ministry-santilli-superminister-argentina-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Petro Asks Trump to Lift His US Sanctions in Phone Call",
+            "url": "https://www.riotimesonline.com/colombia-petro-trump-sanctions-lift-call-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa\u2019s Looted Art Begins the Long Journey Home",
             "url": "https://www.riotimesonline.com/looted-african-art-returns-home-2026/",
@@ -685,20 +699,6 @@
             "title": "Mexican Stocks Take a Breather After the Trade-Deal Relief Rally",
             "url": "https://www.riotimesonline.com/mexican-stocks-breather-trade-deal-relief-july-3-2026/",
             "published_at": "2026-07-03T06:38:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stocks Hold Flat as the Peso Surges on Weak US Jobs Data",
-            "url": "https://www.riotimesonline.com/colombia-stocks-flat-peso-surges-us-jobs-july-3-2026/",
-            "published_at": "2026-07-03T06:38:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Stocks Rise as a Weak US Jobs Report Cools Fears of Higher Rates",
-            "url": "https://www.riotimesonline.com/brazil-stocks-rise-weak-us-jobs-report-july-3-2026/",
-            "published_at": "2026-07-03T06:36:33+00:00",
             "category": [],
             "language": "en"
         }
