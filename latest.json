@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-04T12:10:03+00:00",
+    "updated_at": "2026-07-04T13:10:04+00:00",
     "items": [
+        {
+            "title": "Africa\u2019s Looted Art Begins the Long Journey Home",
+            "url": "https://www.riotimesonline.com/looted-african-art-returns-home-2026/",
+            "published_at": "2026-07-04T12:58:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa\u2019s Stock Exchanges Move Toward a Single Market",
+            "url": "https://www.riotimesonline.com/african-stock-exchanges-single-market-aelp-2026/",
+            "published_at": "2026-07-04T12:58:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ethiopia Builds Africa\u2019s Largest Airport Near Addis",
+            "url": "https://www.riotimesonline.com/ethiopia-bishoftu-africas-largest-airport-2026/",
+            "published_at": "2026-07-04T12:58:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "DR Congo Builds Its First Deep-Water Atlantic Port",
+            "url": "https://www.riotimesonline.com/drc-banana-deep-water-port-2026/",
+            "published_at": "2026-07-04T12:58:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria Becomes the First OPEC Nation to Join the IEA",
+            "url": "https://www.riotimesonline.com/nigeria-joins-iea-2026/",
+            "published_at": "2026-07-04T12:58:59+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "A Bridge Meant to Unite Guyana and Suriname Is Now Dividing Them",
             "url": "https://www.riotimesonline.com/guyana-suriname-corentyne-bridge-funding-dispute-ali-2026/",
@@ -664,41 +699,6 @@
             "title": "Brazil Stocks Rise as a Weak US Jobs Report Cools Fears of Higher Rates",
             "url": "https://www.riotimesonline.com/brazil-stocks-rise-weak-us-jobs-report-july-3-2026/",
             "published_at": "2026-07-03T06:36:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Digital-Nomad Visa Still Isn\u2019t Real: What Remote Workers Use Instead",
-            "url": "https://www.riotimesonline.com/peru-digital-nomad-visa-not-available-2026/",
-            "published_at": "2026-07-03T06:26:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Friday, July 3, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-july-3-2026/",
-            "published_at": "2026-07-03T06:22:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open: Value Rally Lifts Brazil as Korea Rebounds",
-            "url": "https://www.riotimesonline.com/latam-pre-open-value-rally-lifts-brazil-as-korea-rebounds/",
-            "published_at": "2026-07-03T06:19:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What\u2019s On Across Latin America: July 6\u201312",
-            "url": "https://www.riotimesonline.com/whats-on-latin-america-week-ahead-july-6-2026/",
-            "published_at": "2026-07-03T06:17:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Friday, July 3, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-3-2026/",
-            "published_at": "2026-07-03T06:16:36+00:00",
             "category": [],
             "language": "en"
         }
