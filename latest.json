@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-04T05:10:04+00:00",
+    "updated_at": "2026-07-04T06:10:04+00:00",
     "items": [
+        {
+            "title": "Global Economy Briefing \u2014 July 4, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-4-2026/",
+            "published_at": "2026-07-04T06:06:42+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Egypt Beat Australia on Penalties for Last 16",
             "url": "https://www.riotimesonline.com/world-cup-2026-egypt-australia-penalties/",
@@ -691,13 +698,6 @@
         {
             "title": "Morocco\u2019s Tourism Boom Races Toward the 2030 World Cup",
             "url": "https://www.riotimesonline.com/morocco-tourism-boom-2026/",
-            "published_at": "2026-07-02T13:09:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Stronger Rand Bruises Absa, One of Africa\u2019s Biggest Banks",
-            "url": "https://www.riotimesonline.com/absa-shares-trading-update-2026/",
             "published_at": "2026-07-02T13:09:52+00:00",
             "category": [],
             "language": "en"
