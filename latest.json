@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-04T17:10:03+00:00",
+    "updated_at": "2026-07-04T18:10:03+00:00",
     "items": [
+        {
+            "title": "World Bank Creates Andean Division to Steer $9 Billion in Lending",
+            "url": "https://www.riotimesonline.com/world-bank-andean-division-ariel-yepez-director-2026/",
+            "published_at": "2026-07-04T17:39:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama to Build a Maximum-Security Prison to Lock Away Gang Bosses",
+            "url": "https://www.riotimesonline.com/panama-maximum-security-prison-gang-leaders-la-joyita-mulino-2026/",
+            "published_at": "2026-07-04T17:39:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Cuts Import Tariffs to Soften the Blow of a Weaker Currency",
+            "url": "https://www.riotimesonline.com/bolivia-import-tariff-cut-decree-5646-paz-dollar-2026/",
+            "published_at": "2026-07-04T17:39:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay Widens Free Meningitis Shots After an Unusual Rise in Cases",
+            "url": "https://www.riotimesonline.com/uruguay-meningococo-vaccination-expansion-serogroup-c-2026/",
+            "published_at": "2026-07-04T17:38:56+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "One Tournament, Four Continents: How A World Cup Became The Planet\u2019s Shared Heartbeat",
             "url": "https://www.riotimesonline.com/one-tournament-four-continents-how-a-world-cup-became-the-2026-07-04/",
@@ -185,7 +213,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 4, 2026",
+            "title": "Brazil\u2019s Stock Market Climbs to a One-Month High as the Real Firms",
             "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-july-4-2026/",
             "published_at": "2026-07-04T07:23:16+00:00",
             "category": [],
@@ -241,7 +269,7 @@
             "language": "en"
         },
         {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 4, 2026",
+            "title": "Colombia\u2019s Stock Market Rises as the Peso Hits a Six-Year High",
             "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-july-4-2026/",
             "published_at": "2026-07-04T06:31:06+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "A Leaked US Draft Calls Brazil \u201cCountry X\u201d in a Rare-Earths Pitch",
             "url": "https://www.riotimesonline.com/us-rare-earth-proposal-brazil-country-x-serra-verde-2026/",
             "published_at": "2026-07-03T08:11:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Friday, July 3, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-july-3-2026/",
-            "published_at": "2026-07-03T07:09:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Leads a Broad Crypto Rally as Rate Fears Ease",
-            "url": "https://www.riotimesonline.com/bitcoin-broad-crypto-rally-rate-fears-ease-july-3-2026/",
-            "published_at": "2026-07-03T06:59:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Surge as Rate-Hike Fears Fade",
-            "url": "https://www.riotimesonline.com/gold-silver-surge-rate-hike-fears-fade-july-3-2026/",
-            "published_at": "2026-07-03T06:51:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Stocks Hold Their Ground as the Copper Trade Steadies",
-            "url": "https://www.riotimesonline.com/chile-stocks-hold-ground-copper-trade-july-3-2026/",
-            "published_at": "2026-07-03T06:49:00+00:00",
             "category": [],
             "language": "en"
         }
