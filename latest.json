@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-04T10:10:04+00:00",
+    "updated_at": "2026-07-04T11:10:03+00:00",
     "items": [
+        {
+            "title": "A Bridge Meant to Unite Guyana and Suriname Is Now Dividing Them",
+            "url": "https://www.riotimesonline.com/guyana-suriname-corentyne-bridge-funding-dispute-ali-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Takes Back Power Lines a Builder Never Built \u2014 and Auctions Them Again",
+            "url": "https://www.riotimesonline.com/brazil-transmission-auction-relicitation-mez-alupar-axia-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Norwegian Giant Bought a $1.3 Billion Texas Plant to Keep Brazil\u2019s Farms Fed",
+            "url": "https://www.riotimesonline.com/yara-gulf-coast-ammonia-texas-acquisition-brazil-fertilizer-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Foreign Investors No Longer Fear a Lula Win \u2014 They\u2019re Watching the Fed Instead",
+            "url": "https://www.riotimesonline.com/bofa-foreign-investors-lula-brazil-election-volatility-fiscal-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Trade Surplus Jumps 67% \u2014 Even as the US Threatens Tariffs",
             "url": "https://www.riotimesonline.com/brazil-trade-surplus-june-2026-exports-us-tariffs-mdic-forecast/",
@@ -101,21 +129,21 @@
             "language": "en"
         },
         {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 4, 2026",
+            "title": "Mexico\u2019s Stock Market Holds Flat as the USMCA Verdict Is Digested and the Peso Firms",
             "url": "https://www.riotimesonline.com/mexico-markets-ipc-the-peso-july-4-2026/",
             "published_at": "2026-07-04T07:22:22+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 4, 2026",
+            "title": "Chile\u2019s Stock Market Rises as a Firmer Peso and Reviving Copper Follow Weak US Jobs",
             "url": "https://www.riotimesonline.com/chile-markets-ipsa-the-peso-july-4-2026/",
             "published_at": "2026-07-04T07:18:41+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 4, 2026",
+            "title": "Argentina\u2019s Merval Extends Its Bounce a Second Day as YPF and the Energy Trade Lead",
             "url": "https://www.riotimesonline.com/argentina-markets-merval-the-peso-july-4-2026/",
             "published_at": "2026-07-04T07:16:23+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "LatAm Expat & Nomad Daily Guide for Friday, July 3, 2026",
             "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-3-2026/",
             "published_at": "2026-07-03T06:16:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 3, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-3-2026/",
-            "published_at": "2026-07-03T06:13:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Switzerland Beat Algeria 2-0 for Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-switzerland-algeria-2-0/",
-            "published_at": "2026-07-03T06:01:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Portugal Beat Croatia 2-1 to Reach Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-croatia-2-1/",
-            "published_at": "2026-07-03T06:01:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Spain Cruise Past Austria 3-0 Into Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-spain-austria-3-0/",
-            "published_at": "2026-07-02T22:52:39+00:00",
             "category": [],
             "language": "en"
         }
