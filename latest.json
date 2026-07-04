@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-04T16:10:04+00:00",
+    "updated_at": "2026-07-04T17:10:03+00:00",
     "items": [
+        {
+            "title": "One Tournament, Four Continents: How A World Cup Became The Planet\u2019s Shared Heartbeat",
+            "url": "https://www.riotimesonline.com/one-tournament-four-continents-how-a-world-cup-became-the-2026-07-04/",
+            "published_at": "2026-07-04T17:05:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Great Memory Gamble: How One Tiny Chip Now Steers The World Economy",
+            "url": "https://www.riotimesonline.com/the-great-memory-gamble-how-one-tiny-chip-now-steers-the-2026-07-04/",
+            "published_at": "2026-07-04T17:05:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Milei Scraps an Argentine Ministry and Hands One Ally Sweeping Power",
             "url": "https://www.riotimesonline.com/milei-abolishes-interior-ministry-santilli-superminister-argentina-2026/",
@@ -685,20 +699,6 @@
             "title": "Chilean Stocks Hold Their Ground as the Copper Trade Steadies",
             "url": "https://www.riotimesonline.com/chile-stocks-hold-ground-copper-trade-july-3-2026/",
             "published_at": "2026-07-03T06:49:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentine Stocks Bounce Back as Reform Trade Holds Firm",
-            "url": "https://www.riotimesonline.com/argentina-stocks-bounce-back-reform-trade-july-3-2026/",
-            "published_at": "2026-07-03T06:48:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Stocks Take a Breather After the Trade-Deal Relief Rally",
-            "url": "https://www.riotimesonline.com/mexican-stocks-breather-trade-deal-relief-july-3-2026/",
-            "published_at": "2026-07-03T06:38:43+00:00",
             "category": [],
             "language": "en"
         }
