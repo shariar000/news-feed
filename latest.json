@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-05T15:10:04+00:00",
+    "updated_at": "2026-07-05T16:10:04+00:00",
     "items": [
+        {
+            "title": "Rio de Janeiro Nightlife Tonight \u2014 July 5, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-sunday-july-5-2026/",
+            "published_at": "2026-07-05T16:08:04+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "What America\u2019s 250th Birthday Looks Like From Latin America",
             "url": "https://www.riotimesonline.com/united-states-250-anniversary-latin-america-relations-2026/",
@@ -692,13 +699,6 @@
             "title": "Rio de Janeiro Daily Brief \u2014 Friday, July 3, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-july-3-2026/",
             "published_at": "2026-07-03T10:03:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Argentine Novelist Rewriting the Colonial Story for the World",
-            "url": "https://www.riotimesonline.com/gabriela-cabezon-camara-argentine-literature-global-2026/",
-            "published_at": "2026-07-03T09:35:10+00:00",
             "category": [],
             "language": "en"
         }
