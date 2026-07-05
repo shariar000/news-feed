@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-05T20:10:03+00:00",
+    "updated_at": "2026-07-05T21:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Portugal Face Spain in Iberian Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-spain-preview/",
+            "published_at": "2026-07-05T20:30:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 USA Face Belgium in Last-16 Rematch",
+            "url": "https://www.riotimesonline.com/world-cup-2026-usa-belgium-preview/",
+            "published_at": "2026-07-05T20:29:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Colombia Meet Switzerland in Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-colombia-switzerland-preview/",
+            "published_at": "2026-07-05T20:28:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Egypt Face Argentina in Last-16 Debut",
+            "url": "https://www.riotimesonline.com/world-cup-2026-egypt-argentina-preview/",
+            "published_at": "2026-07-05T20:27:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brooklyn\u2019s African Arts Festival Marks 55 Years",
             "url": "https://www.riotimesonline.com/international-african-arts-festival-55-2026/",
@@ -671,34 +699,6 @@
             "title": "Africa Intelligence Brief \u2014 Friday, July 3, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-2026-07-03/",
             "published_at": "2026-07-03T12:55:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why China\u2019s Chemical Curbs Barely Dent Mexico\u2019s Fentanyl Supply",
-            "url": "https://www.riotimesonline.com/china-fentanyl-precursor-export-controls-designer-loophole-mexico-2026/",
-            "published_at": "2026-07-03T11:49:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Michelle Bolsonaro Quits Party Post, Splitting Brazil\u2019s Right",
-            "url": "https://www.riotimesonline.com/michelle-bolsonaro-resigns-pl-mulher-brazil-right-fracture-2026/",
-            "published_at": "2026-07-03T11:40:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Friday, July 3, 2026",
-            "url": "https://www.riotimesonline.com/latam-sports-argentina-colombia-play-for-last-16/",
-            "published_at": "2026-07-03T11:20:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How the World Cup Turned Brazil Into a Nation of Extra Spenders",
-            "url": "https://www.riotimesonline.com/brazil-world-cup-2026-consumer-spending-food-drink-retail-boom/",
-            "published_at": "2026-07-03T11:19:32+00:00",
             "category": [],
             "language": "en"
         }
