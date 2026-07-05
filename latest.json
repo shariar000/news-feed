@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-05T09:10:04+00:00",
+    "updated_at": "2026-07-05T10:10:04+00:00",
     "items": [
+        {
+            "title": "What America\u2019s 250th Birthday Looks Like From Latin America",
+            "url": "https://www.riotimesonline.com/united-states-250-anniversary-latin-america-relations-2026/",
+            "published_at": "2026-07-05T09:38:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio\u2019s New-Build Home Prices Jumped Almost 70% in a Year",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-new-home-prices-surge-launches-2026/",
+            "published_at": "2026-07-05T09:37:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Brazilian Companies Keep Leaving the Stock Market",
+            "url": "https://www.riotimesonline.com/brazil-companies-leaving-b3-stock-exchange-helbor-selic-2026/",
+            "published_at": "2026-07-05T09:37:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Congress Passes Paz\u2019s First Budget With a Smaller Deficit",
+            "url": "https://www.riotimesonline.com/bolivia-budget-2026-congress-approval-deficit-paz-2026/",
+            "published_at": "2026-07-05T09:37:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of July 6\u201310, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-6-10-2026/",
@@ -671,34 +699,6 @@
             "title": "The Argentine Novelist Rewriting the Colonial Story for the World",
             "url": "https://www.riotimesonline.com/gabriela-cabezon-camara-argentine-literature-global-2026/",
             "published_at": "2026-07-03T09:35:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Grupo M\u00e9xico Locks In Funding for a Long-Stalled Peru Copper Mine",
-            "url": "https://www.riotimesonline.com/southern-copper-tia-maria-peru-financing-grupo-mexico-2026/",
-            "published_at": "2026-07-03T09:30:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Company Behind Every McDonald\u2019s in Latin America",
-            "url": "https://www.riotimesonline.com/arcos-dorados-mcdonalds-latin-america-largest-franchisee-2026/",
-            "published_at": "2026-07-03T09:19:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolsonaro Asks Trump to Delay Brazil Tariffs Until After the Vote",
-            "url": "https://www.riotimesonline.com/flavio-bolsonaro-ustr-tariff-delay-180-days-election-2026/",
-            "published_at": "2026-07-03T09:13:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vivian Suter Brings Her Hanging Canvases to Buenos Aires\u2019s MALBA",
-            "url": "https://www.riotimesonline.com/vivian-suter-malba-buenos-aires-installation-2026/",
-            "published_at": "2026-07-03T09:01:00+00:00",
             "category": [],
             "language": "en"
         }
