@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-06T13:10:03+00:00",
+    "updated_at": "2026-07-06T14:05:54+00:00",
     "items": [
+        {
+            "title": "Bogot\u00e1\u2019s First Metro Train Is Finally Rolling",
+            "url": "https://www.riotimesonline.com/bogota-metro-line-1-first-train-tests-expat-2026/",
+            "published_at": "2026-07-06T13:30:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Buenos Aires Is Quietly Rebuilding Its Century-Old Subway",
+            "url": "https://www.riotimesonline.com/buenos-aires-subte-2026-renovation-line-f-expats/",
+            "published_at": "2026-07-06T13:28:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Why Santiago\u2019s Metro Is the One That Just Works",
             "url": "https://www.riotimesonline.com/santiago-metro-2026-seven-lines-expats-chile/",
@@ -684,20 +698,6 @@
         {
             "title": "Ethiopia Builds Africa\u2019s Largest Airport Near Addis",
             "url": "https://www.riotimesonline.com/ethiopia-bishoftu-africas-largest-airport-2026/",
-            "published_at": "2026-07-04T12:58:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "DR Congo Builds Its First Deep-Water Atlantic Port",
-            "url": "https://www.riotimesonline.com/drc-banana-deep-water-port-2026/",
-            "published_at": "2026-07-04T12:58:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria Becomes the First OPEC Nation to Join the IEA",
-            "url": "https://www.riotimesonline.com/nigeria-joins-iea-2026/",
             "published_at": "2026-07-04T12:58:59+00:00",
             "category": [],
             "language": "en"
