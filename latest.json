@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-06T07:10:03+00:00",
+    "updated_at": "2026-07-06T08:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Northeast Wants the AI Data Centers Its Wind Feeds",
+            "url": "https://www.riotimesonline.com/brazil-northeast-data-centers-epe-nordeste-energy-2026/",
+            "published_at": "2026-07-06T08:07:57+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin American Pulse for Monday, July 6, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-july-6-2026/",
@@ -692,13 +699,6 @@
             "title": "Guyana\u2019s Oil Fund Passes a Turning Point as Withdrawals Fall",
             "url": "https://www.riotimesonline.com/guyana-natural-resource-fund-2026-withdrawal-first-decline-oil-wealth/",
             "published_at": "2026-07-03T17:47:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama\u2019s Copper Mine Passes Its Audit, but the Decision Keeps Slipping",
-            "url": "https://www.riotimesonline.com/cobre-panama-mine-audit-decision-delayed-mulino-july-2026/",
-            "published_at": "2026-07-03T17:40:19+00:00",
             "category": [],
             "language": "en"
         }
