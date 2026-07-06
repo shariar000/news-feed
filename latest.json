@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-06T11:10:04+00:00",
+    "updated_at": "2026-07-06T12:10:03+00:00",
     "items": [
+        {
+            "title": "Frida Kahlo\u2019s Return to Mexico City Ends This Month",
+            "url": "https://www.riotimesonline.com/frida-kahlo-gelman-collection-mam-mexico-city-2026/",
+            "published_at": "2026-07-06T12:03:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Legendary Bogot\u00e1 Rock Festival Returns This Month",
+            "url": "https://www.riotimesonline.com/concierto-de-conciertos-bogota-festival-2026/",
+            "published_at": "2026-07-06T11:36:23+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mexico City\u2019s Jumex Turns Football Into Fine Art",
             "url": "https://www.riotimesonline.com/museo-jumex-football-art-exhibition-mexico-city-2026/",
@@ -684,20 +698,6 @@
         {
             "title": "A Norwegian Giant Bought a $1.3 Billion Texas Plant to Keep Brazil\u2019s Farms Fed",
             "url": "https://www.riotimesonline.com/yara-gulf-coast-ammonia-texas-acquisition-brazil-fertilizer-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Foreign Investors No Longer Fear a Lula Win \u2014 They\u2019re Watching the Fed Instead",
-            "url": "https://www.riotimesonline.com/bofa-foreign-investors-lula-brazil-election-volatility-fiscal-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Trade Surplus Jumps 67% \u2014 Even as the US Threatens Tariffs",
-            "url": "https://www.riotimesonline.com/brazil-trade-surplus-june-2026-exports-us-tariffs-mdic-forecast/",
             "published_at": false,
             "category": [],
             "language": "en"
