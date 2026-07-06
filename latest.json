@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-06T21:10:04+00:00",
+    "updated_at": "2026-07-06T22:10:03+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Portugal Knocked Out by Spain in the Last 16",
+            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-spain-0-1/",
+            "published_at": "2026-07-06T21:56:45+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Peru\u2019s Alpayana Buys Into Canada in $98M Mining Deal",
             "url": "https://www.riotimesonline.com/alpayana-peru-magna-mining-canada-entry-2026/",
@@ -692,13 +699,6 @@
             "title": "Key Market Events for the Week of July 6\u201310, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-6-10-2026/",
             "published_at": "2026-07-05T08:49:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Canada\u2019s Couche-Tard Joins the Race for a Slice of Brazil\u2019s Ipiranga",
-            "url": "https://www.riotimesonline.com/couche-tard-ultrapar-ipiranga-stake-bid-brazil-fuel-2026/",
-            "published_at": "2026-07-05T08:35:19+00:00",
             "category": [],
             "language": "en"
         }
