@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-06T16:10:04+00:00",
+    "updated_at": "2026-07-06T17:10:04+00:00",
     "items": [
+        {
+            "title": "The Roar and the Ache: What the World Cup Reveals About a Fractured Planet",
+            "url": "https://www.riotimesonline.com/the-roar-and-the-ache-what-the-world-cup-reveals-about-a-2026-07-06/",
+            "published_at": "2026-07-06T17:04:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Missile, a Pact and the Ocean Where Great Powers Now Collide",
+            "url": "https://www.riotimesonline.com/a-missile-a-pact-and-the-ocean-where-great-powers-now-2026-07-06/",
+            "published_at": "2026-07-06T17:04:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Atafona, the Brazilian Town the Sea Is Swallowing",
+            "url": "https://www.riotimesonline.com/atafona-brazil-coastal-erosion-town-sea-2026/",
+            "published_at": "2026-07-06T16:55:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bukele Files to Run Again, Aiming for a Third Term to 2033",
+            "url": "https://www.riotimesonline.com/bukele-third-term-el-salvador-2027/",
+            "published_at": "2026-07-06T16:38:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Settles a 30-Year Land Fight Over 33,000 Hectares",
+            "url": "https://www.riotimesonline.com/brazil-land-reform-parana-araupel-2026/",
+            "published_at": "2026-07-06T16:29:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Monday, July 6, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-2026-07-06/",
@@ -664,41 +699,6 @@
             "title": "Latin America Defense Monitor \u2014 June 24 \u2013 July 5, 2026",
             "url": "https://www.riotimesonline.com/latam-defense-monitor-salitre-colombia-venezuela/",
             "published_at": "2026-07-05T07:49:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Sunday, July 5, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-july-5-2026/",
-            "published_at": "2026-07-05T07:28:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Sunday, July 5, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-sunday-july-5-2026/",
-            "published_at": "2026-07-05T07:27:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 France Beat Paraguay 1-0 to Reach Quarter-Finals",
-            "url": "https://www.riotimesonline.com/world-cup-2026-france-paraguay-1-0/",
-            "published_at": "2026-07-05T07:26:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Morocco Beat Canada 3-0 to Reach Quarter-Finals",
-            "url": "https://www.riotimesonline.com/world-cup-2026-morocco-canada-3-0/",
-            "published_at": "2026-07-05T07:26:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What\u2019s On Across Latin America: July 6\u201312",
-            "url": "https://www.riotimesonline.com/whats-on-latin-america-week-ahead-july-6-2026/",
-            "published_at": "2026-07-05T06:17:03+00:00",
             "category": [],
             "language": "en"
         }
