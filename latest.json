@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-06T12:10:03+00:00",
+    "updated_at": "2026-07-06T13:10:03+00:00",
     "items": [
+        {
+            "title": "Why Santiago\u2019s Metro Is the One That Just Works",
+            "url": "https://www.riotimesonline.com/santiago-metro-2026-seven-lines-expats-chile/",
+            "published_at": "2026-07-06T12:48:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio\u2019s Bus Network Is Quietly Getting Faster",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-brt-transbrasil-terminal-expats-2026/",
+            "published_at": "2026-07-06T12:24:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Medell\u00edn\u2019s Cable Cars Rewired a Whole City",
+            "url": "https://www.riotimesonline.com/medellin-metrocable-cable-cars-transport-expats-2026/",
+            "published_at": "2026-07-06T12:12:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Frida Kahlo\u2019s Return to Mexico City Ends This Month",
             "url": "https://www.riotimesonline.com/frida-kahlo-gelman-collection-mam-mexico-city-2026/",
@@ -678,27 +699,6 @@
             "title": "Nigeria Becomes the First OPEC Nation to Join the IEA",
             "url": "https://www.riotimesonline.com/nigeria-joins-iea-2026/",
             "published_at": "2026-07-04T12:58:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Bridge Meant to Unite Guyana and Suriname Is Now Dividing Them",
-            "url": "https://www.riotimesonline.com/guyana-suriname-corentyne-bridge-funding-dispute-ali-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Takes Back Power Lines a Builder Never Built \u2014 and Auctions Them Again",
-            "url": "https://www.riotimesonline.com/brazil-transmission-auction-relicitation-mez-alupar-axia-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Norwegian Giant Bought a $1.3 Billion Texas Plant to Keep Brazil\u2019s Farms Fed",
-            "url": "https://www.riotimesonline.com/yara-gulf-coast-ammonia-texas-acquisition-brazil-fertilizer-2026/",
-            "published_at": false,
             "category": [],
             "language": "en"
         }
