@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-06T18:10:03+00:00",
+    "updated_at": "2026-07-06T19:10:03+00:00",
     "items": [
+        {
+            "title": "Peru\u2019s Alpayana Buys Into Canada in $98M Mining Deal",
+            "url": "https://www.riotimesonline.com/alpayana-peru-magna-mining-canada-entry-2026/",
+            "published_at": "2026-07-06T18:36:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Owns the World\u2019s Best Birdwatching Map",
+            "url": "https://www.riotimesonline.com/latin-america-birdwatching-world-ranking-2026/",
+            "published_at": "2026-07-06T18:33:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "PriceSmart Brings Its Costco-Style Club to Chile",
             "url": "https://www.riotimesonline.com/pricesmart-chile-warehouse-club-entry-2026/",
@@ -685,20 +699,6 @@
             "title": "Canada\u2019s Couche-Tard Joins the Race for a Slice of Brazil\u2019s Ipiranga",
             "url": "https://www.riotimesonline.com/couche-tard-ultrapar-ipiranga-stake-bid-brazil-fuel-2026/",
             "published_at": "2026-07-05T08:35:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Military\u2019s Venezuela Presence Deepens as SOUTHCOM Digs In on the Coast",
-            "url": "https://www.riotimesonline.com/us-military-venezuela-southcom-presence/",
-            "published_at": "2026-07-05T08:20:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Mamba Vehicles Run Into a US-Imposed Peacekeeping Limit",
-            "url": "https://www.riotimesonline.com/uruguay-mamba-vehicles-us-restriction/",
-            "published_at": "2026-07-05T08:20:12+00:00",
             "category": [],
             "language": "en"
         }
