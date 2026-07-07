@@ -1,7 +1,70 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-07T17:10:04+00:00",
+    "updated_at": "2026-07-07T18:10:03+00:00",
     "items": [
+        {
+            "title": "Toyota Pulls Tacoma Output From Mexico as Trump Tariffs Bite",
+            "url": "https://www.riotimesonline.com/toyota-tacoma-tijuana-mexico-us-tariffs-sheinbaum-2026/",
+            "published_at": "2026-07-07T18:04:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador\u2019s Korea Trade Deal Nears the Finish Line After a Decade",
+            "url": "https://www.riotimesonline.com/ecuador-south-korea-trade-agreement-seca-exports-2026/",
+            "published_at": "2026-07-07T17:59:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Puts Soybean Meal on Year-Round Rails to Chase Argentina",
+            "url": "https://www.riotimesonline.com/brazil-arco-norte-soybean-meal-rail-itaqui-vli-2026/",
+            "published_at": "2026-07-07T17:53:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "French Guiana Joins the Caribbean Bloc, Pulling France Closer",
+            "url": "https://www.riotimesonline.com/french-guiana-caricom-associate-member-caribbean-integration-2026/",
+            "published_at": "2026-07-07T17:46:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santander\u2019s Brazil Unit Falls So Far Behind, a Buyout Is in Play",
+            "url": "https://www.riotimesonline.com/santander-brasil-record-valuation-gap-parent-take-private-2026/",
+            "published_at": "2026-07-07T17:39:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Pemex Has All but Stopped Looking for New Oil, and That Should Worry Investors",
+            "url": "https://www.riotimesonline.com/pemex-exploratory-wells-2026-29-year-low/",
+            "published_at": "2026-07-07T17:27:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Power Handover Turns Toxic a Month Before the New President Takes Over",
+            "url": "https://www.riotimesonline.com/colombia-transition-2026-de-la-espriella-petro-empalme/",
+            "published_at": "2026-07-07T17:21:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Coca-Cola, Tesla and eBay Fight Trump\u2019s Tariffs on Brazil",
+            "url": "https://www.riotimesonline.com/coca-cola-tesla-ebay-oppose-brazil-tariffs-ustr-section-301-hearing-2026/",
+            "published_at": "2026-07-07T17:17:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China\u2019s Currency Is Quietly Building a Home Inside Brazil\u2019s Financial System",
+            "url": "https://www.riotimesonline.com/brazil-china-yuan-2026-renminbi-financial-system/",
+            "published_at": "2026-07-07T17:10:43+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazilians Keep Flying to the US Even as the World Pulls Back",
             "url": "https://www.riotimesonline.com/brazil-us-tourism-2026-third-largest-source/",
@@ -636,69 +699,6 @@
             "title": "Peru\u2019s Alpayana Buys Into Canada in $98M Mining Deal",
             "url": "https://www.riotimesonline.com/alpayana-peru-magna-mining-canada-entry-2026/",
             "published_at": "2026-07-06T18:36:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Owns the World\u2019s Best Birdwatching Map",
-            "url": "https://www.riotimesonline.com/latin-america-birdwatching-world-ranking-2026/",
-            "published_at": "2026-07-06T18:33:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "PriceSmart Brings Its Costco-Style Club to Chile",
-            "url": "https://www.riotimesonline.com/pricesmart-chile-warehouse-club-entry-2026/",
-            "published_at": "2026-07-06T18:00:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Flying Within Central America Costs More Than Reaching Miami",
-            "url": "https://www.riotimesonline.com/central-america-flights-expensive-ca4-domestic-reform-2026/",
-            "published_at": "2026-07-06T17:43:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Kast Courts Uruguay\u2019s Orsi on Pacific Trade",
-            "url": "https://www.riotimesonline.com/kast-uruguay-visit-orsi-bioceanic-corridor-cptpp-2026/",
-            "published_at": "2026-07-06T17:40:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Next President Moves to Restore Ties With Israel",
-            "url": "https://www.riotimesonline.com/colombia-israel-relations-de-la-espriella-2026/",
-            "published_at": "2026-07-06T17:39:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador\u2019s Digital Nomad Visa: The 2026 Reality",
-            "url": "https://www.riotimesonline.com/ecuador-digital-nomad-visa-cuenca-2026/",
-            "published_at": "2026-07-06T17:32:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Names Hardline General Mora as Defense Minister",
-            "url": "https://www.riotimesonline.com/colombia-defense-minister-jorge-mora-espriella-2026/",
-            "published_at": "2026-07-06T17:29:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Curitiba Gets Its First Direct Flight to Europe",
-            "url": "https://www.riotimesonline.com/curitiba-lisbon-tap-direct-flight-parana-europe-2026/",
-            "published_at": "2026-07-06T17:19:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "France Turns to Satellites to Hunt Minerals Under French Guiana",
-            "url": "https://www.riotimesonline.com/french-guiana-critical-minerals-brgm-fleet-space-2026/",
-            "published_at": "2026-07-06T17:16:12+00:00",
             "category": [],
             "language": "en"
         }
