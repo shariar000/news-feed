@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-07T15:10:03+00:00",
+    "updated_at": "2026-07-07T16:10:03+00:00",
     "items": [
+        {
+            "title": "C\u00f4te d\u2019Ivoire Launches 5G and Welcomes Starlink",
+            "url": "https://www.riotimesonline.com/cote-divoire-5g-starlink-2026/",
+            "published_at": "2026-07-07T16:05:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tunisia Jails Rights Activist Bensedrine for 25 Years",
+            "url": "https://www.riotimesonline.com/tunisia-rights-activist-bensedrine-2026/",
+            "published_at": "2026-07-07T16:05:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenya\u2019s $8.4 Billion Agri-Food Plan Courts Investors",
+            "url": "https://www.riotimesonline.com/kenya-agri-food-plan-investment-2026/",
+            "published_at": "2026-07-07T16:05:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Egypt\u2019s Industrial Strategy Targets $100 Billion in Exports",
+            "url": "https://www.riotimesonline.com/egypt-industrial-strategy-exports-2026/",
+            "published_at": "2026-07-07T16:05:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Congo Ebola Outbreak Passes 450 Deaths as It Spreads",
+            "url": "https://www.riotimesonline.com/congo-ebola-outbreak-deaths-2026/",
+            "published_at": "2026-07-07T16:05:28+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Tuesday, July 7, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-2026-07-07/",
@@ -664,41 +699,6 @@
             "title": "USA & Canada Intelligence Brief \u2014 Monday, July 6, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-2026-07-06/",
             "published_at": "2026-07-06T16:07:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Monday, July 6, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-2026-07-06/",
-            "published_at": "2026-07-06T15:39:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Monday, July 6, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-2026-07-06/",
-            "published_at": "2026-07-06T15:37:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Monday, July 6, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-2026-07-06/",
-            "published_at": "2026-07-06T15:35:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "OPEC+ Pumps More Oil, Testing Africa\u2019s Petro-States",
-            "url": "https://www.riotimesonline.com/opec-production-increase-africa-2026/",
-            "published_at": "2026-07-06T15:32:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kenya Braces for Saba Saba Protests on July 7",
-            "url": "https://www.riotimesonline.com/saba-saba-2026-kenya-protests/",
-            "published_at": "2026-07-06T15:32:09+00:00",
             "category": [],
             "language": "en"
         }
