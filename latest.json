@@ -1,7 +1,175 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-07T08:10:04+00:00",
+    "updated_at": "2026-07-07T09:10:03+00:00",
     "items": [
+        {
+            "title": "The Real Employer in Brazil Is the Small Business Next Door",
+            "url": "https://www.riotimesonline.com/brazil-small-business-jobs-2026-employment-engine/",
+            "published_at": "2026-07-07T09:09:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Chicken Exports Set a Record as Beef Runs Into China\u2019s Wall",
+            "url": "https://www.riotimesonline.com/brazil-chicken-exports-2026-record-first-half/",
+            "published_at": "2026-07-07T09:09:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Starbucks Is Growing Again in Brazil After a Messy Collapse",
+            "url": "https://www.riotimesonline.com/starbucks-brazil-2026-expansion-zamp/",
+            "published_at": "2026-07-07T09:09:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cemex Sells Most of Its Colombia Business to Holcim",
+            "url": "https://www.riotimesonline.com/cemex-colombia-sale-holcim-divestment-cement-2026/",
+            "published_at": "2026-07-07T09:09:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Two Foreign Giants Buy Into Argentina\u2019s Big Gas Bet",
+            "url": "https://www.riotimesonline.com/argentina-lng-eni-xrg-vaca-muerta-stakes-2026/",
+            "published_at": "2026-07-07T09:08:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Bets on Africa as Its Amazon Oil Gamble Runs the Clock",
+            "url": "https://www.riotimesonline.com/petrobras-africa-sao-tome-block-oil-exploration-2026/",
+            "published_at": "2026-07-07T09:06:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Why Brazil\u2019s Rising Building Costs Could Catch Off-Plan Property Buyers",
+            "url": "https://www.riotimesonline.com/brazil-construction-costs-2026-off-plan-property/",
+            "published_at": "2026-07-07T08:56:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Power Companies Line Up to Raise Cash on the Stock Market",
+            "url": "https://www.riotimesonline.com/brazil-power-sector-stock-offerings-2026-engie/",
+            "published_at": "2026-07-07T08:56:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nubank Doubles Down on Mexico With $4.2bn Even as Wall Street Cools",
+            "url": "https://www.riotimesonline.com/nubank-mexico-investment-2026-sheinbaum-bofa/",
+            "published_at": "2026-07-07T08:56:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vale Chairman Quits Days Before a Vote to Remove Him",
+            "url": "https://www.riotimesonline.com/vale-chairman-stieler-resignation-previ-2026/",
+            "published_at": "2026-07-07T08:56:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Azul Moves to the Big Board: NYSE Listing Caps Its Bankruptcy Exit",
+            "url": "https://www.riotimesonline.com/azul-nyse-listing-2026-uplist-restructuring/",
+            "published_at": "2026-07-07T08:55:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump\u2019s New Brazil Tariff Nears a July 15 Deadline as Both Sides Dig In",
+            "url": "https://www.riotimesonline.com/us-brazil-tariff-2026-ustr-hearing-wto-deadline/",
+            "published_at": "2026-07-07T08:55:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Home-Built Gripen Fighter Flies Abroad for the First Time",
+            "url": "https://www.riotimesonline.com/brazil-gripen-f39-first-overseas-deployment-salitre-2026/",
+            "published_at": "2026-07-07T08:55:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Keiko Fujimori Inherits Peru\u2019s Contested $3.5bn F-16 Fighter Deal",
+            "url": "https://www.riotimesonline.com/peru-f-16-deal-fujimori-lockheed-2026/",
+            "published_at": "2026-07-07T08:55:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How South America Split Into Two Rival Fighter-Jet Camps",
+            "url": "https://www.riotimesonline.com/south-america-fighter-jets-gripen-f16-split-2026/",
+            "published_at": "2026-07-07T08:55:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay Lands the World Bank Arm\u2019s First-Ever Green Hydrogen Bet",
+            "url": "https://www.riotimesonline.com/uruguay-green-hydrogen-ifc-kahiros-first-global-investment-2026/",
+            "published_at": "2026-07-07T08:54:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia\u2019s Lithium Is Stuck Between a Court, Congress and Two Superpowers",
+            "url": "https://www.riotimesonline.com/bolivia-lithium-contracts-china-russia-paz-court-2026/",
+            "published_at": "2026-07-07T08:54:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Oil-Boom Nation Whose Stock Market Trades Just Once a Week",
+            "url": "https://www.riotimesonline.com/guyana-stock-exchange-monday-trading-oil-boom-2026/",
+            "published_at": "2026-07-07T08:54:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America\u2019s Central Banks Start Cutting, but Not All Together",
+            "url": "https://www.riotimesonline.com/latin-america-interest-rates-easing-cycle-2026/",
+            "published_at": "2026-07-07T08:53:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Brazil, Guyana and Argentina Now Drive Global Oil Growth",
+            "url": "https://www.riotimesonline.com/brazil-guyana-argentina-oil-growth-2026/",
+            "published_at": "2026-07-07T08:46:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fujimori Readies a Deregulation Shock for Peru\u2019s Mining Economy",
+            "url": "https://www.riotimesonline.com/peru-fujimori-economic-plan-mining-deregulation-july-2026/",
+            "published_at": "2026-07-07T08:40:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Wage Hike Just Made Every Residency Visa Harder to Get",
+            "url": "https://www.riotimesonline.com/colombia-visa-income-thresholds-2026-minimum-wage-retirees/",
+            "published_at": "2026-07-07T08:26:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Draws Record Foreign Money Into Peso Bonds as Kast Era Begins",
+            "url": "https://www.riotimesonline.com/chile-peso-bonds-record-foreign-inflows-rate-cuts-2026/",
+            "published_at": "2026-07-07T08:21:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Right Enters 2026 Without Its Strongest Card on the Table",
+            "url": "https://www.riotimesonline.com/brazil-right-2026-candidate-tarcisio-barred-bolsonaro-ineligible/",
+            "published_at": "2026-07-07T08:15:11+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Suriname Bet Its Bondholders on Oil It Has Not Pumped Yet",
             "url": "https://www.riotimesonline.com/suriname-debt-restructuring-oil-linked-vri-bond-2026/",
@@ -514,23 +682,9 @@
             "language": "en"
         },
         {
-            "title": "Cemex Sells Most of Its Colombia Business to Holcim",
-            "url": "https://www.riotimesonline.com/cemex-colombia-sale-holcim-divestment-cement-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Paraguay Wants to Sell Its Spare Power to the AI Boom",
             "url": "https://www.riotimesonline.com/paraguay-data-centers-ai-hydropower-itaipu-2026/",
             "published_at": "2026-07-06T09:24:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Two Foreign Giants Buy Into Argentina\u2019s Big Gas Bet",
-            "url": "https://www.riotimesonline.com/argentina-lng-eni-xrg-vaca-muerta-stakes-2026/",
-            "published_at": false,
             "category": [],
             "language": "en"
         },
@@ -545,160 +699,6 @@
             "title": "A French Billionaire Just Bought Telef\u00f3nica\u2019s Chile Business",
             "url": "https://www.riotimesonline.com/telefonica-chile-sale-njj-millicom-america-movil-2026/",
             "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana Opens Its Oil-Boom Capital to Digital Nomads",
-            "url": "https://www.riotimesonline.com/guyana-digital-nomad-visa-georgetown-expat-living-2026/",
-            "published_at": "2026-07-06T09:11:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Risks a Gas Squeeze Just as a Dry El Ni\u00f1o Looms",
-            "url": "https://www.riotimesonline.com/colombia-gas-supply-canacol-el-nino-shortage-2026/",
-            "published_at": "2026-07-06T09:07:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The World\u2019s Top Copper Miner Changes Its Boss Mid-Crisis",
-            "url": "https://www.riotimesonline.com/codelco-new-chief-executive-jorge-gomez-copper-2026/",
-            "published_at": "2026-07-06T08:47:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Suriname Passes Its 2026 Budget and Bets on State-Firm Reform",
-            "url": "https://www.riotimesonline.com/suriname-budget-2026-state-enterprise-reform-oil-economy-simons-2026/",
-            "published_at": "2026-07-06T08:33:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s World Cup Exit at the Azteca Ends a Home Dream",
-            "url": "https://www.riotimesonline.com/mexico-world-cup-exit-england-azteca-host-economy-fallout-2026/",
-            "published_at": "2026-07-06T08:26:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Africa\u2019s Newest Billionaire Built a Pharmacy Empire",
-            "url": "https://www.riotimesonline.com/ivan-saltzman-dis-chem-billionaire-2026/",
-            "published_at": "2026-07-06T08:25:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Egypt Tourism Breaks Records as the Grand Museum Delivers",
-            "url": "https://www.riotimesonline.com/egypt-tourism-record-2026/",
-            "published_at": "2026-07-06T08:25:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dangote Plans Port, Power and Fertiliser Push in Tanzania",
-            "url": "https://www.riotimesonline.com/dangote-tanzania-port-power-fertiliser-2026/",
-            "published_at": "2026-07-06T08:25:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chinese Cars Stall Stellantis\u2019s Big South African Factory",
-            "url": "https://www.riotimesonline.com/stellantis-south-africa-plant-chinese-cars-2026/",
-            "published_at": "2026-07-06T08:25:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mali Rebels Launch Their Widest Offensive Since 2012",
-            "url": "https://www.riotimesonline.com/mali-attacks-widest-offensive-2026/",
-            "published_at": "2026-07-06T08:25:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "One Mine Now Decides Whether Panama Grows Fast or Slow",
-            "url": "https://www.riotimesonline.com/panama-growth-forecast-cobre-mine-canal-sip-2027-2026/",
-            "published_at": "2026-07-06T08:16:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Record Money From Migrants Now Meets a New American Tax",
-            "url": "https://www.riotimesonline.com/central-america-remittances-record-northern-triangle-us-tax-2026/",
-            "published_at": "2026-07-06T08:15:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Northeast Wants the AI Data Centers Its Wind Feeds",
-            "url": "https://www.riotimesonline.com/brazil-northeast-data-centers-epe-nordeste-energy-2026/",
-            "published_at": "2026-07-06T08:07:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Monday, July 6, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-july-6-2026/",
-            "published_at": "2026-07-06T07:02:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Monday, July 6, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-brazil-opens-the-week-at-a-record-high/",
-            "published_at": "2026-07-06T06:37:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Down to Two: Argentina and Colombia Carry Latin America at the World Cup",
-            "url": "https://www.riotimesonline.com/world-cup-2026-latin-america-last-two-argentina-colombia/",
-            "published_at": "2026-07-06T06:36:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The 183-Day Trap: How Tax Residency Works Across Latin America",
-            "url": "https://www.riotimesonline.com/latin-america-183-day-tax-residency-guide-2026/",
-            "published_at": "2026-07-06T06:36:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Monday, July 6, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-monday-july-6-2026/",
-            "published_at": "2026-07-06T06:36:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 6, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-6-2026/",
-            "published_at": "2026-07-06T06:23:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Stock Market Rises a Second Day as Rate-Cut Bets Broaden",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-monday-july-6-2026/",
-            "published_at": "2026-07-06T06:18:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Merval Grinds Higher as Country Risk Sinks to an Eight-Year Low",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-monday-july-6-2026/",
-            "published_at": "2026-07-06T06:17:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Stock Market Rises as the Peso Holds Firm Near Cycle Lows",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-monday-july-6-2026/",
-            "published_at": "2026-07-06T06:17:04+00:00",
             "category": [],
             "language": "en"
         }
