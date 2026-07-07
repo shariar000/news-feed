@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-07T18:10:03+00:00",
+    "updated_at": "2026-07-07T19:10:03+00:00",
     "items": [
+        {
+            "title": "Peru Revives Its Amazon Waterway to Deepen Trade With Brazil",
+            "url": "https://www.riotimesonline.com/peru-amazon-waterway-hidrovia-relaunch-brazil-trade-2026/",
+            "published_at": "2026-07-07T19:06:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Weighs a Power-Rationing Decree as Drought Strains the Grid",
+            "url": "https://www.riotimesonline.com/chile-electricity-rationing-decree-drought-power-strain-2026/",
+            "published_at": "2026-07-07T19:03:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Queen of the Skies Is Coming Back to Rio, Just for a Few Weeks",
+            "url": "https://www.riotimesonline.com/lufthansa-747-8-rio-frankfurt-2026/",
+            "published_at": "2026-07-07T18:47:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Keeps Its Central Bank Anchor as Fujimori Retains Velarde",
+            "url": "https://www.riotimesonline.com/velarde-stays-peru-central-bank-fujimori-monetary-continuity-2026/",
+            "published_at": "2026-07-07T18:27:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Dominican Republic Has Six Months to Prove Its Guyana Oil Bet",
+            "url": "https://www.riotimesonline.com/dominican-republic-guyana-oil-2026-berbice-deadline/",
+            "published_at": "2026-07-07T18:17:47+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Toyota Pulls Tacoma Output From Mexico as Trump Tariffs Bite",
             "url": "https://www.riotimesonline.com/toyota-tacoma-tijuana-mexico-us-tariffs-sheinbaum-2026/",
@@ -664,41 +699,6 @@
             "title": "Brazil\u2019s Financial Morning Call for Tuesday, July 7, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-july-7-2026/",
             "published_at": "2026-07-07T06:02:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 7, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-7-2026/",
-            "published_at": "2026-07-07T06:02:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 USA Knocked Out by Belgium in the Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-usa-belgium-1-4/",
-            "published_at": "2026-07-07T05:51:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Tuesday, July 7, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-july-7-2026/",
-            "published_at": "2026-07-07T05:38:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Portugal Knocked Out by Spain in the Last 16",
-            "url": "https://www.riotimesonline.com/world-cup-2026-portugal-spain-0-1/",
-            "published_at": "2026-07-06T21:56:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Alpayana Buys Into Canada in $98M Mining Deal",
-            "url": "https://www.riotimesonline.com/alpayana-peru-magna-mining-canada-entry-2026/",
-            "published_at": "2026-07-06T18:36:51+00:00",
             "category": [],
             "language": "en"
         }
