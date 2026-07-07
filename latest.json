@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-07T20:10:04+00:00",
+    "updated_at": "2026-07-07T21:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Argentina Stun Egypt 3-2 in Last-16 Comeback",
+            "url": "https://www.riotimesonline.com/world-cup-2026-argentina-egypt-3-2/",
+            "published_at": "2026-07-07T20:22:44+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Peru Revives Its Amazon Waterway to Deepen Trade With Brazil",
             "url": "https://www.riotimesonline.com/peru-amazon-waterway-hidrovia-relaunch-brazil-trade-2026/",
@@ -692,13 +699,6 @@
             "title": "Brazil Markets: Ibovespa & the Real \u2014 July 7, 2026",
             "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-tuesday-july-7-2026/",
             "published_at": "2026-07-07T06:03:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Tuesday, July 7, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-july-7-2026/",
-            "published_at": "2026-07-07T06:02:52+00:00",
             "category": [],
             "language": "en"
         }
