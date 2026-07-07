@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-07T16:10:03+00:00",
+    "updated_at": "2026-07-07T17:10:04+00:00",
     "items": [
+        {
+            "title": "Brazilians Keep Flying to the US Even as the World Pulls Back",
+            "url": "https://www.riotimesonline.com/brazil-us-tourism-2026-third-largest-source/",
+            "published_at": "2026-07-07T17:08:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Samsung\u2019s Record Profit, Korea\u2019s Sixth Crash: The AI Memory Reckoning Reaches Latin America",
+            "url": "https://www.riotimesonline.com/samsung-s-record-profit-korea-s-sixth-crash-the-ai-memory-2026-07-07/",
+            "published_at": "2026-07-07T17:05:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Warns Congress the US Terror Label Could Invite Military Force",
+            "url": "https://www.riotimesonline.com/brazil-itamaraty-us-military-force-pcc-cv-terrorist-sovereignty-2026/",
+            "published_at": "2026-07-07T16:53:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Bank\u2019s Lawsuit Threatens to Unwind the Braskem Control Sale",
+            "url": "https://www.riotimesonline.com/braskem-safra-court-block-ig4-sale-succession-2026/",
+            "published_at": "2026-07-07T16:47:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A War Far Away Is Making the Panama Canal Richer Than Expected",
+            "url": "https://www.riotimesonline.com/panama-canal-2026-revenue-beats-forecast-hormuz/",
+            "published_at": "2026-07-07T16:39:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Central Bank Wades Into the Ambipar Fight to Protect Hedging",
+            "url": "https://www.riotimesonline.com/brazil-central-bank-ambipar-restructuring-deutsche-hedge-2026/",
+            "published_at": "2026-07-07T16:35:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Bets Its Next Export Boom on Cherries for China",
+            "url": "https://www.riotimesonline.com/peru-cherry-china-market-access-blueberry-agroexport-2026/",
+            "published_at": "2026-07-07T16:26:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China\u2019s Squid Fleet Shifts to Chile, Alarming Its Fishermen",
+            "url": "https://www.riotimesonline.com/chinese-fishing-fleet-chile-squid-oceana-eez-2026/",
+            "published_at": "2026-07-07T16:26:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "C\u00f4te d\u2019Ivoire Launches 5G and Welcomes Starlink",
             "url": "https://www.riotimesonline.com/cote-divoire-5g-starlink-2026/",
@@ -643,62 +699,6 @@
             "title": "France Turns to Satellites to Hunt Minerals Under French Guiana",
             "url": "https://www.riotimesonline.com/french-guiana-critical-minerals-brgm-fleet-space-2026/",
             "published_at": "2026-07-06T17:16:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cartagena\u2019s Airbnb Hosts Earned Nearly $120 Million Last Year",
-            "url": "https://www.riotimesonline.com/cartagena-airbnb-hosts-bolivar-income-2026/",
-            "published_at": "2026-07-06T17:12:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Wins 2028 Global Architecture Forum",
-            "url": "https://www.riotimesonline.com/rio-uia-architecture-forum-2028-sustainable-tourism/",
-            "published_at": "2026-07-06T17:11:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Roar and the Ache: What the World Cup Reveals About a Fractured Planet",
-            "url": "https://www.riotimesonline.com/the-roar-and-the-ache-what-the-world-cup-reveals-about-a-2026-07-06/",
-            "published_at": "2026-07-06T17:04:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Missile, a Pact and the Ocean Where Great Powers Now Collide",
-            "url": "https://www.riotimesonline.com/a-missile-a-pact-and-the-ocean-where-great-powers-now-2026-07-06/",
-            "published_at": "2026-07-06T17:04:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Atafona, the Brazilian Town the Sea Is Swallowing",
-            "url": "https://www.riotimesonline.com/atafona-brazil-coastal-erosion-town-sea-2026/",
-            "published_at": "2026-07-06T16:55:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bukele Files to Run Again, Aiming for a Third Term to 2033",
-            "url": "https://www.riotimesonline.com/bukele-third-term-el-salvador-2027/",
-            "published_at": "2026-07-06T16:38:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Settles a 30-Year Land Fight Over 33,000 Hectares",
-            "url": "https://www.riotimesonline.com/brazil-land-reform-parana-araupel-2026/",
-            "published_at": "2026-07-06T16:29:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Monday, July 6, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-2026-07-06/",
-            "published_at": "2026-07-06T16:07:51+00:00",
             "category": [],
             "language": "en"
         }
