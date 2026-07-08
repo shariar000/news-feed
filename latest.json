@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-08T09:10:03+00:00",
+    "updated_at": "2026-07-08T10:10:35+00:00",
     "items": [
+        {
+            "title": "Gold and Silver Keep Falling as a Death Cross Builds in Gold",
+            "url": "https://www.riotimesonline.com/gold-silver-death-cross-selloff-july-2026/",
+            "published_at": "2026-07-08T09:51:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Panama Just Tightened the Rules on Its Famous Tax Haven Status",
             "url": "https://www.riotimesonline.com/panama-economic-substance-law-526-eu-list-2026/",
@@ -692,13 +699,6 @@
             "title": "The Real Employer in Brazil Is the Small Business Next Door",
             "url": "https://www.riotimesonline.com/brazil-small-business-jobs-2026-employment-engine/",
             "published_at": "2026-07-07T09:09:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Chicken Exports Set a Record as Beef Runs Into China\u2019s Wall",
-            "url": "https://www.riotimesonline.com/brazil-chicken-exports-2026-record-first-half/",
-            "published_at": "2026-07-07T09:09:29+00:00",
             "category": [],
             "language": "en"
         }
