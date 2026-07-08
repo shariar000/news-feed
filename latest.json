@@ -1,7 +1,112 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-08T08:10:04+00:00",
+    "updated_at": "2026-07-08T09:10:03+00:00",
     "items": [
+        {
+            "title": "Panama Just Tightened the Rules on Its Famous Tax Haven Status",
+            "url": "https://www.riotimesonline.com/panama-economic-substance-law-526-eu-list-2026/",
+            "published_at": "2026-07-08T08:45:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bogot\u00e1 Is Quietly Becoming a World Coffee Capital",
+            "url": "https://www.riotimesonline.com/bogota-specialty-coffee-scene-world-of-coffee-2027/",
+            "published_at": "2026-07-08T08:36:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fujimori\u2019s Plan Would Shrink Peru\u2019s Troubled State Oil Firm",
+            "url": "https://www.riotimesonline.com/peru-petroperu-restructuring-fujimori-privatization-2026/",
+            "published_at": "2026-07-08T08:36:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Best Food Contest Isn\u2019t in Restaurants. It\u2019s in Bars",
+            "url": "https://www.riotimesonline.com/comida-di-buteco-brazil-bar-food-festival-2026/",
+            "published_at": "2026-07-08T08:36:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Mexican Master Takes Over S\u00e3o Paulo\u2019s Most Famous Museum",
+            "url": "https://www.riotimesonline.com/damian-ortega-masp-sao-paulo-retrospective-2026/",
+            "published_at": "2026-07-08T08:36:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ancient Weaving From the Argentine Chaco Lands in S\u00e3o Paulo",
+            "url": "https://www.riotimesonline.com/claudia-alarcon-silat-wichi-textiles-masp-2026/",
+            "published_at": "2026-07-08T08:35:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santiago Is Getting a Major New Contemporary Art Museum",
+            "url": "https://www.riotimesonline.com/numu-new-museum-santiago-contemporary-art-2026/",
+            "published_at": "2026-07-08T08:35:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Dominican Republic Just Sold Its First Green Bond",
+            "url": "https://www.riotimesonline.com/dominican-republic-first-green-bond-sustainability-2026/",
+            "published_at": "2026-07-08T08:35:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mercosur Is Fighting Over Europe\u2019s Market, and the Clock Is Ticking",
+            "url": "https://www.riotimesonline.com/mercosur-eu-quota-distribution-september-deadline-2026/",
+            "published_at": "2026-07-08T08:35:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vivo Is Absorbing Its Fiber Unit. Here\u2019s Why It Matters",
+            "url": "https://www.riotimesonline.com/vivo-fibrasil-merger-telefonica-brasil-fiber-2026/",
+            "published_at": "2026-07-08T08:35:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Gulf Is Courting Latin America, and Small Nations Are the Prize",
+            "url": "https://www.riotimesonline.com/uae-trade-days-latin-america-mercosur-mission-2026/",
+            "published_at": "2026-07-08T08:34:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana Is Famous for Oil. A Gold Mine Wants to Change That",
+            "url": "https://www.riotimesonline.com/omai-gold-guyana-resource-non-oil-mining-2026/",
+            "published_at": "2026-07-08T08:34:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador\u2019s Trade Deal With Washington Is a Quiet Turning Point",
+            "url": "https://www.riotimesonline.com/ecuador-us-reciprocal-trade-agreement-surcharge-2026/",
+            "published_at": "2026-07-08T08:25:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Housing Slump Is the Next Government\u2019s First Test",
+            "url": "https://www.riotimesonline.com/colombia-housing-slump-incoming-government-subsidies-2026/",
+            "published_at": "2026-07-08T08:17:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Inflation Is Cooling, and Rate Cuts Are Back in View",
+            "url": "https://www.riotimesonline.com/brazil-disinflation-ipca-copom-selic-easing-july-2026/",
+            "published_at": "2026-07-08T08:10:49+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bolivia Is Ending Its Fixed Dollar Rate. Here Is Why It Matters",
             "url": "https://www.riotimesonline.com/bolivia-floating-exchange-rate-regime-explainer-2026/",
@@ -594,111 +699,6 @@
             "title": "Brazil\u2019s Chicken Exports Set a Record as Beef Runs Into China\u2019s Wall",
             "url": "https://www.riotimesonline.com/brazil-chicken-exports-2026-record-first-half/",
             "published_at": "2026-07-07T09:09:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Starbucks Is Growing Again in Brazil After a Messy Collapse",
-            "url": "https://www.riotimesonline.com/starbucks-brazil-2026-expansion-zamp/",
-            "published_at": "2026-07-07T09:09:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Holcim Is Buying Its Way Back Into Latin America",
-            "url": "https://www.riotimesonline.com/cemex-colombia-sale-holcim-divestment-cement-2026/",
-            "published_at": "2026-07-07T09:09:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Gulf Oil Money Is Flowing Into Argentina\u2019s Shale",
-            "url": "https://www.riotimesonline.com/argentina-lng-eni-xrg-vaca-muerta-stakes-2026/",
-            "published_at": "2026-07-07T09:08:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Bets on Africa as Its Amazon Oil Gamble Runs the Clock",
-            "url": "https://www.riotimesonline.com/petrobras-africa-sao-tome-block-oil-exploration-2026/",
-            "published_at": "2026-07-07T09:06:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Brazil\u2019s Rising Building Costs Could Catch Off-Plan Property Buyers",
-            "url": "https://www.riotimesonline.com/brazil-construction-costs-2026-off-plan-property/",
-            "published_at": "2026-07-07T08:56:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Power Companies Line Up to Raise Cash on the Stock Market",
-            "url": "https://www.riotimesonline.com/brazil-power-sector-stock-offerings-2026-engie/",
-            "published_at": "2026-07-07T08:56:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nubank Doubles Down on Mexico With $4.2bn Even as Wall Street Cools",
-            "url": "https://www.riotimesonline.com/nubank-mexico-investment-2026-sheinbaum-bofa/",
-            "published_at": "2026-07-07T08:56:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale Chairman Quits Days Before a Vote to Remove Him",
-            "url": "https://www.riotimesonline.com/vale-chairman-stieler-resignation-previ-2026/",
-            "published_at": "2026-07-07T08:56:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Azul Moves to the Big Board: NYSE Listing Caps Its Bankruptcy Exit",
-            "url": "https://www.riotimesonline.com/azul-nyse-listing-2026-uplist-restructuring/",
-            "published_at": "2026-07-07T08:55:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump\u2019s New Brazil Tariff Nears a July 15 Deadline as Both Sides Dig In",
-            "url": "https://www.riotimesonline.com/us-brazil-tariff-2026-ustr-hearing-wto-deadline/",
-            "published_at": "2026-07-07T08:55:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Inside Brazil\u2019s Bet to Build \u2014 and Export \u2014 Its Own Fighter Jet",
-            "url": "https://www.riotimesonline.com/brazil-gripen-f39-first-overseas-deployment-salitre-2026/",
-            "published_at": "2026-07-07T08:55:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Keiko Fujimori Inherits Peru\u2019s Contested $3.5bn F-16 Fighter Deal",
-            "url": "https://www.riotimesonline.com/peru-f-16-deal-fujimori-lockheed-2026/",
-            "published_at": "2026-07-07T08:55:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Multibillion-Dollar Bill Behind South America\u2019s Fighter Race",
-            "url": "https://www.riotimesonline.com/south-america-fighter-jets-gripen-f16-split-2026/",
-            "published_at": "2026-07-07T08:55:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Lands the World Bank Arm\u2019s First-Ever Green Hydrogen Bet",
-            "url": "https://www.riotimesonline.com/uruguay-green-hydrogen-ifc-kahiros-first-global-investment-2026/",
-            "published_at": "2026-07-07T08:54:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia\u2019s Lithium Is Stuck Between a Court, Congress and Two Superpowers",
-            "url": "https://www.riotimesonline.com/bolivia-lithium-contracts-china-russia-paz-court-2026/",
-            "published_at": "2026-07-07T08:54:44+00:00",
             "category": [],
             "language": "en"
         }
