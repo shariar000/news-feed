@@ -1,7 +1,70 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-09T10:10:04+00:00",
+    "updated_at": "2026-07-09T12:10:03+00:00",
     "items": [
+        {
+            "title": "FBI Probes $260m Flowing Through Argentina\u2019s Football Body",
+            "url": "https://www.riotimesonline.com/fbi-afa-investigation-tourprodenter-tapia-world-cup-2026/",
+            "published_at": "2026-07-09T12:00:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Exports Hit $60bn. Copper Out-Earned All Other Goods",
+            "url": "https://www.riotimesonline.com/chile-exports-record-60-billion-copper-lithium-h1-2026/",
+            "published_at": "2026-07-09T11:52:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Cuts Fuel Prices a Fourth Week. Most of March Still Bites",
+            "url": "https://www.riotimesonline.com/chile-fuel-prices-fourth-cut-enap-july-2026/",
+            "published_at": "2026-07-09T11:41:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Gangs Move 2.4 Times What the State Spends on Security",
+            "url": "https://www.riotimesonline.com/brazil-public-security-tcu-audit-organised-crime-federal-funding-2026/",
+            "published_at": "2026-07-09T11:37:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Votes $4.8bn for an Oil Shock It Thought Was Ending",
+            "url": "https://www.riotimesonline.com/brazil-fuel-subsidy-congress-25-billion-oil-shock-2026/",
+            "published_at": "2026-07-09T11:20:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Police Expert Built Secret Files on Two Supreme Court Judges",
+            "url": "https://www.riotimesonline.com/brazil-pf-expert-dossiers-moraes-toffoli-banco-master-2026/",
+            "published_at": "2026-07-09T11:16:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Banco do Brasil Hands Its Own Debtor a $448m No-Bid Deal",
+            "url": "https://www.riotimesonline.com/banco-do-brasil-correios-no-bid-contract-related-party-2026/",
+            "published_at": "2026-07-09T10:38:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Great Food Fair Turns 20 in a Slumping Home Market",
+            "url": "https://www.riotimesonline.com/caminos-y-sabores-2026-buenos-aires-food-fair/",
+            "published_at": "2026-07-09T10:29:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Kept Unemployment Low by Making the Jobs Worse",
+            "url": "https://www.riotimesonline.com/argentina-labor-market-uca-informality-report-2026/",
+            "published_at": "2026-07-09T10:11:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The IMF Counted Votes on Venezuela. Britain Uses a Different Rule",
             "url": "https://www.riotimesonline.com/venezuela-imf-sdr-voting-power-frozen-assets-2026/",
@@ -636,69 +699,6 @@
             "title": "A Cameroonian Art Star Takes Over S\u00e3o Paulo\u2019s Oldest Museum",
             "url": "https://www.riotimesonline.com/pascale-marthine-tayou-knockout-pinacoteca-sao-paulo-2026/",
             "published_at": "2026-07-08T10:14:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold\u2019s Death Cross Has Triggered and Silver\u2019s Is Forming Now",
-            "url": "https://www.riotimesonline.com/gold-silver-death-cross-selloff-july-2026/",
-            "published_at": "2026-07-08T09:51:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Just Tightened the Rules on Its Famous Tax Haven Status",
-            "url": "https://www.riotimesonline.com/panama-economic-substance-law-526-eu-list-2026/",
-            "published_at": "2026-07-08T08:45:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bogot\u00e1 Is Quietly Becoming a World Coffee Capital",
-            "url": "https://www.riotimesonline.com/bogota-specialty-coffee-scene-world-of-coffee-2027/",
-            "published_at": "2026-07-08T08:36:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fujimori\u2019s Plan Would Shrink Peru\u2019s Troubled State Oil Firm",
-            "url": "https://www.riotimesonline.com/peru-petroperu-restructuring-fujimori-privatization-2026/",
-            "published_at": "2026-07-08T08:36:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Best Food Contest Isn\u2019t in Restaurants. It\u2019s in Bars",
-            "url": "https://www.riotimesonline.com/comida-di-buteco-brazil-bar-food-festival-2026/",
-            "published_at": "2026-07-08T08:36:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Mexican Master Takes Over S\u00e3o Paulo\u2019s Most Famous Museum",
-            "url": "https://www.riotimesonline.com/damian-ortega-masp-sao-paulo-retrospective-2026/",
-            "published_at": "2026-07-08T08:36:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ancient Weaving From the Argentine Chaco Lands in S\u00e3o Paulo",
-            "url": "https://www.riotimesonline.com/claudia-alarcon-silat-wichi-textiles-masp-2026/",
-            "published_at": "2026-07-08T08:35:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Santiago Is Getting a Major New Contemporary Art Museum",
-            "url": "https://www.riotimesonline.com/numu-new-museum-santiago-contemporary-art-2026/",
-            "published_at": "2026-07-08T08:35:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Dominican Republic Just Sold Its First Green Bond",
-            "url": "https://www.riotimesonline.com/dominican-republic-first-green-bond-sustainability-2026/",
-            "published_at": "2026-07-08T08:35:25+00:00",
             "category": [],
             "language": "en"
         }
