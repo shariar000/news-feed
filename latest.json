@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-10T20:10:04+00:00",
+    "updated_at": "2026-07-10T21:10:03+00:00",
     "items": [
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-friday-july-10-2026/",
+            "published_at": "2026-07-10T21:02:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-friday-july-10-2026/",
+            "published_at": "2026-07-10T21:01:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-friday-july-10-2026/",
+            "published_at": "2026-07-10T21:00:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-friday-july-10-2026/",
+            "published_at": "2026-07-10T21:00:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The Age of the Convicted Ex-President: Seoul Joins a Global Reckoning",
+            "url": "https://www.riotimesonline.com/the-age-of-the-convicted-ex-president-seoul-joins-a-global-2026-07-10/",
+            "published_at": "2026-07-10T20:58:08+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "The Firm That Nearly Bought Banco Master Wants Its Watchdog Gone",
             "url": "https://www.riotimesonline.com/fictor-banco-master-watchdog-tjsp-fees-2026/",
@@ -664,41 +699,6 @@
             "title": "Ghana Gold Dispute: President\u2019s Brother Defies Courts",
             "url": "https://www.riotimesonline.com/ghana-gold-dispute-black-volta-2026/",
             "published_at": "2026-07-10T07:48:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "PepsiCo\u2019s Big Indian Bottler Enters Kenya With a $32 Million Dairy Deal",
-            "url": "https://www.riotimesonline.com/varun-beverages-kenya-deal-2026/",
-            "published_at": "2026-07-10T07:48:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ebola Economic Impact Could Cost Africa $3.6 Billion",
-            "url": "https://www.riotimesonline.com/ebola-economic-impact-africa-2026/",
-            "published_at": "2026-07-10T07:47:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Congo\u2019s Rawbank Probe Puts Its Biggest Bank on Edge",
-            "url": "https://www.riotimesonline.com/rawbank-probe-congo-2026/",
-            "published_at": "2026-07-10T07:47:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Co-Founder of South African Bank Capitec Borrows $402 Million Against His Shares",
-            "url": "https://www.riotimesonline.com/michiel-le-roux-capitec-loan-2026/",
-            "published_at": "2026-07-10T07:47:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Inspected Six in a Hundred of Its Riskiest Dams Last Year",
-            "url": "https://www.riotimesonline.com/brazil-dam-safety-report-2026-ana-213-critical-inspectors/",
-            "published_at": "2026-07-10T07:35:51+00:00",
             "category": [],
             "language": "en"
         }
