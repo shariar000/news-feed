@@ -1,7 +1,126 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-10T05:10:03+00:00",
+    "updated_at": "2026-07-10T06:10:04+00:00",
     "items": [
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 10, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "What\u2019s On Across Latin America: July 13\u201319",
+            "url": "https://www.riotimesonline.com/whats-on-latin-america-week-ahead-july-13-2026/",
+            "published_at": "2026-07-10T05:36:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Handover Turns Legal: A Criminal Complaint and a Suspended Transition",
+            "url": "https://www.riotimesonline.com/colombia-empalme-legal-escalation-2026/",
+            "published_at": "2026-07-10T05:36:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide for Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-10-2026/",
+            "published_at": "2026-07-10T05:36:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 Africa Exits After Its Record Run",
+            "url": "https://www.riotimesonline.com/world-cup-2026-africa-record-run-ends-morocco/",
+            "published_at": "2026-07-10T05:28:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "World Cup 2026 France Beat Morocco 2-0 to Reach the Semi-Finals",
+            "url": "https://www.riotimesonline.com/world-cup-2026-france-morocco-2-0/",
+            "published_at": "2026-07-10T05:17:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-friday-july-10-2026/",
+            "published_at": "2026-07-10T03:27:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-july-10-2026/",
+            "published_at": "2026-07-10T03:24:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-july-10-2026/",
+            "published_at": "2026-07-10T03:19:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 10, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-friday-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 10, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-friday-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 July 10, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 10, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-friday-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Friday, July 10, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-friday-july-10-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 10, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-10-2026/",
+            "published_at": "2026-07-10T03:03:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mexico\u2019s Prices Fell Again in June. Core Inflation Rose Again.",
             "url": "https://www.riotimesonline.com/mexico-inflation-june-2026-core-services-banxico/",
@@ -580,125 +699,6 @@
             "title": "Brazil Revives Its Plan to Try 16-Year-Olds as Adults",
             "url": "https://www.riotimesonline.com/brazil-age-criminal-responsibility-pec-16-mendonca-filho-2026/",
             "published_at": "2026-07-09T08:13:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bath & Body Works Lands in Brazil, 40 Countries Late",
-            "url": "https://www.riotimesonline.com/bath-body-works-brazil-first-store-morumbishopping-multiplan-2026/",
-            "published_at": "2026-07-09T08:04:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana Development Bank Offers $14,400 Free Loans, If You Qualify",
-            "url": "https://www.riotimesonline.com/guyana-development-bank-sme-loans-formalization-2026/",
-            "published_at": "2026-07-09T07:59:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Police Ask If Banco Master Bought Protection With Party Videos",
-            "url": "https://www.riotimesonline.com/banco-master-vorcaro-party-videos-blackmail-fgc-2026/",
-            "published_at": "2026-07-09T07:58:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana and Trinidad Build a Trade Desk to Unblock Honey and Peppers",
-            "url": "https://www.riotimesonline.com/guyana-trinidad-trade-desk-non-tariff-barriers-gcci-ttcic-2026/",
-            "published_at": "2026-07-09T07:58:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "African Filmmakers Take Centre Stage at Locarno 2026",
-            "url": "https://www.riotimesonline.com/locarno-open-doors-africa-2026/",
-            "published_at": "2026-07-09T07:11:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tony Elumelu to Step Down as UBA Chairman After 12 Years",
-            "url": "https://www.riotimesonline.com/elumelu-uba-chairman-retirement-2026/",
-            "published_at": "2026-07-09T07:10:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ivory Coast Wins $80 Billion in Pledges for Its 2030 Plan",
-            "url": "https://www.riotimesonline.com/ivory-coast-80-billion-pledges-2026/",
-            "published_at": "2026-07-09T07:10:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Abu Dhabi Buys Shell\u2019s South African Network for $1 Billion",
-            "url": "https://www.riotimesonline.com/adnoc-shell-south-africa-2026/",
-            "published_at": "2026-07-09T07:10:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ethiopia Passes a Record $14.6 Billion Tax-Financed Budget",
-            "url": "https://www.riotimesonline.com/ethiopia-record-budget-2026/",
-            "published_at": "2026-07-09T07:10:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Leaving Argentina Can Reset Your Citizenship Clock: The 2025 Decree Explained",
-            "url": "https://www.riotimesonline.com/argentina-decree-366-residency-citizenship-clock/",
-            "published_at": "2026-07-09T06:02:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Is Rewriting Its Migration Policy: What Could Change for Nomads",
-            "url": "https://www.riotimesonline.com/peru-migration-policy-rewrite-2026-nomads/",
-            "published_at": "2026-07-09T06:02:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Handover Collapses: What the Broken Transition Means for Residents",
-            "url": "https://www.riotimesonline.com/colombia-empalme-collapse-2026-what-it-means/",
-            "published_at": "2026-07-09T06:01:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Thursday, July 9, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-july-9-2026/",
-            "published_at": "2026-07-09T06:01:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, July 9, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-july-9-2026/",
-            "published_at": "2026-07-09T05:45:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Thursday, July 9, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-july-9-2026/",
-            "published_at": "2026-07-09T05:45:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Thursday, July 9, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-thursday-july-9-2026/",
-            "published_at": "2026-07-09T05:45:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Thursday, July 9, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-july-9-2026/",
-            "published_at": "2026-07-09T05:44:55+00:00",
             "category": [],
             "language": "en"
         }
