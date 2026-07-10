@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-10T17:10:04+00:00",
+    "updated_at": "2026-07-10T18:10:04+00:00",
     "items": [
+        {
+            "title": "Vietnam Just Passed Mexico as America\u2019s Biggest Trade Gap",
+            "url": "https://www.riotimesonline.com/vietnam-taiwan-overtake-mexico-china-us-trade-deficit-2026/",
+            "published_at": "2026-07-10T17:30:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petroperu Found 455 Buildings It Forgot to Mention",
+            "url": "https://www.riotimesonline.com/petroperu-spv-proinversion-500-million-tranche-2026/",
+            "published_at": "2026-07-10T17:25:18+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Nubank Sued After a $664 Card Debt Ballooned to $616,000",
             "url": "https://www.riotimesonline.com/nubank-sued-revolving-credit-interest-brazil-2026/",
@@ -685,20 +699,6 @@
             "title": "Cocoa Prices Are Rising Again. Ecuador Has Less Left to Sell",
             "url": "https://www.riotimesonline.com/ecuador-cocoa-exports-collapse-price-rebound-el-nino-2026/",
             "published_at": "2026-07-10T07:28:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Brazilian Banker Hired $1.5m of Influencers to Attack His Regulator",
-            "url": "https://www.riotimesonline.com/banco-master-projeto-dv-influencers-central-bank-miranda-2026/",
-            "published_at": "2026-07-10T07:27:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Offering Pix Now Costs Brazil\u2019s Small Firms an Extra $1m in Capital",
-            "url": "https://www.riotimesonline.com/brazil-central-bank-minimum-capital-pix-fintechs-2026/",
-            "published_at": "2026-07-10T07:26:32+00:00",
             "category": [],
             "language": "en"
         }
