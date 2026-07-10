@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-10T11:10:04+00:00",
+    "updated_at": "2026-07-10T12:10:04+00:00",
     "items": [
+        {
+            "title": "Venezuela\u2019s New Oil Rulebook Runs 29 Pages and Never Says PDVSA",
+            "url": "https://www.riotimesonline.com/venezuela-oil-regulation-pdvsa-gaceta-oficial-2026/",
+            "published_at": "2026-07-10T11:18:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rio Won\u2019t Ban Airbnb. It Will Let Your Neighbours Vote on It",
             "url": "https://www.riotimesonline.com/rio-airbnb-short-let-bill-condominium-vote-2026/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s World Cup Exit Cost the Federation $35m. Its Sponsors Shrugged.",
             "url": "https://www.riotimesonline.com/brazil-world-cup-sponsorship-ifood-cbf-exit-2026/",
             "published_at": "2026-07-09T16:58:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cuba\u2019s Biggest Power Plant Now Fails Every Eleven Days",
-            "url": "https://www.riotimesonline.com/cuba-blackout-guiteras-une-grid-collapse-2026/",
-            "published_at": "2026-07-09T16:57:49+00:00",
             "category": [],
             "language": "en"
         }
