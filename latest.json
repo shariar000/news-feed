@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-11T15:10:04+00:00",
+    "updated_at": "2026-07-11T16:10:04+00:00",
     "items": [
+        {
+            "title": "When the Door Slams: Africa\u2019s Migrant Backlash and Latin America\u2019s Familiar Ache",
+            "url": "https://www.riotimesonline.com/when-the-door-slams-africa-s-migrant-backlash-and-latin-2026-07-11/",
+            "published_at": "2026-07-11T15:21:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Democracy on Trial: How Seoul, Washington and Bras\u00edlia Are Fighting the Same Battle",
+            "url": "https://www.riotimesonline.com/democracy-on-trial-how-seoul-washington-and-bras-lia-are-2026-07-11/",
+            "published_at": "2026-07-11T15:21:41+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "A Court Keeps Its Watchdog Inside the Firm That Bid for Banco Master",
             "url": "https://www.riotimesonline.com/fictor-recuperacao-judicial-kroll-watchdog-laspro-creditors-2026/",
@@ -685,20 +699,6 @@
             "title": "Marriott Is Building a $2.1bn Resort on Rio\u2019s Coast Before the Court Has Ruled",
             "url": "https://www.riotimesonline.com/maraey-marica-marriott-resort-restinga-court-2026/",
             "published_at": "2026-07-10T10:29:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Debt Ratio Just Fell. It Borrowed $20bn More Anyway",
-            "url": "https://www.riotimesonline.com/colombia-external-debt-april-2026-peso-appreciation/",
-            "published_at": "2026-07-10T10:27:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Gas Production Has Halved in a Decade, and Still Falls",
-            "url": "https://www.riotimesonline.com/colombia-gas-production-may-2026-acipet-decline/",
-            "published_at": "2026-07-10T10:27:22+00:00",
             "category": [],
             "language": "en"
         }
