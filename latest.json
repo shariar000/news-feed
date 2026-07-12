@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-12T14:10:04+00:00",
+    "updated_at": "2026-07-12T16:10:04+00:00",
     "items": [
+        {
+            "title": "Guatemala\u2019s First Public-Private Highway Reaches a Milestone",
+            "url": "https://www.riotimesonline.com/guatemala-escuintla-puerto-quetzal-highway-ppp-2026/",
+            "published_at": "2026-07-12T14:33:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama Fights Back After Report Calls Its Free Zone a Smuggler\u2019s Haven",
+            "url": "https://www.riotimesonline.com/panama-colon-free-zone-tracit-illicit-trade-2026/",
+            "published_at": "2026-07-12T14:33:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "El Salvador Takes Its Tech-Hub Pitch to Investors in Seoul",
+            "url": "https://www.riotimesonline.com/el-salvador-south-korea-tech-investment-forum-2026/",
+            "published_at": "2026-07-12T14:33:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica\u2019s Registered Small Firms Nearly Double in Four Years",
+            "url": "https://www.riotimesonline.com/costa-rica-sme-registration-record-meic-2026/",
+            "published_at": "2026-07-12T14:33:13+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Korea Helps Fund Guatemala\u2019s Push to Light Up the Countryside",
             "url": "https://www.riotimesonline.com/guatemala-inde-korea-idb-rural-electrification-2026/",
@@ -671,34 +699,6 @@
             "title": "Malawi Cash Transfers: Canva Founders Commit $150 Million",
             "url": "https://www.riotimesonline.com/malawi-cash-transfers-canva-2026/",
             "published_at": "2026-07-11T07:56:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mohammed Dewji Bets $275 Million on Graphite and Resorts",
-            "url": "https://www.riotimesonline.com/mohammed-dewji-graphite-tourism-2026/",
-            "published_at": "2026-07-11T07:54:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dangote Gambia Push: $2 Billion for Solar and Fuel",
-            "url": "https://www.riotimesonline.com/dangote-gambia-solar-investment-2026/",
-            "published_at": "2026-07-11T07:52:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Peso Just Had Its Best Month in a Decade",
-            "url": "https://www.riotimesonline.com/colombia-peso-biggest-monthly-gain-decade-june-2026/",
-            "published_at": "2026-07-11T07:27:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Foreign Investment in Colombia Fell Again in June, to $634M",
-            "url": "https://www.riotimesonline.com/colombia-fdi-june-2026-decline-banrep/",
-            "published_at": "2026-07-11T07:27:36+00:00",
             "category": [],
             "language": "en"
         }
