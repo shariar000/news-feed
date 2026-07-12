@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-12T18:10:04+00:00",
+    "updated_at": "2026-07-12T20:10:04+00:00",
     "items": [
+        {
+            "title": "Latin America Defense Monitor \u2014 July 2\u20137, 2026",
+            "url": "https://www.riotimesonline.com/latam-defense-monitor-salitre-colombia-modernization-amraam/",
+            "published_at": "2026-07-12T18:10:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Key Market Events for the Week of July 13\u201317, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-13-17-2026/",
@@ -692,13 +699,6 @@
             "title": "Mali Retakes Anefis, Reopening the Road Toward Kidal",
             "url": "https://www.riotimesonline.com/mali-retakes-anefis-2026/",
             "published_at": "2026-07-11T08:00:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dislog IPO Wave: Morocco\u2019s Consumer Giant Goes Public",
-            "url": "https://www.riotimesonline.com/dislog-ipo-casablanca-2026/",
-            "published_at": "2026-07-11T07:58:35+00:00",
             "category": [],
             "language": "en"
         }
