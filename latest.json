@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-12T16:10:04+00:00",
+    "updated_at": "2026-07-12T17:10:04+00:00",
     "items": [
+        {
+            "title": "Key Market Events for the Week of July 13\u201317, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-13-17-2026/",
+            "published_at": "2026-07-12T16:30:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Guatemala\u2019s First Public-Private Highway Reaches a Milestone",
             "url": "https://www.riotimesonline.com/guatemala-escuintla-puerto-quetzal-highway-ppp-2026/",
@@ -692,13 +699,6 @@
             "title": "Dislog IPO Wave: Morocco\u2019s Consumer Giant Goes Public",
             "url": "https://www.riotimesonline.com/dislog-ipo-casablanca-2026/",
             "published_at": "2026-07-11T07:58:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Malawi Cash Transfers: Canva Founders Commit $150 Million",
-            "url": "https://www.riotimesonline.com/malawi-cash-transfers-canva-2026/",
-            "published_at": "2026-07-11T07:56:35+00:00",
             "category": [],
             "language": "en"
         }
