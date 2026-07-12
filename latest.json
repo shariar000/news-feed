@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-12T21:10:04+00:00",
+    "updated_at": "2026-07-12T22:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Semi-Finals: Only Champions Remain",
+            "url": "https://www.riotimesonline.com/world-cup-2026-semi-finals-four-former-champions/",
+            "published_at": "2026-07-12T21:45:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Defense Monitor \u2014 July 2\u20137, 2026",
             "url": "https://www.riotimesonline.com/latam-defense-monitor-salitre-colombia-modernization-amraam/",
@@ -692,13 +699,6 @@
             "title": "Amazon Deforestation Hits a Decade Low, and Lula Aims It at Trump",
             "url": "https://www.riotimesonline.com/amazon-deforestation-decade-low-first-half-2026-lula-trump-tariff-2026/",
             "published_at": "2026-07-11T09:02:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mali Retakes Anefis, Reopening the Road Toward Kidal",
-            "url": "https://www.riotimesonline.com/mali-retakes-anefis-2026/",
-            "published_at": "2026-07-11T08:00:35+00:00",
             "category": [],
             "language": "en"
         }
