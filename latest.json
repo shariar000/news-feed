@@ -1,7 +1,322 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-13T07:10:04+00:00",
+    "updated_at": "2026-07-13T10:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s New Betting Ad Rules Hit a Booming World Cup Market",
+            "url": "https://www.riotimesonline.com/brazil-betting-ads-july-17-rules-world-cup-market-2026/",
+            "published_at": "2026-07-13T10:05:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Exports Jumped 40% in May, Led by Mining and Asian Demand",
+            "url": "https://www.riotimesonline.com/peru-exports-may-2026-40-percent-mining-asia/",
+            "published_at": "2026-07-13T10:04:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Banks Will Spend $10 Billion on Tech in a Race for AI",
+            "url": "https://www.riotimesonline.com/brazil-bank-technology-spending-febraban-ai-2026/",
+            "published_at": "2026-07-13T10:00:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bancolombia Cuts Its 2026 Growth Forecast for Colombia to 2.6%",
+            "url": "https://www.riotimesonline.com/bancolombia-colombia-growth-forecast-2026/",
+            "published_at": "2026-07-13T09:59:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Angela Davis Joins Brazil\u2019s Biggest Book Festival as It Opens",
+            "url": "https://www.riotimesonline.com/flip-paraty-2026-angela-davis-opening-zadie-smith/",
+            "published_at": "2026-07-13T09:49:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nicaragua Exports Top $5bn in First Half, a Record Driven by Gold",
+            "url": "https://www.riotimesonline.com/nicaragua-exports-record-first-half-2026/",
+            "published_at": "2026-07-13T09:30:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Bogot\u00e1 Luxury Hotel Doubles as a Free Colombian Art Gallery",
+            "url": "https://www.riotimesonline.com/sofitel-bogota-color-exhibition-art-saat-2026/",
+            "published_at": "2026-07-13T09:17:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Wins Back the US Sugar Market as Quota Jumps 512%",
+            "url": "https://www.riotimesonline.com/mexico-sugar-exports-us-market-access-usda-2026/",
+            "published_at": "2026-07-13T09:12:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana\u2019s Oil Books Don\u2019t Add Up by $6.7 Billion, Analysts Say",
+            "url": "https://www.riotimesonline.com/guyana-oil-revenue-gap-central-bank-exxon-2026/",
+            "published_at": "2026-07-13T09:06:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Congress Votes on a Record Budget Top-Up Its Watchdog Fears",
+            "url": "https://www.riotimesonline.com/peru-supplementary-credit-vote-fiscal-council-2026/",
+            "published_at": "2026-07-13T08:59:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Court Freezes $1.2M From Ex-Speaker Cunha in Brazil Earmark Probe",
+            "url": "https://www.riotimesonline.com/brazil-dino-cunha-valdemar-emendas-block-transparencia-2026/",
+            "published_at": "2026-07-13T08:58:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Government Defends Road Tolls as a Court Weighs Scrapping Them",
+            "url": "https://www.riotimesonline.com/peru-toll-roads-defense-constitutional-court-2026/",
+            "published_at": "2026-07-13T08:58:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Wants Power Firms, Not Households, to Pay Sector\u2019s Debts",
+            "url": "https://www.riotimesonline.com/colombia-power-market-tax-reform-electricity-debts-2026/",
+            "published_at": "2026-07-13T08:57:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Food Giant Rich\u2019s Buys a Peruvian Ingredients Maker",
+            "url": "https://www.riotimesonline.com/rich-products-viafoods-peru-acquisition-2026/",
+            "published_at": "2026-07-13T08:57:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Gloria Confirms \u20ac200,000 ($228k) Paid to Spain\u2019s Zapatero",
+            "url": "https://www.riotimesonline.com/grupo-gloria-zapatero-bolivia-payment-soboce-2026/",
+            "published_at": "2026-07-13T08:56:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petro to File a Fracking Ban Days Before Handing Power to a Rival",
+            "url": "https://www.riotimesonline.com/colombia-fracking-ban-bill-petro-handover-2026/",
+            "published_at": "2026-07-13T08:56:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dominican Republic Is First in Caribbean to Mine Visa Data for Tourism",
+            "url": "https://www.riotimesonline.com/dominican-republic-visa-tourism-data-deal-2026/",
+            "published_at": "2026-07-13T08:56:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Sets Up a Fund to Back, or Retrain, Its Small Miners",
+            "url": "https://www.riotimesonline.com/colombia-fonmin-mining-fund-reconversion-programme-2026/",
+            "published_at": "2026-07-13T08:56:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Citi Lifts Panama Growth Forecast to 4.4% as Canal Reroutes Pay Off",
+            "url": "https://www.riotimesonline.com/panama-citi-growth-forecast-upgrade-2026/",
+            "published_at": "2026-07-13T08:42:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Digital Invoice Enters Live Testing, Eyeing Cheaper SME Credit",
+            "url": "https://www.riotimesonline.com/brazil-duplicata-escritural-adoption-phase-lenders-smes-2026/",
+            "published_at": "2026-07-13T08:38:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo\u2019s Football Museum Is a Free World Cup Day Out for Families",
+            "url": "https://www.riotimesonline.com/museu-do-futebol-free-july-holiday-world-cup-2026/",
+            "published_at": "2026-07-13T08:36:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Free Rio Show Honours a Self-Taught Indigenous Sculptor",
+            "url": "https://www.riotimesonline.com/conceicao-dos-bugres-family-exhibition-rio-folk-museum-2026/",
+            "published_at": "2026-07-13T08:36:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo\u2019s MASP Opens Three New Shows, One of Them Free",
+            "url": "https://www.riotimesonline.com/masp-sao-paulo-three-new-exhibitions-july-2026/",
+            "published_at": "2026-07-13T08:35:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Correios Pauses Its Rescue Plan After Workers Threaten Strike",
+            "url": "https://www.riotimesonline.com/correios-restructuring-suspended-strike-threat-2026/",
+            "published_at": "2026-07-13T08:35:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Truckers Park Up as Freight Law Nears Expiry in the Senate",
+            "url": "https://www.riotimesonline.com/brazil-truckers-strike-freight-mp-senate-vote-2026/",
+            "published_at": "2026-07-13T08:10:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Free S\u00e3o Paulo Show Reveals the Amazon Through Its Tiniest Life",
+            "url": "https://www.riotimesonline.com/usp-amazonia-descobertas-zoology-museum-sao-paulo-2026/",
+            "published_at": "2026-07-13T07:45:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei Joins Keiko Fujimori\u2019s Inauguration on His Tour of the New Latin Right",
+            "url": "https://www.riotimesonline.com/milei-keiko-fujimori-inauguration-conservative-bloc-2026/",
+            "published_at": "2026-07-13T07:44:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dal\u00ed\u2019s Original Works Reach Mexico City for the First Time",
+            "url": "https://www.riotimesonline.com/dali-exhibition-mexico-city-escenografia-sueno-2026/",
+            "published_at": "2026-07-13T07:43:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Incoming Government Takes Ecopetrol Unit Cenit to Prosecutors",
+            "url": "https://www.riotimesonline.com/colombia-de-la-espriella-cenit-ant-criminal-complaints-2026/",
+            "published_at": "2026-07-13T07:42:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Incoming Government Says a Blackout Would Cost $50 Million an Hour",
+            "url": "https://www.riotimesonline.com/colombia-blackout-risk-restrepo-el-nino-cost-2026/",
+            "published_at": "2026-07-13T07:41:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Chases $4 Billion in Mattress Dollars to Refill Bank Deposits",
+            "url": "https://www.riotimesonline.com/bolivia-dollar-deposits-return-central-bank-2026/",
+            "published_at": "2026-07-13T07:40:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "MALBA, Buenos Aires\u2019 Top Art Museum, Fills July With Two Nature Shows",
+            "url": "https://www.riotimesonline.com/malba-vivian-suter-abel-rodriguez-nature-shows-2026/",
+            "published_at": "2026-07-13T07:34:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A $6.7 Billion Gap Clouds Guyana\u2019s Count of Its Oil Revenue",
+            "url": "https://www.riotimesonline.com/guyana-oil-revenue-discrepancy-bank-exxon-2026/",
+            "published_at": "2026-07-13T07:33:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Xuxa, Brazil\u2019s Most Famous TV Host, Gives Her Farewell Concert in S\u00e3o Paulo",
+            "url": "https://www.riotimesonline.com/xuxa-farewell-concert-sao-paulo-nave-2026/",
+            "published_at": "2026-07-13T07:30:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rosal\u00eda Brings Her Lux Tour to Rio for Two August Nights",
+            "url": "https://www.riotimesonline.com/rosalia-lux-tour-rio-de-janeiro-august-2026/",
+            "published_at": "2026-07-13T07:29:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama\u2019s Foreign Investment Fell 61% as It Pivots to Mercosur",
+            "url": "https://www.riotimesonline.com/panama-foreign-investment-fall-mercosur-pivot-2026/",
+            "published_at": "2026-07-13T07:28:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Honduras Bets $242 Million of IMF Cash Can Bring Investors Back",
+            "url": "https://www.riotimesonline.com/honduras-imf-disbursement-investor-confidence-enee-2026/",
+            "published_at": "2026-07-13T07:27:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Exxon Is Almost Done Scanning Trinidad\u2019s Deepwater for a $21 Billion Oil Bet",
+            "url": "https://www.riotimesonline.com/trinidad-deepwater-exxonmobil-seismic-ttud1-investment-2026/",
+            "published_at": "2026-07-13T07:25:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Air Tanzania, Barred From Europe, Bets Its Future on Asia",
+            "url": "https://www.riotimesonline.com/air-tanzania-turns-east-2026/",
+            "published_at": "2026-07-13T07:24:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Egypt\u2019s Builder Hassan Allam Eyes Gulf and Cairo Listings for Its Units",
+            "url": "https://www.riotimesonline.com/hassan-allam-ipo-plans-2026/",
+            "published_at": "2026-07-13T07:22:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Central Africa Joins PAPSS, the Payment System That Cuts Out the Dollar",
+            "url": "https://www.riotimesonline.com/papss-central-africa-beac-2026/",
+            "published_at": "2026-07-13T07:20:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Angola\u2019s Richest Man Doubles His Stake in the Block 17/06 Oil Field",
+            "url": "https://www.riotimesonline.com/angola-block-17-06-mosquito-stake-2026/",
+            "published_at": "2026-07-13T07:18:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria\u2019s Oil Production Hits a 74-Month High, Beating Its OPEC Quota",
+            "url": "https://www.riotimesonline.com/nigeria-oil-production-74-month-high-2026/",
+            "published_at": "2026-07-13T07:16:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trinidad\u2019s First Data-Center Deals: Two US Firms, 450 Megawatts",
+            "url": "https://www.riotimesonline.com/trinidad-tobago-data-center-mou-hummingbird-ey-2026/",
+            "published_at": "2026-07-13T07:12:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Names 205 Gas Stations That Broke Its Diesel Price Cap",
+            "url": "https://www.riotimesonline.com/mexico-diesel-price-cap-gas-stations-list-2026/",
+            "published_at": "2026-07-13T07:11:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ecuador\u2019s Fuel Prices Fall for the First Time Under a New Formula",
             "url": "https://www.riotimesonline.com/ecuador-fuel-prices-first-cut-decree-444-july-2026/",
@@ -10,14 +325,14 @@
             "language": "en"
         },
         {
-            "title": "Central America Pushes Customs Union Forward at Guatemala Talks",
+            "title": "Central American Trade: Customs Union Advances at Guatemala Talks",
             "url": "https://www.riotimesonline.com/central-america-customs-union-guatemala-comieco-2026/",
             "published_at": "2026-07-13T07:08:27+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s Court Watchdog Froze a 21-Year Bank Bankruptcy and Removed Its Administrator",
+            "title": "Brazil\u2019s Court Watchdog Freezes the 21-Year Banco Santos Bankruptcy",
             "url": "https://www.riotimesonline.com/banco-santos-bankruptcy-cnj-suspended-administrator-2026/",
             "published_at": "2026-07-13T07:07:07+00:00",
             "category": [],
@@ -384,321 +699,6 @@
             "title": "British Brand Fred Perry Is Heading to Chile and Argentina",
             "url": "https://www.riotimesonline.com/fred-perry-chile-argentina-stores-crosby-retail-expansion-2026/",
             "published_at": "2026-07-12T08:44:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper\u2019s Slide Hits Peru\u2019s Market Harder Than Chile\u2019s",
-            "url": "https://www.riotimesonline.com/chile-peru-stock-markets-copper-drop-us-refined-tariff-2026/",
-            "published_at": "2026-07-12T08:44:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Coffee Exporters Ask the US to Spare Instant Coffee",
-            "url": "https://www.riotimesonline.com/brazil-instant-coffee-ustr-hearing-soluble-tariff-exemption-cecafe-2026/",
-            "published_at": "2026-07-12T08:44:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Cuts 2.8 Million Welfare Recipients Off From Betting Sites",
-            "url": "https://www.riotimesonline.com/brazil-blocks-2-8-million-welfare-recipients-betting-sites-advertising-rules-2026/",
-            "published_at": "2026-07-12T08:44:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Advances 86 Amazon-Coast Oil Blocks for an October Auction",
-            "url": "https://www.riotimesonline.com/brazil-anp-86-blocks-equatorial-margin-october-auction-foz-amazonas-2026/",
-            "published_at": "2026-07-12T08:44:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bladex and Santander Bankroll a $1.4bn Panama Bank Takeover",
-            "url": "https://www.riotimesonline.com/bladex-santander-finance-bsc-banistmo-acquisition-panama-2026/",
-            "published_at": "2026-07-12T08:44:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Record Seaweed Threatens Barbados Beach Vendors\u2019 Livelihoods",
-            "url": "https://www.riotimesonline.com/barbados-sargassum-beach-vendors-tourism-2026/",
-            "published_at": "2026-07-12T08:44:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What Colombia\u2019s July 20 Tax Reform Would Mean for Foreign Residents",
-            "url": "https://www.riotimesonline.com/colombia-tax-reform-contents-foreigners-2026/",
-            "published_at": "2026-07-12T08:21:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Reach the World Cup Semi-Finals \u2014 and England Await",
-            "url": "https://www.riotimesonline.com/world-cup-2026-argentina-semifinal-england/",
-            "published_at": "2026-07-12T08:21:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Sunday, July 12, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-sunday-july-12-2026/",
-            "published_at": "2026-07-12T08:21:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Argentina Meet England in Atlanta Semi",
-            "url": "https://www.riotimesonline.com/world-cup-2026-argentina-england-semi-final-preview/",
-            "published_at": "2026-07-12T07:00:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 Argentina Beat Switzerland 3-1 in Extra Time",
-            "url": "https://www.riotimesonline.com/world-cup-2026-argentina-switzerland-3-1/",
-            "published_at": "2026-07-12T06:56:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Cup 2026 England Beat Norway 2-1 to Reach the Semi-Finals",
-            "url": "https://www.riotimesonline.com/world-cup-2026-england-norway-2-1/",
-            "published_at": "2026-07-12T06:51:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Sunday, July 12, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-sunday-july-12-2026/",
-            "published_at": "2026-07-12T06:50:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Sunday, July 12, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-sunday-july-12-2026/",
-            "published_at": "2026-07-12T06:50:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Sunday, July 12, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-july-12-2026/",
-            "published_at": "2026-07-12T06:50:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria to Get Sub-Saharan Africa\u2019s Biggest Solar-Powered Steel Plant",
-            "url": "https://www.riotimesonline.com/nigeria-solar-powered-steel-plant-2026/",
-            "published_at": "2026-07-11T20:13:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pick n Pay Sells More of Boxer as Family Era Fades",
-            "url": "https://www.riotimesonline.com/pick-n-pay-boxer-sale-2026/",
-            "published_at": "2026-07-11T20:11:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tatu City, Kenya\u2019s Largest Private City, Faces an Investor Showdown",
-            "url": "https://www.riotimesonline.com/tatu-city-ownership-battle-2026/",
-            "published_at": "2026-07-11T20:09:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cameroon Holds Its Breath as Biya, 93, Lingers in Geneva",
-            "url": "https://www.riotimesonline.com/paul-biya-succession-cameroon-2026/",
-            "published_at": "2026-07-11T20:07:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sudan\u2019s Army Won\u2019t Sign the Peace Plan Until the RSF Leaves Every City",
-            "url": "https://www.riotimesonline.com/sudan-peace-plan-rsf-withdrawal-2026/",
-            "published_at": "2026-07-11T20:05:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "When the Door Slams: Africa\u2019s Migrant Backlash and Latin America\u2019s Familiar Ache",
-            "url": "https://www.riotimesonline.com/when-the-door-slams-africa-s-migrant-backlash-and-latin-2026-07-11/",
-            "published_at": "2026-07-11T15:21:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Democracy on Trial: How Seoul, Washington and Bras\u00edlia Are Fighting the Same Battle",
-            "url": "https://www.riotimesonline.com/democracy-on-trial-how-seoul-washington-and-bras-lia-are-2026-07-11/",
-            "published_at": "2026-07-11T15:21:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Court Won\u2019t Let Fictor, the Banco Master Bidder, Remove Its Watchdog",
-            "url": "https://www.riotimesonline.com/fictor-recuperacao-judicial-kroll-watchdog-laspro-creditors-2026/",
-            "published_at": "2026-07-11T10:53:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 July 11, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-saturday-july-11-2026/",
-            "published_at": "2026-07-11T10:45:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Tonight \u2014 July 11, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-saturday-july-11-2026/",
-            "published_at": "2026-07-11T10:40:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Medell\u00edn\u2019s Flower Festival Returns July 31 With Its Famous Parade",
-            "url": "https://www.riotimesonline.com/medellin-feria-de-las-flores-2026-silleteros-expats/",
-            "published_at": "2026-07-11T10:22:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "JBS Loses $230m on American Beef and Makes Money in Brazil",
-            "url": "https://www.riotimesonline.com/jbs-beef-north-america-loss-brazil-segment-profit-cattle-cycle-2026/",
-            "published_at": "2026-07-11T10:21:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Yape Adds US Remittances Sent Through WhatsApp",
-            "url": "https://www.riotimesonline.com/yape-felix-whatsapp-us-remittances-peru-bcp-wallet-2026/",
-            "published_at": "2026-07-11T09:04:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "TAP Air Portugal Expands Its Americas Network for 2026",
-            "url": "https://www.riotimesonline.com/tap-air-portugal-expands-americas-network-curitiba-orlando-caracas-2026/",
-            "published_at": "2026-07-11T09:04:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Wants a Veto on Mining Sales It Does Not Yet Have",
-            "url": "https://www.riotimesonline.com/silveira-mining-company-sale-rules-serra-verde-prior-approval-gap-2026/",
-            "published_at": "2026-07-11T09:04:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Families \u2018Trapped\u2019 by Sigma Lithium Win a Court Ruling in Brazil",
-            "url": "https://www.riotimesonline.com/sigma-lithium-families-court-ruling-road-access-jequitinhonha-minas-gerais-2026/",
-            "published_at": "2026-07-11T09:04:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo\u2019s Cantareira Is \u2018a Month of Water\u2019 Behind Last Year",
-            "url": "https://www.riotimesonline.com/sao-paulo-cantareira-month-of-water-behind-2025-alert-band-2026/",
-            "published_at": "2026-07-11T09:04:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Returning Peruvians Can Import $450,000 Tax-Free Until 2029",
-            "url": "https://www.riotimesonline.com/peru-returning-migrants-tax-free-imports-450000-menaje-2029/",
-            "published_at": "2026-07-11T09:04:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Bets on Uranium and Lithium in a Remote Andean Plateau",
-            "url": "https://www.riotimesonline.com/peru-macusani-falchani-lithium-uranium-puno-investment-2026/",
-            "published_at": "2026-07-11T09:04:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Fiscal Watchdog Warns the Budget Fujimori Inherits Is Stretched",
-            "url": "https://www.riotimesonline.com/peru-fiscal-council-warns-supplementary-credit-2026-budget-fujimori-inheritance/",
-            "published_at": "2026-07-11T09:04:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Electric Vehicle Sales Jump 86%, but the Region Races Ahead",
-            "url": "https://www.riotimesonline.com/peru-electric-vehicle-sales-jump-86-percent-region-lags-2026/",
-            "published_at": "2026-07-11T09:04:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Central Bank Holds Rates at 4.25% for an Eleventh Month",
-            "url": "https://www.riotimesonline.com/peru-bcrp-holds-rate-425-eleventh-month-inflation-above-target-2026/",
-            "published_at": "2026-07-11T09:04:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Three Women in Panama\u2019s Hills Turn Wood-Roasted Coffee Into Brands",
-            "url": "https://www.riotimesonline.com/panama-capira-women-artisanal-coffee-new-markets-2026/",
-            "published_at": "2026-07-11T09:04:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Race to Build Panama\u2019s Next Canal Ports Reaches a Milestone",
-            "url": "https://www.riotimesonline.com/panama-canal-corozal-telfers-terminal-prequalification-bids-2026/",
-            "published_at": "2026-07-11T09:04:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nubank Clears Its Last Hurdle to Become a Full Bank in Mexico",
-            "url": "https://www.riotimesonline.com/nubank-mexico-full-banking-license-cnbv-operations-authorization-2026/",
-            "published_at": "2026-07-11T09:04:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nicaragua\u2019s Economy Is Booming, but Not for Its Workers",
-            "url": "https://www.riotimesonline.com/nicaragua-unemployment-informality-growth-gap-2026/",
-            "published_at": "2026-07-11T09:04:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Two Officials Are Selling Nicaragua to the World as Sanctions Bite",
-            "url": "https://www.riotimesonline.com/nicaragua-intur-tourism-directors-sanctions-promotion-2026/",
-            "published_at": "2026-07-11T09:03:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Drought and Costly Fertilizer Threaten Nicaragua\u2019s Next Coffee Crop",
-            "url": "https://www.riotimesonline.com/nicaragua-coffee-2026-el-nino-fertilizer-brazil-surplus/",
-            "published_at": "2026-07-11T09:03:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Raises Fuel Subsidies as an Oil Shock Pushes Prices Up",
-            "url": "https://www.riotimesonline.com/mexico-raises-fuel-subsidy-ieps-magna-diesel-oil-shock-hormuz-2026/",
-            "published_at": "2026-07-11T09:03:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico and Peru Move to Restore Ties After a Year-Long Rift",
-            "url": "https://www.riotimesonline.com/mexico-peru-restore-diplomatic-ties-fujimori-sheinbaum-2026/",
-            "published_at": "2026-07-11T09:03:42+00:00",
             "category": [],
             "language": "en"
         }
