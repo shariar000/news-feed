@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-13T06:10:05+00:00",
+    "updated_at": "2026-07-13T07:10:04+00:00",
     "items": [
+        {
+            "title": "Ecuador\u2019s Fuel Prices Fall for the First Time Under a New Formula",
+            "url": "https://www.riotimesonline.com/ecuador-fuel-prices-first-cut-decree-444-july-2026/",
+            "published_at": "2026-07-13T07:09:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Central America Pushes Customs Union Forward at Guatemala Talks",
+            "url": "https://www.riotimesonline.com/central-america-customs-union-guatemala-comieco-2026/",
+            "published_at": "2026-07-13T07:08:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Court Watchdog Froze a 21-Year Bank Bankruptcy and Removed Its Administrator",
+            "url": "https://www.riotimesonline.com/banco-santos-bankruptcy-cnj-suspended-administrator-2026/",
+            "published_at": "2026-07-13T07:07:07+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Priced Out of Mexican Residency? The Alternative Routes for 2026",
             "url": "https://www.riotimesonline.com/mexico-residency-alternative-routes-2026/",
@@ -678,27 +699,6 @@
             "title": "Mexico and Peru Move to Restore Ties After a Year-Long Rift",
             "url": "https://www.riotimesonline.com/mexico-peru-restore-diplomatic-ties-fujimori-sheinbaum-2026/",
             "published_at": "2026-07-11T09:03:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Factories Stall Again as May Output Falls",
-            "url": "https://www.riotimesonline.com/mexico-industrial-activity-may-2026-decline-inegi/",
-            "published_at": "2026-07-11T09:03:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Tells Trump to \u2018Worry\u2019 About Brazil\u2019s Rare Earths",
-            "url": "https://www.riotimesonline.com/lula-trump-worry-rare-earths-brazil-council-processing-gap-2026/",
-            "published_at": "2026-07-11T09:03:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lima Will Host the World\u2019s 50 Best Restaurants for the First Time",
-            "url": "https://www.riotimesonline.com/lima-hosts-worlds-50-best-restaurants-2026-first-south-america-november/",
-            "published_at": "2026-07-11T09:03:27+00:00",
             "category": [],
             "language": "en"
         }
