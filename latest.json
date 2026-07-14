@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-14T10:10:04+00:00",
+    "updated_at": "2026-07-14T11:10:04+00:00",
     "items": [
+        {
+            "title": "Vivo Swaps Its Phone Menu for an AI Voice Concierge",
+            "url": "https://www.riotimesonline.com/vivo-ai-voice-concierge-call-center-2026/",
+            "published_at": "2026-07-14T11:07:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How Unknown Cover Bands Won Millions From S\u00e3o Paulo City Hall",
+            "url": "https://www.riotimesonline.com/sao-paulo-cover-bands-city-hall-contracts-2026/",
+            "published_at": "2026-07-14T10:40:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Court Ruling Hands Fujimori a Tool to Undo Costly Laws",
+            "url": "https://www.riotimesonline.com/peru-fiscal-council-annul-costly-laws-tc-2026/",
+            "published_at": "2026-07-14T10:38:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Four Argentine Restaurants Win Their First Michelin Star",
+            "url": "https://www.riotimesonline.com/argentina-michelin-stars-2026-han-mendoza/",
+            "published_at": "2026-07-14T10:19:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "El Ni\u00f1o Puts Nearly a Quarter of Peru\u2019s Economy at Risk",
             "url": "https://www.riotimesonline.com/peru-el-nino-gdp-risk-ccl-2026/",
@@ -671,34 +699,6 @@
             "title": "Argentina Energy Surplus Hits a Record 7 Billion Dollars in Six Months",
             "url": "https://www.riotimesonline.com/argentina-energy-trade-surplus-record-vaca-muerta-2026/",
             "published_at": "2026-07-13T16:29:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BHP May Sell Its Chile Desalination Plant That Feeds the Top Copper Mine",
-            "url": "https://www.riotimesonline.com/bhp-chile-desalination-power-lines-sale-2026/",
-            "published_at": "2026-07-13T16:13:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Retail Giant Cencosud Keeps Buying as Its Stock Keeps Falling",
-            "url": "https://www.riotimesonline.com/cencosud-stock-slump-acquisition-spree-2026/",
-            "published_at": "2026-07-13T16:13:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Lays Fiber Internet Under the Amazon River, and Neighbours Want In",
-            "url": "https://www.riotimesonline.com/brazil-amazon-river-fiber-norte-conectado-2026/",
-            "published_at": "2026-07-13T16:12:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Debt and Drought Squeeze Brazilian Power Firm Auren Energia\u2019s Credit Rating",
-            "url": "https://www.riotimesonline.com/auren-energia-debt-leverage-credit-pressure-2026/",
-            "published_at": "2026-07-13T16:12:13+00:00",
             "category": [],
             "language": "en"
         }
