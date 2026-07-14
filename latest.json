@@ -1,7 +1,77 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-14T07:10:04+00:00",
+    "updated_at": "2026-07-14T08:10:04+00:00",
     "items": [
+        {
+            "title": "Dakar Races the Rains to Host Africa\u2019s First Olympic Event",
+            "url": "https://www.riotimesonline.com/dakar-2026-youth-olympics-flood-plan/",
+            "published_at": "2026-07-14T08:10:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Starlink to Test South Africa Links It Still Cannot Sell",
+            "url": "https://www.riotimesonline.com/starlink-south-africa-laser-test-2026/",
+            "published_at": "2026-07-14T08:09:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Sudan Court Sentences RSF Chief Hemedti to Death in Absentia",
+            "url": "https://www.riotimesonline.com/hemedti-death-sentence-sudan-2026/",
+            "published_at": "2026-07-14T08:09:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Development Bank Backs the Piau\u00ed Nickel Project With $19 Million",
+            "url": "https://www.riotimesonline.com/bndes-brazilian-nickel-piaui-financing-2026/",
+            "published_at": "2026-07-14T07:42:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Weighs a Defense Revamp, Its Biggest Military Shake-Up Since 1999",
+            "url": "https://www.riotimesonline.com/brazil-defense-revamp-emcfa-tcu-mucio-2026/",
+            "published_at": "2026-07-14T07:40:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Court Bars Fl\u00e1vio Bolsonaro From Visiting His Jailed Father",
+            "url": "https://www.riotimesonline.com/moraes-bars-flavio-bolsonaro-father-visits-2026/",
+            "published_at": "2026-07-14T07:39:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Statistics Agency IBGE Faces a Strike That Could Delay Key Data",
+            "url": "https://www.riotimesonline.com/brazil-ibge-strike-pochmann-data-releases-2026/",
+            "published_at": "2026-07-14T07:38:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Top Court, the STF, Convicts Just 5% of the Politicians It Tries",
+            "url": "https://www.riotimesonline.com/brazil-stf-politicians-conviction-rate-foro-2026/",
+            "published_at": "2026-07-14T07:38:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Congonhas Dust Cloud Halts Four Brazil Iron Ore Mines, Including Vale and CSN",
+            "url": "https://www.riotimesonline.com/congonhas-mining-dust-halt-vale-csn-2026/",
+            "published_at": "2026-07-14T07:31:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Industry Confidence Hits Lowest Level Since Pandemic",
+            "url": "https://www.riotimesonline.com/brazil-industry-confidence-lowest-since-pandemic-2026/",
+            "published_at": "2026-07-14T07:26:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "LatAm Expat & Nomad Daily Guide \u2014 Tuesday, July 14, 2026",
             "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-tuesday-july-14-2026/",
@@ -629,76 +699,6 @@
             "title": "Peru\u2019s Congress Votes on a Record \u2018Supplementary Credit\u2019 Budget Top-Up",
             "url": "https://www.riotimesonline.com/peru-supplementary-credit-vote-fiscal-council-2026/",
             "published_at": "2026-07-13T08:59:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Court Freezes $1.2M From Ex-Speaker Cunha Over Parliamentary Amendments",
-            "url": "https://www.riotimesonline.com/brazil-dino-cunha-valdemar-emendas-block-transparencia-2026/",
-            "published_at": "2026-07-13T08:58:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Defends Its Toll Roads as a Court Weighs Scrapping the Charges",
-            "url": "https://www.riotimesonline.com/peru-toll-roads-defense-constitutional-court-2026/",
-            "published_at": "2026-07-13T08:58:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Wants Power Firms, Not Households, to Pay Sector\u2019s Debts",
-            "url": "https://www.riotimesonline.com/colombia-power-market-tax-reform-electricity-debts-2026/",
-            "published_at": "2026-07-13T08:57:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Food Giant Rich\u2019s Buys Viafoods, a Peruvian Ingredients Maker",
-            "url": "https://www.riotimesonline.com/rich-products-viafoods-peru-acquisition-2026/",
-            "published_at": "2026-07-13T08:57:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Food Giant Grupo Gloria Confirms Paying Spain\u2019s Ex-PM Zapatero \u20ac200,000",
-            "url": "https://www.riotimesonline.com/grupo-gloria-zapatero-bolivia-payment-soboce-2026/",
-            "published_at": "2026-07-13T08:56:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Petro Will File a Fracking Ban Days Before Handing Over Power",
-            "url": "https://www.riotimesonline.com/colombia-fracking-ban-bill-petro-handover-2026/",
-            "published_at": "2026-07-13T08:56:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dominican Republic Is First in Caribbean to Mine Visa Data for Tourism",
-            "url": "https://www.riotimesonline.com/dominican-republic-visa-tourism-data-deal-2026/",
-            "published_at": "2026-07-13T08:56:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Sets Up a Mining Fund to Back, or Retrain, Its Small Miners",
-            "url": "https://www.riotimesonline.com/colombia-fonmin-mining-fund-reconversion-programme-2026/",
-            "published_at": "2026-07-13T08:56:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Citi Lifts Panama Growth Forecast to 4.4% as Canal Reroutes Pay Off",
-            "url": "https://www.riotimesonline.com/panama-citi-growth-forecast-upgrade-2026/",
-            "published_at": "2026-07-13T08:42:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Digital Invoice Enters Live Testing, Eyeing Cheaper SME Credit",
-            "url": "https://www.riotimesonline.com/brazil-duplicata-escritural-adoption-phase-lenders-smes-2026/",
-            "published_at": "2026-07-13T08:38:03+00:00",
             "category": [],
             "language": "en"
         }
