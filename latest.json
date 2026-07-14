@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-14T05:10:04+00:00",
+    "updated_at": "2026-07-14T06:10:04+00:00",
     "items": [
+        {
+            "title": "LatAm Expat & Nomad Daily Guide \u2014 Tuesday, July 14, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:40:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Tuesday, July 14, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:31:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Tuesday, July 14, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:31:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Tuesday, July 14, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:31:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Tuesday, July 14, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:31:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Tuesday, July 14, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:30:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Tuesday, July 14, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:30:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 14, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-14-2026/",
+            "published_at": "2026-07-14T05:30:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Costa Rica\u2019s SJO Airport Delays Tied to Weather, Not IT Crash",
             "url": "https://www.riotimesonline.com/costa-rica-sjo-airport-delays-court-platform-2026/",
@@ -643,62 +699,6 @@
             "title": "Brazil Truckers Strike Over a Freight Law About to Expire in the Senate",
             "url": "https://www.riotimesonline.com/brazil-truckers-strike-freight-mp-senate-vote-2026/",
             "published_at": "2026-07-13T08:10:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Free S\u00e3o Paulo Show, Amaz\u00f4nia Descobertas, Reveals the Amazon\u2019s Tiniest Life",
-            "url": "https://www.riotimesonline.com/usp-amazonia-descobertas-zoology-museum-sao-paulo-2026/",
-            "published_at": "2026-07-13T07:45:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Milei Joins Keiko Fujimori\u2019s Inauguration on His Tour of the New Latin Right",
-            "url": "https://www.riotimesonline.com/milei-keiko-fujimori-inauguration-conservative-bloc-2026/",
-            "published_at": "2026-07-13T07:44:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dal\u00ed\u2019s Original Works Reach Mexico City for the First Time",
-            "url": "https://www.riotimesonline.com/dali-exhibition-mexico-city-escenografia-sueno-2026/",
-            "published_at": "2026-07-13T07:43:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Incoming Government Takes Ecopetrol Unit Cenit to Prosecutors",
-            "url": "https://www.riotimesonline.com/colombia-de-la-espriella-cenit-ant-criminal-complaints-2026/",
-            "published_at": "2026-07-13T07:42:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Incoming Government Says a Blackout Would Cost $50 Million an Hour",
-            "url": "https://www.riotimesonline.com/colombia-blackout-risk-restrepo-el-nino-cost-2026/",
-            "published_at": "2026-07-13T07:41:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia Chases $4 Billion in Mattress Dollars to Refill Bank Deposits",
-            "url": "https://www.riotimesonline.com/bolivia-dollar-deposits-return-central-bank-2026/",
-            "published_at": "2026-07-13T07:40:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "MALBA, Buenos Aires\u2019 Top Art Museum, Fills July With Two Nature Shows",
-            "url": "https://www.riotimesonline.com/malba-vivian-suter-abel-rodriguez-nature-shows-2026/",
-            "published_at": "2026-07-13T07:34:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A $6.7 Billion Gap Clouds Guyana\u2019s Count of Its Oil Revenue",
-            "url": "https://www.riotimesonline.com/guyana-oil-revenue-discrepancy-bank-exxon-2026/",
-            "published_at": "2026-07-13T07:33:03+00:00",
             "category": [],
             "language": "en"
         }
