@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-14T11:10:04+00:00",
+    "updated_at": "2026-07-14T12:10:03+00:00",
     "items": [
+        {
+            "title": "Why One Brazilian State Now Leads on Non-Alcoholic Beer",
+            "url": "https://www.riotimesonline.com/parana-non-alcoholic-beer-leader-brazil-2026/",
+            "published_at": "2026-07-14T11:11:34+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Vivo Swaps Its Phone Menu for an AI Voice Concierge",
             "url": "https://www.riotimesonline.com/vivo-ai-voice-concierge-call-center-2026/",
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s Diesel Prices Act as if Oil Cost $140 a Barrel, Not $72",
             "url": "https://www.riotimesonline.com/brazil-diesel-price-shock-refining-margin-2026/",
             "published_at": "2026-07-13T16:47:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Energy Surplus Hits a Record 7 Billion Dollars in Six Months",
-            "url": "https://www.riotimesonline.com/argentina-energy-trade-surplus-record-vaca-muerta-2026/",
-            "published_at": "2026-07-13T16:29:59+00:00",
             "category": [],
             "language": "en"
         }
