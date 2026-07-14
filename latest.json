@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-14T22:10:04+00:00",
+    "updated_at": "2026-07-14T23:10:04+00:00",
     "items": [
+        {
+            "title": "World Cup 2026 Spain Beat France 2-0 to Reach the Final",
+            "url": "https://www.riotimesonline.com/world-cup-2026-spain-france-2-0/",
+            "published_at": "2026-07-14T22:45:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Ending Brazil\u2019s 6\u00d71 Work Week Could Push Bus Fares Up 8%",
             "url": "https://www.riotimesonline.com/brazil-6x1-workweek-bus-fares-2026/",
@@ -692,13 +699,6 @@
             "title": "Costa Rica\u2019s SJO Airport Delays Tied to Weather, Not IT Crash",
             "url": "https://www.riotimesonline.com/costa-rica-sjo-airport-delays-court-platform-2026/",
             "published_at": "2026-07-13T20:03:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Barbados Campaign Reveals Untapped US Diaspora Travel Demand",
-            "url": "https://www.riotimesonline.com/barbados-caribbean-travel-demand-campaign-2026/",
-            "published_at": "2026-07-13T20:03:22+00:00",
             "category": [],
             "language": "en"
         }
