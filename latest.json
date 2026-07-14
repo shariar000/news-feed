@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-14T17:10:04+00:00",
+    "updated_at": "2026-07-14T18:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Congress Waves Through $2.4bn in Off-Budget Spending",
+            "url": "https://www.riotimesonline.com/brazil-camara-extraordinary-credit-off-budget-2026/",
+            "published_at": "2026-07-14T18:08:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Antitrust Body May Reopen a Probe Into Uber",
+            "url": "https://www.riotimesonline.com/brazil-cade-uber-antitrust-reopen-stopclub-ride-hailing-2026/",
+            "published_at": "2026-07-14T18:06:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Throws a Lifeline to Its Stalled Angra 3 Nuclear Plant",
+            "url": "https://www.riotimesonline.com/brazil-angra-3-nuclear-debt-waiver-cnpe-eletronuclear-2026/",
+            "published_at": "2026-07-14T17:35:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Raises Ethanol to 32% and Walls Off Biodiesel Imports",
+            "url": "https://www.riotimesonline.com/brazil-cnpe-fuels-e32-biodiesel-anp-fraud-july-2026/",
+            "published_at": "2026-07-14T17:31:08+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Braces for Trump\u2019s Tariff as July 15 Deadline Lands",
             "url": "https://www.riotimesonline.com/brazil-trump-tariff-july-15-deadline-2026/",
@@ -671,34 +699,6 @@
             "title": "Guatemala City Faces a Water Squeeze as the Dry Spell Nears",
             "url": "https://www.riotimesonline.com/guatemala-city-water-deficit-canicula-2026/",
             "published_at": "2026-07-13T18:40:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Chilean-Backed Importer Wants a Tenth of the US Grape Market",
-            "url": "https://www.riotimesonline.com/gesex-cueto-summit-us-table-grapes-2026/",
-            "published_at": "2026-07-13T18:40:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica\u2019s Rincon de la Vieja Turns Two Rivers Milky Gray",
-            "url": "https://www.riotimesonline.com/costa-rica-rincon-de-la-vieja-rivers-gray-2026/",
-            "published_at": "2026-07-13T18:39:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Atenas or Puriscal? Two Costa Rica Towns for Home Builders",
-            "url": "https://www.riotimesonline.com/costa-rica-atenas-puriscal-homebuilders-2026/",
-            "published_at": "2026-07-13T18:39:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica Builds an \u201cAngels\u201d Network to Fund Its Startups",
-            "url": "https://www.riotimesonline.com/costa-rica-angels-startup-investor-network-2026/",
-            "published_at": "2026-07-13T18:39:21+00:00",
             "category": [],
             "language": "en"
         }
