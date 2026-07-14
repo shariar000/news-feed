@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-14T06:10:04+00:00",
+    "updated_at": "2026-07-14T07:10:04+00:00",
     "items": [
         {
             "title": "LatAm Expat & Nomad Daily Guide \u2014 Tuesday, July 14, 2026",
@@ -34,6 +34,41 @@
             "title": "Rio de Janeiro Daily Brief \u2014 Tuesday, July 14, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-july-14-2026/",
             "published_at": "2026-07-14T05:31:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 14, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:31:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 14, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:31:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 14, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:30:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 July 14, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:30:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 14, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-tuesday-july-14-2026/",
+            "published_at": "2026-07-14T05:30:47+00:00",
             "category": [],
             "language": "en"
         },
@@ -664,41 +699,6 @@
             "title": "Brazil\u2019s Digital Invoice Enters Live Testing, Eyeing Cheaper SME Credit",
             "url": "https://www.riotimesonline.com/brazil-duplicata-escritural-adoption-phase-lenders-smes-2026/",
             "published_at": "2026-07-13T08:38:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo\u2019s Museu do Futebol Is a Free World Cup Day Out for Families",
-            "url": "https://www.riotimesonline.com/museu-do-futebol-free-july-holiday-world-cup-2026/",
-            "published_at": "2026-07-13T08:36:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Free Rio Show Honours Concei\u00e7\u00e3o dos Bugres, a Self-Taught Indigenous Sculptor",
-            "url": "https://www.riotimesonline.com/conceicao-dos-bugres-family-exhibition-rio-folk-museum-2026/",
-            "published_at": "2026-07-13T08:36:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo\u2019s MASP Opens Three New Shows, One of Them Free",
-            "url": "https://www.riotimesonline.com/masp-sao-paulo-three-new-exhibitions-july-2026/",
-            "published_at": "2026-07-13T08:35:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Post Office Correios Pauses Restructuring Under Strike Threat",
-            "url": "https://www.riotimesonline.com/correios-restructuring-suspended-strike-threat-2026/",
-            "published_at": "2026-07-13T08:35:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Truckers Strike Over a Freight Law About to Expire in the Senate",
-            "url": "https://www.riotimesonline.com/brazil-truckers-strike-freight-mp-senate-vote-2026/",
-            "published_at": "2026-07-13T08:10:51+00:00",
             "category": [],
             "language": "en"
         }
