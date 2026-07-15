@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-15T09:10:04+00:00",
+    "updated_at": "2026-07-15T10:10:04+00:00",
     "items": [
+        {
+            "title": "118 Deputies Backed Guatemala\u2019s Port Law. Three Months on, They Cannot Agree Who Sits on the Board.",
+            "url": "https://www.riotimesonline.com/guatemala-port-system-law-amendments-2026/",
+            "published_at": "2026-07-15T10:02:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vale Gets a Chairman for Eight Days While a Regulator Probes the Last One\u2019s Exit",
+            "url": "https://www.riotimesonline.com/vale-board-chairman-interim-bruijn-previ-stieler-2026/",
+            "published_at": "2026-07-15T09:51:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Two Rival Projects Now Want to Build a Billion-Litre Jet Fuel Plant in One Town",
+            "url": "https://www.riotimesonline.com/energis8-saf-billion-litres-paulinia-ethanol-2026/",
+            "published_at": "2026-07-15T09:50:10+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Rivals Circle Enel\u2019s S\u00e3o Paulo Grid as Lawyers Back Its Removal",
             "url": "https://www.riotimesonline.com/enel-sao-paulo-concession-caducidade-agu-rivals-2026/",
@@ -678,27 +699,6 @@
             "title": "Petroper\u00fa\u2019s Union Wants Agency ProInversi\u00f3n Pulled From the Oil Rescue",
             "url": "https://www.riotimesonline.com/petroperu-union-proinversion-exit-2026/",
             "published_at": "2026-07-14T08:32:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The World Bank Lines Up a Support Package for Colombia\u2019s Incoming Government",
-            "url": "https://www.riotimesonline.com/colombia-world-bank-cooperation-investment-package-espriella-2026/",
-            "published_at": "2026-07-14T08:30:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s BTG Pactual Starts Banking in Uruguay After HSBC Buyout",
-            "url": "https://www.riotimesonline.com/btg-pactual-uruguay-operations-launch-hsbc-2026/",
-            "published_at": "2026-07-14T08:25:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "YPF Luz, the Oil Giant\u2019s Power Arm, Files to List in New York",
-            "url": "https://www.riotimesonline.com/ypf-luz-us-ipo-nyse-filing-argentina-2026/",
-            "published_at": "2026-07-14T08:17:39+00:00",
             "category": [],
             "language": "en"
         }
