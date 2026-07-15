@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-15T05:10:04+00:00",
+    "updated_at": "2026-07-15T06:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina\u2019s Inflation Fell Below 2% in June: What It Means for Expats",
+            "url": "https://www.riotimesonline.com/argentina-june-inflation-below-2-percent-expats-2026/",
+            "published_at": "2026-07-15T05:21:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide \u2014 Wednesday, July 15, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-wednesday-july-15-2026/",
+            "published_at": "2026-07-15T05:21:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "World Cup 2026 Spain Beat France 2-0 to Reach the Final",
             "url": "https://www.riotimesonline.com/world-cup-2026-spain-france-2-0/",
@@ -685,20 +699,6 @@
             "title": "Brazil\u2019s Financial Morning Call for Tuesday, July 14, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-july-14-2026/",
             "published_at": "2026-07-14T05:30:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 14, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-14-2026/",
-            "published_at": "2026-07-14T05:30:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica\u2019s SJO Airport Delays Tied to Weather, Not IT Crash",
-            "url": "https://www.riotimesonline.com/costa-rica-sjo-airport-delays-court-platform-2026/",
-            "published_at": "2026-07-13T20:03:32+00:00",
             "category": [],
             "language": "en"
         }
