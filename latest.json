@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-15T21:10:04+00:00",
+    "updated_at": "2026-07-15T22:10:04+00:00",
     "items": [
         {
             "title": "World Trade Center Complexes Expand in Brazil, Blending Beachfront Living and Mixed-Use Design",
@@ -10,30 +10,9 @@
             "language": "en"
         },
         {
-            "title": "Winter Storm Threatens Chile\u2019s Copper Mines as Enel Boosts Field Crews Ninefold",
-            "url": "https://www.riotimesonline.com/winter-storm-threatens-chiles-copper-mines-as-enel-boosts-field-crews-ninefold/",
-            "published_at": "2026-07-15T18:40:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Top Brazilian Lawyer Nelson Wilians Targeted in $686 Million Tax Fraud Operation",
-            "url": "https://www.riotimesonline.com/top-brazilian-lawyer-nelson-wilians-targeted-in-686-million-tax-fraud-operation/",
-            "published_at": "2026-07-15T18:20:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "S\u00e3o Paulo and Rio de Janeiro Named Among the World\u2019s Best LGBTQ Travel Destinations",
             "url": "https://www.riotimesonline.com/sao-paulo-and-rio-de-janeiro-named-among-the-worlds-best-lgbtq-travel-destinations/",
             "published_at": "2026-07-15T18:12:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "More Than 28,000 Companies Have Closed During Javier Milei\u2019s Argentina Tenure",
-            "url": "https://www.riotimesonline.com/more-than-28000-companies-have-closed-during-javier-mileis-argentina-tenure/",
-            "published_at": "2026-07-15T18:03:39+00:00",
             "category": [],
             "language": "en"
         },
@@ -83,13 +62,6 @@
             "title": "Chile\u2019s Fintech Firms Expand Abroad as Ecosystem Growth Hits 15%",
             "url": "https://www.riotimesonline.com/chile-fintech-internationalization-2025-growth/",
             "published_at": "2026-07-15T17:55:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Making Buses and Trains Free Across Brazil Would Cost $17 Billion a Year, Studies Show",
-            "url": "https://www.riotimesonline.com/making-buses-and-trains-free-across-brazil-would-cost-17-billion-a-year-studies-show/",
-            "published_at": "2026-07-15T17:51:13+00:00",
             "category": [],
             "language": "en"
         },
@@ -153,20 +125,6 @@
             "title": "Engie and ISA Energia Raise About $1.7 Billion in Brazil Power-Share Sales",
             "url": "https://www.riotimesonline.com/engie-and-isa-energia-raise-about-1-7-billion-in-brazil-power-share-sales/",
             "published_at": "2026-07-15T17:32:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Carrefour Constructs S\u00e3o Paulo\u2019s Tallest Tower in Retail-to-Real-Estate Pivot",
-            "url": "https://www.riotimesonline.com/carrefour-constructs-sao-paulos-tallest-tower-in-retail-to-real-estate-pivot/",
-            "published_at": "2026-07-15T17:17:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilians Say Lula Should Not Seek Re-election Despite His Poll Lead",
-            "url": "https://www.riotimesonline.com/brazilians-say-lula-should-not-seek-re-election-despite-his-poll-lead/",
-            "published_at": "2026-07-15T17:08:59+00:00",
             "category": [],
             "language": "en"
         },
@@ -300,13 +258,6 @@
             "title": "World Trade Center Complexes Expand Along Brazil\u2019s Beachfront",
             "url": "https://www.riotimesonline.com/world-trade-center-brazil-beachfront-real-estate/",
             "published_at": "2026-07-15T16:46:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Household Debt Ties Up 81.6% of Families, Defaults Stay Near Record High",
-            "url": "https://www.riotimesonline.com/brazil-household-debt-ties-up-81-6-of-families-defaults-stay-near-record-high/",
-            "published_at": "2026-07-15T16:44:19+00:00",
             "category": [],
             "language": "en"
         },
@@ -699,6 +650,55 @@
             "title": "Brazil and Neighbors Sign a Deal for South America\u2019s Open Skies",
             "url": "https://www.riotimesonline.com/brazil-alas-south-america-open-skies-2026/",
             "published_at": "2026-07-14T18:19:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Congress Waves Through $2.4bn in Off-Budget Spending",
+            "url": "https://www.riotimesonline.com/brazil-camara-extraordinary-credit-off-budget-2026/",
+            "published_at": "2026-07-14T18:08:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Antitrust Body May Reopen a Probe Into Uber",
+            "url": "https://www.riotimesonline.com/brazil-cade-uber-antitrust-reopen-stopclub-ride-hailing-2026/",
+            "published_at": "2026-07-14T18:06:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Throws a Lifeline to Its Stalled Angra 3 Nuclear Plant",
+            "url": "https://www.riotimesonline.com/brazil-angra-3-nuclear-debt-waiver-cnpe-eletronuclear-2026/",
+            "published_at": "2026-07-14T17:35:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Raises Ethanol to 32% and Walls Off Biodiesel Imports",
+            "url": "https://www.riotimesonline.com/brazil-cnpe-fuels-e32-biodiesel-anp-fraud-july-2026/",
+            "published_at": "2026-07-14T17:31:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Braces for Trump\u2019s Tariff as July 15 Deadline Lands",
+            "url": "https://www.riotimesonline.com/brazil-trump-tariff-july-15-deadline-2026/",
+            "published_at": "2026-07-14T16:57:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Fuels an Ocean Ship With Ethanol for the First Time",
+            "url": "https://www.riotimesonline.com/brazil-ethanol-ship-fuel-santos-cma-cgm-copersucar-2026/",
+            "published_at": "2026-07-14T16:52:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana Hardwires Local Manufacturing into the Oil Supply Chain",
+            "url": "https://www.riotimesonline.com/guyana-local-manufacturing-oil-supply-chain-2026/",
+            "published_at": "2026-07-14T16:38:11+00:00",
             "category": [],
             "language": "en"
         }
