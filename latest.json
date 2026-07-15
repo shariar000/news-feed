@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-15T15:10:04+00:00",
+    "updated_at": "2026-07-15T16:10:04+00:00",
     "items": [
+        {
+            "title": "The Day Asia\u2019s Floor Gave Way: How a Continental Crisis Reaches Latin America\u2019s Shores",
+            "url": "https://www.riotimesonline.com/the-day-asia-s-floor-gave-way-how-a-continental-crisis-2026-07-15/",
+            "published_at": "2026-07-15T15:53:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Spain Named Nine Caribbean Countries for Visa-Free Entry. The Interesting Part Is Who Was Left Out.",
             "url": "https://www.riotimesonline.com/spain-caribbean-visa-free-caricom-2026/",
@@ -692,13 +699,6 @@
             "title": "Panama and Japan\u2019s Shipowners Agree to Deepen Maritime Cooperation",
             "url": "https://www.riotimesonline.com/panama-japan-shipowners-maritime-cooperation-2026/",
             "published_at": "2026-07-14T08:49:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US and Canada Travelers Are Next for Costa Rica\u2019s Airport E-Gates",
-            "url": "https://www.riotimesonline.com/costa-rica-sjo-egates-us-canada-travelers-2026/",
-            "published_at": "2026-07-14T08:48:40+00:00",
             "category": [],
             "language": "en"
         }
