@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-16T07:10:04+00:00",
+    "updated_at": "2026-07-16T08:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Coffee Exports Tumble 15.7% as 2025 US Tariff Shock Lingers",
+            "url": "https://www.riotimesonline.com/brazil-coffee-exports-fall-2025-26/",
+            "published_at": "2026-07-16T07:23:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Issues Executive Order to Renegotiate Near $20 Billion in Rural Farm Debt",
+            "url": "https://www.riotimesonline.com/brazil-rural-debt-renegotiation-provisional-measure-2026/",
+            "published_at": "2026-07-16T07:23:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Power Utility Light Nears Judicial Recovery Exit After $296 Million Capital Raise",
+            "url": "https://www.riotimesonline.com/light-exits-judicial-recovery-1-5-billion-capital-raise/",
+            "published_at": "2026-07-16T07:22:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Coffee, Beef and Iron Ore Spared as US 25% Tariff Hits Manufactured Goods",
+            "url": "https://www.riotimesonline.com/brazil-us-tariff-exemptions-coffee-beef-iron-ore/",
+            "published_at": "2026-07-16T07:22:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Confirms 25% Tariff on Brazilian Goods Starting July 22",
+            "url": "https://www.riotimesonline.com/us-25-percent-tariff-brazil-goods-july-22/",
+            "published_at": "2026-07-16T07:22:13+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Thursday, July 16, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-july-16-2026/",
@@ -664,41 +699,6 @@
             "title": "Rio de Janeiro Daily Brief \u2014 Wednesday, July 15, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-july-15-2026/",
             "published_at": "2026-07-15T06:12:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Wednesday, July 15, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-wednesday-july-15-2026/",
-            "published_at": "2026-07-15T06:11:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 15, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-wednesday-july-15-2026/",
-            "published_at": "2026-07-15T05:24:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 15, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-wednesday-july-15-2026/",
-            "published_at": "2026-07-15T05:24:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 15, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-wednesday-july-15-2026/",
-            "published_at": "2026-07-15T05:23:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Wednesday, July 15, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-wednesday-july-15-2026/",
-            "published_at": "2026-07-15T05:23:49+00:00",
             "category": [],
             "language": "en"
         }
