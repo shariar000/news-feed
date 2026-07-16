@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-16T16:10:03+00:00",
+    "updated_at": "2026-07-16T17:10:04+00:00",
     "items": [
+        {
+            "title": "Brazilian Meat Giant MBRF, the JBS-Marfrig Merger, Lifts Profit 27%",
+            "url": "https://www.riotimesonline.com/brazilian-meat-giant-mbrf-the-jbs-marfrig-merger-lifts-profit-27/",
+            "published_at": "2026-07-16T16:51:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Brewer Ambev Surges 15% on Earnings Beat, Lifting Ibovespa",
+            "url": "https://www.riotimesonline.com/brazilian-brewer-ambev-surges-15-on-earnings-beat-lifting-ibovespa/",
+            "published_at": "2026-07-16T16:31:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Bank BTG Pactual Opens Its Securitization Platform to Rivals",
+            "url": "https://www.riotimesonline.com/brazilian-bank-btg-pactual-opens-its-securitization-platform-to-rivals/",
+            "published_at": "2026-07-16T16:13:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Thursday, July 16, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-thursday-july-16-2026/",
@@ -678,27 +699,6 @@
             "title": "Panama\u2019s Children\u2019s Hospital Will Cost Taxpayers $537.9 Million Through 2033",
             "url": "https://www.riotimesonline.com/panama-childrens-hospital-cost-537-million-2033/",
             "published_at": "2026-07-15T17:55:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Fintech Firms Expand Abroad as Ecosystem Growth Hits 15%",
-            "url": "https://www.riotimesonline.com/chile-fintech-internationalization-2025-growth/",
-            "published_at": "2026-07-15T17:55:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s 10 Most At-Risk Crops as El Ni\u00f1o Threatens Food Supply and Exports",
-            "url": "https://www.riotimesonline.com/peru-crops-risk-el-nino-food-supply/",
-            "published_at": "2026-07-15T17:42:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Investment-Grade Credit Rating at Risk from Strong El Nino, Credicorp Warns",
-            "url": "https://www.riotimesonline.com/peru-investment-grade-rating-risk-el-nino-credicorp/",
-            "published_at": "2026-07-15T17:41:54+00:00",
             "category": [],
             "language": "en"
         }
