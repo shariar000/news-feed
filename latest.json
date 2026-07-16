@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-16T11:10:06+00:00",
+    "updated_at": "2026-07-16T12:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico Studies $4 Billion Energy-Financing Plan for Renewables and Grid Expansion",
+            "url": "https://www.riotimesonline.com/mexico-studies-4-billion-energy-financing-plan-for-renewables-and-grid-expansion/",
+            "published_at": "2026-07-16T11:59:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dominican Senate Raises Corporate Tax to 30% for Large Firms",
+            "url": "https://www.riotimesonline.com/dominican-senate-raises-corporate-tax-to-30-for-large-firms/",
+            "published_at": "2026-07-16T11:57:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica Tourist Arrivals Jump 7.8% in First Half of 2026, Though June Edges Down",
+            "url": "https://www.riotimesonline.com/costa-rica-tourist-arrivals-jump-7-8-in-first-half-of-2026-though-june-edges-down/",
+            "published_at": "2026-07-16T11:25:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "What\u2019s On in Latin America: The Week Ahead, July 16\u201322",
+            "url": "https://www.riotimesonline.com/whats-on-latin-america-week-ahead-july-16-2026/",
+            "published_at": "2026-07-16T11:10:53+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Names 10 Unregistered Betting Sites in Tax Crackdown",
             "url": "https://www.riotimesonline.com/chile-names-10-unregistered-betting-sites-in-tax-crackdown/",
@@ -388,13 +416,6 @@
             "language": "en"
         },
         {
-            "title": "What\u2019s On in Latin America: The Week Ahead, July 16\u201322",
-            "url": "https://www.riotimesonline.com/whats-on-latin-america-week-ahead-july-16-2026/",
-            "published_at": "2026-07-16T05:42:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Argentina\u2019s Monotributo Brackets Rise 16.8% in August: Recategorise by August 5",
             "url": "https://www.riotimesonline.com/argentina-monotributo-recategorization-august-2026/",
             "published_at": "2026-07-16T05:41:56+00:00",
@@ -678,27 +699,6 @@
             "title": "Brazil Household Debt Ties Up 81.6% of Families, Defaults Stay Near Record High",
             "url": "https://www.riotimesonline.com/brazil-household-debt-81-percent-default-june-2026/",
             "published_at": "2026-07-15T16:47:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Carrefour Constructs S\u00e3o Paulo\u2019s Tallest Tower in Retail-to-Real-Estate Pivot",
-            "url": "https://www.riotimesonline.com/carrefour-sao-paulo-tallest-tower-alto-das-nacoes/",
-            "published_at": "2026-07-15T16:46:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "World Trade Center Complexes Expand Along Brazil\u2019s Beachfront",
-            "url": "https://www.riotimesonline.com/world-trade-center-brazil-beachfront-real-estate/",
-            "published_at": "2026-07-15T16:46:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BlackRock Lifts B3 Holding Past 10% Even as It Cools on Broad Emerging Markets",
-            "url": "https://www.riotimesonline.com/blackrock-lifts-b3-holding-past-10-even-as-it-cools-on-broad-emerging-markets/",
-            "published_at": "2026-07-15T16:30:23+00:00",
             "category": [],
             "language": "en"
         }
