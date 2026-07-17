@@ -1,7 +1,119 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-17T10:10:04+00:00",
+    "updated_at": "2026-07-17T11:10:04+00:00",
     "items": [
+        {
+            "title": "US Work Visas Open to Skilled Latin Americans",
+            "url": "https://www.riotimesonline.com/us-work-visas-open-to-skilled-latin-americans/",
+            "published_at": "2026-07-17T11:06:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "B3, Brazil\u2019s Stock Exchange, Turns Record Trading Into Record Profit",
+            "url": "https://www.riotimesonline.com/b3-profit-record-brazil-stock-exchange-2026/",
+            "published_at": "2026-07-17T11:01:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asunci\u00f3n\u2019s Asu Coffee Fest Declared of National Tourism Interest as Abel Pintos Returns for 30th-Anniversary Show",
+            "url": "https://www.riotimesonline.com/asu-coffee-fest-national-tourism-interest-abel-pintos-30-years/",
+            "published_at": "2026-07-17T10:45:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Punta Cana and Saman\u00e1 Push Forward as Dominican Republic Tourism Infrastructure Expands",
+            "url": "https://www.riotimesonline.com/punta-cana-arajet-guatemala-route-samana-bayport/",
+            "published_at": "2026-07-17T10:45:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica Lands Two New US Flight Routes, Film Festival and Aterciopelados Show",
+            "url": "https://www.riotimesonline.com/costa-rica-us-routes-film-festival-aterciopelados/",
+            "published_at": "2026-07-17T10:44:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Airport Giant GAP Cuts Its 2026 Traffic Forecast After a Weak Quarter",
+            "url": "https://www.riotimesonline.com/gap-guadalajara-airports-guidance-cut-q2-2026-2/",
+            "published_at": "2026-07-17T10:44:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guadalajara Opens Festival Gigante with a Bullfighting Fair and Free Closing Show by Cuca",
+            "url": "https://www.riotimesonline.com/festival-gigante-lineup-free-cuca-show/",
+            "published_at": "2026-07-17T10:44:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama Economy Grows 5.19% as Canal Prepares for El Ni\u00f1o Without Transit Cuts",
+            "url": "https://www.riotimesonline.com/panama-economy-grows-canal-el-nino-prep/",
+            "published_at": "2026-07-17T10:44:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana Gold Declarations Near $955 Million in First Half of 2026",
+            "url": "https://www.riotimesonline.com/guyana-gold-declarations-955-million-h1-2026/",
+            "published_at": "2026-07-17T10:43:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copa Airlines to Fly Daily to Manta, Ecuador from March 2026, Expanding Its Panama Hub",
+            "url": "https://www.riotimesonline.com/copa-airlines-daily-manta-flights-2026-panama-hub/",
+            "published_at": "2026-07-17T10:43:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Edenor Raises $213 Million in Bond Sale as Milei\u2019s Utility Reforms Gain Traction",
+            "url": "https://www.riotimesonline.com/argentina-edenor-213-million-bond-milei-utility/",
+            "published_at": "2026-07-17T10:43:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Hospital Group Auna Fills 80% of Its Peru Beds, Early Q2 Data Shows",
+            "url": "https://www.riotimesonline.com/auna-preliminary-2q26-kpis-latam-healthcare/",
+            "published_at": "2026-07-17T10:42:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Oldest Machine Maker Romi Sees Orders Stir After a Brutal Slide",
+            "url": "https://www.riotimesonline.com/romi-results-2t26-brazil-machine-tools-recovery/",
+            "published_at": "2026-07-17T10:33:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cemex Posts a Record Quarter as Its New CEO\u2019s Cost Cuts Bite",
+            "url": "https://www.riotimesonline.com/cemex-earnings-record-ebitda-cost-cuts-2026/",
+            "published_at": "2026-07-17T10:30:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Orbia, Mexico\u2019s Chemicals Giant, Rallies 90% While Still Losing Money",
+            "url": "https://www.riotimesonline.com/orbia-results-ebitda-turnaround-mexico-2026/",
+            "published_at": "2026-07-17T10:28:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oxxo Owner FEMSA Nears a Record High While Its Core Profit Falls 36%",
+            "url": "https://www.riotimesonline.com/femsa-results-oxxo-shines-core-profit-falls-fmx-2026/",
+            "published_at": "2026-07-17T10:24:26+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "State Grid Moves Giant $3.6 Billion Brazil Power Line Forward to 2028",
             "url": "https://www.riotimesonline.com/state-grid-moves-giant-3-6-billion-brazil-power-line-forward-to-2028/",
@@ -587,118 +699,6 @@
             "title": "Brazilian Bank BTG Pactual Opens Its Securitization Platform to Rivals",
             "url": "https://www.riotimesonline.com/brazilian-bank-btg-pactual-opens-its-securitization-platform-to-rivals/",
             "published_at": "2026-07-16T16:13:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Thursday, July 16, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-thursday-july-16-2026/",
-            "published_at": "2026-07-16T15:18:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Thursday, July 16, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-thursday-july-16-2026/",
-            "published_at": "2026-07-16T15:18:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Thursday, July 16, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-thursday-july-16-2026/",
-            "published_at": "2026-07-16T15:18:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Thursday, July 16, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-thursday-july-16-2026/",
-            "published_at": "2026-07-16T15:17:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Caught in the New Cold War Over Trade and Minerals",
-            "url": "https://www.riotimesonline.com/the-new-cold-war-of-trade-tech-and-minerals-how-latin-2026-07-16/",
-            "published_at": "2026-07-16T14:44:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "How the Hormuz Oil Crisis Drives Latin America\u2019s Inflation",
-            "url": "https://www.riotimesonline.com/global-energy-shock-2-0-how-the-strait-of-hormuz-crisis-is-2026-07-16/",
-            "published_at": "2026-07-16T14:44:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mozambique Secures a $573 Million Funding Deal With Portugal",
-            "url": "https://www.riotimesonline.com/mozambique-taps-500m-portugal-funding-package-2026/",
-            "published_at": "2026-07-16T13:52:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sahel Military Bloc Accuses Neighbours of Backing Terrorism",
-            "url": "https://www.riotimesonline.com/aes-bloc-accuses-neighbours-terrorism-sahel-2026/",
-            "published_at": "2026-07-16T13:52:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "DR Congo Doubts a Key US Firm in Its Minerals Push",
-            "url": "https://www.riotimesonline.com/kinshasa-questions-credibility-american-player-drc-strategic-minerals-2026/",
-            "published_at": "2026-07-16T13:52:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana, Namibia and DR Congo Push to Refine Africa\u2019s Minerals",
-            "url": "https://www.riotimesonline.com/africa-moves-up-value-chain-ghana-namibia-drc-2026/",
-            "published_at": "2026-07-16T13:52:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Caught Between Energy Shocks and a Fragmenting World",
-            "url": "https://www.riotimesonline.com/caught-in-the-crossfire-latin-america-s-tightrope-between-2026-07-16/",
-            "published_at": "2026-07-16T13:50:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Milpa Alta Folk Festival Brings Dance and Food to Mexico City",
-            "url": "https://www.riotimesonline.com/festival-internacional-folclor-milpa-alta-2026/",
-            "published_at": "2026-07-16T13:33:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Medell\u00edn\u2019s Urbana Fest Brings Free Street Culture to Comuna 13",
-            "url": "https://www.riotimesonline.com/medellin-urbana-fest-2026-free-urban-culture-festival/",
-            "published_at": "2026-07-16T13:33:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Antigua Guatemala\u2019s Festival de la Luz Returns With a 3D Show",
-            "url": "https://www.riotimesonline.com/antigua-guatemala-festival-de-la-luz-returns-2026/",
-            "published_at": "2026-07-16T13:33:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Quito Job Fair Brings 4,000 Vacancies to the Capital on July 17",
-            "url": "https://www.riotimesonline.com/quito-job-fair-4000-vacancies-july-2026/",
-            "published_at": "2026-07-16T13:33:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Yucatan Residents Enter Chichen Itza Free All Year in 2026",
-            "url": "https://www.riotimesonline.com/chichen-itza-free-2026-yucatan-residents/",
-            "published_at": "2026-07-16T13:32:42+00:00",
             "category": [],
             "language": "en"
         }
