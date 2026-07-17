@@ -1,7 +1,119 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-17T07:10:04+00:00",
+    "updated_at": "2026-07-17T08:10:05+00:00",
     "items": [
+        {
+            "title": "Assa\u00ed Opens First In-Store Pharmacy, Targets 250 Locations",
+            "url": "https://www.riotimesonline.com/assai-opens-first-in-store-pharmacy-targets-250-locations/",
+            "published_at": "2026-07-17T08:06:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Antofagasta\u2019s Copper Output Drops 9.5% in First Half on Lower Ore Grades",
+            "url": "https://www.riotimesonline.com/antofagastas-copper-output-drops-9-5-in-first-half-on-lower-ore-grades/",
+            "published_at": "2026-07-17T08:00:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Teatro Col\u00f3n Premieres Alice\u2019s Adventures in Wonderland as Expat Season Heats Up",
+            "url": "https://www.riotimesonline.com/teatro-colon-alice-in-wonderland-premiere-2026/",
+            "published_at": "2026-07-17T07:33:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio\u2019s Christ the Redeemer Caps Daily Visitors Through May 2027",
+            "url": "https://www.riotimesonline.com/christ-the-redeemer-visitor-cap-2027/",
+            "published_at": "2026-07-17T07:33:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bukele Meets Trump Behind Closed Doors as TPS Deadline Looms for 232,000 Salvadorans",
+            "url": "https://www.riotimesonline.com/bukele-trump-closed-door-meeting-tps/",
+            "published_at": "2026-07-17T07:32:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "New World Screwworm Reaches the US, Deepening Mexico\u2019s Cattle Crisis",
+            "url": "https://www.riotimesonline.com/new-world-screwworm-us-mexico-cattle-crisis/",
+            "published_at": "2026-07-17T07:32:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uber\u2019s $13.7 Billion Delivery Hero Deal Hands It Control of PedidosYa in Peru",
+            "url": "https://www.riotimesonline.com/uber-delivery-hero-pedidosya-peru/",
+            "published_at": "2026-07-17T07:32:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Mining Investment Jumps 43.6% as Copper Rally Lifts Southern Copper and Buenaventura",
+            "url": "https://www.riotimesonline.com/peru-mining-investment-surges-copper-rally-southern-copper-buenaventura/",
+            "published_at": "2026-07-17T07:31:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s GEB Takes Full Control of Four Brazil Power Transmission Firms",
+            "url": "https://www.riotimesonline.com/colombia-geb-takes-full-control-four-brazil-transmission-firms/",
+            "published_at": "2026-07-17T07:31:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Steelmaker Usiminas Doubles Profit to $210 Million; BlackRock Trims Stake",
+            "url": "https://www.riotimesonline.com/brazilian-steelmaker-usiminas-doubles-profit-to-210-million-blackrock-trims-stake/",
+            "published_at": "2026-07-17T07:31:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile\u2019s Senate Narrowly Passes President Kast\u2019s Economic Overhaul",
+            "url": "https://www.riotimesonline.com/chile-senate-narrowly-passes-kast-economic-reform/",
+            "published_at": "2026-07-17T07:31:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FEMSA Launches Tiendas Bara Hard-Discount Blitz to Chase Price-Sensitive Shoppers",
+            "url": "https://www.riotimesonline.com/femsa-tiendas-bara-hard-discount-mexico/",
+            "published_at": "2026-07-17T07:30:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Apollo Pledges $20 Billion in Private Credit to Fuel Mexico\u2019s Nearshoring Boom",
+            "url": "https://www.riotimesonline.com/apollo-20-billion-private-credit-mexico-nearshoring/",
+            "published_at": "2026-07-17T07:30:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Carlos Slim\u2019s Grupo Carso Acquires 30% of Gulf of Mexico Oil Block from TotalEnergies",
+            "url": "https://www.riotimesonline.com/carlos-slim-grupo-carso-totalenergies-block-30-gulf-mexico/",
+            "published_at": "2026-07-17T07:29:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Eyes Film Royalties and Drug Patents in US Tariff Retaliation",
+            "url": "https://www.riotimesonline.com/brazil-us-tariff-film-royalties-drug-patents/",
+            "published_at": "2026-07-17T07:29:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 17, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-friday-july-17-2026/",
+            "published_at": "2026-07-17T06:28:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "LatAm Pre-Open \u2014 Friday, July 17, 2026",
             "url": "https://www.riotimesonline.com/latam-pre-open-friday-july-17-2026/",
@@ -587,118 +699,6 @@
             "title": "San Miguel de Allende Named the World\u2019s Best City, Above Paris",
             "url": "https://www.riotimesonline.com/san-miguel-de-allende-worlds-best-city/",
             "published_at": "2026-07-16T10:38:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela\u2019s Rebuild Exposes a Decade of Brain Drain",
-            "url": "https://www.riotimesonline.com/venezuela-reconstruction-brain-drain-skilled-workers/",
-            "published_at": "2026-07-16T10:35:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica Tourist Arrivals Rise 7.8% in the First Half of 2026",
-            "url": "https://www.riotimesonline.com/costa-rica-tourist-arrivals-rise-7-8-percent-h1-2026-june-dip/",
-            "published_at": "2026-07-16T10:35:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "UK Offers Guatemala Up to $6.8 Billion for Infrastructure",
-            "url": "https://www.riotimesonline.com/uk-guatemala-infrastructure-financing-capacity/",
-            "published_at": "2026-07-16T10:35:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dominican Senate Raises Corporate Tax to 30% for Large Firms",
-            "url": "https://www.riotimesonline.com/dominican-republic-corporate-tax-30-percent-senate/",
-            "published_at": "2026-07-16T10:34:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Names 10 Unregistered Betting Sites in Tax Crackdown",
-            "url": "https://www.riotimesonline.com/chile-names-10-unregistered-online-betting-platforms/",
-            "published_at": "2026-07-16T10:34:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BHP Keeps Copper Output Near 2 Million Tonnes, Warns of 2027 Drop",
-            "url": "https://www.riotimesonline.com/bhp-copper-output-2027-chile-decline/",
-            "published_at": "2026-07-16T10:34:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Winter Storm Sends Generator Sales Up 50-Fold",
-            "url": "https://www.riotimesonline.com/chile-winter-storm-economic-toll-generator-exports/",
-            "published_at": "2026-07-16T10:33:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Aerom\u00e9xico Posts Record Revenue Despite a World Cup Dip",
-            "url": "https://www.riotimesonline.com/aeromexico-record-revenue-world-cup-dip/",
-            "published_at": "2026-07-16T10:33:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Weighs a $4 Billion Energy-Financing Plan",
-            "url": "https://www.riotimesonline.com/mexico-studies-4-billion-energy-financing-package/",
-            "published_at": "2026-07-16T10:33:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pemex Cuts Fuel-Theft Losses by 30% as Mexico Tightens Alerts",
-            "url": "https://www.riotimesonline.com/pemex-fuel-theft-losses-drop-financial-intelligence/",
-            "published_at": "2026-07-16T10:32:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Statistics Chief Resigns Amid Government Transition",
-            "url": "https://www.riotimesonline.com/colombia-statistics-chief-resigns-government-transition/",
-            "published_at": "2026-07-16T10:32:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Petro Will Skip His Successor\u2019s Inauguration",
-            "url": "https://www.riotimesonline.com/colombia-petro-skip-inauguration-august-7/",
-            "published_at": "2026-07-16T10:32:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Delivery App Rappi Turns Profitable in Colombia",
-            "url": "https://www.riotimesonline.com/rappi-profitable-colombia-super-app/",
-            "published_at": "2026-07-16T10:31:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Signs New Trade Deals With Hong Kong and Guatemala",
-            "url": "https://www.riotimesonline.com/peru-ratifies-hong-kong-guatemala-fta/",
-            "published_at": "2026-07-16T10:31:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Economy Slows to Its Weakest Pace in Six Months",
-            "url": "https://www.riotimesonline.com/peru-economy-weakest-pace-six-months-el-nino/",
-            "published_at": "2026-07-16T10:31:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Charges \u2018Careca do INSS\u2019 in a $1.2 Billion Pension Fraud",
-            "url": "https://www.riotimesonline.com/careca-do-inss-indicted-pension-fraud/",
-            "published_at": "2026-07-16T10:30:50+00:00",
             "category": [],
             "language": "en"
         }
