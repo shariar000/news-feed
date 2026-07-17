@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-17T11:10:04+00:00",
+    "updated_at": "2026-07-17T12:10:05+00:00",
     "items": [
+        {
+            "title": "Steelmaker CSN Cuts Its Loss to $109 Million as Cheap Chinese Steel Floods Brazil",
+            "url": "https://www.riotimesonline.com/csn-loss-narrows-chinese-steel-imports-csna3-2026/",
+            "published_at": "2026-07-17T11:25:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Banco do Brasil Profit Halves as Farm Loans Sour; Stock at 0.6x Book",
+            "url": "https://www.riotimesonline.com/banco-do-brasil-profit-halves-farm-loans-bbas3-2026/",
+            "published_at": "2026-07-17T11:22:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "C&A Brasil Grew Its Profit 78%. Its Stock Is Still Near a One-Year Low",
+            "url": "https://www.riotimesonline.com/cea-brasil-profit-up-stock-near-low-ceab3-2026/",
+            "published_at": "2026-07-17T11:14:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fuel Giant Ultrapar\u2019s Profit Jumps 151% as Brazil Cracks Down on Fuel Fraud",
+            "url": "https://www.riotimesonline.com/ultrapar-profit-jumps-151-brazil-fuel-crackdown-ugpa3/",
+            "published_at": "2026-07-17T11:13:56+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "US Work Visas Open to Skilled Latin Americans",
             "url": "https://www.riotimesonline.com/us-work-visas-open-to-skilled-latin-americans/",
@@ -671,34 +699,6 @@
             "title": "Brazilian Power Utility CPFL Posts $1.6 Billion Profit and Big Dividend",
             "url": "https://www.riotimesonline.com/brazilian-power-utility-cpfl-posts-1-6-billion-profit-and-big-dividend/",
             "published_at": "2026-07-16T17:20:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Utility Copel Triples Its Dividend Floor",
-            "url": "https://www.riotimesonline.com/brazilian-power-utility-copel-triples-its-dividend-floor-after-privatization/",
-            "published_at": "2026-07-16T17:18:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Meat Giant MBRF, the JBS-Marfrig Merger, Lifts Profit 27%",
-            "url": "https://www.riotimesonline.com/brazilian-meat-giant-mbrf-the-jbs-marfrig-merger-lifts-profit-27/",
-            "published_at": "2026-07-16T16:51:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Brewer Ambev Surges 15% on Earnings Beat, Lifting Ibovespa",
-            "url": "https://www.riotimesonline.com/brazilian-brewer-ambev-surges-15-on-earnings-beat-lifting-ibovespa/",
-            "published_at": "2026-07-16T16:31:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Bank BTG Pactual Opens Its Securitization Platform to Rivals",
-            "url": "https://www.riotimesonline.com/brazilian-bank-btg-pactual-opens-its-securitization-platform-to-rivals/",
-            "published_at": "2026-07-16T16:13:58+00:00",
             "category": [],
             "language": "en"
         }
