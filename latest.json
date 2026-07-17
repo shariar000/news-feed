@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-17T12:10:05+00:00",
+    "updated_at": "2026-07-17T13:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil Rejects \u2018Capitulation,\u2019 Plans Retaliation as US 25% Tariff Nears",
+            "url": "https://www.riotimesonline.com/us-25-percent-tariff-brazil-july-2026/",
+            "published_at": "2026-07-17T12:39:52+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Steelmaker CSN Cuts Its Loss to $109 Million as Cheap Chinese Steel Floods Brazil",
             "url": "https://www.riotimesonline.com/csn-loss-narrows-chinese-steel-imports-csna3-2026/",
@@ -692,13 +699,6 @@
             "title": "Brazilian Software Maker Totvs and Homebuilder MRV Launch Share Buybacks",
             "url": "https://www.riotimesonline.com/brazilian-software-maker-totvs-and-homebuilder-mrv-launch-share-buybacks/",
             "published_at": "2026-07-16T17:24:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Power Utility CPFL Posts $1.6 Billion Profit and Big Dividend",
-            "url": "https://www.riotimesonline.com/brazilian-power-utility-cpfl-posts-1-6-billion-profit-and-big-dividend/",
-            "published_at": "2026-07-16T17:20:18+00:00",
             "category": [],
             "language": "en"
         }
