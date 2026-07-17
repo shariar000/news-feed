@@ -1,9 +1,30 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-17T08:10:05+00:00",
+    "updated_at": "2026-07-17T09:10:04+00:00",
     "items": [
         {
-            "title": "Assa\u00ed Opens First In-Store Pharmacy, Targets 250 Locations",
+            "title": "Equifax Buys Mexico\u2019s C\u00edrculo de Cr\u00e9dito in a $750 Million Deal",
+            "url": "https://www.riotimesonline.com/equifax-buys-mexicos-circulo-de-credito-in-a-750-million-deal/",
+            "published_at": "2026-07-17T09:08:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Azul Adds Intermediate Long-Haul Cabin Class for Premium Travelers",
+            "url": "https://www.riotimesonline.com/azul-adds-intermediate-long-haul-cabin-class-for-premium-travelers/",
+            "published_at": "2026-07-17T08:30:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Begins Cozumel Airport Expansion for Caribbean Tourism",
+            "url": "https://www.riotimesonline.com/asur-breaks-ground-on-cozumel-airport-expansion-in-mexican-caribbean-tourism-bet/",
+            "published_at": "2026-07-17T08:27:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Assai Adds In-Store Pharmacies, Eyes 250 Stores",
             "url": "https://www.riotimesonline.com/assai-opens-first-in-store-pharmacy-targets-250-locations/",
             "published_at": "2026-07-17T08:06:53+00:00",
             "category": [],
@@ -45,7 +66,7 @@
             "language": "en"
         },
         {
-            "title": "Uber\u2019s $13.7 Billion Delivery Hero Deal Hands It Control of PedidosYa in Peru",
+            "title": "Uber\u2019s $13.7B Deal Gives It Delivery App PedidosYa in Peru",
             "url": "https://www.riotimesonline.com/uber-delivery-hero-pedidosya-peru/",
             "published_at": "2026-07-17T07:32:08+00:00",
             "category": [],
@@ -59,7 +80,7 @@
             "language": "en"
         },
         {
-            "title": "Colombia\u2019s GEB Takes Full Control of Four Brazil Power Transmission Firms",
+            "title": "Colombia\u2019s Power Giant GEB Buys Four Brazilian Grid Firms",
             "url": "https://www.riotimesonline.com/colombia-geb-takes-full-control-four-brazil-transmission-firms/",
             "published_at": "2026-07-17T07:31:26+00:00",
             "category": [],
@@ -213,7 +234,7 @@
             "language": "en"
         },
         {
-            "title": "Vibra and Ultrapar Win Upgrades as Canada\u2019s CPPIB Exits",
+            "title": "Brazil Fuel Stocks Vibra, Ultrapar Upgraded as Canada Fund Exits",
             "url": "https://www.riotimesonline.com/brazils-fuel-retailers-vibra-and-ultrapar-win-upgrades-as-canadas-cppib-exits/",
             "published_at": "2026-07-16T18:03:33+00:00",
             "category": [],
@@ -556,7 +577,7 @@
             "language": "en"
         },
         {
-            "title": "How the Strait of Hormuz Crisis Reshapes Inflation for Latin America",
+            "title": "How the Hormuz Oil Crisis Drives Latin America\u2019s Inflation",
             "url": "https://www.riotimesonline.com/global-energy-shock-2-0-how-the-strait-of-hormuz-crisis-is-2026-07-16/",
             "published_at": "2026-07-16T14:44:07+00:00",
             "category": [],
@@ -570,21 +591,21 @@
             "language": "en"
         },
         {
-            "title": "Sahel\u2019s AES Bloc Accuses Neighbours of Backing Terrorism",
+            "title": "Sahel Military Bloc Accuses Neighbours of Backing Terrorism",
             "url": "https://www.riotimesonline.com/aes-bloc-accuses-neighbours-terrorism-sahel-2026/",
             "published_at": "2026-07-16T13:52:47+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Kinshasa Questions Credibility of Key American Player in DRC Minerals",
+            "title": "DR Congo Doubts a Key US Firm in Its Minerals Push",
             "url": "https://www.riotimesonline.com/kinshasa-questions-credibility-american-player-drc-strategic-minerals-2026/",
             "published_at": "2026-07-16T13:52:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Ghana, Namibia and the DRC push Africa up the value chain",
+            "title": "Ghana, Namibia and DR Congo Push to Refine Africa\u2019s Minerals",
             "url": "https://www.riotimesonline.com/africa-moves-up-value-chain-ghana-namibia-drc-2026/",
             "published_at": "2026-07-16T13:52:31+00:00",
             "category": [],
@@ -678,27 +699,6 @@
             "title": "What\u2019s On in Latin America: The Week Ahead, July 16\u201322",
             "url": "https://www.riotimesonline.com/whats-on-latin-america-week-ahead-july-16-2026/",
             "published_at": "2026-07-16T11:10:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oaxaca\u2019s Guelaguetza 2026 Opens With Mezcal and Food Fairs",
-            "url": "https://www.riotimesonline.com/guelaguetza-2026-oaxaca-mezcal-food-fairs-free-binnibus/",
-            "published_at": "2026-07-16T10:38:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cusco Named South America\u2019s Best City for a Fourth Year",
-            "url": "https://www.riotimesonline.com/cusco-best-city-travel-leisure-2026/",
-            "published_at": "2026-07-16T10:38:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "San Miguel de Allende Named the World\u2019s Best City, Above Paris",
-            "url": "https://www.riotimesonline.com/san-miguel-de-allende-worlds-best-city/",
-            "published_at": "2026-07-16T10:38:10+00:00",
             "category": [],
             "language": "en"
         }
