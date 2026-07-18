@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-18T14:10:04+00:00",
+    "updated_at": "2026-07-18T15:10:04+00:00",
     "items": [
+        {
+            "title": "The Strait and the Salt Flats: How a Hormuz Crisis Is Redrawing Latin America\u2019s Energy Map",
+            "url": "https://www.riotimesonline.com/the-strait-and-the-salt-flats-how-a-hormuz-crisis-is-2026-07-18/",
+            "published_at": "2026-07-18T15:04:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Costa Rica Gains a Texas Route as Antigua Hosts Wedding Congress",
             "url": "https://www.riotimesonline.com/costa-rica-austin-flight-antigua-lat-wedding-congress-2026/",
@@ -692,13 +699,6 @@
             "title": "Africa Intelligence Brief \u2014 Friday, July 17, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-friday-july-17-2026/",
             "published_at": "2026-07-17T14:26:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Friday, July 17, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-friday-july-17-2026/",
-            "published_at": "2026-07-17T14:25:43+00:00",
             "category": [],
             "language": "en"
         }
