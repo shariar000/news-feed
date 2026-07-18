@@ -1,11 +1,123 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-18T11:10:05+00:00",
+    "updated_at": "2026-07-18T12:10:05+00:00",
     "items": [
         {
-            "title": "Paraguay Keeps Moody\u2019s Investment-Grade Rating as Growth Outpaces the Region",
-            "url": "https://www.riotimesonline.com/paraguay-moodys-investment-grade-rating-stable-outlook-2026/",
-            "published_at": "2026-07-18T11:09:15+00:00",
+            "title": "Costa Rica Gains a Texas Route as Antigua Hosts Wedding Congress",
+            "url": "https://www.riotimesonline.com/costa-rica-austin-flight-antigua-lat-wedding-congress-2026/",
+            "published_at": "2026-07-18T11:39:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Hilton and Blu Terrenas Reshape Saman\u00e1\u2019s Luxury Coastline in Dominican Republic",
+            "url": "https://www.riotimesonline.com/hilton-almare-blu-terrenas-dominican-republic-2026/",
+            "published_at": "2026-07-18T11:37:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bogot\u00e1 Hosts First Latin American Environmental Journalism Festival in July 2026",
+            "url": "https://www.riotimesonline.com/bogota-latin-american-environmental-journalism-festival-2026/",
+            "published_at": "2026-07-18T11:36:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Medell\u00edn\u2019s Feria de las Flores Opens Amid Salsa Boom and a Blades Farewell",
+            "url": "https://www.riotimesonline.com/medellin-feria-de-las-flores-viva-la-salsa-2026/",
+            "published_at": "2026-07-18T11:35:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Alceu Valen\u00e7a Brings His 80th-Birthday Musical to Rio\u2019s Revitalised Downtown",
+            "url": "https://www.riotimesonline.com/alceu-valenca-anunciacao-musical-rio-80th-2026/",
+            "published_at": "2026-07-18T11:33:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Marisa Monte to Headline Ibirapuera as S\u00e3o Paulo\u2019s Concert Season Heats Up",
+            "url": "https://www.riotimesonline.com/marisa-monte-headlines-ibirapuera-sao-paulo-concert-season-2026/",
+            "published_at": "2026-07-18T11:30:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Buenos Aires Winter Cultural Agenda 2026 Packs Theatres, Museums and World Cup Fever",
+            "url": "https://www.riotimesonline.com/buenos-aires-winter-cultural-agenda-2026/",
+            "published_at": "2026-07-18T11:28:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Michelin 2026 Awards 14 Stars in Argentina, Five at Mendoza Wineries",
+            "url": "https://www.riotimesonline.com/michelin-2026-argentina-mendoza-winery-restaurants-2026/",
+            "published_at": "2026-07-18T11:27:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oaxaca\u2019s Mezcal Fair Opens with Free Shuttles for Guelaguetza 2026",
+            "url": "https://www.riotimesonline.com/oaxaca-mezcal-fair-free-shuttles-guelaguetza-2026/",
+            "published_at": "2026-07-18T11:25:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lima Hosts 50 Best Gala as China Showcases Mexico-Peru Ancient Treasures",
+            "url": "https://www.riotimesonline.com/lima-50-best-gala-mexico-peru-china-exhibitions-2026/",
+            "published_at": "2026-07-18T11:21:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s MINEM Channels Over $529 Million Into Power Generation and Transmission",
+            "url": "https://www.riotimesonline.com/peru-minem-529-million-power-sector-investment-2026/",
+            "published_at": "2026-07-18T11:18:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Buenaventura\u2019s Yumpag Mine Delivers 2.32 Million Ounces of Silver in Peru",
+            "url": "https://www.riotimesonline.com/buenaventura-yumpag-silver-san-gabriel-ramp-up-2026/",
+            "published_at": "2026-07-18T11:18:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "ISA Energia Launches R$650mn Brazil Share Offer and New MG-RJ Transmission Line",
+            "url": "https://www.riotimesonline.com/isa-energia-r650mn-offer-mg-rj-transmission-line-2026/",
+            "published_at": "2026-07-18T11:18:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nubank Files Binding Bid for Portuguese Bank\u2019s Brazil Unit",
+            "url": "https://www.riotimesonline.com/nubank-binding-bid-banco-caixa-geral-brasil-2026/",
+            "published_at": "2026-07-18T11:18:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump Tariff Shock Rattles Argentina\u2019s Milei-Caputo Trade",
+            "url": "https://www.riotimesonline.com/trump-tariff-shock-rattles-milei-caputo-trade-2026/",
+            "published_at": "2026-07-18T11:18:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "UAE\u2019s EDGE Buys Brazil\u2019s Akaer as Embraer Rules Out Fighter Development",
+            "url": "https://www.riotimesonline.com/uae-edge-buys-brazil-akaer-embraer-rules-out-fighters-2026/",
+            "published_at": "2026-07-18T11:17:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Moody\u2019s Affirms Paraguay\u2019s Investment-Grade Rating for a Third Year, Outlook Stable",
+            "url": "https://www.riotimesonline.com/moodys-affirms-paraguay-investment-grade-rating-stable-outlook-2026/",
+            "published_at": "2026-07-18T11:11:14+00:00",
             "category": [],
             "language": "en"
         },
@@ -587,118 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 Friday, July 17, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-friday-july-17-2026/",
             "published_at": "2026-07-17T14:25:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Friday, July 17, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-friday-july-17-2026/",
-            "published_at": "2026-07-17T14:25:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Friday, July 17, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-friday-july-17-2026/",
-            "published_at": "2026-07-17T14:23:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Shock Absorber: Why Latin America Is Now the Fulcrum of a Shaken World Order",
-            "url": "https://www.riotimesonline.com/the-shock-absorber-why-latin-america-is-now-the-fulcrum-of-2026-07-17/",
-            "published_at": "2026-07-17T14:15:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 July 17, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-friday-july-17-2026/",
-            "published_at": "2026-07-17T13:54:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Tonight \u2014 July 17, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-friday-july-17-2026/",
-            "published_at": "2026-07-17T13:51:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Voting Machines Keep No Paper Trail \u2013 Can Voters Still Trust Them in 2026?",
-            "url": "https://www.riotimesonline.com/brazil-electronic-voting-paper-trail-2026/",
-            "published_at": "2026-07-17T13:36:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump Declassifies Election Files, Alleging China Stole 220 Million Voter Records",
-            "url": "https://www.riotimesonline.com/trump-election-declassification-china-voter-files-2026/",
-            "published_at": "2026-07-17T13:16:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Rejects \u2018Capitulation,\u2019 Plans Retaliation as US 25% Tariff Nears",
-            "url": "https://www.riotimesonline.com/us-25-percent-tariff-brazil-july-2026/",
-            "published_at": "2026-07-17T12:39:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Steelmaker CSN Cuts Its Loss to $109 Million as Cheap Chinese Steel Floods Brazil",
-            "url": "https://www.riotimesonline.com/csn-loss-narrows-chinese-steel-imports-csna3-2026/",
-            "published_at": "2026-07-17T11:25:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco do Brasil Profit Halves as Farm Loans Sour; Stock at 0.6x Book",
-            "url": "https://www.riotimesonline.com/banco-do-brasil-profit-halves-farm-loans-bbas3-2026/",
-            "published_at": "2026-07-17T11:22:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "C&A Brasil Grew Its Profit 78%. Its Stock Is Still Near a One-Year Low",
-            "url": "https://www.riotimesonline.com/cea-brasil-profit-up-stock-near-low-ceab3-2026/",
-            "published_at": "2026-07-17T11:14:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fuel Giant Ultrapar\u2019s Profit Jumps 151% as Brazil Cracks Down on Fuel Fraud",
-            "url": "https://www.riotimesonline.com/ultrapar-profit-jumps-151-brazil-fuel-crackdown-ugpa3/",
-            "published_at": "2026-07-17T11:13:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Work Visas Open to Skilled Latin Americans",
-            "url": "https://www.riotimesonline.com/us-work-visas-open-to-skilled-latin-americans/",
-            "published_at": "2026-07-17T11:06:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "B3, Brazil\u2019s Stock Exchange, Turns Record Trading Into Record Profit",
-            "url": "https://www.riotimesonline.com/b3-profit-record-brazil-stock-exchange-2026/",
-            "published_at": "2026-07-17T11:01:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay\u2019s Asu Coffee Fest Gains National Tourism Status for Its 30th Year",
-            "url": "https://www.riotimesonline.com/asu-coffee-fest-national-tourism-interest-abel-pintos-30-years/",
-            "published_at": "2026-07-17T10:45:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dominican Republic Expands Tourism with New Punta Cana Routes and Saman\u00e1 Port",
-            "url": "https://www.riotimesonline.com/punta-cana-arajet-guatemala-route-samana-bayport/",
-            "published_at": "2026-07-17T10:45:17+00:00",
             "category": [],
             "language": "en"
         }
