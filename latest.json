@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-18T09:10:04+00:00",
+    "updated_at": "2026-07-18T10:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s TSE Brings OpenAI, Anthropic and ElevenLabs Into 2026 Election Disinformation Pact",
+            "url": "https://www.riotimesonline.com/brazil-tse-openai-anthropic-elevenlabs-election-disinformation-pact-2026/",
+            "published_at": "2026-07-18T10:02:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Faces US Tariff Ultimatum as Chemical Sector Demands Intensify",
+            "url": "https://www.riotimesonline.com/us-brazil-tariff-fight-chemical-sector-2026/",
+            "published_at": "2026-07-18T10:00:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "San Miguel de Allende\u2019s Wedding Boom Meets a New Home Depot",
+            "url": "https://www.riotimesonline.com/san-miguel-de-allende-wedding-tourism-home-depot-2026/",
+            "published_at": "2026-07-18T10:00:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Moraes Bars All Visits to Jair Bolsonaro for 30 Days",
+            "url": "https://www.riotimesonline.com/moraes-bars-visits-bolsonaro-30-days-2026/",
+            "published_at": "2026-07-18T10:00:17+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bolivia\u2019s Timber Trade Cleared as Cocaine Case Collapses",
             "url": "https://www.riotimesonline.com/bolivia-timber-cocaine-case-collapses-compensation-2026/",
@@ -671,34 +699,6 @@
             "title": "Brazil\u2019s Assai Adds In-Store Pharmacies, Eyes 250 Stores",
             "url": "https://www.riotimesonline.com/assai-opens-first-in-store-pharmacy-targets-250-locations/",
             "published_at": "2026-07-17T08:06:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Antofagasta\u2019s Copper Output Drops 9.5% in First Half on Lower Ore Grades",
-            "url": "https://www.riotimesonline.com/antofagastas-copper-output-drops-9-5-in-first-half-on-lower-ore-grades/",
-            "published_at": "2026-07-17T08:00:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Teatro Col\u00f3n Premieres Alice\u2019s Adventures in Wonderland as Expat Season Heats Up",
-            "url": "https://www.riotimesonline.com/teatro-colon-alice-in-wonderland-premiere-2026/",
-            "published_at": "2026-07-17T07:33:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio\u2019s Christ the Redeemer Caps Daily Visitors Through May 2027",
-            "url": "https://www.riotimesonline.com/christ-the-redeemer-visitor-cap-2027/",
-            "published_at": "2026-07-17T07:33:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bukele Meets Trump Behind Closed Doors as TPS Deadline Looms for 232,000 Salvadorans",
-            "url": "https://www.riotimesonline.com/bukele-trump-closed-door-meeting-tps/",
-            "published_at": "2026-07-17T07:32:55+00:00",
             "category": [],
             "language": "en"
         }
