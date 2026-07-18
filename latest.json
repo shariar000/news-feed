@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-18T08:10:04+00:00",
+    "updated_at": "2026-07-18T09:10:04+00:00",
     "items": [
+        {
+            "title": "Bolivia\u2019s Timber Trade Cleared as Cocaine Case Collapses",
+            "url": "https://www.riotimesonline.com/bolivia-timber-cocaine-case-collapses-compensation-2026/",
+            "published_at": "2026-07-18T08:37:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vamos, Brazil\u2019s Truck Rental Giant, Sees New Orders Jump 60%",
+            "url": "https://www.riotimesonline.com/vamos-truck-rental-orders-jump-q2-preview-vamo3/",
+            "published_at": "2026-07-18T08:18:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Homebuilder Cyrela\u2019s Sales Rise 14% While Its Stock Sits Near a One-Year Low",
+            "url": "https://www.riotimesonline.com/cyrela-sales-rise-14-q2-2026-btg-upside-cyre3/",
+            "published_at": "2026-07-18T08:17:16+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Morocco\u2019s AFCON 2025 Becomes the Biggest Commercial Success in African Football",
             "url": "https://www.riotimesonline.com/afcon-2025-commercial-success-morocco-2026/",
@@ -678,27 +699,6 @@
             "title": "Bukele Meets Trump Behind Closed Doors as TPS Deadline Looms for 232,000 Salvadorans",
             "url": "https://www.riotimesonline.com/bukele-trump-closed-door-meeting-tps/",
             "published_at": "2026-07-17T07:32:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "New World Screwworm Reaches the US, Deepening Mexico\u2019s Cattle Crisis",
-            "url": "https://www.riotimesonline.com/new-world-screwworm-us-mexico-cattle-crisis/",
-            "published_at": "2026-07-17T07:32:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uber\u2019s $13.7B Deal Gives It Delivery App PedidosYa in Peru",
-            "url": "https://www.riotimesonline.com/uber-delivery-hero-pedidosya-peru/",
-            "published_at": "2026-07-17T07:32:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Mining Investment Jumps 43.6% as Copper Rally Lifts Miners",
-            "url": "https://www.riotimesonline.com/peru-mining-investment-surges-copper-rally-southern-copper-buenaventura/",
-            "published_at": "2026-07-17T07:31:46+00:00",
             "category": [],
             "language": "en"
         }
