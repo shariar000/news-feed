@@ -1,9 +1,16 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T15:10:04+00:00",
+    "updated_at": "2026-07-19T16:10:04+00:00",
     "items": [
         {
-            "title": "Guanajuato Film Festival Returns July 24 With Free Screenings",
+            "title": "Medell\u00edn\u2019s Viva La Salsa Concert Kicks Off the Flower Festival",
+            "url": "https://www.riotimesonline.com/viva-la-salsa-medellin-2026-feria-de-las-flores/",
+            "published_at": "2026-07-19T16:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "GIFF 2026: 203 Free Films Across Mexico, Saving US$100s",
             "url": "https://www.riotimesonline.com/guanajuato-international-film-festival-giff-2026/",
             "published_at": "2026-07-19T14:30:00+00:00",
             "category": [],
@@ -17,7 +24,7 @@
             "language": "en"
         },
         {
-            "title": "El gran viaje Hits Peru Cinemas July 23, 2026 After Cannes Win",
+            "title": "Cannes-Winning Animation El gran viaje Hits Peru Cinemas July 23",
             "url": "https://www.riotimesonline.com/el-gran-viaje-peru-cinema-release-july-2026/",
             "published_at": "2026-07-19T11:30:00+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "FEMSA, Bimbo and Cemex Weigh Colombia\u2019s Political Shift as Banxico Cuts",
             "url": "https://www.riotimesonline.com/femsa-bimbo-cemex-colombia-effect-banxico-rate-cut-2026/",
             "published_at": "2026-07-18T10:46:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Salinas Pliego\u2019s TV Azteca Faces $400 Million U.S. Debt Lawsuit Pressure",
-            "url": "https://www.riotimesonline.com/salinas-pliego-tv-azteca-400-million-debt-lawsuit-2026/",
-            "published_at": "2026-07-18T10:44:47+00:00",
             "category": [],
             "language": "en"
         }
