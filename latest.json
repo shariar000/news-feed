@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T14:10:04+00:00",
+    "updated_at": "2026-07-19T15:10:04+00:00",
     "items": [
+        {
+            "title": "Guanajuato Film Festival Returns July 24 With Free Screenings",
+            "url": "https://www.riotimesonline.com/guanajuato-international-film-festival-giff-2026/",
+            "published_at": "2026-07-19T14:30:00+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Quito\u2019s Kinema Sinf\u00f3nico III Brings 130 Artists to the Stage",
             "url": "https://www.riotimesonline.com/kinema-sinfonico-iii-quito-130-artists-2026/",
@@ -10,7 +17,7 @@
             "language": "en"
         },
         {
-            "title": "El gran viaje, Cannes Winner, Hits Peru Cinemas July 23, 2026",
+            "title": "El gran viaje Hits Peru Cinemas July 23, 2026 After Cannes Win",
             "url": "https://www.riotimesonline.com/el-gran-viaje-peru-cinema-release-july-2026/",
             "published_at": "2026-07-19T11:30:00+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Salinas Pliego\u2019s TV Azteca Faces $400 Million U.S. Debt Lawsuit Pressure",
             "url": "https://www.riotimesonline.com/salinas-pliego-tv-azteca-400-million-debt-lawsuit-2026/",
             "published_at": "2026-07-18T10:44:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BTG Builds a 14% M\u00e9liuz Stake as Batista Miner Addresses Vale Rumours",
-            "url": "https://www.riotimesonline.com/btg-pactual-meliuz-stake-batista-vale-rumours-2026/",
-            "published_at": "2026-07-18T10:43:32+00:00",
             "category": [],
             "language": "en"
         }
