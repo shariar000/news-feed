@@ -1,16 +1,23 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T11:10:04+00:00",
+    "updated_at": "2026-07-19T12:10:04+00:00",
     "items": [
         {
-            "title": "FIL Lima 2026: Peru\u2019s Biggest Book Fair Returns July 22",
+            "title": "Cannes Winner \u2018El gran viaje\u2019 Opens in Peru\u2019s Cinemas July 23",
+            "url": "https://www.riotimesonline.com/el-gran-viaje-peru-cinema-release-july-2026/",
+            "published_at": "2026-07-19T11:30:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FIL Lima 2026 Book Fair Relocates, Ecuador Takes Spotlight",
             "url": "https://www.riotimesonline.com/fil-lima-2026-new-venue-ecuador-guest/",
             "published_at": "2026-07-19T10:00:00+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Chilean Cinema Rises with Venice Film Festival Selection",
+            "title": "Chilean Cinema Rises with Venice Film Festival Short Pick",
             "url": "https://www.riotimesonline.com/chile-cinema-alba-gaviraghi-ecuador-azucena-mora-2026/",
             "published_at": "2026-07-19T09:09:02+00:00",
             "category": [],
@@ -318,7 +325,7 @@
             "language": "en"
         },
         {
-            "title": "Analysts Turn Bullish on Brazil: Ambev Upgraded, WEG a New Buy",
+            "title": "BTG Upgrades Ambev to Buy, Sees $3.64 Target",
             "url": "https://www.riotimesonline.com/btg-upgrades-ambev-scotiabank-starts-weg-buy-2026/",
             "published_at": "2026-07-19T07:53:45+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "JBS Denies Slave-Labor Dirty-List Links as GPA Defends Debt Restructuring",
             "url": "https://www.riotimesonline.com/jbs-rebuts-slave-labor-dirty-list-claim-gpa-defends-debt-plan-2026/",
             "published_at": "2026-07-18T10:41:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Big Three Telecoms Face Congressional Probe as TIM Warns on Price War",
-            "url": "https://www.riotimesonline.com/tim-vivo-claro-congressional-probe-price-war-2026/",
-            "published_at": "2026-07-18T10:40:35+00:00",
             "category": [],
             "language": "en"
         }
