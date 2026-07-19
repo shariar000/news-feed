@@ -1,9 +1,16 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T22:10:32+00:00",
+    "updated_at": "2026-07-19T23:10:04+00:00",
     "items": [
         {
-            "title": "Cuenca\u2019s Eclipse 2026 Blends Astronomy, Food and Heritage",
+            "title": "World Cup 2026 Spain: Spain Beat Argentina 1-0 in Final",
+            "url": "https://www.riotimesonline.com/world-cup-2026-spain-argentina-final/",
+            "published_at": "2026-07-19T22:05:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cuenca Eclipse 2026: Spain\u2019s Rare Total Solar Event",
             "url": "https://www.riotimesonline.com/cuenca-eclipse-2026-spain-astronomy-gastronomy/",
             "published_at": "2026-07-19T21:30:00+00:00",
             "category": [],
@@ -17,7 +24,7 @@
             "language": "en"
         },
         {
-            "title": "Feria del Mundo: Free Global Fair in Mexico City This August",
+            "title": "Mexico City\u2019s Feria del Mundo: 40+ Countries, Free Entry",
             "url": "https://www.riotimesonline.com/feria-del-mundo-mexico-city-august-2026/",
             "published_at": "2026-07-19T20:30:00+00:00",
             "category": [],
@@ -73,7 +80,7 @@
             "language": "en"
         },
         {
-            "title": "El gran viaje Peru Cinemas July 23, 2026: Cannes Winner",
+            "title": "Peru\u2019s Cannes-Winning Animated Film Hits Cinemas July 23, 2026",
             "url": "https://www.riotimesonline.com/el-gran-viaje-peru-cinema-release-july-2026/",
             "published_at": "2026-07-19T11:30:00+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Playa del Carmen Jazz Festival Returns as Sargassum Cleanup Plan Expands",
             "url": "https://www.riotimesonline.com/playa-del-carmen-jazz-festival-sargassum-cleanup-2026/",
             "published_at": "2026-07-18T11:03:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tulum\u2019s Renace Plan Opens Beaches and Jaguar Park as Sectur Cuts Rates",
-            "url": "https://www.riotimesonline.com/tulum-renace-plan-opens-beaches-jaguar-park-2026/",
-            "published_at": "2026-07-18T11:01:24+00:00",
             "category": [],
             "language": "en"
         }
