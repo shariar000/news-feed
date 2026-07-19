@@ -1,7 +1,196 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T08:10:04+00:00",
+    "updated_at": "2026-07-19T09:10:04+00:00",
     "items": [
+        {
+            "title": "Chile\u2019s Alba Gaviraghi Rises as Ecuador Mourns Theatre Icon Azucena Mora",
+            "url": "https://www.riotimesonline.com/chile-cinema-alba-gaviraghi-ecuador-azucena-mora-2026/",
+            "published_at": "2026-07-19T09:09:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Premios Pinti Gala Launches as Vampyr Heads to Valdivia Rain Festival",
+            "url": "https://www.riotimesonline.com/premios-pinti-vampyr-valdivia-rain-festival-2026/",
+            "published_at": "2026-07-19T09:07:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Abel Quezada Retrospective Opens at Mexico City\u2019s Museo Kaluz",
+            "url": "https://www.riotimesonline.com/abel-quezada-retrospective-museo-kaluz-mexico-city-2026/",
+            "published_at": "2026-07-19T09:05:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Museo Nacional Rediscovers the Dari\u00e9n in Caminos de Agua",
+            "url": "https://www.riotimesonline.com/colombia-museo-nacional-caminos-de-agua-darien-2026/",
+            "published_at": "2026-07-19T09:03:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Opens Its Largest-Ever Archaeological Exhibition in Shanghai",
+            "url": "https://www.riotimesonline.com/peru-largest-archaeological-exhibition-shanghai-2026/",
+            "published_at": "2026-07-19T09:02:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Secures First National Pavilion at South Korea\u2019s Gwangju Biennale",
+            "url": "https://www.riotimesonline.com/brazil-first-pavilion-gwangju-biennale-2026/",
+            "published_at": "2026-07-19T09:00:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Awards Eva Ayll\u00f3n Medal of Honor of Culture",
+            "url": "https://www.riotimesonline.com/peru-awards-eva-ayllon-medal-of-honor-culture-2026/",
+            "published_at": "2026-07-19T08:58:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FINA 2026 Festival Opens with Free Ballet Gala in Saltillo",
+            "url": "https://www.riotimesonline.com/ballet-headlines-mexico-fina-2026-festival-saltillo-2026/",
+            "published_at": "2026-07-19T08:56:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador\u2019s Salgado Revival Reaches Vienna as Medell\u00edn Youths Join Ibero-American Orchestra",
+            "url": "https://www.riotimesonline.com/ecuador-salgado-revival-vienna-medellin-youths-iberoamerican-orchestra-2026/",
+            "published_at": "2026-07-19T08:55:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Free S\u00e3o Paulo Winter Festival Draws 80,000 Visitors",
+            "url": "https://www.riotimesonline.com/brasil-jazz-sinfonica-campos-do-jordao-winter-festival-2026/",
+            "published_at": "2026-07-19T08:53:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Free Concerts in Bogot\u00e1 July 16\u201317 by Colombia\u2019s Philharmonic",
+            "url": "https://www.riotimesonline.com/colombia-philharmonic-free-concerts-july-20-holiday-2026/",
+            "published_at": "2026-07-19T08:51:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Netflix Sets August 2026 Date for Final Part of Colombian Epic Cien A\u00f1os de Soledad",
+            "url": "https://www.riotimesonline.com/netflix-cien-anos-de-soledad-finale-august-2026/",
+            "published_at": "2026-07-19T08:49:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s FIL Lima 2026 Spotlights Los Prisioneros Book and Unconfirmed Sodamania",
+            "url": "https://www.riotimesonline.com/peru-fil-los-prisioneros-sodamania-2026/",
+            "published_at": "2026-07-19T08:48:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentine Novelist Guillermo Mart\u00ednez Warns of a \u201cMarch to the Middle Ages\u201d in New Interview",
+            "url": "https://www.riotimesonline.com/guillermo-martinez-fiction-outlook-march-to-middle-ages-2026/",
+            "published_at": "2026-07-19T08:46:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombian Author Abad Faciolince to Open Seville\u2019s 49th Antique Book Fair",
+            "url": "https://www.riotimesonline.com/hector-abad-faciolince-seville-antique-book-fair-2026/",
+            "published_at": "2026-07-19T08:44:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Manuela Dias\u2019s New Book Resurrects the Erased Heroines of Brazil\u2019s Independence",
+            "url": "https://www.riotimesonline.com/manuela-dias-erased-heroines-brazil-independence-2026/",
+            "published_at": "2026-07-19T08:43:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guimar\u00e3es Rosa\u2019s Grande Sert\u00e3o: Veredas Marks 70 Years Anchoring Brazilian Letters",
+            "url": "https://www.riotimesonline.com/grande-sertao-veredas-70-years-brazilian-literature-2026/",
+            "published_at": "2026-07-19T08:40:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rock in Rio\u2019s 11 September K\u2011Pop Night Sells Out in Brazil",
+            "url": "https://www.riotimesonline.com/rock-in-rio-september-11-sells-out-2026/",
+            "published_at": "2026-07-19T08:27:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Construexpo 2026 Opens as Dominican Republic Eyes Orderly Growth",
+            "url": "https://www.riotimesonline.com/construexpo-2026-punta-cana-bavaro-territorial-plan-2026/",
+            "published_at": "2026-07-19T08:25:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica Targets Argentine and Chilean Tourists for 2026\u20132027",
+            "url": "https://www.riotimesonline.com/costa-rica-targets-argentine-chilean-tourists-2026/",
+            "published_at": "2026-07-19T08:23:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guatemala Central Bank Opens Free Art Show for 80th Year",
+            "url": "https://www.riotimesonline.com/banco-de-guatemala-art-heritage-show-2026/",
+            "published_at": "2026-07-19T08:22:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay\u2019s Sweeney Todd Tickets Launch with Bank Pre-Sale",
+            "url": "https://www.riotimesonline.com/montevideo-sweeney-todd-abel-pintos-uruguay-2026/",
+            "published_at": "2026-07-19T08:20:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo\u2019s Indigenous Art Fair and Rio\u2019s Theatre Festival Shape Brazil\u2019s Cultural Calendar",
+            "url": "https://www.riotimesonline.com/sao-paulo-indigenous-art-fair-rio-theatre-festival-2026/",
+            "published_at": "2026-07-19T08:18:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mister Espa\u00f1a 2026 Final Set for Medell\u00edn, Spain, Not Colombia",
+            "url": "https://www.riotimesonline.com/medellin-not-hosting-mister-espana-2026/",
+            "published_at": "2026-07-19T08:16:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cochinola Festival Returns to Lima with Nicky Jam, Wisin",
+            "url": "https://www.riotimesonline.com/cochinola-festival-lima-fiestas-patrias-tourism-2026/",
+            "published_at": "2026-07-19T08:15:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rosal\u00eda\u2019s Lux Tour Turns Bogot\u00e1 Into a Latin American Culture Magnet",
+            "url": "https://www.riotimesonline.com/rosalia-lights-up-bogota-weekend-scene-2026/",
+            "published_at": "2026-07-19T08:13:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Culiac\u00e1n\u2019s Kawaii Festival Brings Anime and Cosplay to the Botanical Garden",
+            "url": "https://www.riotimesonline.com/festival-kawaii-jardin-botanico-culiacan-2026/",
+            "published_at": "2026-07-19T08:11:43+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mexico\u2019s Puuc Archaeological Museum at Kabah Nears Completion",
             "url": "https://www.riotimesonline.com/puuc-archaeological-museum-kabah-2026/",
@@ -10,14 +199,14 @@
             "language": "en"
         },
         {
-            "title": "Chile Recovers a Mural Hidden Since the 1973 Coup in Chill\u00e1n",
+            "title": "Chile Recovers Mural Hidden Since 1973 Coup in City Hall",
             "url": "https://www.riotimesonline.com/chile-recovers-mural-hidden-since-1973-coup-chillan-2026/",
             "published_at": "2026-07-19T08:08:07+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "LATAM Airlines Sets Three Policy Demands for Colombia\u2019s New Government",
+            "title": "LATAM Airlines Colombia Demands 24-Hour Airports, Lower Tax",
             "url": "https://www.riotimesonline.com/latam-airlines-colombia-policy-demands-2026/",
             "published_at": "2026-07-19T08:06:17+00:00",
             "category": [],
@@ -52,14 +241,14 @@
             "language": "en"
         },
         {
-            "title": "Kenya Leads as Africa Secures $900 Million for Clean Cooking Access",
+            "title": "Africa Secures $900M in Clean Cooking Commitments",
             "url": "https://www.riotimesonline.com/africa-secures-900-million-clean-cooking-commitments-2026/",
             "published_at": "2026-07-19T08:00:51+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Cameroon Army Kills Presumed Separatist Leader \u201cSagat\u201d in Southwest Region",
+            "title": "Cameroon Separatist Leader Sagat Killed in Army Strike",
             "url": "https://www.riotimesonline.com/cameroon-army-kills-separatist-leader-sagat-southwest-2026/",
             "published_at": "2026-07-19T08:00:38+00:00",
             "category": [],
@@ -510,195 +699,6 @@
             "title": "Brazil Capital Markets Roundup: Banco do Brasil, Inter, Casas Bahia and Axia",
             "url": "https://www.riotimesonline.com/brazil-capital-markets-roundup-banco-brasil-inter-casas-bahia-axia-2026/",
             "published_at": "2026-07-18T10:38:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cosan Crisis Contagion Hits Rumo as S&P Cuts Rating",
-            "url": "https://www.riotimesonline.com/cosan-crisis-contagion-rumo-rating-downgrade-2026/",
-            "published_at": "2026-07-18T10:36:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "B3 Names Christian Egan CEO as Vale Installs Interim Chair Bruijn",
-            "url": "https://www.riotimesonline.com/b3-names-christian-egan-ceo-vale-interim-chair-bruijn-2026/",
-            "published_at": "2026-07-18T10:31:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Carrefour Brasil Restructures Aggressively, But 28-Store Closure Claim Is Unconfirmed",
-            "url": "https://www.riotimesonline.com/carrefour-brasil-restructuring-store-closures-layoffs-2026/",
-            "published_at": "2026-07-18T10:29:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Delcy Rodr\u00edguez Hardens Political Line as Saudi Investment Deals Advance",
-            "url": "https://www.riotimesonline.com/delcy-rodriguez-hardens-line-saudi-investment-deals-2026/",
-            "published_at": "2026-07-18T10:24:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tesla Lands in Uruguay as Court Curbs Bank Secrecy Against Argentina\u2019s ARCA",
-            "url": "https://www.riotimesonline.com/tesla-enters-uruguay-court-curbs-bank-secrecy-arca-2026/",
-            "published_at": "2026-07-18T10:22:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Fiscal Deficit Narrows to 1.3% of GDP on Higher Revenues",
-            "url": "https://www.riotimesonline.com/peru-fiscal-deficit-narrows-1-3-percent-gdp-2026/",
-            "published_at": "2026-07-18T10:20:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Moody\u2019s Affirms Paraguay\u2019s Investment-Grade Rating for a Third Year, Outlook Stable",
-            "url": "https://www.riotimesonline.com/moodys-affirms-paraguay-investment-grade-rating-third-year-2026/",
-            "published_at": "2026-07-18T10:19:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMF and Washington Back Colombia\u2019s Fiscal-Deficit Fix After Restrepo Talks",
-            "url": "https://www.riotimesonline.com/imf-washington-back-colombia-fiscal-deficit-fix-2026/",
-            "published_at": "2026-07-18T10:17:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s TSE Brings OpenAI, Anthropic and ElevenLabs Into 2026 Election Disinformation Pact",
-            "url": "https://www.riotimesonline.com/brazil-tse-openai-anthropic-elevenlabs-election-disinformation-pact-2026/",
-            "published_at": "2026-07-18T10:02:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Faces US Tariff Ultimatum as Chemical Sector Demands Intensify",
-            "url": "https://www.riotimesonline.com/us-brazil-tariff-fight-chemical-sector-2026/",
-            "published_at": "2026-07-18T10:00:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "San Miguel de Allende\u2019s Wedding Boom Meets a New Home Depot",
-            "url": "https://www.riotimesonline.com/san-miguel-de-allende-wedding-tourism-home-depot-2026/",
-            "published_at": "2026-07-18T10:00:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Moraes Bars All Visits to Jair Bolsonaro for 30 Days",
-            "url": "https://www.riotimesonline.com/moraes-bars-visits-bolsonaro-30-days-2026/",
-            "published_at": "2026-07-18T10:00:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia\u2019s Timber Trade Cleared as Cocaine Case Collapses",
-            "url": "https://www.riotimesonline.com/bolivia-timber-cocaine-case-collapses-compensation-2026/",
-            "published_at": "2026-07-18T08:37:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vamos, Brazil\u2019s Truck Rental Giant, Sees New Orders Jump 60%",
-            "url": "https://www.riotimesonline.com/vamos-truck-rental-orders-jump-q2-preview-vamo3/",
-            "published_at": "2026-07-18T08:18:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Homebuilder Cyrela\u2019s Sales Rise 14% While Its Stock Sits Near a One-Year Low",
-            "url": "https://www.riotimesonline.com/cyrela-sales-rise-14-q2-2026-btg-upside-cyre3/",
-            "published_at": "2026-07-18T08:17:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Morocco\u2019s AFCON 2025 Becomes the Biggest Commercial Success in African Football",
-            "url": "https://www.riotimesonline.com/afcon-2025-commercial-success-morocco-2026/",
-            "published_at": "2026-07-18T07:55:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Africa\u2019s Cue Raises $5 Million to Scale AI Customer-Service Platform",
-            "url": "https://www.riotimesonline.com/south-africa-cue-raises-5-million-ai-customer-service-2026/",
-            "published_at": "2026-07-18T07:55:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sudan Readies Lawsuits Against UAE Over RSF Backing in Civil War",
-            "url": "https://www.riotimesonline.com/sudan-lawsuits-uae-rsf-civil-war-2026/",
-            "published_at": "2026-07-18T07:54:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Djibouti and EU Sign SOFA to Host EUNAVFOR ASPIDES in Red Sea",
-            "url": "https://www.riotimesonline.com/djibouti-eu-status-of-forces-agreement-aspides-2026/",
-            "published_at": "2026-07-18T07:54:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria\u2019s Bank of Industry Lands \u20ac60 Million EIB Facility for Cocoa and Dairy",
-            "url": "https://www.riotimesonline.com/nigeria-boi-eib-cocoa-dairy-facility-2026/",
-            "published_at": "2026-07-18T07:54:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 18, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-18T07:07:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Saturday, July 18, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-july-18-2026/",
-            "published_at": "2026-07-18T07:00:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 18, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-18T06:59:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 18, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-18T06:59:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 18, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-18-2026/",
-            "published_at": "2026-07-18T06:58:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Saturday, July 18, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-july-18-2026/",
-            "published_at": "2026-07-18T06:55:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 18, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-18T06:32:39+00:00",
             "category": [],
             "language": "en"
         }
