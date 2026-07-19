@@ -1,16 +1,23 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T21:10:05+00:00",
+    "updated_at": "2026-07-19T22:10:32+00:00",
     "items": [
         {
-            "title": "Key Market Events for the Week of July 20 \u2013 July 24, 2026",
+            "title": "Cuenca\u2019s Eclipse 2026 Blends Astronomy, Food and Heritage",
+            "url": "https://www.riotimesonline.com/cuenca-eclipse-2026-spain-astronomy-gastronomy/",
+            "published_at": "2026-07-19T21:30:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Confidence, Mexico CPI, Colombia GDP: Week Ahead",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-20-july-24-2026/",
             "published_at": "2026-07-19T21:00:30+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Mexico City\u2019s Feria del Mundo Returns This August, Free to All",
+            "title": "Feria del Mundo: Free Global Fair in Mexico City This August",
             "url": "https://www.riotimesonline.com/feria-del-mundo-mexico-city-august-2026/",
             "published_at": "2026-07-19T20:30:00+00:00",
             "category": [],
@@ -66,7 +73,7 @@
             "language": "en"
         },
         {
-            "title": "Cannes Winner El gran viaje Hits Peru Cinemas July 23, 2026",
+            "title": "El gran viaje Peru Cinemas July 23, 2026: Cannes Winner",
             "url": "https://www.riotimesonline.com/el-gran-viaje-peru-cinema-release-july-2026/",
             "published_at": "2026-07-19T11:30:00+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Tulum\u2019s Renace Plan Opens Beaches and Jaguar Park as Sectur Cuts Rates",
             "url": "https://www.riotimesonline.com/tulum-renace-plan-opens-beaches-jaguar-park-2026/",
             "published_at": "2026-07-18T11:01:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lima Hosts 50 Best Gala as Peru-Mexico Treasures Dazzle China",
-            "url": "https://www.riotimesonline.com/lima-50-best-gala-peru-mexico-ancient-cultures-china-2026/",
-            "published_at": "2026-07-18T10:59:43+00:00",
             "category": [],
             "language": "en"
         }
