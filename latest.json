@@ -1,30 +1,37 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T18:10:05+00:00",
+    "updated_at": "2026-07-19T19:10:03+00:00",
     "items": [
         {
-            "title": "Car\u00edn Le\u00f3n to Headline Medell\u00edn\u2019s Flower Festival on August 8",
+            "title": "\u2018Experiencia Queen\u2019 Brings a Symphonic Tribute to Montevideo",
+            "url": "https://www.riotimesonline.com/experiencia-queen-montevideo-2026/",
+            "published_at": "2026-07-19T19:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Carin Le\u00f3n Headlines Medell\u00edn Flower Festival Super Concert",
             "url": "https://www.riotimesonline.com/carin-leon-headlines-feria-flores-super-concierto-2026/",
             "published_at": "2026-07-19T17:30:00+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Viva La Salsa Medellin 2026 Opens Iconic Flower Fair",
+            "title": "Viva La Salsa Medellin 2026 to Kick Off Flower Fair",
             "url": "https://www.riotimesonline.com/viva-la-salsa-medellin-2026-feria-de-las-flores/",
             "published_at": "2026-07-19T16:00:00+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Guanajuato Film Fest 2026: 203 Free Films Across Mexico",
+            "title": "Guanajuato Film Fest 2026: 203 Free Films from 55 Nations",
             "url": "https://www.riotimesonline.com/guanajuato-international-film-festival-giff-2026/",
             "published_at": "2026-07-19T14:30:00+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Quito\u2019s Kinema Sinf\u00f3nico III Brings 130 Artists to the Stage",
+            "title": "Ecuador\u2019s Kinema Sinf\u00f3nico III: Epic Film Scores from US$15",
             "url": "https://www.riotimesonline.com/kinema-sinfonico-iii-quito-130-artists-2026/",
             "published_at": "2026-07-19T13:00:00+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "CMPC and Arauco ride pulp rebound as CCU reshuffles under new CEO",
             "url": "https://www.riotimesonline.com/chile-pulp-rebound-cmpc-arauco-ccu-ceo-reshuffle-2026/",
             "published_at": "2026-07-18T10:49:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China\u2019s new battery tax sends Chile\u2019s SQM sharply lower",
-            "url": "https://www.riotimesonline.com/china-lithium-battery-tax-sqm-plunge-2026/",
-            "published_at": "2026-07-18T10:47:56+00:00",
             "category": [],
             "language": "en"
         }
