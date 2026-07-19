@@ -1,9 +1,16 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T12:10:04+00:00",
+    "updated_at": "2026-07-19T13:10:04+00:00",
     "items": [
         {
-            "title": "Cannes Winner \u2018El gran viaje\u2019 Opens in Peru\u2019s Cinemas July 23",
+            "title": "Quito\u2019s Kinema Sinf\u00f3nico III Brings 130 Artists to the Stage",
+            "url": "https://www.riotimesonline.com/kinema-sinfonico-iii-quito-130-artists-2026/",
+            "published_at": "2026-07-19T13:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cannes Winner El gran viaje Opens in Peru Cinemas July 23, 2026",
             "url": "https://www.riotimesonline.com/el-gran-viaje-peru-cinema-release-july-2026/",
             "published_at": "2026-07-19T11:30:00+00:00",
             "category": [],
@@ -360,7 +367,7 @@
             "language": "en"
         },
         {
-            "title": "Jeweler Vivara and Rental Firm Mills Cap Brazil\u2019s Earnings Season",
+            "title": "Brazil Q4 Earnings: Vivara Jewelry, Mills Rentals Miss Views",
             "url": "https://www.riotimesonline.com/mills-vivara-brazil-q4-earnings-catch-up-2026/",
             "published_at": "2026-07-19T07:40:57+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "BTG Builds a 14% M\u00e9liuz Stake as Batista Miner Addresses Vale Rumours",
             "url": "https://www.riotimesonline.com/btg-pactual-meliuz-stake-batista-vale-rumours-2026/",
             "published_at": "2026-07-18T10:43:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "JBS Denies Slave-Labor Dirty-List Links as GPA Defends Debt Restructuring",
-            "url": "https://www.riotimesonline.com/jbs-rebuts-slave-labor-dirty-list-claim-gpa-defends-debt-plan-2026/",
-            "published_at": "2026-07-18T10:41:54+00:00",
             "category": [],
             "language": "en"
         }
