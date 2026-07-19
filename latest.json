@@ -1,16 +1,23 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-19T17:10:04+00:00",
+    "updated_at": "2026-07-19T18:10:05+00:00",
     "items": [
         {
-            "title": "Viva La Salsa Medellin 2026 Kicks Off Flower Festival",
+            "title": "Car\u00edn Le\u00f3n to Headline Medell\u00edn\u2019s Flower Festival on August 8",
+            "url": "https://www.riotimesonline.com/carin-leon-headlines-feria-flores-super-concierto-2026/",
+            "published_at": "2026-07-19T17:30:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Viva La Salsa Medellin 2026 Opens Iconic Flower Fair",
             "url": "https://www.riotimesonline.com/viva-la-salsa-medellin-2026-feria-de-las-flores/",
             "published_at": "2026-07-19T16:00:00+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "GIFF 2026: 203 Free Films from 55 Nations Across Mexico",
+            "title": "Guanajuato Film Fest 2026: 203 Free Films Across Mexico",
             "url": "https://www.riotimesonline.com/guanajuato-international-film-festival-giff-2026/",
             "published_at": "2026-07-19T14:30:00+00:00",
             "category": [],
@@ -24,7 +31,7 @@
             "language": "en"
         },
         {
-            "title": "El gran viaje Opens in Peru Cinemas July 23, 2026",
+            "title": "Cannes Winner El gran viaje Hits Peru Cinemas July 23, 2026",
             "url": "https://www.riotimesonline.com/el-gran-viaje-peru-cinema-release-july-2026/",
             "published_at": "2026-07-19T11:30:00+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "China\u2019s new battery tax sends Chile\u2019s SQM sharply lower",
             "url": "https://www.riotimesonline.com/china-lithium-battery-tax-sqm-plunge-2026/",
             "published_at": "2026-07-18T10:47:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "FEMSA, Bimbo and Cemex Weigh Colombia\u2019s Political Shift as Banxico Cuts",
-            "url": "https://www.riotimesonline.com/femsa-bimbo-cemex-colombia-effect-banxico-rate-cut-2026/",
-            "published_at": "2026-07-18T10:46:21+00:00",
             "category": [],
             "language": "en"
         }
