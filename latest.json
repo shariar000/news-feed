@@ -1,16 +1,51 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-20T17:10:05+00:00",
+    "updated_at": "2026-07-20T18:10:04+00:00",
     "items": [
         {
-            "title": "Zema Privatization Pledge Targets Petrobras, Banco do Brasil",
+            "title": "Ternium 2025 Dividend Cut to $2.20: What Foreign Investors Need to Know",
+            "url": "https://www.riotimesonline.com/ternium-2025-dividend-cut-2026/",
+            "published_at": "2026-07-20T18:09:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Economy Slows to 1.8% in May as El Ni\u00f1o Hits Fishing",
+            "url": "https://www.riotimesonline.com/peru-economy-slows-may-2026/",
+            "published_at": "2026-07-20T17:43:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "EU Charges Mexican Giant Cemex with Price-Fixing Cartel",
+            "url": "https://www.riotimesonline.com/cemex-eu-construction-chemicals-cartel-2026/",
+            "published_at": "2026-07-20T17:40:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Pix Goes Global as US$660B Monthly Giant",
+            "url": "https://www.riotimesonline.com/brazil-pix-global-expansion-2026/",
+            "published_at": "2026-07-20T17:14:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Author Felipe Cattapan Brings Apocalyptic Love Story to London",
+            "url": "https://www.riotimesonline.com/felipe-cattapan-london-book-2024/",
+            "published_at": "2026-07-20T17:10:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zema Privatization Plan Targets Petrobras, Banco do Brasil",
             "url": "https://www.riotimesonline.com/zema-privatization-petrobras-banco-brasil-2026/",
             "published_at": "2026-07-20T17:06:10+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Buenos Aires and Santiago Host Venezuela Solidarity Concerts",
+            "title": "Venezuela Solidarity Concerts Raise US$ for Quake Victims",
             "url": "https://www.riotimesonline.com/venezuela-solidarity-concerts-buenos-aires-santiago-2026/",
             "published_at": "2026-07-20T17:06:03+00:00",
             "category": [],
@@ -31,14 +66,14 @@
             "language": "en"
         },
         {
-            "title": "Panama Petroterminal Buyout Begins, Price Undisclosed",
+            "title": "Panama Buys Key US-Bound Oil Pipeline, Price Undisclosed",
             "url": "https://www.riotimesonline.com/panama-petroterminal-state-buyout-2026/",
             "published_at": "2026-07-20T17:05:54+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Lula 2026 Alliances Lock Down 25 States Ahead of Vote",
+            "title": "Brazil\u2019s Lula Locks Pre-Candidacy Allies in 25 States for 2026",
             "url": "https://www.riotimesonline.com/lula-2026-alliances-25-states-brazil-election/",
             "published_at": "2026-07-20T17:05:46+00:00",
             "category": [],
@@ -66,42 +101,42 @@
             "language": "en"
         },
         {
-            "title": "Ferrari Colombia Pauses Sales After Importer Split",
+            "title": "Ferrari Colombia Halts Sales, Ends 10-Year Importer Deal",
             "url": "https://www.riotimesonline.com/ferrari-colombia-pauses-sales-importer-split-2026/",
             "published_at": "2026-07-20T17:05:25+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Latin America Copper Outlook: Codelco Signals Flat Growth",
+            "title": "Latin America Copper Stalls as Codelco Cuts Output Target",
             "url": "https://www.riotimesonline.com/latin-america-copper-codelco-flat-2026/",
             "published_at": "2026-07-20T17:05:18+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "De la Espriella Names Full Cabinet Ahead of Inauguration",
+            "title": "Colombia\u2019s President-Elect De la Espriella Names Cabinet",
             "url": "https://www.riotimesonline.com/de-la-espriella-cabinet-colombia-2026/",
             "published_at": "2026-07-20T17:05:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Chile State of Catastrophe Declared After Floods",
+            "title": "Chile State of Catastrophe: 100,000 Cut Off by Floods",
             "url": "https://www.riotimesonline.com/chile-state-of-catastrophe-floods-2026/",
             "published_at": "2026-07-20T17:05:01+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Bolivia State Firms Bleed US$505 Million as 15 Face Closure",
+            "title": "Bolivia\u2019s State Firms Lose US$505M as 15 Face Closure",
             "url": "https://www.riotimesonline.com/bolivia-state-firms-losses-restructuring-2026/",
             "published_at": "2026-07-20T17:04:53+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Argentina Opens AYSA Privatization Bidding for US$500M",
+            "title": "Argentina Opens Bidding for Water Utility AYSA at $500M",
             "url": "https://www.riotimesonline.com/aysa-privatization-tender-argentina-2026/",
             "published_at": "2026-07-20T17:04:44+00:00",
             "category": [],
@@ -664,41 +699,6 @@
             "title": "Paraguay\u2019s Real Language Isn\u2019t Spanish\u2014It\u2019s Jopara Mix",
             "url": "https://www.riotimesonline.com/language-spoken-in-paraguay-2026/",
             "published_at": "2026-07-20T07:51:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ethiopia Lifts Credit Caps in $3.4 Billion IMF Reform Push",
-            "url": "https://www.riotimesonline.com/ethiopia-ends-credit-caps-interest-rate-policy-2026/",
-            "published_at": "2026-07-20T06:35:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kenya Ransomware Attack Hits Presidency Site for $320,000",
-            "url": "https://www.riotimesonline.com/kenya-presidency-website-ransomware-attack-2026/",
-            "published_at": "2026-07-20T06:35:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Angola Health Jobs: 170,000 Apply for 6,000 Openings",
-            "url": "https://www.riotimesonline.com/angola-6000-health-jobs-170000-applicants-2026/",
-            "published_at": "2026-07-20T06:35:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Senegal Says Dakar 2026 Youth Olympics Facilities 92% Complete",
-            "url": "https://www.riotimesonline.com/dakar-2026-youth-olympics-facilities-92-complete-2026/",
-            "published_at": "2026-07-20T06:35:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Malian Army Convoy Ambushed by Tuareg Separatists Near Strategic Anefis",
-            "url": "https://www.riotimesonline.com/malian-army-convoy-ambushed-tuareg-separatists-anefis-2026/",
-            "published_at": "2026-07-20T06:35:18+00:00",
             "category": [],
             "language": "en"
         }
