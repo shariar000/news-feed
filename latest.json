@@ -1,16 +1,44 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-20T10:10:03+00:00",
+    "updated_at": "2026-07-20T11:10:05+00:00",
     "items": [
         {
-            "title": "Meet Guto Miguel, Brazil\u2019s 17-Year-Old Roland Garros Junior Champion",
+            "title": "Medell\u00edn Is Now Antioquia\u2019s Airbnb Capital, With Hosts Earning US$133 Million a Year",
+            "url": "https://www.riotimesonline.com/medellin-airbnb-capital-antioquia-2026/",
+            "published_at": "2026-07-20T11:09:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 20, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T10:38:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Danza Nueva Festival Returns for 38th Edition",
+            "url": "https://www.riotimesonline.com/peru-danza-nueva-festival-38-icpna-2026/",
+            "published_at": "2026-07-20T10:28:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Borges 40 Years On: Argentina Honors Its Literary Giant",
+            "url": "https://www.riotimesonline.com/jorge-luis-borges-40-years-death-tributes-2026/",
+            "published_at": "2026-07-20T10:17:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Teen Guto Miguel Wins Historic Junior Roland Garros",
             "url": "https://www.riotimesonline.com/guto-miguel-brazil-tennis-roland-garros-junior-2026/",
             "published_at": "2026-07-20T10:05:21+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Only Latin American Wins Royal Ballet Spot at Prix de Lausanne",
+            "title": "Brazilian Pietra R\u00eago Wins Royal Ballet Spot at Prix de Lausanne",
             "url": "https://www.riotimesonline.com/brazil-pietra-rego-prix-lausanne-royal-ballet-2026/",
             "published_at": "2026-07-20T09:49:34+00:00",
             "category": [],
@@ -38,7 +66,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s Azul Upgrades to NYSE After Bankruptcy Exit",
+            "title": "Brazilian Airline Azul Upgrades to NYSE After Bankruptcy Exit",
             "url": "https://www.riotimesonline.com/azul-nyse-main-board-listing-2026/",
             "published_at": "2026-07-20T08:54:38+00:00",
             "category": [],
@@ -146,6 +174,13 @@
             "title": "Brazil Eyes 20 More Swedish Gripen Jets, Skipping Rafale",
             "url": "https://www.riotimesonline.com/brazil-20-more-gripen-fighters-rafale-2026/",
             "published_at": "2026-07-20T08:03:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay\u2019s Real Language Isn\u2019t Spanish\u2014It\u2019s Jopara",
+            "url": "https://www.riotimesonline.com/language-spoken-in-paraguay-2026/",
+            "published_at": "2026-07-20T07:51:41+00:00",
             "category": [],
             "language": "en"
         },
@@ -262,37 +297,30 @@
             "language": "en"
         },
         {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-20T05:48:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Argentina Markets: Merval & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-20T05:33:46+00:00",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T02:33:46+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Chile Markets: IPSA & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-20T05:33:46+00:00",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T02:33:46+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Mexico Markets: IPC & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-saturday-july-18-2026/",
-            "published_at": "2026-07-20T05:33:46+00:00",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T02:33:46+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Brazil Markets: Ibovespa & the Real \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-saturday-july-18-2026/",
-            "published_at": "2026-07-20T05:33:46+00:00",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-monday-july-20-2026/",
+            "published_at": "2026-07-20T02:33:46+00:00",
             "category": [],
             "language": "en"
         },
@@ -671,34 +699,6 @@
             "title": "Angola Slashes Benchmark Interest Rate by 125 Basis Points to Spur Growth",
             "url": "https://www.riotimesonline.com/angola-cuts-benchmark-interest-rate-125-basis-points-2026/",
             "published_at": "2026-07-19T07:59:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s GAP Pushes Fibra E Forward After a Temporary Passenger Dip",
-            "url": "https://www.riotimesonline.com/mexico-gap-fibra-e-temporary-passenger-dip-2026/",
-            "published_at": "2026-07-19T07:58:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Slim Blasts Moody\u2019s Mexico Downgrade as T-MEC Review Tests Exporter Liquidity",
-            "url": "https://www.riotimesonline.com/slim-moodys-mexico-downgrade-tmec-exporter-liquidity-2026/",
-            "published_at": "2026-07-19T07:56:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil May Delay New Tax Invoice Rule, Easing 2026 Penalties",
-            "url": "https://www.riotimesonline.com/brazil-delays-mandatory-ibs-cbs-invoice-highlighting-rule-2026/",
-            "published_at": "2026-07-19T07:55:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BTG Upgrades Ambev to Buy, Sees $3.64 Target",
-            "url": "https://www.riotimesonline.com/btg-upgrades-ambev-scotiabank-starts-weg-buy-2026/",
-            "published_at": "2026-07-19T07:53:45+00:00",
             "category": [],
             "language": "en"
         }
