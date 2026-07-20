@@ -1,7 +1,84 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-20T11:10:05+00:00",
+    "updated_at": "2026-07-20T12:10:05+00:00",
     "items": [
+        {
+            "title": "Mexico Bids Farewell to a Landmark Kahlo-Rivera Collection Bound for Europe",
+            "url": "https://www.riotimesonline.com/mexico-gelman-santander-collection-kahlo-europe-2026/",
+            "published_at": "2026-07-20T12:00:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Enzo Maqueira Reissues Cult Novel Electr\u00f3nica",
+            "url": "https://www.riotimesonline.com/argentina-enzo-maqueira-electronica-tenth-anniversary-2026/",
+            "published_at": "2026-07-20T11:37:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s New Payroll-Loan Boom Tops R$100 Billion as Household Debt Stays High",
+            "url": "https://www.riotimesonline.com/brazil-credito-do-trabalhador-payroll-loan-boom-2026/",
+            "published_at": "2026-07-20T11:35:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "How XP Is Quietly Building Brazil\u2019s Biggest Eye-Care Network",
+            "url": "https://www.riotimesonline.com/xp-vision-one-brazil-eye-care-network-private-equity-2026/",
+            "published_at": "2026-07-20T11:35:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "A Sixth of Brazil\u2019s Farm Credit Went to Land With Deforestation Alerts, Study Finds",
+            "url": "https://www.riotimesonline.com/brazil-rural-credit-deforestation-alerts-mapbiomas-2026/",
+            "published_at": "2026-07-20T11:35:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Economy Barely Grows in May, Boosting Rate Cut Hopes",
+            "url": "https://www.riotimesonline.com/brazil-ibc-br-may-2026-economy-slowdown-gdp-preview/",
+            "published_at": "2026-07-20T11:28:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Interest Rate Cut Likely in August, Bets Show",
+            "url": "https://www.riotimesonline.com/brazil-selic-rate-cut-august-b3-copom-options-2026/",
+            "published_at": "2026-07-20T11:28:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s BRB Scraps a R$15 Billion Deal to Offload Banco Master\u2019s Assets",
+            "url": "https://www.riotimesonline.com/brb-ends-quadra-deal-banco-master-assets-2026/",
+            "published_at": "2026-07-20T11:28:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Rumo Hauls a Record Grain Volume, and Its Shares Climb",
+            "url": "https://www.riotimesonline.com/rumo-rail3-record-second-quarter-rail-volume-2026/",
+            "published_at": "2026-07-20T11:21:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cheap Imports Flood Brazil After the \u2018Small-Parcel\u2019 Tax Change",
+            "url": "https://www.riotimesonline.com/brazil-import-record-remessa-conforme-small-parcel-tax-2026/",
+            "published_at": "2026-07-20T11:21:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Which Brazilian Exports the New US Tariff Actually Hits \u2014 and Which Escape",
+            "url": "https://www.riotimesonline.com/brazil-us-tariff-25-percent-who-is-hit-apexbrasil-cna-2026/",
+            "published_at": "2026-07-20T11:21:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Medell\u00edn Is Now Antioquia\u2019s Airbnb Capital, With Hosts Earning US$133 Million a Year",
             "url": "https://www.riotimesonline.com/medellin-airbnb-capital-antioquia-2026/",
@@ -10,21 +87,14 @@
             "language": "en"
         },
         {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-monday-july-20-2026/",
-            "published_at": "2026-07-20T10:38:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Danza Nueva Festival Returns for 38th Edition",
+            "title": "Lima\u2019s Danza Nueva Festival Returns for 38th Edition",
             "url": "https://www.riotimesonline.com/peru-danza-nueva-festival-38-icpna-2026/",
             "published_at": "2026-07-20T10:28:49+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Borges 40 Years On: Argentina Honors Its Literary Giant",
+            "title": "Jorge Luis Borges 40 Years On: Argentina\u2019s Global Homage",
             "url": "https://www.riotimesonline.com/jorge-luis-borges-40-years-death-tributes-2026/",
             "published_at": "2026-07-20T10:17:36+00:00",
             "category": [],
@@ -48,6 +118,41 @@
             "title": "Argentina\u2019s Caputo Taps a Dollar-Deposit Boom to Avoid Wall Street",
             "url": "https://www.riotimesonline.com/argentina-caputo-dollar-deposits-avoid-wall-street-2026/",
             "published_at": "2026-07-20T09:02:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 20, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T06:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 20, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T06:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 20, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T06:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 July 20, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-monday-july-20-2026/",
+            "published_at": "2026-07-20T06:00:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 20, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-monday-july-20-2026/",
+            "published_at": "2026-07-20T06:00:00+00:00",
             "category": [],
             "language": "en"
         },
@@ -178,7 +283,7 @@
             "language": "en"
         },
         {
-            "title": "Paraguay\u2019s Real Language Isn\u2019t Spanish\u2014It\u2019s Jopara",
+            "title": "Paraguay\u2019s Real Language Isn\u2019t Spanish\u2014It\u2019s Jopara Mix",
             "url": "https://www.riotimesonline.com/language-spoken-in-paraguay-2026/",
             "published_at": "2026-07-20T07:51:41+00:00",
             "category": [],
@@ -293,34 +398,6 @@
             "title": "LatAm Expat & Nomad Daily Guide \u2014 Monday, July 20, 2026",
             "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-monday-july-20-2026/",
             "published_at": "2026-07-20T05:49:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-monday-july-20-2026/",
-            "published_at": "2026-07-20T02:33:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-monday-july-20-2026/",
-            "published_at": "2026-07-20T02:33:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-monday-july-20-2026/",
-            "published_at": "2026-07-20T02:33:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 20, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-monday-july-20-2026/",
-            "published_at": "2026-07-20T02:33:46+00:00",
             "category": [],
             "language": "en"
         },
@@ -622,83 +699,6 @@
             "title": "LATAM Airlines Colombia Demands 24-Hour Airports, Lower Tax",
             "url": "https://www.riotimesonline.com/latam-airlines-colombia-policy-demands-2026/",
             "published_at": "2026-07-19T08:06:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Investment Gains Ground in Colombia\u2019s Strategic Sectors",
-            "url": "https://www.riotimesonline.com/mexican-investment-gains-ground-colombia-strategic-sectors-2026/",
-            "published_at": "2026-07-19T08:03:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Backs Bolivia Investment Opening as State Firms Bleed Over US$500 Million",
-            "url": "https://www.riotimesonline.com/us-bolivia-foreign-investment-state-firms-losses-2026/",
-            "published_at": "2026-07-19T08:02:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Algeria\u2019s Record 2026 Budget: Massive Social Spending and Defence Build-Up",
-            "url": "https://www.riotimesonline.com/algeria-record-2026-budget-social-spending-defence-build-up-2026/",
-            "published_at": "2026-07-19T08:01:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Angola\u2013UAE Non-Oil Trade Hits $2.1 Billion as Diversification Push Accelerates",
-            "url": "https://www.riotimesonline.com/angola-uae-non-oil-trade-surges-2026/",
-            "published_at": "2026-07-19T08:01:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Clean Cooking Pledges Hit $3.1 Billion with $900M New",
-            "url": "https://www.riotimesonline.com/africa-secures-900-million-clean-cooking-commitments-2026/",
-            "published_at": "2026-07-19T08:00:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cameroon Separatist Leader Sagat Killed in Army Strike",
-            "url": "https://www.riotimesonline.com/cameroon-army-kills-separatist-leader-sagat-southwest-2026/",
-            "published_at": "2026-07-19T08:00:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Buys Full Control of Key Trans-Panama Oil Pipeline",
-            "url": "https://www.riotimesonline.com/panama-buys-private-stake-petroterminal-de-panama-2026/",
-            "published_at": "2026-07-19T08:00:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Macky Sall Returns to Dakar to Secure Senegal\u2019s Backing for UN Secretary-General Bid",
-            "url": "https://www.riotimesonline.com/macky-sall-dakar-senegal-un-secretary-general-candidacy-2026/",
-            "published_at": "2026-07-19T07:59:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria Mega-Deals Drive Africa Private Capital to $16.1bn in Q1 2026",
-            "url": "https://www.riotimesonline.com/africa-private-capital-16-billion-q1-2026/",
-            "published_at": "2026-07-19T07:59:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cameroon Bets $3.1 Billion on Iron Ore to Outrun Oil Decline",
-            "url": "https://www.riotimesonline.com/cameroon-pivots-from-oil-to-mining-2026/",
-            "published_at": "2026-07-19T07:59:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Angola Slashes Benchmark Interest Rate by 125 Basis Points to Spur Growth",
-            "url": "https://www.riotimesonline.com/angola-cuts-benchmark-interest-rate-125-basis-points-2026/",
-            "published_at": "2026-07-19T07:59:25+00:00",
             "category": [],
             "language": "en"
         }
