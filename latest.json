@@ -1,23 +1,30 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-20T07:10:04+00:00",
+    "updated_at": "2026-07-20T08:10:06+00:00",
     "items": [
         {
-            "title": "Ethiopia\u2019s Central Bank Scraps Credit Caps and Raises Key Rate to 16%",
+            "title": "Brazil Moves to Buy 20 More Gripens After Setting Aside France\u2019s Rafale",
+            "url": "https://www.riotimesonline.com/brazil-20-more-gripen-fighters-rafale-2026/",
+            "published_at": "2026-07-20T08:03:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ethiopia Lifts Credit Caps in $3.4 Billion IMF Reform Push",
             "url": "https://www.riotimesonline.com/ethiopia-ends-credit-caps-interest-rate-policy-2026/",
             "published_at": "2026-07-20T06:35:47+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Kenya Presidency Website Shut Down After Ransomware Attack Demands Bitcoin",
+            "title": "Kenya Ransomware Attack Hits Presidency Site for $320,000",
             "url": "https://www.riotimesonline.com/kenya-presidency-website-ransomware-attack-2026/",
             "published_at": "2026-07-20T06:35:41+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Angola Opens 6,000 Health Jobs as Online Applications Surge Past 170,000",
+            "title": "Angola Health Jobs: 170,000 Apply for 6,000 Openings",
             "url": "https://www.riotimesonline.com/angola-6000-health-jobs-170000-applicants-2026/",
             "published_at": "2026-07-20T06:35:35+00:00",
             "category": [],
@@ -87,7 +94,7 @@
             "language": "en"
         },
         {
-            "title": "ECB Holds or Hikes? Key Market Events July 20\u201324, 2026",
+            "title": "ECB Rate Call, US PMIs: Key Market Events July 20\u201324, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-2024-2026/",
             "published_at": "2026-07-20T05:50:31+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Asia Intelligence Brief \u2014 Saturday, July 18, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-saturday-july-18-2026/",
             "published_at": "2026-07-18T17:41:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Saturday, July 18, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-saturday-july-18-2026/",
-            "published_at": "2026-07-18T17:40:52+00:00",
             "category": [],
             "language": "en"
         }
