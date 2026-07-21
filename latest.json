@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-21T01:10:03+00:00",
+    "updated_at": "2026-07-21T02:10:04+00:00",
     "items": [
+        {
+            "title": "Oil: The Latin America Daily Wrap \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:09:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Steel: The Latin America Daily Wrap \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/steel-markets-latam-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:08:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zinc: The Daily Wrap \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/zinc-markets-latam-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:07:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Iron Ore: The Daily Wrap \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:06:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lithium: The Daily Wrap \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/lithium-markets-latam-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper: The Daily Wrap \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/copper-markets-latam-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:03:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold & Silver: The Precious-Metals Wrap \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:02:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Crypto Markets: Bitcoin & the Majors \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:00:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Uber Pours $500M More Into Argentina, Totaling $1B Bet",
             "url": "https://www.riotimesonline.com/uber-argentina-500-million-investment-2026/",
@@ -643,62 +699,6 @@
             "title": "Argentina Protests UK Warship Near Disputed Falklands",
             "url": "https://www.riotimesonline.com/argentina-uk-hms-medway-falklands-malvinas-protest-2026/",
             "published_at": "2026-07-20T08:42:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Chinese Fishing Vessels Serviced Despite US Sanctions",
-            "url": "https://www.riotimesonline.com/chile-navy-asmar-chinese-fishing-vessels-report-2026/",
-            "published_at": "2026-07-20T08:39:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Puts Around US$18 Million Into Modernizing Its MEKO-140 Corvettes",
-            "url": "https://www.riotimesonline.com/argentina-navy-meko-140-corvette-modernization-2026/",
-            "published_at": "2026-07-20T08:36:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Assembles Its First Local Military Patrol Vehicle as US Naval Ties Deepen",
-            "url": "https://www.riotimesonline.com/ecuador-first-military-patrol-vehicle-us-naval-2026/",
-            "published_at": "2026-07-20T08:36:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petro Unveils His Official Portrait as Colombia Marks Independence Day",
-            "url": "https://www.riotimesonline.com/colombia-petro-official-portrait-july-20-2026/",
-            "published_at": "2026-07-20T08:31:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Starts Building First Frigate, Ready by 2030",
-            "url": "https://www.riotimesonline.com/colombia-first-domestic-frigate-2030-opv-2026/",
-            "published_at": "2026-07-20T08:24:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Hyundai Rotem Nears $2 Billion Peru Tank Deal",
-            "url": "https://www.riotimesonline.com/hyundai-rotem-peru-2-billion-tank-deal-2026/",
-            "published_at": "2026-07-20T08:20:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "7.4 Southern Mexico Earthquake Triggers Tsunami Alert",
-            "url": "https://www.riotimesonline.com/mexico-chiapas-earthquake-7-4-tsunami-2026/",
-            "published_at": "2026-07-20T08:11:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "India-Brazil Barter: Tejas Fighters for Embraer C-390 Jets",
-            "url": "https://www.riotimesonline.com/india-brazil-tejas-c390-defense-barter-2026/",
-            "published_at": "2026-07-20T08:11:24+00:00",
             "category": [],
             "language": "en"
         }
