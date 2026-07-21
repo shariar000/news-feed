@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-21T02:10:04+00:00",
+    "updated_at": "2026-07-21T03:10:34+00:00",
     "items": [
+        {
+            "title": "Grains: Soy, Corn & the LatAm Harvest \u2014 July 21, 2026",
+            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T02:10:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Oil: The Latin America Daily Wrap \u2014 July 21, 2026",
             "url": "https://www.riotimesonline.com/oil-markets-latam-tuesday-july-21-2026/",
@@ -38,7 +45,7 @@
             "language": "en"
         },
         {
-            "title": "Copper: The Daily Wrap \u2014 July 21, 2026",
+            "title": "Copper Futures Rally Near $6.29/lb on Tight Supply",
             "url": "https://www.riotimesonline.com/copper-markets-latam-tuesday-july-21-2026/",
             "published_at": "2026-07-21T02:03:48+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s BB Seguridade Hits a Record High as High Rates Lift Insurers",
             "url": "https://www.riotimesonline.com/brazil-bb-seguridade-record-high-interest-rates-2026/",
             "published_at": "2026-07-20T08:46:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Protests UK Warship Near Disputed Falklands",
-            "url": "https://www.riotimesonline.com/argentina-uk-hms-medway-falklands-malvinas-protest-2026/",
-            "published_at": "2026-07-20T08:42:11+00:00",
             "category": [],
             "language": "en"
         }
