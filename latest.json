@@ -1,9 +1,72 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-21T15:10:04+00:00",
+    "updated_at": "2026-07-21T16:10:06+00:00",
     "items": [
         {
-            "title": "US Strikes Fuel Risk of Venezuela Clash Across Latin America",
+            "title": "Egypt Cancer Mortality Falls 23.5% as State Health Campaigns Pay Off",
+            "url": "https://www.riotimesonline.com/egypt-cancer-mortality-falls-23-5-percent-2026/",
+            "published_at": "2026-07-21T15:31:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenya Startup Funding Slows Sharply as Investors Pivot to Quality Over Quantity",
+            "url": "https://www.riotimesonline.com/kenya-startup-funding-slows-quality-pivot-2026/",
+            "published_at": "2026-07-21T15:31:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chad to abolish entry visas for all Africans from January 2027",
+            "url": "https://www.riotimesonline.com/chad-abolish-entry-visas-all-africans-2027-2026/",
+            "published_at": "2026-07-21T15:30:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigerian Terror Group Ansaru Chiefs Get Life Sentences",
+            "url": "https://www.riotimesonline.com/ansaru-terror-chiefs-life-sentences-nigeria-2026/",
+            "published_at": "2026-07-21T15:30:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Morocco\u2019s Growth to Slow to 3% in 2027 as Agriculture Normalises",
+            "url": "https://www.riotimesonline.com/moroccos-economic-growth-slowing-3-percent-2027/",
+            "published_at": "2026-07-21T15:30:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Tuesday, July 21, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T15:23:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Tuesday, July 21, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T15:23:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Tuesday, July 21, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T15:23:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Tuesday, July 21, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-july-21-2026/",
+            "published_at": "2026-07-21T15:22:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Strikes on Venezuela Drug Boats Risk Wider Clash",
             "url": "https://www.riotimesonline.com/the-new-security-perimeter-why-latin-america-is-suddenly-at-2026-07-21/",
             "published_at": "2026-07-21T14:49:22+00:00",
             "category": [],
@@ -17,7 +80,7 @@
             "language": "en"
         },
         {
-            "title": "How Global Trade Chaos Hits Latin America\u2019s Economy",
+            "title": "US Tariffs and Shipping Chaos Squeeze Latin America\u2019s Trade",
             "url": "https://www.riotimesonline.com/tariffs-chokepoints-and-contested-supply-chains-how-a-2026-07-21/",
             "published_at": "2026-07-21T14:48:19+00:00",
             "category": [],
@@ -62,34 +125,6 @@
             "title": "Peru Gastronomy Boom Drives $254 Million Holiday Surge",
             "url": "https://www.riotimesonline.com/peru-gastronomy-50-best-restaurants-2026-2/",
             "published_at": "2026-07-21T11:05:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Fighter Jets: Air Force Eyes F-16s to Replace 1982 Fleet",
-            "url": "https://www.riotimesonline.com/mexico-fighter-jets-evaluation-2026-2/",
-            "published_at": "2026-07-21T10:36:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s M\u00e9rida Earns Top AAA Credit Rating on Budget Surplus",
-            "url": "https://www.riotimesonline.com/merida-credit-rating-aaa-2026-2/",
-            "published_at": "2026-07-21T10:26:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Mendoza Tops 2025 Global Wine Travel Ranking",
-            "url": "https://www.riotimesonline.com/mendoza-wine-travel-ranks-best-2026-2/",
-            "published_at": "2026-07-21T10:04:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Military Exit Before Petro Speech Was Planned",
-            "url": "https://www.riotimesonline.com/colombia-military-petro-exit-prearranged-2026-2/",
-            "published_at": "2026-07-21T09:44:17+00:00",
             "category": [],
             "language": "en"
         },
@@ -664,41 +699,6 @@
             "title": "Brazilian Retailer GPA\u2019s Recovery Plan Clears Key Hurdle",
             "url": "https://www.riotimesonline.com/gpa-extrajudicial-recovery-plan-2026/",
             "published_at": "2026-07-20T17:05:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Airport Operator GAP Bond Raises US$615M for CBX Stake",
-            "url": "https://www.riotimesonline.com/gap-bond-cbx-stake-2026/",
-            "published_at": "2026-07-20T17:05:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ferrari Halts Colombia Sales, Drops 10-Year Importer",
-            "url": "https://www.riotimesonline.com/ferrari-colombia-pauses-sales-importer-split-2026/",
-            "published_at": "2026-07-20T17:05:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Copper Stalls as Codelco Cuts Output Target",
-            "url": "https://www.riotimesonline.com/latin-america-copper-codelco-flat-2026/",
-            "published_at": "2026-07-20T17:05:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s President-Elect De la Espriella Names Cabinet",
-            "url": "https://www.riotimesonline.com/de-la-espriella-cabinet-colombia-2026/",
-            "published_at": "2026-07-20T17:05:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile State of Catastrophe: 100,000 Cut Off by Floods",
-            "url": "https://www.riotimesonline.com/chile-state-of-catastrophe-floods-2026/",
-            "published_at": "2026-07-20T17:05:01+00:00",
             "category": [],
             "language": "en"
         }
