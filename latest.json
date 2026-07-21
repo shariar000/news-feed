@@ -1,7 +1,84 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-21T19:10:04+00:00",
+    "updated_at": "2026-07-21T20:10:05+00:00",
     "items": [
+        {
+            "title": "WEG Q2 Preview: Analysts See an 8% Profit Dip",
+            "url": "https://www.riotimesonline.com/weg-q2-preview-analysts-see-an-8-profit-dip/",
+            "published_at": "2026-07-21T19:24:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Javier Milei Heads to Brazil for Trade, Not Lula",
+            "url": "https://www.riotimesonline.com/javier-milei-in-brazil-for-trade-push-not-just-politics/",
+            "published_at": "2026-07-21T19:24:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "French Firm Ships 1M Barrels of Venezuelan Crude Under US Waiver",
+            "url": "https://www.riotimesonline.com/maurel-prom-ships-second-venezuelan-crude-cargo/",
+            "published_at": "2026-07-21T19:24:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Armed Forces to Secure 2026 Election in 7 States",
+            "url": "https://www.riotimesonline.com/brazil-authorizes-armed-forces-for-2026-election/",
+            "published_at": "2026-07-21T19:24:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Nubank, Ita\u00fa Lead Latin America AI Bank Ranking",
+            "url": "https://www.riotimesonline.com/nubank-itau-top-a-new-artificial-intelligence-bank-ranking/",
+            "published_at": "2026-07-21T19:24:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Moves to End Fixed Book Prices, Cut Library Funds",
+            "url": "https://www.riotimesonline.com/argentina-pushes-to-scrap-fixed-book-prices/",
+            "published_at": "2026-07-21T19:24:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Sustainable Aviation Fuel: Brazil Bets on Its Sugarcane",
+            "url": "https://www.riotimesonline.com/sustainable-aviation-fuel-brazil-bets-on-its-sugarcane/",
+            "published_at": "2026-07-21T19:13:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexican Singer Lila Downs Wins Top World Music Prize in Spain",
+            "url": "https://www.riotimesonline.com/lila-downs-wins-la-mar-de-musicas-award-in-spain/",
+            "published_at": "2026-07-21T19:13:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Dividends Hit US$6.3 Billion in July Payouts",
+            "url": "https://www.riotimesonline.com/brazilian-dividends-hit-us6-3-billion-in-july-payouts/",
+            "published_at": "2026-07-21T19:13:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Jair Bolsonaro\u2019s Son Carlos Faces Lower Court in Spy Case",
+            "url": "https://www.riotimesonline.com/carlos-bolsonaro-surveillance-case-moves-to-a-lower-court/",
+            "published_at": "2026-07-21T19:13:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Navy\u2019s $X Million Frigate Overhaul Bridges Fleet Gap",
+            "url": "https://www.riotimesonline.com/chilean-navy-rebuilds-an-aging-frigate-at-its-own-shipyard/",
+            "published_at": "2026-07-21T19:12:53+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Buenos Aires Tops Latin America for Students, but Costs Bite",
             "url": "https://www.riotimesonline.com/buenos-aires-tops-latin-america-for-students-but-costs-bite/",
@@ -17,7 +94,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s Air Force Unveils 1 MW Ethanol Turbine Generator",
+            "title": "Brazilian Air Force Unveils 1 MW Ethanol Turbine Generator",
             "url": "https://www.riotimesonline.com/brazils-air-force-unveils-1-mw-ethanol-turbine-generator/",
             "published_at": "2026-07-21T18:45:04+00:00",
             "category": [],
@@ -622,83 +699,6 @@
             "title": "Latin American Pulse July 21 2026: Tariffs, Storms, Graft",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-july-21-2026/",
             "published_at": "2026-07-21T05:54:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T05:54:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T05:53:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T05:53:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T05:53:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Tuesday, July 21, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T05:52:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Senate Blocks Tax Reform: What\u2019s at Stake",
-            "url": "https://www.riotimesonline.com/colombia-senate-leadership-tax-reform-foreigners-2026/",
-            "published_at": "2026-07-21T05:39:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Grains: Soy, Corn & the LatAm Harvest \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T02:10:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil: The Latin America Daily Wrap \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T02:09:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc: The Daily Wrap \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T02:07:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iron Ore: The Daily Wrap \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T02:06:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lithium: The Daily Wrap \u2014 July 21, 2026",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-tuesday-july-21-2026/",
-            "published_at": "2026-07-21T02:05:00+00:00",
             "category": [],
             "language": "en"
         }
