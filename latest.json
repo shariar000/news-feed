@@ -1,16 +1,37 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-21T10:10:06+00:00",
+    "updated_at": "2026-07-21T11:10:05+00:00",
     "items": [
         {
-            "title": "Mendoza Wine Travel Ranks Among World\u2019s Best",
+            "title": "Mexico Fighter Jets: Air Force Eyes F-16s to Replace 1982 Fleet",
+            "url": "https://www.riotimesonline.com/mexico-fighter-jets-evaluation-2026-2/",
+            "published_at": "2026-07-21T10:36:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico City Museums \u2013 National Art Museum Reopens",
+            "url": "https://www.riotimesonline.com/mexico-city-museums-munal-reopens-2026-2/",
+            "published_at": "2026-07-21T10:31:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Merida Credit Rating Hits AAA as Culture Anchors Expat Life",
+            "url": "https://www.riotimesonline.com/merida-credit-rating-aaa-2026-2/",
+            "published_at": "2026-07-21T10:26:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mendoza Wine Travel Named World\u2019s Best Wine Region",
             "url": "https://www.riotimesonline.com/mendoza-wine-travel-ranks-best-2026-2/",
             "published_at": "2026-07-21T10:04:43+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Colombia Military Petro Exit Was Prearranged, Not Protest",
+            "title": "Colombia\u2019s Military Exit Before Petro Speech Was Planned",
             "url": "https://www.riotimesonline.com/colombia-military-petro-exit-prearranged-2026-2/",
             "published_at": "2026-07-21T09:44:17+00:00",
             "category": [],
@@ -241,7 +262,7 @@
             "language": "en"
         },
         {
-            "title": "Nicaragua Elections Pushed to 2027 Under Ortega Reform",
+            "title": "Nicaragua Elections Delayed to 2027 Under Ortega Reform",
             "url": "https://www.riotimesonline.com/nicaragua-elections-cancelled-2026-reform/",
             "published_at": "2026-07-21T08:39:59+00:00",
             "category": [],
@@ -678,27 +699,6 @@
             "title": "Brazil Judge Blocks Milei Visit, Extends Bolsonaro House Arrest",
             "url": "https://www.riotimesonline.com/bolsonaro-house-arrest-milei-visit-blocked-2026/",
             "published_at": "2026-07-20T16:46:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Germany and Algeria Cement Hydrogen Corridor, Betting on a North Africa\u2013Europe Pipeline",
-            "url": "https://www.riotimesonline.com/germany-algeria-hydrogen-corridor-2026/",
-            "published_at": "2026-07-20T16:18:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMF Upgrades Egypt\u2019s Growth Outlook as Economy Shifts to Expansion",
-            "url": "https://www.riotimesonline.com/imf-upgrades-egypt-growth-outlook-2026/",
-            "published_at": "2026-07-20T16:18:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "UN: West African Terror Groups Now Use Drones and Crypto",
-            "url": "https://www.riotimesonline.com/un-west-african-terror-groups-drones-crypto-2026/",
-            "published_at": "2026-07-20T16:18:20+00:00",
             "category": [],
             "language": "en"
         }
