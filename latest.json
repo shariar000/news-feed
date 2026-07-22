@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-22T15:10:04+00:00",
+    "updated_at": "2026-07-22T16:10:04+00:00",
     "items": [
+        {
+            "title": "Colombia Shifts US$1.2 Billion to El Ni\u00f1o Readiness",
+            "url": "https://www.riotimesonline.com/colombia-shifts-us1-2-billion-to-el-nino-readiness/",
+            "published_at": "2026-07-22T16:08:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Africa Intelligence Brief \u2014 Wednesday, July 22, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-july-22-2026/",
@@ -31,14 +38,14 @@
             "language": "en"
         },
         {
-            "title": "The New Disorder: How a Distant War and Trump\u2019s Tariffs Are Re-Pricing Latin America\u2019s Daily Life",
+            "title": "How a Distant War and Trump\u2019s Tariffs Are Re-Pricing Latin America\u2019s Daily Life",
             "url": "https://www.riotimesonline.com/the-new-disorder-how-a-distant-war-and-trump-s-tariffs-are-2026-07-22/",
             "published_at": "2026-07-22T15:03:14+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Algeria\u2019s Sonatrach and Italy\u2019s Eni Cement Strategic Gas Partnership",
+            "title": "Algeria Gas Supply Deal: Eni, Sonatrach Ink $1.35B Pact",
             "url": "https://www.riotimesonline.com/algeria-sonatrach-eni-landmark-gas-supply-deal-2026/",
             "published_at": "2026-07-22T14:43:17+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Brazil\u2019s Vale Output Jumps as Government Pushes Into Board",
             "url": "https://www.riotimesonline.com/vale-production-board-government-2026/",
             "published_at": "2026-07-21T17:33:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump Tariffs Hit Brazil Hardest, Mexico Gets 90-Day Delay",
-            "url": "https://www.riotimesonline.com/trump-tariffs-brazil-mexico-exporters-2026/",
-            "published_at": "2026-07-21T17:33:20+00:00",
             "category": [],
             "language": "en"
         }
