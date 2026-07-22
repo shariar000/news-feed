@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-22T06:10:05+00:00",
+    "updated_at": "2026-07-22T07:10:05+00:00",
     "items": [
+        {
+            "title": "Ski Africa\u2019s Only Sub-Equator Resort in the Maluti Mountains",
+            "url": "https://www.riotimesonline.com/lesotho-maluti-mountains-ski-boom-2026/",
+            "published_at": "2026-07-22T06:21:18+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Global Economy Briefing \u2014 July 22, 2026",
             "url": "https://www.riotimesonline.com/global-economy-briefing-july-22-2026/",
@@ -10,9 +17,30 @@
             "language": "en"
         },
         {
-            "title": "Saudi-led naval force secures Bab el-Mandeb amid Houthi threat",
+            "title": "Africa Hunger Hot Spot: UN Says 307 Million Undernourished",
+            "url": "https://www.riotimesonline.com/africa-overtakes-asia-hunger-hot-spot-2026/",
+            "published_at": "2026-07-22T05:53:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "West African Bloc ECOWAS Targets 2027 ECO Currency Launch",
+            "url": "https://www.riotimesonline.com/ecowas-eco-currency-2027-ghana-launch-2026/",
+            "published_at": "2026-07-22T05:53:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bab el-Mandeb security: Saudi-led fleet shields oil route",
             "url": "https://www.riotimesonline.com/saudi-coalition-secures-bab-el-mandeb-houthi-threats-2026/",
             "published_at": "2026-07-22T05:53:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Hany Shenouda Dies: Egypt\u2019s Pop Music Architect Was 83",
+            "url": "https://www.riotimesonline.com/hany-shenouda-egyptian-composer-dies-2026/",
+            "published_at": "2026-07-22T05:53:22+00:00",
             "category": [],
             "language": "en"
         },
@@ -671,34 +699,6 @@
             "title": "Delivery Hero PedidosYa Ecuador Sale Fits Uber Deal",
             "url": "https://www.riotimesonline.com/delivery-hero-pedidosya-ecuador-sale-fits-uber-2026/",
             "published_at": "2026-07-21T08:47:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Critical Minerals Face $4.5B Crime Threat",
-            "url": "https://www.riotimesonline.com/colombia-critical-minerals-crime-revenue-2026/",
-            "published_at": "2026-07-21T08:47:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Codelco Weighs Asset Sales Amid $25 Billion Debt",
-            "url": "https://www.riotimesonline.com/codelco-asset-sales-output-cut-2026/",
-            "published_at": "2026-07-21T08:47:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Braskem Bond Tender Rejected Amid $9.4B Debt Crisis",
-            "url": "https://www.riotimesonline.com/braskem-bond-tender-rejected-2026/",
-            "published_at": "2026-07-21T08:47:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula PDT Convention: Brazil\u2019s President Dares US\u2019s Rubio",
-            "url": "https://www.riotimesonline.com/lula-pdt-convention-2026-reelection-rubio/",
-            "published_at": "2026-07-21T08:42:51+00:00",
             "category": [],
             "language": "en"
         }
