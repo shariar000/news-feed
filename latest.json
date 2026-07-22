@@ -1,25 +1,53 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-22T17:10:04+00:00",
+    "updated_at": "2026-07-22T18:10:39+00:00",
     "items": [
         {
-            "title": "Brazil\u2019s Embraer to Build 20 More Gripen Fighter Jets at Home",
-            "url": "https://www.riotimesonline.com/brazil-signs-deal-to-build-20-more-gripen-jets-at-home/",
-            "published_at": "2026-07-22T16:57:36+00:00",
+            "title": "Mexican Billionaire Salinas Pliego Loses UK Asset Freeze",
+            "url": "https://www.riotimesonline.com/salinas-pliego-loses-uk-asset-freeze-over-black-cube-tape/",
+            "published_at": "2026-07-22T17:55:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Soybean Exports Jump 51% on Argentine Demand",
+            "url": "https://www.riotimesonline.com/paraguay-soybean-exports-jump-51-on-argentine-demand/",
+            "published_at": "2026-07-22T17:55:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Pampa Energ\u00eda Shuts Rubber Plant, Bets US$2.7B on Fertilizer",
+            "url": "https://www.riotimesonline.com/pampa-energia-shuts-rubber-plant-bets-us2-7b-on-fertilizer/",
+            "published_at": "2026-07-22T17:55:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cementos Pacasmayo Profit Jumps 58% on Peru Rebound",
+            "url": "https://www.riotimesonline.com/cementos-pacasmayo-profit-jumps-58-on-peru-rebound/",
+            "published_at": "2026-07-22T17:55:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Banorte Posts $889M Profit on Loan Growth",
+            "url": "https://www.riotimesonline.com/banorte-books-us889-million-profit-on-loan-growth/",
+            "published_at": "2026-07-22T17:55:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Maduro Faces US Narco-Terrorism Trial Set for June 2027",
+            "url": "https://www.riotimesonline.com/maduro-faces-us-narco-terrorism-trial-set-for-june-2027-2/",
+            "published_at": "2026-07-22T17:00:12+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Bancolombia Swings From 5-Year Profit Low to Sector Lead",
-            "url": "https://www.riotimesonline.com/bancolombia-swings-from-5-year-profit-low-to-sector-lead-2/",
-            "published_at": "2026-07-22T16:40:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Maduro\u2019s US Narco-Terror Trial Set for June 2027",
-            "url": "https://www.riotimesonline.com/maduro-faces-us-narco-terrorism-trial-set-for-june-2027/",
-            "published_at": "2026-07-22T16:28:35+00:00",
+            "url": "https://www.riotimesonline.com/bancolombia-swings-from-5-year-profit-low-to-sector-lead/",
+            "published_at": "2026-07-22T16:28:28+00:00",
             "category": [],
             "language": "en"
         },
@@ -31,7 +59,7 @@
             "language": "en"
         },
         {
-            "title": "Saab to Expand Brazil\u2019s Gripen Fighter Fleet to 56 Jets",
+            "title": "Brazil\u2019s Gripen Fighter Fleet to Double to 56 Jets",
             "url": "https://www.riotimesonline.com/embraer-and-saab-sign-deal-to-build-20-more-gripen-jets/",
             "published_at": "2026-07-22T16:21:13+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "Chilean Navy\u2019s Frigate Overhaul Bridges Fleet Gap",
             "url": "https://www.riotimesonline.com/chilean-navy-rebuilds-an-aging-frigate-at-its-own-shipyard/",
             "published_at": "2026-07-21T19:12:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Buenos Aires Tops Latin America for Students, but Costs Bite",
-            "url": "https://www.riotimesonline.com/buenos-aires-tops-latin-america-for-students-but-costs-bite/",
-            "published_at": "2026-07-21T18:45:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Economy Grows 3% in Q2, Mining and Construction Lead",
-            "url": "https://www.riotimesonline.com/peru-economy-grows-3-in-q2-mining-and-construction-lead/",
-            "published_at": "2026-07-21T18:45:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Tests Ethanol Turbine to Power Mobile Field Hospitals",
-            "url": "https://www.riotimesonline.com/brazils-air-force-unveils-1-mw-ethanol-turbine-generator/",
-            "published_at": "2026-07-21T18:45:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula Debate No-Show Shakes Up Brazil\u2019s 2026 Presidential Race",
-            "url": "https://www.riotimesonline.com/lula-debate-absence-weighs-on-brazils-2026-race/",
-            "published_at": "2026-07-21T18:44:57+00:00",
             "category": [],
             "language": "en"
         }
