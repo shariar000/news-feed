@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-23T10:10:05+00:00",
+    "updated_at": "2026-07-23T11:10:10+00:00",
     "items": [
+        {
+            "title": "Colombia Draft: 2008-Born Men Must Serve in 2026",
+            "url": "https://www.riotimesonline.com/colombia-military-service-class-of-2008-2026/",
+            "published_at": "2026-07-23T10:59:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s President-Elect De la Espriella\u2019s Cauca Ultimatum",
+            "url": "https://www.riotimesonline.com/de-la-espriella-colombia-cauca-armed-groups-2026/",
+            "published_at": "2026-07-23T10:53:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Ex-Navy Chief Garnier Jailed 24 Years in a Divisive Coup Case",
+            "url": "https://www.riotimesonline.com/brazil-navy-garnier-coup-conviction-2026/",
+            "published_at": "2026-07-23T10:47:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Court Orders Argentina to Pay $391M for Airline Seizure",
+            "url": "https://www.riotimesonline.com/aerolineas-argentinas-us-court-390-million-2026/",
+            "published_at": "2026-07-23T10:37:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Fiscal Innocence Plan Aims to Tap US$170 Billion",
+            "url": "https://www.riotimesonline.com/argentina-fiscal-innocence-mattress-dollars-2026/",
+            "published_at": "2026-07-23T10:31:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Electricity Law Makes Utilities Pay for Blackouts",
+            "url": "https://www.riotimesonline.com/chile-electricity-law-blackout-compensation-2026/",
+            "published_at": "2026-07-23T10:25:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s INSS Backlog Hits 2.6 Million Claims",
+            "url": "https://www.riotimesonline.com/brazil-inss-backlog-national-queue-2026/",
+            "published_at": "2026-07-23T10:18:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Startup Summit 2026 Returns to Brazil\u2019s Tech Island",
+            "url": "https://www.riotimesonline.com/startup-summit-2026-returns-to-brazils-tech-island/",
+            "published_at": "2026-07-23T10:11:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil\u2019s Airlines Get a US$1.6 Billion Fuel-Cost Lifeline",
             "url": "https://www.riotimesonline.com/brazil-airlines-fuel-cost-lifeline-mp-2026/",
@@ -10,14 +66,14 @@
             "language": "en"
         },
         {
-            "title": "Silver X Expands Peru Drilling After High-Grade Hits",
+            "title": "Silver X Expands Peru Drill After 735 g/t Silver Find",
             "url": "https://www.riotimesonline.com/silver-x-expands-peru-drilling-after-high-grade-hits/",
             "published_at": "2026-07-23T10:07:26+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s Drug Pricing Overhaul Takes Effect in April",
+            "title": "Brazil Drug Pricing Reform Adds 6 Nations, Eases Price Caps",
             "url": "https://www.riotimesonline.com/brazil-drug-pricing-cmed-rule-overhaul-2026/",
             "published_at": "2026-07-23T10:02:34+00:00",
             "category": [],
@@ -45,14 +101,14 @@
             "language": "en"
         },
         {
-            "title": "Medell\u00edn\u2019s Casa de la Memoria Opens Public Digital Archive",
+            "title": "Medell\u00edn Memory Museum Opens Digital Archive on Conflict",
             "url": "https://www.riotimesonline.com/medellins-casa-de-la-memoria-opens-public-digital-archive/",
             "published_at": "2026-07-23T09:41:12+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Colombia\u2019s Grupo Cibest Sells Banistmo for $1.4 Billion",
+            "title": "Colombia\u2019s Grupo Cibest Sells Panama Bank for $1.4 Billion",
             "url": "https://www.riotimesonline.com/grupo-cibest-banistmo-panama-hub-2026/",
             "published_at": "2026-07-23T09:33:12+00:00",
             "category": [],
@@ -276,7 +332,7 @@
             "language": "en"
         },
         {
-            "title": "Guinea-Bissau Freezes Ties With Cape Verde Over Coup Case",
+            "title": "Guinea-Bissau Freezes Ties With Cape Verde Over Arrest",
             "url": "https://www.riotimesonline.com/guinea-bissau-freezes-cape-verde-ties-european-interference-2026/",
             "published_at": "2026-07-23T06:27:08+00:00",
             "category": [],
@@ -643,62 +699,6 @@
             "title": "Maduro Faces US Narco-Terrorism Trial Set for June 2027",
             "url": "https://www.riotimesonline.com/maduro-faces-us-narco-terrorism-trial-set-for-june-2027-2/",
             "published_at": "2026-07-22T17:00:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bancolombia Swings From 5-Year Profit Low to Sector Lead",
-            "url": "https://www.riotimesonline.com/bancolombia-swings-from-5-year-profit-low-to-sector-lead/",
-            "published_at": "2026-07-22T16:28:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Santander Brasil Q2 Profit Cements Brazil as No. 2 Market",
-            "url": "https://www.riotimesonline.com/santander-brasil-q2-profit-cements-brazil-as-no-2-market/",
-            "published_at": "2026-07-22T16:28:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Gripen Fighter Fleet to Double to 56 Jets",
-            "url": "https://www.riotimesonline.com/embraer-and-saab-sign-deal-to-build-20-more-gripen-jets/",
-            "published_at": "2026-07-22T16:21:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale ends board fight, names new chair in $42 billion miner",
-            "url": "https://www.riotimesonline.com/vale-board-saga-ends-as-oliveira-named-chairman/",
-            "published_at": "2026-07-22T16:20:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "WEG Profit Dips Just 2.1%, Stock Jumps on Margins",
-            "url": "https://www.riotimesonline.com/weg-profit-dips-just-2-1-stock-jumps-on-margins/",
-            "published_at": "2026-07-22T16:19:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Shifts US$1.2 Billion to El Ni\u00f1o Readiness",
-            "url": "https://www.riotimesonline.com/colombia-shifts-us1-2-billion-to-el-nino-readiness/",
-            "published_at": "2026-07-22T16:08:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Wednesday, July 22, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-july-22-2026/",
-            "published_at": "2026-07-22T15:09:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Wednesday, July 22, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-july-22-2026/",
-            "published_at": "2026-07-22T15:09:16+00:00",
             "category": [],
             "language": "en"
         }
