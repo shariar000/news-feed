@@ -1,9 +1,23 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-24T08:10:05+00:00",
+    "updated_at": "2026-07-24T09:10:04+00:00",
     "items": [
         {
-            "title": "Fogel Opens US$50 Million Plant in Guatemala",
+            "title": "Uruguay Peso Note Demand Hits Record Low Yield",
+            "url": "https://www.riotimesonline.com/uruguay-peso-note-demand-hits-record-low-yield/",
+            "published_at": "2026-07-24T08:27:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Insurtech Hero Seguros Buys Mexico\u2019s Grupo CAM",
+            "url": "https://www.riotimesonline.com/hero-seguros-mexico-entry-insurer-buys-grupo-cam/",
+            "published_at": "2026-07-24T08:18:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guatemalan Refrigeration Maker Fogel Opens $50M Plant",
             "url": "https://www.riotimesonline.com/fogel-opens-us50-million-plant-in-guatemala/",
             "published_at": "2026-07-24T08:07:13+00:00",
             "category": [],
@@ -24,35 +38,35 @@
             "language": "en"
         },
         {
-            "title": "Venezuela Earthquake Damage Put at US$19.6 Billion",
+            "title": "Venezuela Earthquake Damage Reaches $19.6 Billion",
             "url": "https://www.riotimesonline.com/venezuela-earthquake-damage-world-bank-estimate/",
             "published_at": "2026-07-24T07:49:20+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Claro Lands US$35M Submarine Cable in Ponce, Puerto Rico",
+            "title": "Puerto Rico Submarine Cable Lands in Ponce for $35 Million",
             "url": "https://www.riotimesonline.com/claro-lands-us35m-submarine-cable-in-ponce-puerto-rico/",
             "published_at": "2026-07-24T07:48:24+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Voepass Crash Report: Conflicting Versions of Disaster",
+            "title": "Brazil Voepass Crash Report: De-Icing Dispute After 62 Die",
             "url": "https://www.riotimesonline.com/voepass-crash-report-faults-safety-lapses-and-anac/",
             "published_at": "2026-07-24T07:39:52+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Colombian City Barranquilla Issues $350M in Sustainable Bonds",
+            "title": "Barranquilla Sustainable Bonds Debut, Raising $350M",
             "url": "https://www.riotimesonline.com/barranquilla-sustainable-bonds-colombia-first/",
             "published_at": "2026-07-24T07:36:23+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Embraer Lands 30-Jet Order at Farnborough Airshow",
+            "title": "Brazil\u2019s Embraer Lands 30-Jet Order at Farnborough",
             "url": "https://www.riotimesonline.com/embraer-farnborough-orders-2026-commercial-jets/",
             "published_at": "2026-07-24T07:26:19+00:00",
             "category": [],
@@ -129,14 +143,14 @@
             "language": "en"
         },
         {
-            "title": "Libya bans entry for 4 East African nations",
+            "title": "East Libya bans entry for 4 African nations",
             "url": "https://www.riotimesonline.com/libya-bans-entry-sudan-eritrea-ethiopia-somalia-2026/",
             "published_at": "2026-07-24T06:38:32+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Morocco High-Speed Rail Gets $234 Million AfDB Loan",
+            "title": "Morocco High-Speed Rail Gets $234 Million African Bank Loan",
             "url": "https://www.riotimesonline.com/morocco-afdb-high-speed-rail-loan-2026/",
             "published_at": "2026-07-24T06:37:34+00:00",
             "category": [],
@@ -146,13 +160,6 @@
             "title": "Latin America Visa Runs Are Dead: Residency Now Required",
             "url": "https://www.riotimesonline.com/latin-america-visa-run-over-residency-2026/",
             "published_at": "2026-07-24T06:15:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Friday, July 24, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-24-2026/",
-            "published_at": "2026-07-24T06:15:22+00:00",
             "category": [],
             "language": "en"
         },
@@ -549,7 +556,7 @@
             "language": "en"
         },
         {
-            "title": "Curtiss-Wright Brings US Aerospace Giant to Africa for First Time",
+            "title": "Curtiss-Wright Morocco Aerospace Deal: First Africa Plant",
             "url": "https://www.riotimesonline.com/curtiss-wright-morocco-africa-aerospace-2026/",
             "published_at": "2026-07-23T14:53:39+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Southern Copper Secures El Pilar Permits in Sonora",
             "url": "https://www.riotimesonline.com/southern-copper-secures-el-pilar-permits-in-sonora/",
             "published_at": "2026-07-23T08:54:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mubadala Deepens Its Bet on Brazil\u2019s Medical Schools",
-            "url": "https://www.riotimesonline.com/mubadala-medical-schools-brazil-2026/",
-            "published_at": "2026-07-23T08:54:00+00:00",
             "category": [],
             "language": "en"
         }
