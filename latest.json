@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-24T11:10:05+00:00",
+    "updated_at": "2026-07-24T12:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina\u2019s Minimum Wage Purchasing Power Plunges 40% Under Milei",
+            "url": "https://www.riotimesonline.com/argentina-minimum-wage-purchasing-power-drops-40-percent-milei-2026/",
+            "published_at": "2026-07-24T11:51:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oaxaca Journalist Who Criticised Governor Shot Dead; Federal Probe Launched",
+            "url": "https://www.riotimesonline.com/oaxaca-journalist-alejandro-leyva-shot-dead-federal-investigation-2026/",
+            "published_at": "2026-07-24T11:46:06+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Dominican Republic Negotiates to Soften a New 12.5% US Tariff",
             "url": "https://www.riotimesonline.com/dominican-republic-negotiates-to-soften-a-new-125-us-tariff/",
@@ -38,7 +52,7 @@
             "language": "en"
         },
         {
-            "title": "Intercorp Peru Bonds: Group Places US$300 Million 2033 Notes",
+            "title": "Intercorp Peru Bonds: Peru Giant Raises $300 Million",
             "url": "https://www.riotimesonline.com/intercorp-peru-bonds-group-places-us300-million-2033-notes/",
             "published_at": "2026-07-24T10:42:44+00:00",
             "category": [],
@@ -143,7 +157,7 @@
             "language": "en"
         },
         {
-            "title": "Guyana\u2019s Orinduik Block Licence Decision Looms in 2026",
+            "title": "Guyana Orinduik Block Licence Decision Looms in 2026",
             "url": "https://www.riotimesonline.com/guyanas-non-exxon-bet-orinduik-licence-decision-looms/",
             "published_at": "2026-07-24T10:22:00+00:00",
             "category": [],
@@ -685,20 +699,6 @@
             "title": "Chevron asks US court to enforce $224 million Ecuador award",
             "url": "https://www.riotimesonline.com/chevron-ecuador-224-million-arbitration/",
             "published_at": "2026-07-23T16:23:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay Picks Tigo and Personal to Build Its 5G Networks",
-            "url": "https://www.riotimesonline.com/tigo-personal-paraguay-5g-tender/",
-            "published_at": "2026-07-23T16:22:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Flag Carrier Bets on Airbus A330neo for Long-Haul",
-            "url": "https://www.riotimesonline.com/aerolineas-argentinas-a330neo-fleet-renewal/",
-            "published_at": "2026-07-23T16:21:36+00:00",
             "category": [],
             "language": "en"
         }
