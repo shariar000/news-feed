@@ -1,21 +1,7 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-24T17:10:04+00:00",
+    "updated_at": "2026-07-24T18:10:04+00:00",
     "items": [
-        {
-            "title": "Argentina\u2019s Aerol\u00edneas Orders 20 Jets in Self-Funded Renewal",
-            "url": "https://www.riotimesonline.com/aerolineas-argentinas-20-jet-fleet-renewal-2026/",
-            "published_at": "2026-07-24T16:51:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Friday, July 24, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-24-2026/",
-            "published_at": "2026-07-24T16:51:07+00:00",
-            "category": [],
-            "language": "en"
-        },
         {
             "title": "Inter&Co Stadium Orlando in $55 Million Naming Deal",
             "url": "https://www.riotimesonline.com/banco-inter-rebrands-globally-and-puts-its-name-on-an-orlando-stadium/",
@@ -24,7 +10,7 @@
             "language": "en"
         },
         {
-            "title": "Aerol\u00edneas Argentinas Orders 20 Jets in First Self-Funded Fleet Renewal",
+            "title": "Argentina\u2019s Aerol\u00edneas Orders 20 Jets in Self-Funded Renewal",
             "url": "https://www.riotimesonline.com/aerolineas-argentinas-orders-20-jets-in-first-self-funded-fleet-renewal/",
             "published_at": "2026-07-24T16:30:10+00:00",
             "category": [],
@@ -45,15 +31,15 @@
             "language": "en"
         },
         {
-            "title": "Brazil Export-Relief Package: US$3.7 Billion After US Tariffs",
-            "url": "https://www.riotimesonline.com/brazil-3-7-billion-export-relief-us-tariffs-2026/",
-            "published_at": "2026-07-24T15:56:28+00:00",
+            "title": "Bolivia\u2019s Floating Dollar Breaks 11 Bolivianos as IMF Deal Nears",
+            "url": "https://www.riotimesonline.com/bolivia-floating-dollar-past-11-bolivianos-imf-2026/",
+            "published_at": "2026-07-24T16:10:28+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Bolivia\u2019s Floating Dollar Breaks 11 Bolivianos as IMF Deal Nears",
-            "url": "https://www.riotimesonline.com/bolivia-floating-dollar-past-11-bolivianos-imf-2026/",
+            "title": "Brazil Export-Relief Package: US$3.7 Billion After US Tariffs",
+            "url": "https://www.riotimesonline.com/brazil-3-7-billion-export-relief-us-tariffs-2026/",
             "published_at": "2026-07-24T15:56:28+00:00",
             "category": [],
             "language": "en"
@@ -157,7 +143,7 @@
             "language": "en"
         },
         {
-            "title": "Afreximbank Algeria: $200M Loan for Nigerian Firm\u2019s Oil Push",
+            "title": "Afreximbank Algeria: $200M Loan to Nigerian Shoreline\u2019s Oil Push",
             "url": "https://www.riotimesonline.com/afreximbank-backs-shoreline-with-200m-for-algeria-oil/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
@@ -248,14 +234,14 @@
             "language": "en"
         },
         {
-            "title": "San Miguel Comparte Aims to Make City Mexico\u2019s First Conscious Gastronomic Capital",
+            "title": "San Miguel Comparte Aims to Cut Food Waste in Mexico City",
             "url": "https://www.riotimesonline.com/san-miguel-comparte-conscious-gastronomic-capital/",
             "published_at": "2026-07-24T15:17:05+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Santiago Rocks 2026 Brings Latin Rock Icons to Chile\u2019s Racetrack",
+            "title": "Santiago Rocks 2026 Brings Latin Icons to Chile\u2019s Hip\u00f3dromo",
             "url": "https://www.riotimesonline.com/santiago-rocks-2026-hipodromo-chile/",
             "published_at": "2026-07-24T15:17:05+00:00",
             "category": [],
@@ -318,7 +304,7 @@
             "language": "en"
         },
         {
-            "title": "Bras\u00edlia Weekend Events: Free Pride Parade, Concerts, and More",
+            "title": "Bras\u00edlia Weekend: Free Pride Parade, Concerts, and More",
             "url": "https://www.riotimesonline.com/brasilia-hosts-ze-vaqueiro-humberto-gessinger-and-lgbt-pride-this-weekend/",
             "published_at": false,
             "category": [],
@@ -699,6 +685,20 @@
             "title": "Hero Seguros Mexico Buys Europ Assistance Local Agent",
             "url": "https://www.riotimesonline.com/hero-seguros-mexico-entry-insurer-buys-grupo-cam/",
             "published_at": "2026-07-24T08:18:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guatemalan Refrigeration Maker Fogel Opens $50M Plant",
+            "url": "https://www.riotimesonline.com/fogel-opens-us50-million-plant-in-guatemala/",
+            "published_at": "2026-07-24T08:07:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Credijal Debut Opens BMV\u2019s \u2018Zero to Market\u2019 Program",
+            "url": "https://www.riotimesonline.com/credijal-debut-opens-bmvs-zero-to-market-program/",
+            "published_at": "2026-07-24T08:00:10+00:00",
             "category": [],
             "language": "en"
         }
