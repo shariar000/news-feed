@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-24T05:10:06+00:00",
+    "updated_at": "2026-07-24T06:10:07+00:00",
     "items": [
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Friday, July 24, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-july-24-2026/",
+            "published_at": "2026-07-24T05:41:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Friday, July 24, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-july-24-2026/",
+            "published_at": "2026-07-24T05:40:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 24, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-24-2026/",
+            "published_at": "2026-07-24T05:36:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Friday, July 24, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-friday-july-24-2026/",
+            "published_at": "2026-07-24T05:35:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Friday, July 24, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-july-24-2026/",
+            "published_at": "2026-07-24T05:34:58+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Friday, July 24, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-friday-july-24-2026/",
@@ -101,14 +136,14 @@
             "language": "en"
         },
         {
-            "title": "Gold edges lower as silver gains; Latin America supply in focus",
+            "title": "Gold slips, silver edges up as dollar steadies",
             "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-july-24-2026/",
             "published_at": "2026-07-24T04:22:47+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Crypto wrap: Bitcoin edges lower as LatAm leans on stablecoins",
+            "title": "Latin America crypto shift: stablecoins surge as Bitcoin dips",
             "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-july-24-2026/",
             "published_at": "2026-07-24T04:22:39+00:00",
             "category": [],
@@ -664,41 +699,6 @@
             "title": "Addi Lands US$630 Million From J.P. Morgan, Goldman",
             "url": "https://www.riotimesonline.com/addi-lands-us630-million-from-j-p-morgan-goldman/",
             "published_at": "2026-07-23T06:30:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Avianca Owner Grupo Abra Orders 100 LEAP Engines",
-            "url": "https://www.riotimesonline.com/grupo-abra-orders-100-leap-engines-for-avianca-fleet/",
-            "published_at": "2026-07-23T06:29:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Strait of Hormuz Navigation at Risk as Egypt, UAE Condemn Iran",
-            "url": "https://www.riotimesonline.com/egypt-uae-reject-threats-strait-of-hormuz-navigation-2026/",
-            "published_at": "2026-07-23T06:27:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Morocco Faces 12.5% US Tariff Over Forced-Labour Import Rules",
-            "url": "https://www.riotimesonline.com/morocco-12-5-percent-us-tariff-forced-labour-imports-2026/",
-            "published_at": "2026-07-23T06:27:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Algeria\u2019s A\u00efd Sheep Scandal Exposes the Cost of Food-Price Mismanagement",
-            "url": "https://www.riotimesonline.com/algeria-aid-sheep-scandal-food-price-management-2026/",
-            "published_at": "2026-07-23T06:27:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cape Verde\u2019s World Cup Run Becomes a Nation-Branding Masterclass",
-            "url": "https://www.riotimesonline.com/cape-verde-world-cup-success-story-2026/",
-            "published_at": "2026-07-23T06:27:16+00:00",
             "category": [],
             "language": "en"
         }
