@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-24T16:10:05+00:00",
+    "updated_at": "2026-07-24T17:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina\u2019s Aerol\u00edneas Orders 20 Jets in Self-Funded Renewal",
+            "url": "https://www.riotimesonline.com/aerolineas-argentinas-20-jet-fleet-renewal-2026/",
+            "published_at": "2026-07-24T16:51:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide \u2014 Friday, July 24, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-24-2026/",
+            "published_at": "2026-07-24T16:51:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Inter&Co Stadium Orlando in $55 Million Naming Deal",
+            "url": "https://www.riotimesonline.com/banco-inter-rebrands-globally-and-puts-its-name-on-an-orlando-stadium/",
+            "published_at": "2026-07-24T16:30:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Aerol\u00edneas Argentinas Orders 20 Jets in First Self-Funded Fleet Renewal",
+            "url": "https://www.riotimesonline.com/aerolineas-argentinas-orders-20-jets-in-first-self-funded-fleet-renewal/",
+            "published_at": "2026-07-24T16:30:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 July 24, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-friday-july-24-2026/",
+            "published_at": "2026-07-24T16:16:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Tonight \u2014 July 24, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-friday-july-24-2026/",
+            "published_at": "2026-07-24T16:12:37+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Export-Relief Package: US$3.7 Billion After US Tariffs",
             "url": "https://www.riotimesonline.com/brazil-3-7-billion-export-relief-us-tariffs-2026/",
@@ -17,58 +59,16 @@
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s Inter Renames Its Orlando Stadium to Inter.co Stadium",
+            "title": "Brazilian Bank Inter Rebrands Orlando Stadium to Inter.co",
             "url": "https://www.riotimesonline.com/inter-co-rebrand-orlando-stadium-naming-2026/",
             "published_at": "2026-07-24T15:56:28+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Panama Weighs a State-Owned Miner to Reopen the Cobre Panam\u00e1 Mine",
+            "title": "Panama Considers a State-Owned Company to Reopen the Cobre Panam\u00e1 Mine",
             "url": "https://www.riotimesonline.com/panama-state-miner-cobre-panama-first-quantum-2026/",
             "published_at": "2026-07-24T15:52:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Aerol\u00edneas Orders 20 Jets in Self-Funded Renewal",
-            "url": "https://www.riotimesonline.com/aerolineas-argentinas-20-jet-fleet-renewal-2026/",
-            "published_at": "2026-07-24T15:52:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide \u2014 Friday, July 24, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-24-2026/",
-            "published_at": "2026-07-24T15:50:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Friday, July 24, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-july-24-2026/",
-            "published_at": "2026-07-24T15:50:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Friday, July 24, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-july-24-2026/",
-            "published_at": "2026-07-24T15:50:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 24, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-july-24-2026/",
-            "published_at": "2026-07-24T15:50:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 24, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-24-2026/",
-            "published_at": "2026-07-24T15:50:48+00:00",
             "category": [],
             "language": "en"
         },
@@ -80,35 +80,35 @@
             "language": "en"
         },
         {
-            "title": "Deadly Accra and Abidjan Floods Kill at Least 24 After Torrential Rains",
+            "title": "Deadly Floods in Ghana and Ivory Coast Kill at Least 24",
             "url": "https://www.riotimesonline.com/accra-abidjan-floods-kill-24-record-rains-2026/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "UN Probe Finds RSF Forces Committed Genocide in Sudan\u2019s Darfur",
+            "title": "Sudan\u2019s RSF Militia Committed Genocide, UN Probe Finds",
             "url": "https://www.riotimesonline.com/un-probe-rsf-genocide-sudan-darfur-starvation-2026/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Nigeria Orders Probe Into Meta, Alphabet and X Over Media Exploitation",
+            "title": "Nigeria Media Probe Targets Google, Meta, X Over Pay",
             "url": "https://www.riotimesonline.com/nigeria-orders-probe-meta-alphabet-x-media-content-2026/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Ugandan Farmers Sue in UK Court to Halt $5.6 Billion Oil Pipeline",
+            "title": "Uganda EACOP Pipeline Lawsuit Opens in UK Court",
             "url": "https://www.riotimesonline.com/ugandan-farmers-sue-uk-court-halt-eacop-pipeline-2026/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "The Limits of Policy Without Growth: North Africa\u2019s Strain and Latin America\u2019s Lessons",
+            "title": "North Africa\u2019s $104.9B Gap: What Latin America Learned",
             "url": "https://www.riotimesonline.com/the-limits-of-policy-without-growth-north-africa-s-strain-2026-07-24/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
@@ -122,15 +122,8 @@
             "language": "en"
         },
         {
-            "title": "A New Growth Pole: How Africa\u2019s Surge Reorders the Global South for Latin America",
+            "title": "Africa\u2019s Growth Surge Threatens Latin America\u2019s Clout",
             "url": "https://www.riotimesonline.com/a-new-growth-pole-how-africa-s-surge-reorders-the-global-2026-07-24/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Overtakes Asia? How a Reordering of Global Growth Connects to Latin America",
-            "url": "https://www.riotimesonline.com/africa-overtakes-asia-how-a-reordering-of-global-growth-2026-07-24/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
             "language": "en"
@@ -150,7 +143,7 @@
             "language": "en"
         },
         {
-            "title": "Resolute Leans on Ivory Coast Gold as Mali Turns Risky",
+            "title": "Resolute Gold Pivots to Ivory Coast as Mali Output Slumps",
             "url": "https://www.riotimesonline.com/resolute-leans-on-ivory-coast-gold-as-mali-turns-risky/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
@@ -164,7 +157,7 @@
             "language": "en"
         },
         {
-            "title": "Afreximbank Backs Shoreline With $200M for Algeria Oil",
+            "title": "Afreximbank Algeria: $200M Loan for Nigerian Firm\u2019s Oil Push",
             "url": "https://www.riotimesonline.com/afreximbank-backs-shoreline-with-200m-for-algeria-oil/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
@@ -292,20 +285,6 @@
         {
             "title": "Jazz a Gosto Festival Returns to Brazil\u2019s Ilha do Mel in August",
             "url": "https://www.riotimesonline.com/ilha-do-mel-hosts-12th-jazz-a-gosto-festival-this-august/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 July 24, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-friday-july-24-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Tonight \u2014 July 24, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-friday-july-24-2026/",
             "published_at": false,
             "category": [],
             "language": "en"
@@ -626,7 +605,7 @@
             "language": "en"
         },
         {
-            "title": "Argentina Foreign Tourism Hits 25-Year High with 3.1M Visitors",
+            "title": "Argentina Foreign Tourism Soars to 25-Year High",
             "url": "https://www.riotimesonline.com/argentina-logs-a-25-year-high-in-foreign-tourism/",
             "published_at": "2026-07-24T10:16:19+00:00",
             "category": [],
@@ -685,6 +664,27 @@
             "title": "Carrefour Brasil Results Show Return to Growth in H1 2026",
             "url": "https://www.riotimesonline.com/carrefour-brasil-results-show-return-to-growth-in-h1-2026/",
             "published_at": "2026-07-24T09:41:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Friday, July 24, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-july-24-2026/",
+            "published_at": "2026-07-24T08:51:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Friday, July 24, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-july-24-2026/",
+            "published_at": "2026-07-24T08:50:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 July 24, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-july-24-2026/",
+            "published_at": "2026-07-24T08:50:48+00:00",
             "category": [],
             "language": "en"
         },
