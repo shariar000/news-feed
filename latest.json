@@ -1,32 +1,123 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-25T06:10:05+00:00",
+    "updated_at": "2026-07-25T07:10:04+00:00",
     "items": [
         {
-            "title": "Iron ore edges lower as China demand steadies",
+            "title": "Latin America Sports Daily for Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-saturday-july-25-2026/",
+            "published_at": "2026-07-25T07:00:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:45:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:45:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:45:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:45:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:44:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:34:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:34:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:33:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-25-2026/",
+            "published_at": "2026-07-25T06:11:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Soybeans Edge Higher as Wheat Slides",
+            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:10:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Oil Slips: Petrobras, YPF, Ecopetrol Fall",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:10:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Steel Jumps on US Tariff Bets",
+            "url": "https://www.riotimesonline.com/steel-markets-latam-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:10:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zinc Latin America: Nexa, Buenaventura Drop on Demand Fears",
+            "url": "https://www.riotimesonline.com/zinc-markets-latam-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:10:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Iron Ore Edges Lower as China Demand Steadies",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-saturday-july-25-2026/",
             "published_at": "2026-07-25T06:09:57+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Lithium Triangle stocks dip as new supply and politics weigh",
+            "title": "Lithium Triangle Miners Dip on Oversupply and Policy Fears",
             "url": "https://www.riotimesonline.com/lithium-markets-latam-saturday-july-25-2026/",
             "published_at": "2026-07-25T06:09:48+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Copper wrap: Chile, Peru and China in focus",
+            "title": "Copper Market: Chile and Peru Supply Meets China Demand",
             "url": "https://www.riotimesonline.com/copper-markets-latam-saturday-july-25-2026/",
             "published_at": "2026-07-25T06:09:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Inter&Co Stadium Orlando in $55 Million Naming Deal",
-            "url": "https://www.riotimesonline.com/banco-inter-rebrands-globally-and-puts-its-name-on-an-orlando-stadium/",
-            "published_at": "2026-07-24T16:30:14+00:00",
             "category": [],
             "language": "en"
         },
@@ -608,97 +699,6 @@
             "title": "Dominican Republic\u2019s Economy Grows 6.4% in June, Its Best Month",
             "url": "https://www.riotimesonline.com/dominican-republic-economy-grows-6-4-june-2026/",
             "published_at": "2026-07-24T10:17:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Foreign Tourism Soars to 25-Year High",
-            "url": "https://www.riotimesonline.com/argentina-logs-a-25-year-high-in-foreign-tourism/",
-            "published_at": "2026-07-24T10:16:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Sanctions Cuba\u2019s Health Minister Over Doctors Sent Abroad",
-            "url": "https://www.riotimesonline.com/us-sanctions-cubas-health-minister-over-doctors-sent-abroad/",
-            "published_at": "2026-07-24T10:14:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "EPR Wins the R\u00e9gis Bittencourt Highway With a 22.5% Toll Cut",
-            "url": "https://www.riotimesonline.com/epr-wins-the-regis-bittencourt-highway-with-a-225-toll-cut/",
-            "published_at": "2026-07-24T10:10:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Promigas Takes Peru to a World Bank Tribunal",
-            "url": "https://www.riotimesonline.com/colombias-promigas-takes-peru-to-a-world-bank-tribunal/",
-            "published_at": "2026-07-24T10:07:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Enel Americas Buyback Targets 5% of Shares",
-            "url": "https://www.riotimesonline.com/enel-americas-buyback-targets-5-of-shares/",
-            "published_at": "2026-07-24T10:05:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Televisa Second Quarter: $28M Loss as Sky Bleeds, ViX Grows",
-            "url": "https://www.riotimesonline.com/televisa-slips-into-the-red-as-sky-fades-and-vix-grows/",
-            "published_at": "2026-07-24T10:04:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "CPFL Builds a Private 5G-Era Network to Modernize Its Grid",
-            "url": "https://www.riotimesonline.com/cpfl-builds-a-private-5g-era-network-to-modernize-its-grid/",
-            "published_at": "2026-07-24T10:02:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica Interest Rate Cut to 3.00%, First Since 2025",
-            "url": "https://www.riotimesonline.com/costa-rica-interest-rate-cut-to-3-00-first-since-2025/",
-            "published_at": "2026-07-24T09:45:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Carrefour Brasil Results Show Return to Growth in H1 2026",
-            "url": "https://www.riotimesonline.com/carrefour-brasil-results-show-return-to-growth-in-h1-2026/",
-            "published_at": "2026-07-24T09:41:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Friday, July 24, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-july-24-2026/",
-            "published_at": "2026-07-24T08:51:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Friday, July 24, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-july-24-2026/",
-            "published_at": "2026-07-24T08:50:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 24, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-july-24-2026/",
-            "published_at": "2026-07-24T08:50:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uruguay Peso Note Demand Hits Record Low Yield",
-            "url": "https://www.riotimesonline.com/uruguay-peso-note-demand-hits-record-low-yield/",
-            "published_at": "2026-07-24T08:27:30+00:00",
             "category": [],
             "language": "en"
         }
