@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-25T20:10:04+00:00",
+    "updated_at": "2026-07-25T21:10:03+00:00",
     "items": [
+        {
+            "title": "Guyanese Literary Giant Ian McDonald Dies at 93",
+            "url": "https://www.riotimesonline.com/ian-mcdonald-caribbean-literary-giant-dies-at-93/",
+            "published_at": "2026-07-25T20:07:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brava Board Backs Ecopetrol\u2019s US$534M Takeover Bid",
+            "url": "https://www.riotimesonline.com/brava-board-backs-ecopetrol-opa-2026/",
+            "published_at": "2026-07-25T20:07:41+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Celsia Builds 260 MW of Solar Across Colombia",
             "url": "https://www.riotimesonline.com/celsia-colombia-580mwp-solar-2026/",
@@ -17,7 +31,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil Beef Plants Curb Output as China Tariff Risk Looms",
+            "title": "China Beef Surcharge Looms as Brazil Nears Quota Limit",
             "url": "https://www.riotimesonline.com/jbs-mato-grosso-do-sul-plants-china-surtax-2026/",
             "published_at": "2026-07-25T20:06:33+00:00",
             "category": [],
@@ -94,7 +108,7 @@
             "language": "en"
         },
         {
-            "title": "Africa-Latin America Trade Surges as East, West Africa Lead",
+            "title": "Africa-Latin America Trade Surges as East, West Lead Growth",
             "url": "https://www.riotimesonline.com/two-africas-one-choice-for-latin-america-a-fragile-north-2026-07-25/",
             "published_at": "2026-07-25T15:23:10+00:00",
             "category": [],
@@ -367,7 +381,7 @@
             "language": "en"
         },
         {
-            "title": "Costa Rican Reggae Band Ojo de Buey Hits Argentina in 2026",
+            "title": "Ojo de Buey Brings Reggae to Argentina in 2026 Tour",
             "url": "https://www.riotimesonline.com/ojo-de-buey-argentina-reggae-tour-2026/",
             "published_at": false,
             "category": [],
@@ -381,7 +395,7 @@
             "language": "en"
         },
         {
-            "title": "Nicky Jam to Headline Arequipa\u2019s 484th Anniversary Concerts",
+            "title": "Nicky Jam to Headline Arequipa\u2019s 484th Anniversary in Peru",
             "url": "https://www.riotimesonline.com/nicky-jam-arequipa-anniversary-concerts-2026/",
             "published_at": false,
             "category": [],
@@ -685,20 +699,6 @@
             "title": "Latin American Steel Jumps on US Tariff Bets",
             "url": "https://www.riotimesonline.com/steel-markets-latam-saturday-july-25-2026/",
             "published_at": "2026-07-25T06:10:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc Latin America: Nexa, Buenaventura Drop on Demand Fears",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-saturday-july-25-2026/",
-            "published_at": "2026-07-25T06:10:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iron Ore Edges Lower as China Demand Steadies",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-saturday-july-25-2026/",
-            "published_at": "2026-07-25T06:09:57+00:00",
             "category": [],
             "language": "en"
         }
