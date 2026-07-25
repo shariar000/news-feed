@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-25T05:10:05+00:00",
+    "updated_at": "2026-07-25T06:10:05+00:00",
     "items": [
+        {
+            "title": "Iron ore edges lower as China demand steadies",
+            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:09:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lithium Triangle stocks dip as new supply and politics weigh",
+            "url": "https://www.riotimesonline.com/lithium-markets-latam-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:09:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper wrap: Chile, Peru and China in focus",
+            "url": "https://www.riotimesonline.com/copper-markets-latam-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:09:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Inter&Co Stadium Orlando in $55 Million Naming Deal",
             "url": "https://www.riotimesonline.com/banco-inter-rebrands-globally-and-puts-its-name-on-an-orlando-stadium/",
@@ -678,27 +699,6 @@
             "title": "Uruguay Peso Note Demand Hits Record Low Yield",
             "url": "https://www.riotimesonline.com/uruguay-peso-note-demand-hits-record-low-yield/",
             "published_at": "2026-07-24T08:27:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Hero Seguros Mexico Buys Europ Assistance Local Agent",
-            "url": "https://www.riotimesonline.com/hero-seguros-mexico-entry-insurer-buys-grupo-cam/",
-            "published_at": "2026-07-24T08:18:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guatemalan Refrigeration Maker Fogel Opens $50M Plant",
-            "url": "https://www.riotimesonline.com/fogel-opens-us50-million-plant-in-guatemala/",
-            "published_at": "2026-07-24T08:07:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Credijal Debut Opens BMV\u2019s \u2018Zero to Market\u2019 Program",
-            "url": "https://www.riotimesonline.com/credijal-debut-opens-bmvs-zero-to-market-program/",
-            "published_at": "2026-07-24T08:00:10+00:00",
             "category": [],
             "language": "en"
         }
