@@ -1,9 +1,121 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-25T11:10:05+00:00",
+    "updated_at": "2026-07-25T12:10:04+00:00",
     "items": [
         {
-            "title": "Keiko Fujimori Inauguration: What Changes for Peru",
+            "title": "S\u00e3o Paulo Must Allow Uber Moto, Court Rules in 48 Hours",
+            "url": "https://www.riotimesonline.com/uber-moto-sao-paulo-court-order-authorization/",
+            "published_at": "2026-07-25T11:53:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Wins US Tariff Exemption in New Round",
+            "url": "https://www.riotimesonline.com/paraguay-us-tariff-exemption-july-2026/",
+            "published_at": "2026-07-25T11:52:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Orchestra\u2019s Historic Sydney Opera House Debut",
+            "url": "https://www.riotimesonline.com/chilean-orchestra-sydney-opera-house-debut-2026/",
+            "published_at": "2026-07-25T11:51:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Goldman Cuts Argentina 2026 Growth Forecast to 2.7%",
+            "url": "https://www.riotimesonline.com/goldman-argentina-forecast-cut-2026-gdp/",
+            "published_at": "2026-07-25T11:50:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Credit Defaults Climb Toward 16% of Borrowers",
+            "url": "https://www.riotimesonline.com/argentina-credit-defaults-household-delinquency-2026/",
+            "published_at": "2026-07-25T11:50:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TIM Fund Invests in Brazilian Legal-AI Unicorn Enter",
+            "url": "https://www.riotimesonline.com/tim-invests-in-enter-ai-legaltech-brazil/",
+            "published_at": "2026-07-25T11:42:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Valle Nevado Record Snow Powers Chile Ski Comeback",
+            "url": "https://www.riotimesonline.com/valle-nevado-record-snow-chile-ski-comeback-2026/",
+            "published_at": "2026-07-25T11:42:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia US Tariff Threatens US$5 Billion in Exports",
+            "url": "https://www.riotimesonline.com/colombia-us-tariff-exports-andi-warning/",
+            "published_at": "2026-07-25T11:40:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "CAF US$9 Billion Floor Pledged for Colombia",
+            "url": "https://www.riotimesonline.com/caf-us-9-billion-colombia-2026-2030/",
+            "published_at": "2026-07-25T11:40:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Tax Plan Targets Corporate Cut, End to Bank Levy",
+            "url": "https://www.riotimesonline.com/de-la-espriella-tax-reform-september-2026/",
+            "published_at": "2026-07-25T11:40:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "CADE Adds Union to Copasa-Equatorial Deal Review",
+            "url": "https://www.riotimesonline.com/cade-copasa-equatorial-appeal-admitted/",
+            "published_at": "2026-07-25T11:38:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Raizen Board Felix Faber Is Named Vice-Chair",
+            "url": "https://www.riotimesonline.com/raizen-board-felix-faber-vice-chair-shell/",
+            "published_at": "2026-07-25T11:38:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Bank Merger Blocked Over IP Dispute",
+            "url": "https://www.riotimesonline.com/paraguay-bank-merger-blocked-atlas-familiar-itti/",
+            "published_at": "2026-07-25T11:38:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Betting Regulation to Add Health Warnings Like Cigarettes",
+            "url": "https://www.riotimesonline.com/brazil-betting-regulation-cigarette-style-haddad/",
+            "published_at": "2026-07-25T11:26:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "YPF Fuel Price Hike Hits 3.5%-4.5% in Argentina",
+            "url": "https://www.riotimesonline.com/ypf-fuel-price-hike-argentina-july-2026/",
+            "published_at": "2026-07-25T11:26:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Half of Colombia\u2019s Military Aircraft Grounded, Report Shows",
+            "url": "https://www.riotimesonline.com/colombia-military-aircraft-non-operational/",
+            "published_at": "2026-07-25T11:24:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Keiko Fujimori Takes Office: What Changes Now",
             "url": "https://www.riotimesonline.com/keiko-fujimori-inauguration-peru-2026/",
             "published_at": "2026-07-25T10:26:19+00:00",
             "category": [],
@@ -181,6 +293,13 @@
             "title": "Popular Second Quarter Profit Jumps 32%, US$1bn Buyback",
             "url": "https://www.riotimesonline.com/popular-second-quarter-2026-results-buyback-ceo/",
             "published_at": "2026-07-25T08:45:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Embraer Second Quarter Backlog Hits Record US$34.5 Billion",
+            "url": "https://www.riotimesonline.com/embraer-second-quarter-2026-record-backlog/",
+            "published_at": "2026-07-25T08:43:28+00:00",
             "category": [],
             "language": "en"
         },
@@ -579,125 +698,6 @@
         {
             "title": "IOM: Return of Hondurans Jumps 40% While Migrant Transit Plunges 74%",
             "url": "https://www.riotimesonline.com/iom-honduras-returns-up-migrant-transit-down-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Jazz a Gosto Festival Returns to Brazil\u2019s Ilha do Mel in August",
-            "url": "https://www.riotimesonline.com/ilha-do-mel-hosts-12th-jazz-a-gosto-festival-this-august/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Festival Marks 20 Years with 500 Musicians",
-            "url": "https://www.riotimesonline.com/panamas-alfredo-de-saint-malo-festival-marks-20-years-with-500-musicians/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Book Fair 2026: Dates, Venue, and Activity Agenda",
-            "url": "https://www.riotimesonline.com/panama-book-fair-2026-dates-venue-and-activity-agenda/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Maquenque Lodge: Costa Rica\u2019s Treehouse Haven for 590 Bird Species",
-            "url": "https://www.riotimesonline.com/maquenque-lodge-costa-ricas-treehouse-haven-for-590-bird-species/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fortal 2026: Brazil\u2019s Giant Indoor Carnival Returns in July",
-            "url": "https://www.riotimesonline.com/fortal-2026-opens-brazils-biggest-indoor-carnival-in-fortaleza/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bras\u00edlia Weekend Events: Free Pride Parade, Concerts & More",
-            "url": "https://www.riotimesonline.com/brasilia-hosts-ze-vaqueiro-humberto-gessinger-and-lgbt-pride-this-weekend/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Recife July 2025: Samba Star Mumuzinho, Reggae & Theatre",
-            "url": "https://www.riotimesonline.com/recife-stages-packed-cultural-week-with-nanini-duvivier-and-major-shows/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Florian\u00f3polis Cultural Agenda: Rock, Orchestra & More",
-            "url": "https://www.riotimesonline.com/florianopolis-cultural-agenda-spans-rock-piano-and-philosophy/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paran\u00e1 Symphony Hosts European Conductors, Tickets from US$3.50",
-            "url": "https://www.riotimesonline.com/parana-symphony-welcomes-international-conductors-in-august/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Curitiba Weekend Guide: 15 Things to Do in the City Right Now",
-            "url": "https://www.riotimesonline.com/curitiba-weekend-guide-15-things-to-do-in-the-city-right-now/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pierre Verger Exhibition Opens in Salvador, Brazil\u2014Free Entry",
-            "url": "https://www.riotimesonline.com/pierre-verger-photo-exhibition-tours-bahia-starting-in-salvador/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cuba\u2019s Cupaynic\u00fa Botanical Garden Marks 44 Years of Conservation",
-            "url": "https://www.riotimesonline.com/cubas-cupaynicu-botanical-garden-marks-44-years-of-conservation/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Canc\u00fan Airport Warning: Avoid Overpaying the Visitax Tourist Tax",
-            "url": "https://www.riotimesonline.com/cancun-airport-warning-avoid-overpaying-the-visitax-tourist-tax/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "DR Congo Ebola Outbreak Hits 999 Deaths, No Vaccine Exists",
-            "url": "https://www.riotimesonline.com/ebola-death-toll-passes-1000-in-dr-congo-as-rare-strain-spreads/",
-            "published_at": "2026-07-24T13:12:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Desert Oasis San Luis Potos\u00ed: A 290-Year-Old Pilgrimage Site",
-            "url": "https://www.riotimesonline.com/hidden-sanctuary-the-18th-century-desert-oasis-beckoning-travelers-to-san-luis-potosi/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Water Emergency: Bogot\u00e1 Rationing, Hydropower at Risk",
-            "url": "https://www.riotimesonline.com/colombia-declares-emergency-as-el-nino-threatens-water-supply/",
-            "published_at": "2026-07-24T11:53:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Draws More Tourists but Spending per Visitor Falls",
-            "url": "https://www.riotimesonline.com/mexico-draws-more-tourists-but-spending-per-visitor-falls/",
             "published_at": false,
             "category": [],
             "language": "en"
