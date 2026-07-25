@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-25T10:10:05+00:00",
+    "updated_at": "2026-07-25T11:10:05+00:00",
     "items": [
+        {
+            "title": "Keiko Fujimori Inauguration: What Changes for Peru",
+            "url": "https://www.riotimesonline.com/keiko-fujimori-inauguration-peru-2026/",
+            "published_at": "2026-07-25T10:26:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Wingo to Fly Bogot\u00e1\u2013R\u00edo Hato Beach Route in 2026",
+            "url": "https://www.riotimesonline.com/wingo-bogota-rio-hato-flights-october-2026/",
+            "published_at": "2026-07-25T10:18:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Debt Costs Exceed New Loans by $67 Million",
+            "url": "https://www.riotimesonline.com/bolivia-debt-service-now-outpaces-new-loans/",
+            "published_at": "2026-07-25T10:17:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Valle Nevado Owner Drops Andacor Ski-Resort Deal",
+            "url": "https://www.riotimesonline.com/valle-nevado-mcp-andacor-bid-withdrawn/",
+            "published_at": "2026-07-25T10:16:36+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "CJNG Tequila Sanctions: US Targets Laundering Network",
             "url": "https://www.riotimesonline.com/cjng-tequila-sanctions-money-laundering/",
@@ -31,21 +59,21 @@
             "language": "en"
         },
         {
-            "title": "Brazil Unfreezes $1.1 Billion of Frozen 2026 Budget",
+            "title": "Brazil Budget Unfreeze Releases $1.1 Billion for 2026",
             "url": "https://www.riotimesonline.com/brazil-budget-unfreeze-2026-spending/",
             "published_at": "2026-07-25T09:58:55+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Venezuela Quits ICC, But UN Faces Crimes Against Humanity Probe",
+            "title": "Venezuela ICC Withdrawal Won\u2019t Halt Crimes Probe",
             "url": "https://www.riotimesonline.com/venezuela-icc-withdrawal-un-notification-crimes-against-humanity/",
             "published_at": "2026-07-25T09:40:12+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s Petrobras Names Interim Energy Transition Chief",
+            "title": "Petrobras Energy Transition Chief Named in Brazil Oil Clash",
             "url": "https://www.riotimesonline.com/petrobras-energy-transition-interim-director-nozaki/",
             "published_at": "2026-07-25T09:39:45+00:00",
             "category": [],
@@ -59,7 +87,7 @@
             "language": "en"
         },
         {
-            "title": "Uruguay Banados de Carrasco: US$1.25 Billion Megaproject",
+            "title": "Uruguay Ba\u00f1ados de Carrasco: $1.25 Billion Real-Estate Plan",
             "url": "https://www.riotimesonline.com/uruguay-banados-de-carrasco-megaproject-investment/",
             "published_at": "2026-07-25T09:38:51+00:00",
             "category": [],
@@ -157,7 +185,7 @@
             "language": "en"
         },
         {
-            "title": "Peru\u2019s New Cabinet: Why Foreign Investors Should Care",
+            "title": "Peru New Cabinet: What It Means for US Investors",
             "url": "https://www.riotimesonline.com/peru-cabinet-migraciones-foreigners-2026-2/",
             "published_at": "2026-07-25T08:12:06+00:00",
             "category": [],
@@ -670,34 +698,6 @@
         {
             "title": "Mexico Draws More Tourists but Spending per Visitor Falls",
             "url": "https://www.riotimesonline.com/mexico-draws-more-tourists-but-spending-per-visitor-falls/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Minimum Wage Hits Historic Low Under Milei",
-            "url": "https://www.riotimesonline.com/argentina-minimum-wage-purchasing-power-drops-40-percent-milei-2026/",
-            "published_at": "2026-07-24T11:51:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Economy Contracts Again in May, Exposing Uneven Recovery",
-            "url": "https://www.riotimesonline.com/argentinas-economy-contracts-again-in-may-exposing-uneven-recovery/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oaxaca Journalist Shot Dead After Criticizing State Governor",
-            "url": "https://www.riotimesonline.com/oaxaca-journalist-alejandro-leyva-shot-dead-federal-investigation-2026/",
-            "published_at": "2026-07-24T11:46:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Truth About Flying Your Pet Abroad: Busting Common Relocation Myths",
-            "url": "https://www.riotimesonline.com/the-truth-about-flying-your-pet-abroad-busting-common-relocation-myths/",
             "published_at": false,
             "category": [],
             "language": "en"
