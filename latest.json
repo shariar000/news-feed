@@ -1,16 +1,107 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-25T09:10:06+00:00",
+    "updated_at": "2026-07-25T10:10:05+00:00",
     "items": [
         {
-            "title": "Guyana Local Content: TotalTec-aHa Oilfield Services JV",
+            "title": "CJNG Tequila Sanctions: US Targets Laundering Network",
+            "url": "https://www.riotimesonline.com/cjng-tequila-sanctions-money-laundering/",
+            "published_at": "2026-07-25T10:09:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Big Deals, Empty Ships: Brazil\u2019s Nigeria Paradox",
+            "url": "https://www.riotimesonline.com/the-lagos-santos-corridor-how-west-africa-s-consumer-2026-07-24/",
+            "published_at": "2026-07-25T10:01:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Topo Chico SAT Deal Avoids Criminal Tax Trial",
+            "url": "https://www.riotimesonline.com/topo-chico-sat-tax-settlement-145-million/",
+            "published_at": "2026-07-25T10:00:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Antitrust Body CADE Urges Bayer Monsanto Fine",
+            "url": "https://www.riotimesonline.com/cade-bayer-monsanto-soybean-dispute/",
+            "published_at": "2026-07-25T09:59:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Unfreezes $1.1 Billion of Frozen 2026 Budget",
+            "url": "https://www.riotimesonline.com/brazil-budget-unfreeze-2026-spending/",
+            "published_at": "2026-07-25T09:58:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela Quits ICC, But UN Faces Crimes Against Humanity Probe",
+            "url": "https://www.riotimesonline.com/venezuela-icc-withdrawal-un-notification-crimes-against-humanity/",
+            "published_at": "2026-07-25T09:40:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Petrobras Names Interim Energy Transition Chief",
+            "url": "https://www.riotimesonline.com/petrobras-energy-transition-interim-director-nozaki/",
+            "published_at": "2026-07-25T09:39:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Canada Trade Agreement Signed in Ottawa",
+            "url": "https://www.riotimesonline.com/ecuador-canada-trade-agreement-signed-2026/",
+            "published_at": "2026-07-25T09:39:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uruguay Banados de Carrasco: US$1.25 Billion Megaproject",
+            "url": "https://www.riotimesonline.com/uruguay-banados-de-carrasco-megaproject-investment/",
+            "published_at": "2026-07-25T09:38:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vports Espirito Santo Posts Record First Half",
+            "url": "https://www.riotimesonline.com/vports-espirito-santo-record-first-half-2026/",
+            "published_at": "2026-07-25T09:28:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cerro Verde First-Half Net Income Hits US$501.5 Million",
+            "url": "https://www.riotimesonline.com/cerro-verde-first-half-2026-net-income/",
+            "published_at": "2026-07-25T09:27:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Jamaica Call Center Sector Sheds US$220M, 5,000 Jobs",
+            "url": "https://www.riotimesonline.com/jamaica-bpo-loses-220-million-5000-jobs/",
+            "published_at": "2026-07-25T09:15:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Ecopetrol Board Adds Argos Ex-President Velasquez",
+            "url": "https://www.riotimesonline.com/ecopetrol-board-jorge-mario-velasquez-colombia/",
+            "published_at": "2026-07-25T09:12:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana Local Content: TotalTec-aHa JV Targets ExxonMobil Deals",
             "url": "https://www.riotimesonline.com/guyana-local-content-totaltec-aha-joint-venture/",
             "published_at": "2026-07-25T09:04:01+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Peru Top Travel Destination for 2026, Says Lonely Planet",
+            "title": "Peru Top Travel Destination in 2026, Says Lonely Planet",
             "url": "https://www.riotimesonline.com/peru-top-travel-destination-2026-lonely-planet/",
             "published_at": "2026-07-25T09:01:09+00:00",
             "category": [],
@@ -31,7 +122,7 @@
             "language": "en"
         },
         {
-            "title": "Tanzania Gold Reserves Hit $3.8 Billion in De-Dollarization Push",
+            "title": "Tanzania Gold Reserves Hit US$3.8 Billion in Dollar Shift",
             "url": "https://www.riotimesonline.com/tanzania-buys-28-tonnes-gold-de-dollarise-reserves-2026/",
             "published_at": "2026-07-25T08:53:17+00:00",
             "category": [],
@@ -52,7 +143,7 @@
             "language": "en"
         },
         {
-            "title": "North African Trio Revives Libya Settlement Push",
+            "title": "Egypt, Algeria, Tunisia Revive Libya Settlement Push",
             "url": "https://www.riotimesonline.com/egypt-algeria-tunisia-libya-settlement-2026/",
             "published_at": "2026-07-25T08:47:18+00:00",
             "category": [],
@@ -299,13 +390,6 @@
         {
             "title": "North Africa\u2019s $104.9B Gap: What Latin America Learned",
             "url": "https://www.riotimesonline.com/the-limits-of-policy-without-growth-north-africa-s-strain-2026-07-24/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Lagos\u2013Santos Corridor: How West Africa\u2019s Consumer Revolution Pulls Latin America In",
-            "url": "https://www.riotimesonline.com/the-lagos-santos-corridor-how-west-africa-s-consumer-2026-07-24/",
             "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
             "language": "en"
@@ -615,90 +699,6 @@
             "title": "The Truth About Flying Your Pet Abroad: Busting Common Relocation Myths",
             "url": "https://www.riotimesonline.com/the-truth-about-flying-your-pet-abroad-busting-common-relocation-myths/",
             "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica\u2019s San Jose Airport Is Getting Its First Hotel",
-            "url": "https://www.riotimesonline.com/costa-ricas-san-jose-airport-is-getting-its-first-hotel/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Study: Argentina\u2019s Minimum Wage Has Lost 40% of Its Value Under Milei",
-            "url": "https://www.riotimesonline.com/study-argentinas-minimum-wage-has-lost-40-of-its-value-under-milei/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dominican Republic Negotiates to Soften a New 12.5% US Tariff",
-            "url": "https://www.riotimesonline.com/dominican-republic-negotiates-to-soften-a-new-125-us-tariff/",
-            "published_at": "2026-07-24T10:47:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Hits Brazil With a 12.5% Forced-Labor Tariff; Brazil Heads to the WTO",
-            "url": "https://www.riotimesonline.com/us-hits-brazil-with-a-125-forced-labor-tariff-brazil-heads-to-the-wto/",
-            "published_at": "2026-07-24T10:46:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Colombian Chef Wins Argentina\u2019s First Michelin Star for a Foreigner",
-            "url": "https://www.riotimesonline.com/a-colombian-chef-wins-argentinas-first-michelin-star-for-a-foreigner/",
-            "published_at": "2026-07-24T10:45:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Canal Trims Ship Draft Again on El Ni\u00f1o Fears",
-            "url": "https://www.riotimesonline.com/panama-canal-cuts-draft-el-nino-2026/",
-            "published_at": "2026-07-24T10:43:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "JBS Oman Acquisition: US$150 Million Hub Amid EU Setback",
-            "url": "https://www.riotimesonline.com/jbs-oman-acquisition-us150-million-hub-amid-eu-setback/",
-            "published_at": "2026-07-24T10:43:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Intercorp Peru Bonds: Financial Group Raises $300 Million",
-            "url": "https://www.riotimesonline.com/intercorp-peru-bonds-group-places-us300-million-2033-notes/",
-            "published_at": "2026-07-24T10:42:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Cinema Takes the Spotlight at Venice 2026",
-            "url": "https://www.riotimesonline.com/latin-american-films-venice-2026/",
-            "published_at": "2026-07-24T10:42:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US-Backed Venezuela Transition Talks Set to Begin in August",
-            "url": "https://www.riotimesonline.com/us-venezuela-transition-talks-august-machado/",
-            "published_at": "2026-07-24T10:41:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Probes Dark Horse Film on Ex-President Bolsonaro",
-            "url": "https://www.riotimesonline.com/mendonca-dark-horse-bolsonaro-film-inquiry/",
-            "published_at": "2026-07-24T10:39:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Restarts Power Sales to Ecuador Before Dry Season",
-            "url": "https://www.riotimesonline.com/colombia-restarts-electricity-sales-to-ecuador-before-the-dry-season/",
-            "published_at": "2026-07-24T10:37:37+00:00",
             "category": [],
             "language": "en"
         }
