@@ -1,9 +1,44 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-25T17:10:05+00:00",
+    "updated_at": "2026-07-25T18:10:04+00:00",
     "items": [
         {
-            "title": "Senegal Set to Green-Light Fortuna\u2019s Diamba Sud Gold Mine",
+            "title": "El Nigromante Exhibitions in Mexico End Soon\u2014Free Entry",
+            "url": "https://www.riotimesonline.com/last-weeks-three-exhibitions-el-nigromante-san-miguel-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santiago Winter Weekend: Soup, Coffee & Vinyl, July 25\u201326",
+            "url": "https://www.riotimesonline.com/santiago-winter-soup-coffee-vinyl-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Italian Restaurant Rooftop Planned for Downtown S\u00e3o Paulo",
+            "url": "https://www.riotimesonline.com/facundo-guerra-jefferson-rueda-italian-restaurant-downtown-sao-paulo-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Suriname Picks Rijger for Barbados Crop Over Festival 2026",
+            "url": "https://www.riotimesonline.com/zoureena-rijger-suriname-barbados-crop-over-festival-2026/",
+            "published_at": "2026-07-25T17:05:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Flamenco Versions of Popular Songs Hit Uruguay\u2019s Intimate Stages",
+            "url": "https://www.riotimesonline.com/carmen-pi-gonzalo-franco-flamenco-popular-songs-uruguay-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fortuna\u2019s Diamba Sud Gold Project Nears Senegal Permit",
             "url": "https://www.riotimesonline.com/senegal-green-light-fortuna-diamba-sud-gold-project-2026/",
             "published_at": false,
             "category": [],
@@ -17,15 +52,57 @@
             "language": "en"
         },
         {
-            "title": "Two Africas, One Choice for Latin America: A Fragile North and a Booming East-West Corridor",
+            "title": "Africa-Latin America Trade: Why East-West Africa Booms",
             "url": "https://www.riotimesonline.com/two-africas-one-choice-for-latin-america-a-fragile-north-2026-07-25/",
+            "published_at": "2026-07-25T15:23:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "AfCFTA-Mercosur Trade: South Africa Eyes Latin America",
+            "url": "https://www.riotimesonline.com/from-afcfta-to-mercosur-how-africa-s-new-trade-geometry-2026-07-25/",
             "published_at": false,
             "category": [],
             "language": "en"
         },
         {
-            "title": "From AfCFTA to MERCOSUR: How Africa\u2019s New Trade Geometry Reshapes Latin America\u2019s Global Play",
-            "url": "https://www.riotimesonline.com/from-afcfta-to-mercosur-how-africa-s-new-trade-geometry-2026-07-25/",
+            "title": "USA & Canada Intelligence Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-saturday-july-25-20/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-saturday-july-25-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-saturday-july-25-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-saturday-july-25-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-saturday-july-25-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Tonight \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-saturday-july-25-2026/",
             "published_at": false,
             "category": [],
             "language": "en"
@@ -68,19 +145,19 @@
         {
             "title": "Ollas del Mundo Returns: Montevideo\u2019s Winter Food Festival Celebrates Global Pot Cooking",
             "url": "https://www.riotimesonline.com/ollas-del-mundo-returns-montevideo-winter-food-festival-2026/",
-            "published_at": false,
+            "published_at": "2026-07-25T11:43:35+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "TIM Brasil Invests in $1.2B AI Legal Startup Enter",
+            "title": "TIM Invests $50M in AI Legal Startup Enter, Now Worth $1.2B",
             "url": "https://www.riotimesonline.com/tim-invests-in-enter-ai-legaltech-brazil/",
             "published_at": "2026-07-25T11:42:44+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Valle Nevado Record Snow Powers Chile Ski Comeback",
+            "title": "Chile\u2019s Valle Nevado Hits 315 cm Snow, Fuels Ski Comeback",
             "url": "https://www.riotimesonline.com/valle-nevado-record-snow-chile-ski-comeback-2026/",
             "published_at": "2026-07-25T11:42:32+00:00",
             "category": [],
@@ -157,9 +234,9 @@
             "language": "en"
         },
         {
-            "title": "Huilot\u00e1n: the Nature Reserve 40 Minutes from Guadalajara",
+            "title": "Huilot\u00e1n Park: Guadalajara\u2019s Nature Escape from US$5",
             "url": "https://www.riotimesonline.com/huilotan-park-swimming-camping-guadalajara-2026/",
-            "published_at": false,
+            "published_at": "2026-07-25T11:32:58+00:00",
             "category": [],
             "language": "en"
         },
@@ -479,6 +556,13 @@
             "language": "en"
         },
         {
+            "title": "LatAm Expat & Nomad Daily Guide \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-saturday-july-25-2026/",
+            "published_at": "2026-07-25T07:36:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Latin America Sports Daily for Saturday, July 25, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-saturday-july-25-2026/",
             "published_at": "2026-07-25T07:00:35+00:00",
@@ -517,6 +601,27 @@
             "title": "Latin American Pulse for Saturday, July 25, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-july-25-2026/",
             "published_at": "2026-07-25T06:34:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:34:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Saturday, July 25, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-july-25-2026/",
+            "published_at": "2026-07-25T06:33:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 25, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-25-2026/",
+            "published_at": "2026-07-25T06:11:22+00:00",
             "category": [],
             "language": "en"
         },
@@ -570,6 +675,13 @@
             "language": "en"
         },
         {
+            "title": "Argentina\u2019s Aerol\u00edneas Orders 20 Jets Without US$ Aid",
+            "url": "https://www.riotimesonline.com/aerolineas-argentinas-20-jet-fleet-renewal-2026/",
+            "published_at": "2026-07-24T16:51:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Argentina\u2019s Aerol\u00edneas Orders 20 Jets in Self-Funded Renewal",
             "url": "https://www.riotimesonline.com/aerolineas-argentinas-orders-20-jets-in-first-self-funded-fleet-renewal/",
             "published_at": "2026-07-24T16:30:10+00:00",
@@ -587,118 +699,6 @@
             "title": "Rio de Janeiro Nightlife Tonight \u2014 July 24, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-friday-july-24-2026/",
             "published_at": "2026-07-24T16:12:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia\u2019s Floating Dollar Breaks 11 Bolivianos as IMF Deal Nears",
-            "url": "https://www.riotimesonline.com/bolivia-floating-dollar-past-11-bolivianos-imf-2026/",
-            "published_at": "2026-07-24T16:10:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Export-Relief Package: US$3.7 Billion After US Tariffs",
-            "url": "https://www.riotimesonline.com/brazil-3-7-billion-export-relief-us-tariffs-2026/",
-            "published_at": "2026-07-24T15:56:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Bank Inter Rebrands Orlando Stadium to Inter.co",
-            "url": "https://www.riotimesonline.com/inter-co-rebrand-orlando-stadium-naming-2026/",
-            "published_at": "2026-07-24T15:56:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Considers a State-Owned Company to Reopen the Cobre Panam\u00e1 Mine",
-            "url": "https://www.riotimesonline.com/panama-state-miner-cobre-panama-first-quantum-2026/",
-            "published_at": "2026-07-24T15:52:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cape Verde Bets on Digital ID to Build a Post-Tourism Economy",
-            "url": "https://www.riotimesonline.com/cape-verde-digital-id-e-governance-post-tourism-strategy-2026/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Deadly Floods in Ghana and Ivory Coast Kill at Least 24",
-            "url": "https://www.riotimesonline.com/accra-abidjan-floods-kill-24-record-rains-2026/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sudan\u2019s RSF Militia Committed Genocide, UN Probe Finds",
-            "url": "https://www.riotimesonline.com/un-probe-rsf-genocide-sudan-darfur-starvation-2026/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria Media Probe Targets Google, Meta, X Over Pay",
-            "url": "https://www.riotimesonline.com/nigeria-orders-probe-meta-alphabet-x-media-content-2026/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uganda EACOP Pipeline Lawsuit Opens in UK Court",
-            "url": "https://www.riotimesonline.com/ugandan-farmers-sue-uk-court-halt-eacop-pipeline-2026/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "North Africa\u2019s $104.9B Gap: What Latin America Learned",
-            "url": "https://www.riotimesonline.com/the-limits-of-policy-without-growth-north-africa-s-strain-2026-07-24/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa\u2019s Growth Surge Threatens Latin America\u2019s Clout",
-            "url": "https://www.riotimesonline.com/a-new-growth-pole-how-africa-s-surge-reorders-the-global-2026-07-24/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kenya Ex-Governor Obado Guilty of Sharon Otieno Murder",
-            "url": "https://www.riotimesonline.com/kenya-ex-governor-obado-guilty-of-sharon-otieno-murder/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Weighs Strikes on JNIM in Mali as Junta Balks",
-            "url": "https://www.riotimesonline.com/us-weighs-strikes-on-jnim-in-mali-as-junta-balks/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Resolute Gold Pivots to Ivory Coast as Mali Output Slumps",
-            "url": "https://www.riotimesonline.com/resolute-leans-on-ivory-coast-gold-as-mali-turns-risky/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mozambique Electric Mine: Miner Vulcan\u2019s $160M Switch",
-            "url": "https://www.riotimesonline.com/vulcan-builds-africas-first-electric-mine-in-mozambique/",
-            "published_at": "2026-07-24T15:48:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Afreximbank Lends $200M to Nigerian Firm for Algeria Oilfield",
-            "url": "https://www.riotimesonline.com/afreximbank-backs-shoreline-with-200m-for-algeria-oil/",
-            "published_at": "2026-07-24T15:48:12+00:00",
             "category": [],
             "language": "en"
         }
