@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-26T05:10:05+00:00",
+    "updated_at": "2026-07-26T06:10:05+00:00",
     "items": [
+        {
+            "title": "Key Market Events for the Week of July 27\u201331, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-2731-2026/",
+            "published_at": "2026-07-26T06:01:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Guyanese Literary Giant Ian McDonald Dies at 93",
             "url": "https://www.riotimesonline.com/ian-mcdonald-caribbean-literary-giant-dies-at-93/",
@@ -24,7 +31,7 @@
             "language": "en"
         },
         {
-            "title": "Namibia Air Plans $33M Embraer Fleet of 7 Regional Jets",
+            "title": "Namibia Air Plans US$33M Embraer Fleet of 7 Regional Jets",
             "url": "https://www.riotimesonline.com/embraer-namibia-air-fleet-renewal-2026/",
             "published_at": "2026-07-25T20:06:41+00:00",
             "category": [],
@@ -108,7 +115,7 @@
             "language": "en"
         },
         {
-            "title": "Africa Latin America Trade to Hit $X Billion by 2026",
+            "title": "Africa-Latin America Trade to Surpass Asia in 2026",
             "url": "https://www.riotimesonline.com/two-africas-one-choice-for-latin-america-a-fragile-north-2026-07-25/",
             "published_at": "2026-07-25T15:23:10+00:00",
             "category": [],
@@ -192,7 +199,7 @@
             "language": "en"
         },
         {
-            "title": "Argentina Credit Defaults Climb Toward 16% of Borrowers",
+            "title": "Argentina Credit Defaults Surge as 5.8 Million Fall Behind",
             "url": "https://www.riotimesonline.com/argentina-credit-defaults-household-delinquency-2026/",
             "published_at": "2026-07-25T11:50:11+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Latin America Oil Slips: Petrobras, YPF, Ecopetrol Fall",
             "url": "https://www.riotimesonline.com/oil-markets-latam-saturday-july-25-2026/",
             "published_at": "2026-07-25T06:10:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Steel Jumps on US Tariff Bets",
-            "url": "https://www.riotimesonline.com/steel-markets-latam-saturday-july-25-2026/",
-            "published_at": "2026-07-25T06:10:17+00:00",
             "category": [],
             "language": "en"
         }
