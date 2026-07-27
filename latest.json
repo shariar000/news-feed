@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T07:10:37+00:00",
+    "updated_at": "2026-07-27T08:10:05+00:00",
     "items": [
+        {
+            "title": "Free Festival Meu Vizinho Pardini Returns to Belo Horizonte",
+            "url": "https://www.riotimesonline.com/festival-meu-vizinho-pardini-roberta-sa-fat-family-praca-liberdade-2026/",
+            "published_at": "2026-07-27T07:24:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "U.S. Border States Allow DSP-150 Card Entry Without Passport",
+            "url": "https://www.riotimesonline.com/dsp-150-border-crossing-card-entry-us-states-2026/",
+            "published_at": "2026-07-27T07:13:55+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Cap Cana Puerto Marina Launches Luxury Residences",
             "url": "https://www.riotimesonline.com/cap-cana-puerto-marina-launches-luxury-residences/",
@@ -94,7 +108,7 @@
             "language": "en"
         },
         {
-            "title": "Sudan\u2019s Health System Collapses as War Fuels Hunger and Disease",
+            "title": "Sudan Health System Collapse Leaves 30M Without Care",
             "url": "https://www.riotimesonline.com/sudan-health-system-collapse-hunger-disease-2026/",
             "published_at": "2026-07-27T06:57:22+00:00",
             "category": [],
@@ -206,21 +220,21 @@
             "language": "en"
         },
         {
-            "title": "Latin America grains: Soybeans edge up, wheat slips",
+            "title": "Latin America Grains: Soybeans Edge up, Wheat Slips",
             "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-july-27-2026/",
             "published_at": "2026-07-27T05:34:13+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Oil slide hits Brazil\u2019s Petrobras, Argentina\u2019s YPF and peers",
+            "title": "Oil Slide Hits Brazil\u2019s Petrobras, Argentina\u2019s YPF and Peers",
             "url": "https://www.riotimesonline.com/oil-markets-latam-monday-july-27-2026/",
             "published_at": "2026-07-27T05:34:07+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Latin American steel stocks rise on China tariff hopes",
+            "title": "Latin American Steel Stocks Rise on China Tariff Hopes",
             "url": "https://www.riotimesonline.com/steel-markets-latam-monday-july-27-2026/",
             "published_at": "2026-07-27T05:34:01+00:00",
             "category": [],
@@ -234,7 +248,7 @@
             "language": "en"
         },
         {
-            "title": "Iron Ore Wrap: Vale Dips as China Steel Demand Wavers",
+            "title": "Iron Ore Wrap: Brazilian Miner Vale Dips as China Demand Wavers",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-july-27-2026/",
             "published_at": "2026-07-27T05:33:08+00:00",
             "category": [],
@@ -685,20 +699,6 @@
             "title": "Celsia Builds 260 MW of Solar Across Colombia",
             "url": "https://www.riotimesonline.com/celsia-colombia-580mwp-solar-2026/",
             "published_at": "2026-07-25T20:06:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Namibia Air Eyes $33M Embraer Fleet of 7 Regional Jets",
-            "url": "https://www.riotimesonline.com/embraer-namibia-air-fleet-renewal-2026/",
-            "published_at": "2026-07-25T20:06:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China Beef Surcharge Looms as Brazil Nears Quota Limit",
-            "url": "https://www.riotimesonline.com/jbs-mato-grosso-do-sul-plants-china-surtax-2026/",
-            "published_at": "2026-07-25T20:06:33+00:00",
             "category": [],
             "language": "en"
         }
