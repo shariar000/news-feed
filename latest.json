@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T16:10:06+00:00",
+    "updated_at": "2026-07-27T17:10:05+00:00",
     "items": [
+        {
+            "title": "Paraguay Rolls Out Updated Incentive Law as Digital Nomads Pour US$50 Million a Year into Economy",
+            "url": "https://www.riotimesonline.com/paraguay-rolls-out-updated-incentive-law-as-digital-nomads-pour-us50-million-a-year-into-economy/",
+            "published_at": "2026-07-27T16:57:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santo Domingo Hosts Central American and Caribbean Games",
+            "url": "https://www.riotimesonline.com/santo-domingo-hosts-central-american-and-caribbean-games-through-august-8/",
+            "published_at": "2026-07-27T16:53:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolsonaro Deepfake Video Sparks Brazil Court Complaint",
+            "url": "https://www.riotimesonline.com/brazil-pt-tse-ai-video-bolsonaro-flavio-convention/",
+            "published_at": "2026-07-27T16:52:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guanacaste Positions Itself as a Leading Medical-Tourism Destination",
+            "url": "https://www.riotimesonline.com/guanacaste-positions-itself-as-a-leading-medical-tourism-destination/",
+            "published_at": "2026-07-27T16:48:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FibraShop Q2 Adjusted Net Income Climbs 16% to Approximately US$10.8 Million",
+            "url": "https://www.riotimesonline.com/fibrashop-q2-adjusted-net-income-climbs-16-to-approximately-us10-8-million/",
+            "published_at": "2026-07-27T16:27:04+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "IDB Invest Lines Up US$80 Million Loan for Jamaica\u2019s JPS Grid Recovery",
             "url": "https://www.riotimesonline.com/idb-invest-lines-up-us80-million-loan-for-jamaicas-jps-grid-recovery/",
@@ -157,7 +192,7 @@
             "language": "en"
         },
         {
-            "title": "6,402 Executions Memorial Opens in Bogot\u00e1, Colombia",
+            "title": "6,402 Reasons Not to Forget: Bogot\u00e1 Memorial Opens",
             "url": "https://www.riotimesonline.com/colombia-6402-reasons-not-to-forget-exhibition-bogota-2026/",
             "published_at": "2026-07-27T09:09:30+00:00",
             "category": [],
@@ -171,7 +206,7 @@
             "language": "en"
         },
         {
-            "title": "Award-Winning Chilean Film Hangar rojo Premieres October 2026",
+            "title": "Chilean Film Hangar rojo on Pinochet Coup Premieres October 2026",
             "url": "https://www.riotimesonline.com/award-winning-film-soldiers-opposed-1973-coup-premiere-chile-2026/",
             "published_at": "2026-07-27T08:52:56+00:00",
             "category": [],
@@ -500,7 +535,7 @@
             "language": "en"
         },
         {
-            "title": "Brazilian DJ Jesus Luz to Play Fortaleza Pool Party",
+            "title": "Jesus Luz to DJ Fortaleza Pool Party at Clube N\u00e1utico",
             "url": "https://www.riotimesonline.com/dj-jesus-luz-poolside-party-fortaleza-2026/",
             "published_at": false,
             "category": [],
@@ -661,44 +696,9 @@
             "language": "en"
         },
         {
-            "title": "UNESCO Warns Argentina Over Vaca Muerta Pipeline Risk",
+            "title": "UNESCO Warns Vaca Muerta Pipeline Threatens Patagonia Site",
             "url": "https://www.riotimesonline.com/unesco-argentina-halt-vaca-muerta-pipeline/",
             "published_at": "2026-07-27T06:31:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Korea Brazil Visit Puts Critical Minerals First",
-            "url": "https://www.riotimesonline.com/south-korea-brazil-visit-critical-minerals/",
-            "published_at": "2026-07-27T06:24:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China-Mercosur Trade Deal Fast-Tracked Amid US Tariff Pressure",
-            "url": "https://www.riotimesonline.com/china-mercosur-trade-deal-accelerated-lula-xi/",
-            "published_at": "2026-07-27T06:24:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What\u2019s On in Latin America: The Week Ahead (July 27\u2013August 2)",
-            "url": "https://www.riotimesonline.com/whats-on-latam-week-ahead-jul-27-2026/",
-            "published_at": "2026-07-27T05:42:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Monday, July 27, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:42:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Inauguration Venue Dispute: Key for Foreigners",
-            "url": "https://www.riotimesonline.com/colombia-inauguration-venue-cauca-foreigners-2026/",
-            "published_at": "2026-07-27T05:41:33+00:00",
             "category": [],
             "language": "en"
         }
