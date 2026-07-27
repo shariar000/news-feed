@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T20:10:04+00:00",
+    "updated_at": "2026-07-27T21:10:05+00:00",
     "items": [
         {
             "title": "Rulay Fusion Video: Dominican-Colombian Salsa Collab in Cali",
@@ -17,7 +17,7 @@
             "language": "en"
         },
         {
-            "title": "Tiago Iorc Brings Troco Likes 10th Anniversary Tour to Curitiba",
+            "title": "Brazilian Singer Tiago Iorc\u2019s Troco Likes 10th Anniversary Tour",
             "url": "https://www.riotimesonline.com/tiago-iorc-troco-likes-tour-curitiba/",
             "published_at": false,
             "category": [],
@@ -41,6 +41,13 @@
             "title": "Costa Rica\u2019s Santa Cruz Marimba Ensemble Heads to Global Percussion Stage",
             "url": "https://www.riotimesonline.com/costa-rica-santa-cruz-marimba-ensemble-pas-convention-2026/",
             "published_at": "2026-07-27T18:38:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Monday, July 27, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-monday-july-27-2026/",
+            "published_at": false,
             "category": [],
             "language": "en"
         },
@@ -94,7 +101,7 @@
             "language": "en"
         },
         {
-            "title": "Hassis Foundation Opens Interactive Exhibition in Florian\u00f3polis",
+            "title": "Brazil\u2019s Hassis Foundation Opens Free Interactive Art Show",
             "url": "https://www.riotimesonline.com/hassis-foundation-opens-interactive-exhibition-in-florianpolis/",
             "published_at": false,
             "category": [],
@@ -136,7 +143,7 @@
             "language": "en"
         },
         {
-            "title": "Spanish Band Seguridad Social to Play Barajas de Melo in July",
+            "title": "Spanish Band Seguridad Social to Play Rural Spain in July",
             "url": "https://www.riotimesonline.com/seguridad-social-barajas-de-melo-heritage-concert/",
             "published_at": false,
             "category": [],
@@ -157,21 +164,21 @@
             "language": "en"
         },
         {
-            "title": "Panama City to Host Central America Music Market in August 2026",
+            "title": "Central America Music Market Hits Panama City in August 2026",
             "url": "https://www.riotimesonline.com/panama-city-central-america-music-market-august-2026/",
             "published_at": false,
             "category": [],
             "language": "en"
         },
         {
-            "title": "Best Weekend Plans in Chapultepec: Music, Role-Playing, Birds and Picnics",
+            "title": "Mexico City\u2019s Chapultepec: Free Music, Birding & Picnics",
             "url": "https://www.riotimesonline.com/best-weekend-plans-chapultepec-mexico-city/",
             "published_at": false,
             "category": [],
             "language": "en"
         },
         {
-            "title": "Rock N\u2019 Roll Running Series 2026 Opens in Chile with Los Tres",
+            "title": "Chile Rock N\u2019 Roll Run 2026 Opens with Band Los Tres",
             "url": "https://www.riotimesonline.com/rock-n-roll-running-series-chile-2026-los-tres/",
             "published_at": false,
             "category": [],
@@ -213,7 +220,7 @@
             "language": "en"
         },
         {
-            "title": "Peru\u2019s El Brocal Profits Nearly Triple on Silver, Copper Surge",
+            "title": "El Brocal Profits Triple on US$ Silver, Copper Surge",
             "url": "https://www.riotimesonline.com/el-brocal-triples-profits-silver-copper-2026/",
             "published_at": false,
             "category": [],
@@ -223,13 +230,6 @@
             "title": "Colombia\u2019s National Symphonic Band Plays Free Tunja Concert",
             "url": "https://www.riotimesonline.com/colombia-national-symphonic-band-free-concert-tunja-2026/",
             "published_at": "2026-07-27T17:33:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Navy\u2019s 2nd Naval District in Salvador Gets New Chief",
-            "url": "https://www.riotimesonline.com/salvador-mayor-2nd-naval-district-command-change-2026/",
-            "published_at": "2026-07-27T17:27:42+00:00",
             "category": [],
             "language": "en"
         },
@@ -433,13 +433,6 @@
             "title": "Brazil Oil Giant Petrobras\u2019s P-52 Platform Shut 9 Months",
             "url": "https://www.riotimesonline.com/petrobrass-p-52-platform-has-been-shut-for-nine-months-and-may-not-return-in-2026/",
             "published_at": "2026-07-27T11:47:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fibra Prime Peru REIT Hits $450M in Assets, Targets $500M",
-            "url": "https://www.riotimesonline.com/fibra-prime-peru-reit-hits-us450-million-aum-eyes-arequipa/",
-            "published_at": "2026-07-27T10:50:09+00:00",
             "category": [],
             "language": "en"
         },
@@ -698,6 +691,13 @@
         {
             "title": "Argentine Yerba Mate Crowned World\u2019s Best, Costs Under 5,000 Pesos",
             "url": "https://www.riotimesonline.com/argentine-yerba-mate-worlds-best-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Itaya Andy Brings Amazonian Art to Global Fashion Runways",
+            "url": "https://www.riotimesonline.com/itaya-andy-amazonian-art-fashion-runways-2026/",
             "published_at": false,
             "category": [],
             "language": "en"
