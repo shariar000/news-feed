@@ -1,7 +1,189 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T06:10:05+00:00",
+    "updated_at": "2026-07-27T07:10:37+00:00",
     "items": [
+        {
+            "title": "Cap Cana Puerto Marina Launches Luxury Residences",
+            "url": "https://www.riotimesonline.com/cap-cana-puerto-marina-launches-luxury-residences/",
+            "published_at": "2026-07-27T07:06:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Engie, Enel, Colbun Vie for Chile Power Tender",
+            "url": "https://www.riotimesonline.com/chile-power-tender-engie-enel-colbun-2026/",
+            "published_at": "2026-07-27T07:04:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Fiestas Patrias Fair Brings Coast, Highland and Jungle Flavours to Lima",
+            "url": "https://www.riotimesonline.com/peru-fiestas-patrias-fair-castillo-rospigliosi-2026/",
+            "published_at": "2026-07-27T07:01:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Mining Code Overhaul Proposed at La Paz Summit",
+            "url": "https://www.riotimesonline.com/bolivia-mining-code-sala-minera-tribunal-2026/",
+            "published_at": "2026-07-27T07:01:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "DR Short-Term Rentals Surge 226%, Reshaping Hotel Market",
+            "url": "https://www.riotimesonline.com/dr-short-term-rentals-surge-reshape-hotels/",
+            "published_at": "2026-07-27T07:01:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Vacation Rentals Surge 635%, Reshaping Tourism",
+            "url": "https://www.riotimesonline.com/colombia-vacation-rentals-surge-635-reshaping-tourism/",
+            "published_at": "2026-07-27T07:01:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cummins Peru Batteries Pivot Closes First Project in 2026",
+            "url": "https://www.riotimesonline.com/cummins-peru-batteries-pivot-closes-first-project-in-2026/",
+            "published_at": "2026-07-27T07:00:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ithaca Private Capital Launches in Colombia to Fund Mid-Si",
+            "url": "https://www.riotimesonline.com/ithaca-private-capital-colombia-launch/",
+            "published_at": "2026-07-27T07:00:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bancolombia Housing Loans Jump 13% as Cibest Eyes Rentals",
+            "url": "https://www.riotimesonline.com/bancolombia-housing-loans-grow-cibest-rentals/",
+            "published_at": "2026-07-27T07:00:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Footwear Anti-Dumping Review Opens on Chinese Imports",
+            "url": "https://www.riotimesonline.com/peru-footwear-anti-dumping-review-chinese-imports/",
+            "published_at": "2026-07-27T06:59:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fibra Prime Peru REIT Hits US$450 Million AUM, Eyes Arequipa",
+            "url": "https://www.riotimesonline.com/fibra-prime-peru-reit-450-million-aum-arequipa/",
+            "published_at": "2026-07-27T06:59:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Alqueria Seaweed Methane Trial Cuts Cattle Emissions Over",
+            "url": "https://www.riotimesonline.com/alqueria-seaweed-methane-trial-cattle-emissions/",
+            "published_at": "2026-07-27T06:59:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Morocco Foils ISIS Sahel Plots, Arrests 10 in Seven Cities",
+            "url": "https://www.riotimesonline.com/morocco-foils-isis-sahel-plots-2026/",
+            "published_at": "2026-07-27T06:57:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Sudan\u2019s Health System Collapses as War Fuels Hunger and Disease",
+            "url": "https://www.riotimesonline.com/sudan-health-system-collapse-hunger-disease-2026/",
+            "published_at": "2026-07-27T06:57:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Senegal Insurance Revenue Hits 311 Billion CFA, Second in CIMA Region",
+            "url": "https://www.riotimesonline.com/senegal-insurance-revenue-311-billion-cfa-second-cima-2026/",
+            "published_at": "2026-07-27T06:57:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Interest Rate Set for Final Avila Hike to 12.50%",
+            "url": "https://www.riotimesonline.com/colombia-interest-rate-avila-final-hike-july-2026/",
+            "published_at": "2026-07-27T06:53:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rumo Malha Sul Rail Concession Hearing Set for Curitiba",
+            "url": "https://www.riotimesonline.com/rumo-malha-sul-rail-hearing-curitiba/",
+            "published_at": "2026-07-27T06:52:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Hospital Roll-Up Expands as Red Interclinica Buys Tw",
+            "url": "https://www.riotimesonline.com/chile-hospital-roll-up-red-interclinica-vina-puerto-varas/",
+            "published_at": "2026-07-27T06:52:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FEMSA Mexico Investment Tops US$900 Million for 2026",
+            "url": "https://www.riotimesonline.com/femsa-mexico-investment-2026/",
+            "published_at": "2026-07-27T06:52:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Slim Puebla Mall Deal: Carlos Slim Eyes Mixed-Use Megaproj",
+            "url": "https://www.riotimesonline.com/slim-puebla-mall-deal-carlos-slim-eyes-mixed-use-megaproj/",
+            "published_at": "2026-07-27T06:51:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei Starlink Schools Deal Connects 6,000 Rural Sites",
+            "url": "https://www.riotimesonline.com/milei-starlink-schools-argentina-rural-connectivity/",
+            "published_at": "2026-07-27T06:51:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santa Marta Desalination Deal Under Watchdog Review",
+            "url": "https://www.riotimesonline.com/santa-marta-desalination-contract-review/",
+            "published_at": "2026-07-27T06:31:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Canadian XAU Resources to Acquire Guyana Quartzstone Gold",
+            "url": "https://www.riotimesonline.com/guyana-quartzstone-gold-xau-resources-acquisition/",
+            "published_at": "2026-07-27T06:31:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "UNESCO Warns Argentina on Vaca Muerta Oil Pipeline",
+            "url": "https://www.riotimesonline.com/unesco-argentina-halt-vaca-muerta-pipeline/",
+            "published_at": "2026-07-27T06:31:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Korea Brazil Visit Puts Critical Minerals First",
+            "url": "https://www.riotimesonline.com/south-korea-brazil-visit-critical-minerals/",
+            "published_at": "2026-07-27T06:24:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "China-Mercosur Trade Deal Fast-Tracked Amid US Tariff Pressure",
+            "url": "https://www.riotimesonline.com/china-mercosur-trade-deal-accelerated-lula-xi/",
+            "published_at": "2026-07-27T06:24:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "What\u2019s On in Latin America: The Week Ahead (July 27\u2013August 2)",
             "url": "https://www.riotimesonline.com/whats-on-latam-week-ahead-jul-27-2026/",
@@ -17,7 +199,7 @@
             "language": "en"
         },
         {
-            "title": "Colombia Inauguration Venue Fight: What Foreigners Must Know",
+            "title": "Colombia Inauguration Venue Dispute: Key for Foreigners",
             "url": "https://www.riotimesonline.com/colombia-inauguration-venue-cauca-foreigners-2026/",
             "published_at": "2026-07-27T05:41:33+00:00",
             "category": [],
@@ -52,35 +234,35 @@
             "language": "en"
         },
         {
-            "title": "Iron ore wrap: Vale dips as China steel demand wavers",
+            "title": "Iron Ore Wrap: Vale Dips as China Steel Demand Wavers",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-july-27-2026/",
             "published_at": "2026-07-27T05:33:08+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Lithium Triangle stocks dip as EV demand cools",
+            "title": "Lithium Triangle Stocks Dip as EV Demand Cools",
             "url": "https://www.riotimesonline.com/lithium-markets-latam-monday-july-27-2026/",
             "published_at": "2026-07-27T05:33:01+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Copper wrap: China, Chile and the miners",
+            "title": "Copper Market Steady as Chile Supply Risks Meet China Demand",
             "url": "https://www.riotimesonline.com/copper-markets-latam-monday-july-27-2026/",
             "published_at": "2026-07-27T05:32:15+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Gold & silver jump on softer dollar, lower real yields",
+            "title": "Gold and Silver Surge as US Dollar Dips and Bond Yields Ease",
             "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-july-27-2026/",
             "published_at": "2026-07-27T05:32:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Bitcoin Slips, Solana and XRP Climb: Latin America Crypto Moves",
+            "title": "Solana, XRP Gain as Bitcoin Dips: Latin America Crypto",
             "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-july-27-2026/",
             "published_at": "2026-07-27T05:32:03+00:00",
             "category": [],
@@ -108,7 +290,7 @@
             "language": "en"
         },
         {
-            "title": "Peru\u2019s New Cabinet: The One Pick Foreigners Should Watch",
+            "title": "Peru\u2019s New Cabinet: Why Energy & Mines Matters Most",
             "url": "https://www.riotimesonline.com/peru-cabinet-migraciones-foreigners-2026/",
             "published_at": "2026-07-27T05:30:59+00:00",
             "category": [],
@@ -129,9 +311,9 @@
             "language": "en"
         },
         {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 27, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-saturday-july-25-2026/",
-            "published_at": "2026-07-27T05:25:57+00:00",
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 27, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-monday-july-27-2026/",
+            "published_at": "2026-07-27T05:24:56+00:00",
             "category": [],
             "language": "en"
         },
@@ -157,6 +339,13 @@
             "language": "en"
         },
         {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 27, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-the-peso-july-27-2026/",
+            "published_at": "2026-07-27T05:22:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Mexico Markets: IPC & the Peso \u2014 July 27, 2026",
             "url": "https://www.riotimesonline.com/mexico-markets-ipc-the-peso-july-27-2026/",
             "published_at": "2026-07-27T05:22:02+00:00",
@@ -167,27 +356,6 @@
             "title": "Brazil Markets: Ibovespa & the Real \u2014 July 27, 2026",
             "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-july-27-2026/",
             "published_at": "2026-07-27T05:21:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 27, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-saturday-july-25-2026/",
-            "published_at": "2026-07-27T04:45:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 27, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-saturday-july-25-2026/",
-            "published_at": "2026-07-27T04:45:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 27, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-saturday-july-25-2026/",
-            "published_at": "2026-07-27T04:44:49+00:00",
             "category": [],
             "language": "en"
         },
@@ -531,174 +699,6 @@
             "title": "China Beef Surcharge Looms as Brazil Nears Quota Limit",
             "url": "https://www.riotimesonline.com/jbs-mato-grosso-do-sul-plants-china-surtax-2026/",
             "published_at": "2026-07-25T20:06:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Desenrola 2.0: Brazil\u2019s Banco do Brasil Settles $1.86 Billion",
-            "url": "https://www.riotimesonline.com/banco-do-brasil-novo-desenrola-debt-renegotiation-2026/",
-            "published_at": "2026-07-25T20:06:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Explores Floating Nuclear SMRs for Offshore Rigs",
-            "url": "https://www.riotimesonline.com/petrobras-small-modular-reactors-nuclear-debate-2026/",
-            "published_at": "2026-07-25T20:06:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Bets US$11bn on Sergipe to Build a Northeast Gas Hub",
-            "url": "https://www.riotimesonline.com/petrobras-seap-northeast-gas-hub-2026/",
-            "published_at": "2026-07-25T20:05:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "El Nigromante Exhibitions in Mexico End Soon\u2014Free Entry",
-            "url": "https://www.riotimesonline.com/last-weeks-three-exhibitions-el-nigromante-san-miguel-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Santiago Winter Weekend: Soup, Coffee & Vinyl, July 25\u201326",
-            "url": "https://www.riotimesonline.com/santiago-winter-soup-coffee-vinyl-2026/",
-            "published_at": "2026-07-25T17:08:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Italian Restaurant Rooftop Planned for Downtown S\u00e3o Paulo",
-            "url": "https://www.riotimesonline.com/facundo-guerra-jefferson-rueda-italian-restaurant-downtown-sao-paulo-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Suriname\u2019s Rijger Joins Crop Over Festival 2026 in Barbados",
-            "url": "https://www.riotimesonline.com/zoureena-rijger-suriname-barbados-crop-over-festival-2026/",
-            "published_at": "2026-07-25T17:05:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Flamenco Versions of Popular Songs Thrill Uruguay\u2019s Small Venues",
-            "url": "https://www.riotimesonline.com/carmen-pi-gonzalo-franco-flamenco-popular-songs-uruguay-2026/",
-            "published_at": "2026-07-25T17:03:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fortuna\u2019s Diamba Sud Gold Project Nears Senegal Permit",
-            "url": "https://www.riotimesonline.com/senegal-green-light-fortuna-diamba-sud-gold-project-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Africa Orders Urgent Recall of Compounded Weight-Loss Drugs",
-            "url": "https://www.riotimesonline.com/south-africa-recall-compounded-weight-loss-drugs-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa-Latin America Trade Set to Surge as Africa Outpaces Asia",
-            "url": "https://www.riotimesonline.com/two-africas-one-choice-for-latin-america-a-fragile-north-2026-07-25/",
-            "published_at": "2026-07-25T15:23:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "AfCFTA-Mercosur Trade: South Africa Eyes Latin America",
-            "url": "https://www.riotimesonline.com/from-afcfta-to-mercosur-how-africa-s-new-trade-geometry-2026-07-25/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Saturday, July 25, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-saturday-july-25-20/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Saturday, July 25, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-saturday-july-25-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Saturday, July 25, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-saturday-july-25-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Saturday, July 25, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-saturday-july-25-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 July 25, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-saturday-july-25-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Tonight \u2014 July 25, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-saturday-july-25-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Uber Moto S\u00e3o Paulo Must Launch in 48 Hours, Brazil Court Rules",
-            "url": "https://www.riotimesonline.com/uber-moto-sao-paulo-court-order-authorization/",
-            "published_at": "2026-07-25T11:53:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Paraguay Escapes US Tariffs as 60 Nations Face New Duties",
-            "url": "https://www.riotimesonline.com/paraguay-us-tariff-exemption-july-2026/",
-            "published_at": "2026-07-25T11:52:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Orchestra to Make Historic Sydney Opera House Debut",
-            "url": "https://www.riotimesonline.com/chilean-orchestra-sydney-opera-house-debut-2026/",
-            "published_at": "2026-07-25T11:51:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Goldman Sachs Cuts Argentina 2026 Growth Forecast",
-            "url": "https://www.riotimesonline.com/goldman-argentina-forecast-cut-2026-gdp/",
-            "published_at": "2026-07-25T11:50:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Credit Defaults Surge as 5.8 Million Fall Behind",
-            "url": "https://www.riotimesonline.com/argentina-credit-defaults-household-delinquency-2026/",
-            "published_at": "2026-07-25T11:50:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ollas del Mundo Montevideo: Free Winter Food Fest Returns",
-            "url": "https://www.riotimesonline.com/ollas-del-mundo-returns-montevideo-winter-food-festival-2026/",
-            "published_at": "2026-07-25T11:43:35+00:00",
             "category": [],
             "language": "en"
         }
