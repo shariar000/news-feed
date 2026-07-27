@@ -1,7 +1,189 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T08:10:05+00:00",
+    "updated_at": "2026-07-27T09:10:05+00:00",
     "items": [
+        {
+            "title": "Colombia Opens \u20186402+ Reasons Not to Forget\u2019 Memorial Exhibition in Bogot\u00e1",
+            "url": "https://www.riotimesonline.com/colombia-6402-reasons-not-to-forget-exhibition-bogota-2026/",
+            "published_at": "2026-07-27T09:09:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Azcatitlan Codex: The Map That Founded Mexico City",
+            "url": "https://www.riotimesonline.com/azcatitlan-codex-illustrated-walks-mexico-tenochtitlan-2026/",
+            "published_at": "2026-07-27T08:58:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Hangar Rojo Chile Premiere: Film on Pinochet-Era Defiance",
+            "url": "https://www.riotimesonline.com/award-winning-film-soldiers-opposed-1973-coup-premiere-chile-2026/",
+            "published_at": "2026-07-27T08:52:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ithaca Private Capital Launches in Colombia to Fund Mid-Sized Firms",
+            "url": "https://www.riotimesonline.com/ithaca-private-capital-launches-in-colombia-to-fund-mid-sized-firms/",
+            "published_at": "2026-07-27T08:50:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Cartagena Packing List: 5 Must-Packs for Heat",
+            "url": "https://www.riotimesonline.com/perfect-packing-list-cartagena-city-summer-getaway-2026/",
+            "published_at": "2026-07-27T08:47:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Electoral Court Gives Lula 48 Hours to Explain Official-Channel Promotions",
+            "url": "https://www.riotimesonline.com/electoral-court-gives-lula-48-hours-to-explain-official-channel-promotions/",
+            "published_at": "2026-07-27T08:46:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gaiman Marks Welsh Landing with Tea, Music and Heritage Events",
+            "url": "https://www.riotimesonline.com/gaiman-welsh-landing-heritage-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Budget Squeeze on Brazil\u2019s Central Bank Raises Concern Over Pix\u2019s Security and Scale",
+            "url": "https://www.riotimesonline.com/brazil-pix-central-bank-budget-autonomy-2026/",
+            "published_at": "2026-07-27T08:45:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s App Delivery Workers Break With the Lula Government Over Gig Rules",
+            "url": "https://www.riotimesonline.com/brazils-app-delivery-workers-break-with-the-lula-government-over-gig-rules/",
+            "published_at": "2026-07-27T08:44:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zema Eyes Ex-Chief Justice Joaquim Barbosa as Running Mate for 2026",
+            "url": "https://www.riotimesonline.com/zema-eyes-ex-chief-justice-joaquim-barbosa-as-running-mate-for-2026/",
+            "published_at": "2026-07-27T08:43:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "PT Fields Gleisi Hoffmann and Doutor Rosinha for Senate in Paran\u00e1",
+            "url": "https://www.riotimesonline.com/pt-fields-gleisi-hoffmann-and-doutor-rosinha-for-senate-in-parana/",
+            "published_at": "2026-07-27T08:41:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Uni\u00e3o Brasil Launches Allyson Bezerra for Rio Grande do Norte Governor",
+            "url": "https://www.riotimesonline.com/uniao-brasil-launches-allyson-bezerra-for-rio-grande-do-norte-governor/",
+            "published_at": "2026-07-27T08:40:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s PDT Backs Kalil for Minas Governor, Snubbing Lula\u2019s PT",
+            "url": "https://www.riotimesonline.com/pdt-launches-alexandre-kalil-for-minas-gerais-governor-straining-its-pt-ties/",
+            "published_at": "2026-07-27T08:39:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Ronaldo Caiado Launches 2026 Presidential Bid",
+            "url": "https://www.riotimesonline.com/psd-caiado-presidential-candidate-2026/",
+            "published_at": "2026-07-27T08:38:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Foreign Money Returns to Brazil\u2019s Stock Market After Two Months of Outflows",
+            "url": "https://www.riotimesonline.com/foreign-money-returns-to-brazils-stock-market-after-two-months-of-outflows/",
+            "published_at": "2026-07-27T08:35:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gol Patagonia Flights: Direct Brazil\u2013Argentina Routes for $X",
+            "url": "https://www.riotimesonline.com/gol-launches-exclusive-summer-flights-to-patagonias-el-calafate-and-ushuaia/",
+            "published_at": "2026-07-27T08:33:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Shell Brasil Warns Fewer Oil Auctions Threaten Reserves",
+            "url": "https://www.riotimesonline.com/shell-brasil-warns-brazil-must-auction-more-and-regulate-less-to-grow-oil-reserves/",
+            "published_at": "2026-07-27T08:31:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "African Roots and Paternal Trauma Take Centre Stage at Brazil\u2019s Flip Festival",
+            "url": "https://www.riotimesonline.com/african-roots-paternal-trauma-flip-festival-2026/",
+            "published_at": "2026-07-27T08:31:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "End of Brazil\u2019s Small-Import Tax Sends Parcel Orders Surging 118%",
+            "url": "https://www.riotimesonline.com/end-of-brazils-small-import-tax-sends-parcel-orders-surging-118/",
+            "published_at": "2026-07-27T08:29:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s ETF Market Nearly Triples to About US$21 Billion in Assets",
+            "url": "https://www.riotimesonline.com/brazils-etf-market-nearly-triples-to-about-us21-billion-in-assets/",
+            "published_at": "2026-07-27T08:27:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Port of Rotterdam Takes a Hands-On Role Managing Brazil\u2019s Pec\u00e9m",
+            "url": "https://www.riotimesonline.com/pecem-rotterdam-joint-administration-green-corridor-2026/",
+            "published_at": "2026-07-27T08:26:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "La Paz Book Fair Marks 30 Years with Writers from 19 Nations",
+            "url": "https://www.riotimesonline.com/la-paz-book-fair-30-years-19-nations-2026/",
+            "published_at": "2026-07-27T08:25:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Michelin Guide Names 9 Must-Know Restaurants in Guadalajara",
+            "url": "https://www.riotimesonline.com/michelin-guide-guadalajara-restaurants-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "End\u00e9mico Festival 2026 to Make Guanajuato Mexico\u2019s Haute Cuisine Epicentre",
+            "url": "https://www.riotimesonline.com/endemico-festival-guanajuato-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bancolombia Housing Loans Jump 13% as Cibest Eyes Rentals",
+            "url": "https://www.riotimesonline.com/bancolombia-housing-loans-jump-13-as-cibest-eyes-rentals/",
+            "published_at": "2026-07-27T08:00:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "PAAX GNP 2026 Brings World-Class Music and Art to Riviera Maya",
+            "url": "https://www.riotimesonline.com/paax-gnp-2026-riviera-maya-music-art/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Free Festival Meu Vizinho Pardini Returns to Belo Horizonte",
             "url": "https://www.riotimesonline.com/festival-meu-vizinho-pardini-roberta-sa-fat-family-praca-liberdade-2026/",
@@ -52,42 +234,7 @@
             "language": "en"
         },
         {
-            "title": "Colombia Vacation Rentals Surge 635%, Reshaping Tourism",
-            "url": "https://www.riotimesonline.com/colombia-vacation-rentals-surge-635-reshaping-tourism/",
-            "published_at": "2026-07-27T07:01:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cummins Peru Batteries Pivot Closes First Project in 2026",
-            "url": "https://www.riotimesonline.com/cummins-peru-batteries-pivot-closes-first-project-in-2026/",
-            "published_at": "2026-07-27T07:00:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ithaca Private Capital Launches in Colombia to Fund Mid-Si",
-            "url": "https://www.riotimesonline.com/ithaca-private-capital-colombia-launch/",
-            "published_at": "2026-07-27T07:00:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bancolombia Housing Loans Jump 13% as Cibest Eyes Rentals",
-            "url": "https://www.riotimesonline.com/bancolombia-housing-loans-grow-cibest-rentals/",
-            "published_at": "2026-07-27T07:00:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Footwear Anti-Dumping Review Opens on Chinese Imports",
-            "url": "https://www.riotimesonline.com/peru-footwear-anti-dumping-review-chinese-imports/",
-            "published_at": "2026-07-27T06:59:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fibra Prime Peru REIT Hits US$450 Million AUM, Eyes Arequipa",
+            "title": "Fibra Prime Peru REIT Hits $450M AUM, Eyes Arequipa Growth",
             "url": "https://www.riotimesonline.com/fibra-prime-peru-reit-450-million-aum-arequipa/",
             "published_at": "2026-07-27T06:59:22+00:00",
             "category": [],
@@ -129,7 +276,7 @@
             "language": "en"
         },
         {
-            "title": "Rumo Malha Sul Rail Concession Hearing Set for Curitiba",
+            "title": "Brazil\u2019s Rumo Malha Sul Rail Plan Gets July Hearing in Curitiba",
             "url": "https://www.riotimesonline.com/rumo-malha-sul-rail-hearing-curitiba/",
             "published_at": "2026-07-27T06:52:58+00:00",
             "category": [],
@@ -269,27 +416,6 @@
             "language": "en"
         },
         {
-            "title": "Gold and Silver Surge as US Dollar Dips and Bond Yields Ease",
-            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:32:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Solana, XRP Gain as Bitcoin Dips: Latin America Crypto",
-            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:32:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 27, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-27-2026/",
-            "published_at": "2026-07-27T05:31:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "LatAm Pre-Open \u2014 Monday, July 27, 2026",
             "url": "https://www.riotimesonline.com/latam-pre-open-monday-july-27-2026/",
             "published_at": "2026-07-27T05:31:48+00:00",
@@ -325,13 +451,6 @@
             "language": "en"
         },
         {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 27, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:24:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Rio de Janeiro Daily Brief \u2014 Monday, July 27, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-monday-july-27-2026/",
             "published_at": "2026-07-27T05:22:29+00:00",
@@ -342,13 +461,6 @@
             "title": "Latin America Sports Daily for Monday, July 27, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-monday-july-27-2026/",
             "published_at": "2026-07-27T05:22:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 27, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-july-27-2026/",
-            "published_at": "2026-07-27T05:22:11+00:00",
             "category": [],
             "language": "en"
         },
@@ -587,118 +699,6 @@
             "title": "Peru\u2019s Port Investment Collapses in Early 2026, Down More Than 80%",
             "url": "https://www.riotimesonline.com/perus-port-investment-collapses-in-early-2026-down-more-than-80/",
             "published_at": "2026-07-26T07:02:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Isag\u00e9n to Sell Five Power Plants to Termoyopal Amid Regulator\u2019s Review",
-            "url": "https://www.riotimesonline.com/isagen-to-sell-five-power-plants-to-termoyopal-amid-regulators-review/",
-            "published_at": "2026-07-26T07:00:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras P-32 Recycling Yields 44,000 Tonnes of Steel",
-            "url": "https://www.riotimesonline.com/petrobras-p32-platform-recycled-gerdau-steel-2026/",
-            "published_at": "2026-07-26T06:59:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Miner Buritirama Surpasses Vale in Manganese Exports",
-            "url": "https://www.riotimesonline.com/buritirama-overtakes-vale-in-manganese-and-bets-big-on-expansion/",
-            "published_at": "2026-07-26T06:58:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana\u2019s Debt Has Ballooned Since First Oil, Raising Resource-Curse Fears",
-            "url": "https://www.riotimesonline.com/guyanas-debt-has-ballooned-since-first-oil-raising-resource-curse-fears/",
-            "published_at": "2026-07-26T06:57:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mauricio Guajardo Wins Chaco Biennial in Argentina",
-            "url": "https://www.riotimesonline.com/chilean-sculptor-mauricio-guajardo-wins-argentinas-chaco-biennial/",
-            "published_at": "2026-07-26T06:55:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Juan Carlos Dist\u00e9fano, Master of Argentine Sculpture, Dies at 92",
-            "url": "https://www.riotimesonline.com/juan-carlos-distefano-master-of-argentine-sculpture-dies-at-92/",
-            "published_at": "2026-07-26T06:54:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Siigo Raises US$103.5 Million to Fund Regional Expansion",
-            "url": "https://www.riotimesonline.com/colombias-siigo-raises-us1035-million-to-fund-regional-expansion/",
-            "published_at": "2026-07-26T06:48:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banorte Weighs Another Run at Banamex as Citi Reshapes the Sale",
-            "url": "https://www.riotimesonline.com/banorte-weighs-another-run-at-banamex-as-citi-reshapes-the-sale/",
-            "published_at": "2026-07-26T06:48:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Habib\u2019s debt protection shields $58 million from creditors",
-            "url": "https://www.riotimesonline.com/habibs-owner-60-day-creditor-shield-us58-million-debt/",
-            "published_at": "2026-07-26T06:45:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ita\u00fasa Interest on Capital: Brazil Holding OKs $285M Payout",
-            "url": "https://www.riotimesonline.com/itausa-approves-us285-million-shareholder-payout/",
-            "published_at": "2026-07-26T06:45:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Vibra Energia Enters Argentina\u2019s Lubricants Market",
-            "url": "https://www.riotimesonline.com/vibra-energia-makes-its-first-move-abroad-entering-argentina/",
-            "published_at": "2026-07-26T06:42:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Volaris Q2 2026: $127M Loss as Fuel Costs Surge",
-            "url": "https://www.riotimesonline.com/volaris-posts-us127-million-q2-loss-as-fuel-costs-bite/",
-            "published_at": "2026-07-26T06:42:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Inflation, Fed, Mexico GDP: Week Ahead July 27\u201331",
-            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-july-27-31-2026/",
-            "published_at": "2026-07-26T06:01:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyanese Literary Giant Ian McDonald Dies at 93",
-            "url": "https://www.riotimesonline.com/ian-mcdonald-caribbean-literary-giant-dies-at-93/",
-            "published_at": "2026-07-25T20:07:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brava Board Backs Ecopetrol\u2019s US$534M Takeover Bid",
-            "url": "https://www.riotimesonline.com/brava-board-backs-ecopetrol-opa-2026/",
-            "published_at": "2026-07-25T20:07:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Celsia Builds 260 MW of Solar Across Colombia",
-            "url": "https://www.riotimesonline.com/celsia-colombia-580mwp-solar-2026/",
-            "published_at": "2026-07-25T20:06:48+00:00",
             "category": [],
             "language": "en"
         }
