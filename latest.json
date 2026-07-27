@@ -1,30 +1,100 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T17:10:05+00:00",
+    "updated_at": "2026-07-27T18:10:05+00:00",
     "items": [
         {
-            "title": "Paraguay Rolls Out Updated Incentive Law as Digital Nomads Pour US$50 Million a Year into Economy",
+            "title": "Ronnie Wood to Play Santiago\u2019s Movistar Arena in November 2026",
+            "url": "https://www.riotimesonline.com/ronnie-wood-santiago-movistar-arena-2026/",
+            "published_at": "2026-07-27T18:06:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Negro to Exempt Foreign Tourists from Gross Income Tax",
+            "url": "https://www.riotimesonline.com/rio-negro-to-exempt-foreign-tourists-from-gross-income-tax/",
+            "published_at": "2026-07-27T18:05:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Honors Gardel, Yupanqui and Piazzolla\u2019s Living Legacy",
+            "url": "https://www.riotimesonline.com/argentina-tribute-gardel-yupanqui-piazzolla-2026/",
+            "published_at": "2026-07-27T18:00:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Navy\u2019s Hospital Ship Anna Nery to Serve Amazon Villages",
+            "url": "https://www.riotimesonline.com/brazil-navy-hospital-ship-anna-nery-belem-2026/",
+            "published_at": "2026-07-27T17:54:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Betterware de Mexico Sees Volume Spike as Value Case Builds",
+            "url": "https://www.riotimesonline.com/betterware-de-mexico-bwmx-volume-spike-time-to-buy-2026/",
+            "published_at": "2026-07-27T17:43:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Puerto Rico\u2019s OFG Bancorp Delivers US$1.39 EPS, Shares Hit One-Year High",
+            "url": "https://www.riotimesonline.com/puerto-ricos-ofg-bancorp-delivers-us1-39-eps-shares-hit-one-year-high/",
+            "published_at": "2026-07-27T17:42:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica Launches 60+ Tip-Based Free Guided Tours",
+            "url": "https://www.riotimesonline.com/guadalajara-free-guided-tours-costa-rica-2026/",
+            "published_at": "2026-07-27T17:38:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s National Symphonic Band Kicks Off 2026 With Free Show",
+            "url": "https://www.riotimesonline.com/colombia-national-symphonic-band-free-concert-tunja-2026/",
+            "published_at": "2026-07-27T17:33:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Navy\u2019s 2nd Naval District in Salvador Gets New Chief",
+            "url": "https://www.riotimesonline.com/salvador-mayor-2nd-naval-district-command-change-2026/",
+            "published_at": "2026-07-27T17:27:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Amazon Dialogues Plenary Sets Agenda Ahead of COP30",
+            "url": "https://www.riotimesonline.com/brazil-amazon-dialogues-plenary-agenda-august-2026/",
+            "published_at": "2026-07-27T17:22:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paraguay Rolls Out Updated Incentive Law for Digital Nomads",
             "url": "https://www.riotimesonline.com/paraguay-rolls-out-updated-incentive-law-as-digital-nomads-pour-us50-million-a-year-into-economy/",
             "published_at": "2026-07-27T16:57:56+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Santo Domingo Hosts Central American and Caribbean Games",
+            "title": "Caribbean Games Santo Domingo Mark 100th Anniversary",
             "url": "https://www.riotimesonline.com/santo-domingo-hosts-central-american-and-caribbean-games-through-august-8/",
             "published_at": "2026-07-27T16:53:30+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Bolsonaro Deepfake Video Sparks Brazil Court Complaint",
+            "title": "Brazil Electoral Court Probes Bolsonaro Deepfake Video",
             "url": "https://www.riotimesonline.com/brazil-pt-tse-ai-video-bolsonaro-flavio-convention/",
             "published_at": "2026-07-27T16:52:49+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Guanacaste Positions Itself as a Leading Medical-Tourism Destination",
+            "title": "Guanacaste Aims to Lead Medical Tourism for US Patients",
             "url": "https://www.riotimesonline.com/guanacaste-positions-itself-as-a-leading-medical-tourism-destination/",
             "published_at": "2026-07-27T16:48:01+00:00",
             "category": [],
@@ -629,76 +699,6 @@
             "title": "Sudan Health System Collapse Leaves 30M Without Care",
             "url": "https://www.riotimesonline.com/sudan-health-system-collapse-hunger-disease-2026/",
             "published_at": "2026-07-27T06:57:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Senegal Insurance Revenue Hits 311 Billion CFA, Second in CIMA Region",
-            "url": "https://www.riotimesonline.com/senegal-insurance-revenue-311-billion-cfa-second-cima-2026/",
-            "published_at": "2026-07-27T06:57:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Interest Rate Set for Final Avila Hike to 12.50%",
-            "url": "https://www.riotimesonline.com/colombia-interest-rate-avila-final-hike-july-2026/",
-            "published_at": "2026-07-27T06:53:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Rumo Malha Sul Rail Plan Gets July Hearing in Curitiba",
-            "url": "https://www.riotimesonline.com/rumo-malha-sul-rail-hearing-curitiba/",
-            "published_at": "2026-07-27T06:52:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Hospital Roll-Up Expands as Red Interclinica Buys Tw",
-            "url": "https://www.riotimesonline.com/chile-hospital-roll-up-red-interclinica-vina-puerto-varas/",
-            "published_at": "2026-07-27T06:52:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "FEMSA Mexico Investment Tops US$900 Million for 2026",
-            "url": "https://www.riotimesonline.com/femsa-mexico-investment-2026/",
-            "published_at": "2026-07-27T06:52:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Slim Puebla Mall Deal: Carlos Slim Eyes Mixed-Use Megaproj",
-            "url": "https://www.riotimesonline.com/slim-puebla-mall-deal-carlos-slim-eyes-mixed-use-megaproj/",
-            "published_at": "2026-07-27T06:51:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Milei Strikes Starlink Deal for 6,000 Rural Schools",
-            "url": "https://www.riotimesonline.com/milei-starlink-schools-argentina-rural-connectivity/",
-            "published_at": "2026-07-27T06:51:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s $205M Santa Marta Desalination Under Review",
-            "url": "https://www.riotimesonline.com/santa-marta-desalination-contract-review/",
-            "published_at": "2026-07-27T06:31:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Canadian XAU Resources to Acquire Guyana Quartzstone Gold",
-            "url": "https://www.riotimesonline.com/guyana-quartzstone-gold-xau-resources-acquisition/",
-            "published_at": "2026-07-27T06:31:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "UNESCO Warns Vaca Muerta Pipeline Threatens Patagonia Site",
-            "url": "https://www.riotimesonline.com/unesco-argentina-halt-vaca-muerta-pipeline/",
-            "published_at": "2026-07-27T06:31:26+00:00",
             "category": [],
             "language": "en"
         }
