@@ -1,16 +1,86 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T12:10:05+00:00",
+    "updated_at": "2026-07-27T13:11:11+00:00",
     "items": [
         {
-            "title": "Petrobras\u2019s P-52 Platform Has Been Shut for Nine Months and May Not Return in 2026",
+            "title": "IDB Invest Lines Up US$80 Million Loan for Jamaica\u2019s JPS Grid Recovery",
+            "url": "https://www.riotimesonline.com/idb-invest-jps-jamaica-grid-recovery-loan/",
+            "published_at": "2026-07-27T13:10:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s El Ni\u00f1o Costero Threatens Crops, Anchovy Into 2027",
+            "url": "https://www.riotimesonline.com/peru-el-nino-costero-crops-anchovy-2026/",
+            "published_at": "2026-07-27T13:08:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Police Probe Banco Master Owner\u2019s Cemig Sim Ties",
+            "url": "https://www.riotimesonline.com/brazil-federal-police-vorcaro-cemig-sim-probe/",
+            "published_at": "2026-07-27T13:07:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Flower Growers Fight New US Tariff as Duty Hits 12.5%",
+            "url": "https://www.riotimesonline.com/colombias-flower-growers-fight-new-us-tariff-as-duty-hits-125/",
+            "published_at": "2026-07-27T13:01:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Colectora Power Line Nears Completion to Unlock Guajira Wind",
+            "url": "https://www.riotimesonline.com/colombias-colectora-power-line-nears-completion-to-unlock-guajira-wind/",
+            "published_at": "2026-07-27T13:00:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s De la Espriella to Shut 14 Embassies by August 7",
+            "url": "https://www.riotimesonline.com/colombia-de-la-espriella-close-14-embassies-august/",
+            "published_at": "2026-07-27T12:59:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TCP Paranagua Record TEUs: 835,000 in First Half 2026",
+            "url": "https://www.riotimesonline.com/paranagua-container-terminal-sets-first-half-record-of-835000-teus/",
+            "published_at": "2026-07-27T12:57:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Sabesp to Fully Absorb EMAE, Vote Set for July 30",
+            "url": "https://www.riotimesonline.com/sabesp-emae-merger-vote-july-30/",
+            "published_at": "2026-07-27T12:56:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Recalls Ambassador to Argentina After Milei Insults Lula",
+            "url": "https://www.riotimesonline.com/brazil-recalls-ambassador-argentina-milei-lula/",
+            "published_at": "2026-07-27T12:55:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "UNESCO Names Amazon Theaters of Manaus and Belem World Heritage Sites",
+            "url": "https://www.riotimesonline.com/unesco-names-amazon-theaters-of-manaus-and-belem-world-heritage-sites/",
+            "published_at": "2026-07-27T12:53:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Oil Giant Petrobras\u2019s P-52 Platform Shut 9 Months",
             "url": "https://www.riotimesonline.com/petrobrass-p-52-platform-has-been-shut-for-nine-months-and-may-not-return-in-2026/",
             "published_at": "2026-07-27T11:47:11+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Peru REIT Fibra Prime Hits $450M, Eyes $500M by 2026",
+            "title": "Fibra Prime Peru REIT Hits $450M in Assets, Targets $500M",
             "url": "https://www.riotimesonline.com/fibra-prime-peru-reit-hits-us450-million-aum-eyes-arequipa/",
             "published_at": "2026-07-27T10:50:09+00:00",
             "category": [],
@@ -290,7 +360,7 @@
             "language": "en"
         },
         {
-            "title": "Rancho MG74 Pinheiros barbecue opens in S\u00e3o Paulo",
+            "title": "US-style barbecue Rancho MG74 opens in S\u00e3o Paulo\u2019s Pinheiros",
             "url": "https://www.riotimesonline.com/rancho-mg74-barbecue-country-music-pinheiros-2026/",
             "published_at": false,
             "category": [],
@@ -416,7 +486,7 @@
             "language": "en"
         },
         {
-            "title": "All-You-Can-Scoop Tiramisu Goes Viral in Samborond\u00f3n",
+            "title": "$8 All-You-Can-Scoop Tiramisu Goes Viral in Ecuador",
             "url": "https://www.riotimesonline.com/tiramisu-viral-samborondon-2026/",
             "published_at": false,
             "category": [],
@@ -629,76 +699,6 @@
             "title": "Colombia Inauguration Venue Dispute: Key for Foreigners",
             "url": "https://www.riotimesonline.com/colombia-inauguration-venue-cauca-foreigners-2026/",
             "published_at": "2026-07-27T05:41:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Grains: Soybeans Edge up, Wheat Slips",
-            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:34:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil Slide Hits Brazil\u2019s Petrobras, Argentina\u2019s YPF and Peers",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:34:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Steel Stocks Rise on China Tariff Hopes",
-            "url": "https://www.riotimesonline.com/steel-markets-latam-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:34:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold and Silver Surge as US Dollar Dips and Bond Yields Ease",
-            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:33:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc Latin America: Price Drop Hits Nexa and Buenaventura",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:33:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iron Ore Wrap: Brazilian Miner Vale Dips as China Demand Wavers",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:33:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lithium Triangle Stocks Dip as EV Demand Cools",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:33:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Solana, XRP Gain as Bitcoin Dips: Latin America Crypto",
-            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:32:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Market Steady as Chile Supply Risks Meet China Demand",
-            "url": "https://www.riotimesonline.com/copper-markets-latam-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:32:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Monday, July 27, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:31:48+00:00",
             "category": [],
             "language": "en"
         }
