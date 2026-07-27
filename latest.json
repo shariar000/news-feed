@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-27T11:10:47+00:00",
+    "updated_at": "2026-07-27T12:10:05+00:00",
     "items": [
+        {
+            "title": "Petrobras\u2019s P-52 Platform Has Been Shut for Nine Months and May Not Return in 2026",
+            "url": "https://www.riotimesonline.com/petrobrass-p-52-platform-has-been-shut-for-nine-months-and-may-not-return-in-2026/",
+            "published_at": "2026-07-27T11:47:11+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Peru REIT Fibra Prime Hits $450M, Eyes $500M by 2026",
             "url": "https://www.riotimesonline.com/fibra-prime-peru-reit-hits-us450-million-aum-eyes-arequipa/",
@@ -17,7 +24,7 @@
             "language": "en"
         },
         {
-            "title": "Bolivia Mining Code Fight: Cooperatives vs. Workers in Court",
+            "title": "Bolivia Mining Code Clash: Cooperatives vs. Workers in Court",
             "url": "https://www.riotimesonline.com/bolivia-mining-code-overhaul-proposed-at-la-paz-summit/",
             "published_at": "2026-07-27T09:50:15+00:00",
             "category": [],
@@ -73,14 +80,14 @@
             "language": "en"
         },
         {
-            "title": "Ancestral Foods of Costa Rica\u2019s Guanacaste Face Extinction",
+            "title": "Costa Rica\u2019s Ancestral Foods of Guanacaste Risk Extinction",
             "url": "https://www.riotimesonline.com/costa-rica-rescues-guanacaste-ancestral-foods-heritage-2026/",
             "published_at": "2026-07-27T09:19:55+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Colombia\u2019s \u20186402 Reasons Not to Forget\u2019 Memorial Opens in Bogot\u00e1",
+            "title": "Colombia\u2019s 6402 Reasons Not to Forget Memorial Opens in Bogot\u00e1",
             "url": "https://www.riotimesonline.com/colombia-6402-reasons-not-to-forget-exhibition-bogota-2026/",
             "published_at": "2026-07-27T09:09:30+00:00",
             "category": [],
@@ -94,7 +101,7 @@
             "language": "en"
         },
         {
-            "title": "Hangar Rojo Chile Premiere: Film on Pinochet-Era Defiance",
+            "title": "Hangar Rojo Chile Premiere Set for October 2026",
             "url": "https://www.riotimesonline.com/award-winning-film-soldiers-opposed-1973-coup-premiere-chile-2026/",
             "published_at": "2026-07-27T08:52:56+00:00",
             "category": [],
@@ -143,14 +150,14 @@
             "language": "en"
         },
         {
-            "title": "Brazil Governor Zema Eyes Ex-Justice Barbosa for 2026 VP Run",
+            "title": "Zema Eyes Ex-STF Justice Joaquim Barbosa for 2026 VP Run",
             "url": "https://www.riotimesonline.com/zema-eyes-ex-chief-justice-joaquim-barbosa-as-running-mate-for-2026/",
             "published_at": "2026-07-27T08:43:02+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "PT Fields Gleisi Hoffmann and Doutor Rosinha for Senate in Paran\u00e1",
+            "title": "Brazil\u2019s PT Picks Gleisi Hoffmann for Senate Seat in Paran\u00e1",
             "url": "https://www.riotimesonline.com/pt-fields-gleisi-hoffmann-and-doutor-rosinha-for-senate-in-parana/",
             "published_at": "2026-07-27T08:41:16+00:00",
             "category": [],
@@ -164,14 +171,14 @@
             "language": "en"
         },
         {
-            "title": "Cummins Peru Batteries Pivot Closes First Project in 2026",
+            "title": "Cummins Peru Eyes First Battery Storage Project by 2026",
             "url": "https://www.riotimesonline.com/cummins-peru-batteries-first-project-2026/",
             "published_at": "2026-07-27T08:40:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s PDT Backs Kalil for Minas Governor, Snubbing Lula\u2019s PT",
+            "title": "Brazil Left Splits as PDT Backs Kalil for Minas Governor",
             "url": "https://www.riotimesonline.com/pdt-launches-alexandre-kalil-for-minas-gerais-governor-straining-its-pt-ties/",
             "published_at": "2026-07-27T08:39:07+00:00",
             "category": [],
@@ -234,7 +241,7 @@
             "language": "en"
         },
         {
-            "title": "La Paz Book Fair Marks 30 Years with Writers from 19 Nations",
+            "title": "La Paz Book Fair Hits 100K Visitors Over 30 Years",
             "url": "https://www.riotimesonline.com/la-paz-book-fair-30-years-19-nations-2026/",
             "published_at": "2026-07-27T08:25:46+00:00",
             "category": [],
@@ -313,7 +320,7 @@
         {
             "title": "Hernan Piquin Soda Stereo Tribute Hits Argentine Theater",
             "url": "https://www.riotimesonline.com/hernan-piquin-soda-stereo-tribute-rosario-2026/",
-            "published_at": false,
+            "published_at": "2026-07-27T08:06:19+00:00",
             "category": [],
             "language": "en"
         },
@@ -360,9 +367,9 @@
             "language": "en"
         },
         {
-            "title": "PAAX GNP 2026: Music Festival Hits Mexico\u2019s Riviera Maya",
+            "title": "PAAX GNP 2026: Mexico\u2019s Riviera Maya Hosts 11-Day Music Fest",
             "url": "https://www.riotimesonline.com/paax-gnp-2026-riviera-maya-music-art/",
-            "published_at": false,
+            "published_at": "2026-07-27T07:54:48+00:00",
             "category": [],
             "language": "en"
         },
@@ -381,9 +388,9 @@
             "language": "en"
         },
         {
-            "title": "Mariana Gonz\u00e1lez Turns Mexican Family Silences Into Comedy in \u2018Terapia Familiar\u2019",
+            "title": "Mariana Gonzalez Terapia Familiar: Mexican Director\u2019s Comedy Hit",
             "url": "https://www.riotimesonline.com/mariana-gonzalez-terapia-familiar-comedy-2026/",
-            "published_at": false,
+            "published_at": "2026-07-27T07:48:13+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "LatAm Pre-Open \u2014 Monday, July 27, 2026",
             "url": "https://www.riotimesonline.com/latam-pre-open-monday-july-27-2026/",
             "published_at": "2026-07-27T05:31:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Monday, July 27, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-july-27-2026/",
-            "published_at": "2026-07-27T05:31:40+00:00",
             "category": [],
             "language": "en"
         }
