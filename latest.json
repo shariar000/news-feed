@@ -1,9 +1,16 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-28T18:10:05+00:00",
+    "updated_at": "2026-07-28T19:10:03+00:00",
     "items": [
         {
-            "title": "TIM Brazil Earnings Hit Record on Fiber, Mobile Growth",
+            "title": "Vivo Brazil Profit Hits US$308M on Mobile, Fiber Growth",
+            "url": "https://www.riotimesonline.com/vivo-brazil-earnings-q2-2026-profit-mobile-fiber/",
+            "published_at": "2026-07-28T18:27:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TIM Brazil Profit Hits Record US$203M on Fiber, Mobile",
             "url": "https://www.riotimesonline.com/tim-brazil-earnings-record-q2-2026/",
             "published_at": "2026-07-28T17:45:06+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Simpar Q2 Service Revenue Hits Record as Leverage Falls",
             "url": "https://www.riotimesonline.com/simpar-second-quarter-record-revenue-lowest-leverage/",
             "published_at": "2026-07-28T08:05:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "WEG Stock Upgrade: Analysts Say the Worst Is Over",
-            "url": "https://www.riotimesonline.com/weg-stock-upgrade-analysts-worst-over/",
-            "published_at": "2026-07-28T08:05:22+00:00",
             "category": [],
             "language": "en"
         }
