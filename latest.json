@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-28T17:10:04+00:00",
+    "updated_at": "2026-07-28T18:10:05+00:00",
     "items": [
+        {
+            "title": "TIM Brazil Earnings Hit Record on Fiber, Mobile Growth",
+            "url": "https://www.riotimesonline.com/tim-brazil-earnings-record-q2-2026/",
+            "published_at": "2026-07-28T17:45:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LitioMX Lithium Plan Sets 2026-2030 Path for Mexico\u2019s Battery Push",
+            "url": "https://www.riotimesonline.com/litiomx-lithium-2026-2030-plan-battery-pilot/",
+            "published_at": "2026-07-28T17:44:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia Investment: Paz Secures US$300 Million",
+            "url": "https://www.riotimesonline.com/bolivia-investment-paz-us300-million/",
+            "published_at": "2026-07-28T17:44:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dominican Republic Electricity Demand Hits 4,203 MW Record",
+            "url": "https://www.riotimesonline.com/dominican-republic-electricity-demand-record-4203-mw/",
+            "published_at": "2026-07-28T17:43:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Portonave Plans US$392M Navegantes Port Expansion",
+            "url": "https://www.riotimesonline.com/portonave-navegantes-r2-billion-expansion/",
+            "published_at": "2026-07-28T17:43:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Jamaica GCT Hike Threatens Caribbean Holiday Costs",
+            "url": "https://www.riotimesonline.com/jamaica-gct-tourism-tax-hike/",
+            "published_at": "2026-07-28T17:42:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "JBS, Marfrig Cattle Supply Boost as US Reopens Mexico Border",
+            "url": "https://www.riotimesonline.com/jbs-marfrig-cattle-us-mexico-border-reopening/",
+            "published_at": "2026-07-28T17:13:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "YPF Vaca Muerta Seeks Permit for 12-Well US$160M Pilot",
             "url": "https://www.riotimesonline.com/ypf-vaca-muerta-lng-pilot-permit/",
@@ -157,7 +206,7 @@
             "language": "en"
         },
         {
-            "title": "East African Bloc Delays Single Currency Launch to 2031",
+            "title": "East African Community Single Currency Delayed to 2031",
             "url": "https://www.riotimesonline.com/east-african-community-single-currency-2031-2026/",
             "published_at": false,
             "category": [],
@@ -171,7 +220,7 @@
             "language": "en"
         },
         {
-            "title": "Libya Central Bank Injects US$2 Billion to Defend Currency",
+            "title": "Libya Central Bank Injects US$2 Billion to Prop up Dinar",
             "url": "https://www.riotimesonline.com/libya-central-bank-injects-2-billion-stabilise-dinar-2026/",
             "published_at": false,
             "category": [],
@@ -325,7 +374,7 @@
             "language": "en"
         },
         {
-            "title": "US-Colombia Biometric Deal Tightens Festival Security",
+            "title": "Colombia Immigration Security Gets US Biometric Data Deal",
             "url": "https://www.riotimesonline.com/colombia-us-immigration-security-colombiamoda-flower-festival-2026/",
             "published_at": "2026-07-28T12:12:04+00:00",
             "category": [],
@@ -650,55 +699,6 @@
             "title": "WEG Stock Upgrade: Analysts Say the Worst Is Over",
             "url": "https://www.riotimesonline.com/weg-stock-upgrade-analysts-worst-over/",
             "published_at": "2026-07-28T08:05:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-tuesday-july-28-2026/",
-            "published_at": "2026-07-28T07:09:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Fujimori Cabinet Picks Signal US Policy Shift",
-            "url": "https://www.riotimesonline.com/peru-fujimori-cabinet-picks-foreigners-2026/",
-            "published_at": "2026-07-28T07:09:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cali\u2019s Oiga Mire Lea Literature Festival Returns for a 12th Edition in Colombia",
-            "url": "https://www.riotimesonline.com/cali-oiga-mire-lea-literature-festival-12th-edition-colombia/",
-            "published_at": "2026-07-28T06:50:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Arequipa Peru National Pisco Day: Free Tastings, Winery Tours",
-            "url": "https://www.riotimesonline.com/arequipa-national-pisco-day-winemaking-tradition-2026/",
-            "published_at": "2026-07-28T06:46:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump EU Trade Investigation Over $1 Billion Tech Fines",
-            "url": "https://www.riotimesonline.com/trump-trade-probe-eu-fines-us-tech-giants/",
-            "published_at": "2026-07-28T06:41:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nicaragua Reform Strips Exiled Opposition of Citizenship",
-            "url": "https://www.riotimesonline.com/nicaragua-reforms-bar-exiled-opposition-citizenship/",
-            "published_at": "2026-07-28T06:38:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Carlos Slim\u2019s Grupo Carso Signs $1.99 Billion Pemex Oil Deal",
-            "url": "https://www.riotimesonline.com/carlos-slim-grupo-carso-pemex-contracts-mexican-oil/",
-            "published_at": "2026-07-28T06:33:33+00:00",
             "category": [],
             "language": "en"
         }
