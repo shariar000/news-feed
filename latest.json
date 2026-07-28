@@ -1,60 +1,39 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-28T08:10:04+00:00",
+    "updated_at": "2026-07-28T09:10:04+00:00",
     "items": [
         {
-            "title": "Venezuela Sanctions Eased Temporarily for Earthquake Recon",
-            "url": "https://www.riotimesonline.com/venezuela-sanctions-eased-earthquake-reconstruction/",
-            "published_at": "2026-07-28T08:09:28+00:00",
+            "title": "Shell Bahamas LNG Terminal Gets Final Green Light",
+            "url": "https://www.riotimesonline.com/shell-bahamas-lng-terminal-gets-final-green-light/",
+            "published_at": "2026-07-28T08:57:42+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Colombia Electricity Deficit Looms from 2028, Power Sector",
-            "url": "https://www.riotimesonline.com/colombia-electricity-deficit-2028-warning/",
-            "published_at": "2026-07-28T08:06:55+00:00",
+            "title": "GEB Bids US$4.5 Billion for Ecopetrol\u2019s ISA Grid Stake",
+            "url": "https://www.riotimesonline.com/geb-bids-us4-5-billion-for-ecopetrols-isa-grid-stake/",
+            "published_at": "2026-07-28T08:49:47+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Mexico Mining Blocked: US$11 Billion Stalled by Permits",
-            "url": "https://www.riotimesonline.com/mexico-mining-blocked-us11-billion-stalled/",
-            "published_at": "2026-07-28T08:06:49+00:00",
+            "title": "Brent Oil Price Crash Near US$88 on US-Iran Truce",
+            "url": "https://www.riotimesonline.com/brent-oil-price-crash-near-us88-on-us-iran-truce/",
+            "published_at": "2026-07-28T08:36:28+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Itau GenAI Assistant ia.i Rolls Out to 300,000 Clients",
-            "url": "https://www.riotimesonline.com/itau-genai-assistant-iai-launch-2026/",
-            "published_at": "2026-07-28T08:06:44+00:00",
+            "title": "Brazil\u2019s Science and Innovation Push Draws Global Investor Attention",
+            "url": "https://www.riotimesonline.com/brazils-science-and-innovation-push-draws-global-investor-attention/",
+            "published_at": "2026-07-28T08:16:23+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "CSN Cimentos Sale Led by Chinese, Italian, Votorantim Bids",
-            "url": "https://www.riotimesonline.com/csn-cimentos-sale-chinese-italian-votorantim-bids/",
-            "published_at": "2026-07-28T08:05:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Simpar Q2 Service Revenue Hits Record as Leverage Falls",
-            "url": "https://www.riotimesonline.com/simpar-second-quarter-record-revenue-lowest-leverage/",
-            "published_at": "2026-07-28T08:05:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "WEG Stock Upgrade: Analysts Say the Worst Is Over",
-            "url": "https://www.riotimesonline.com/weg-stock-upgrade-analysts-worst-over/",
-            "published_at": "2026-07-28T08:05:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vivo Telefonica Second Quarter Net Income Jumps 17%",
-            "url": "https://www.riotimesonline.com/vivo-telefonica-second-quarter-record-profit/",
-            "published_at": "2026-07-28T08:05:13+00:00",
+            "title": "Brazil Power-Bill Costs Jump Almost US$200 Billion in Senate Vote",
+            "url": "https://www.riotimesonline.com/brazil-power-bill-costs-jump-almost-us200-billion-in-senate-vote/",
+            "published_at": "2026-07-28T08:15:44+00:00",
             "category": [],
             "language": "en"
         },
@@ -101,7 +80,7 @@
             "language": "en"
         },
         {
-            "title": "Carlos Slim\u2019s Grupo Carso Inks $2B Pemex Oil Deal in Mexico",
+            "title": "Carlos Slim\u2019s Grupo Carso Signs $1.99 Billion Pemex Oil Deal",
             "url": "https://www.riotimesonline.com/carlos-slim-grupo-carso-pemex-contracts-mexican-oil/",
             "published_at": "2026-07-28T06:33:33+00:00",
             "category": [],
@@ -699,6 +678,27 @@
             "title": "Peru El Ni\u00f1o Costero 2026 Hits Mango, Coffee, Anchovy Supply",
             "url": "https://www.riotimesonline.com/peru-el-nino-costero-crops-anchovy-2026/",
             "published_at": "2026-07-27T13:08:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vorcaro Cemig Sim: Brazil Police Probe Bank Owner\u2019s Ties",
+            "url": "https://www.riotimesonline.com/brazil-federal-police-vorcaro-cemig-sim-probe/",
+            "published_at": "2026-07-27T13:07:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Expands Free Literacy Programmes for Youth and Adults Nationwide",
+            "url": "https://www.riotimesonline.com/brazil-expands-free-literacy-programmes-youth-adults/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Flower Growers Fight New US Tariff as Duty Hits 12.5%",
+            "url": "https://www.riotimesonline.com/colombias-flower-growers-fight-new-us-tariff-as-duty-hits-125/",
+            "published_at": "2026-07-27T13:01:21+00:00",
             "category": [],
             "language": "en"
         }
