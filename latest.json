@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-28T09:10:04+00:00",
+    "updated_at": "2026-07-28T10:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina M&A Record: Best Half in Five Years at US$5.7B",
+            "url": "https://www.riotimesonline.com/argentina-ma-record-best-half-in-five-years-at-us5-7b/",
+            "published_at": "2026-07-28T09:48:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TIM Brasil Second Quarter Profit Hits Record on Fiber Push",
+            "url": "https://www.riotimesonline.com/tim-brasil-second-quarter-profit-hits-record-on-fiber-push/",
+            "published_at": "2026-07-28T09:15:25+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Shell Bahamas LNG Terminal Gets Final Green Light",
             "url": "https://www.riotimesonline.com/shell-bahamas-lng-terminal-gets-final-green-light/",
@@ -34,6 +48,20 @@
             "title": "Brazil Power-Bill Costs Jump Almost US$200 Billion in Senate Vote",
             "url": "https://www.riotimesonline.com/brazil-power-bill-costs-jump-almost-us200-billion-in-senate-vote/",
             "published_at": "2026-07-28T08:15:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Electricity Deficit Looms from 2028, Power Sector",
+            "url": "https://www.riotimesonline.com/colombia-electricity-deficit-2028-warning/",
+            "published_at": "2026-07-28T08:06:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "WEG Stock Upgrade: Analysts Say the Worst Is Over",
+            "url": "https://www.riotimesonline.com/weg-stock-upgrade-analysts-worst-over/",
+            "published_at": "2026-07-28T08:05:22+00:00",
             "category": [],
             "language": "en"
         },
@@ -150,7 +178,7 @@
             "language": "en"
         },
         {
-            "title": "South Korea\u2019s President Inspects Brazil\u2019s First KC-390 Military Cargo Plane",
+            "title": "South Korea Embraer KC-390 Inspected Ahead of 2026 Delivery",
             "url": "https://www.riotimesonline.com/south-korea-president-inspects-embraer-kc-390-brasilia/",
             "published_at": "2026-07-28T05:57:13+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "IDB Invest Lines Up US$80 Million Loan for Jamaica\u2019s JPS Grid Recovery",
             "url": "https://www.riotimesonline.com/idb-invest-lines-up-us80-million-loan-for-jamaicas-jps-grid-recovery/",
             "published_at": "2026-07-27T13:10:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru El Ni\u00f1o Costero 2026 Hits Mango, Coffee, Anchovy Supply",
-            "url": "https://www.riotimesonline.com/peru-el-nino-costero-crops-anchovy-2026/",
-            "published_at": "2026-07-27T13:08:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vorcaro Cemig Sim: Brazil Police Probe Bank Owner\u2019s Ties",
-            "url": "https://www.riotimesonline.com/brazil-federal-police-vorcaro-cemig-sim-probe/",
-            "published_at": "2026-07-27T13:07:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Expands Free Literacy Programmes for Youth and Adults Nationwide",
-            "url": "https://www.riotimesonline.com/brazil-expands-free-literacy-programmes-youth-adults/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Flower Growers Fight New US Tariff as Duty Hits 12.5%",
-            "url": "https://www.riotimesonline.com/colombias-flower-growers-fight-new-us-tariff-as-duty-hits-125/",
-            "published_at": "2026-07-27T13:01:21+00:00",
             "category": [],
             "language": "en"
         }
