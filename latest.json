@@ -1,9 +1,93 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-29T18:10:04+00:00",
+    "updated_at": "2026-07-29T19:10:05+00:00",
     "items": [
         {
-            "title": "Argentina Tenders Los Nihuiles Hydro Complex for Privatisation",
+            "title": "USA & Canada Intelligence Brief \u2014 Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T18:58:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T18:58:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T18:58:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T18:58:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Lobby Pitches US$350 Billion Infrastructure Plan",
+            "url": "https://www.riotimesonline.com/brazil-transport-lobby-pitches-us-350-billion-infrastructure-plan/",
+            "published_at": "2026-07-29T18:19:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "IMF Urges Brazil to Cap New Loan Payments as 70M Default",
+            "url": "https://www.riotimesonline.com/imf-brazil-household-debt-cap-40-percent-income-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cristina Kirchner Takes Corruption Conviction to UN Human Rights Committee",
+            "url": "https://www.riotimesonline.com/cristina-kirchner-un-human-rights-committee-conviction-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "JP Morgan Says Latin America\u2019s Right Turn Is Complete",
+            "url": "https://www.riotimesonline.com/jp-morgan-latin-america-rightward-shift-brazil-unknown-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Extends Brazil Emergency, Keeping Tariffs on Imports",
+            "url": "https://www.riotimesonline.com/us-extends-brazil-national-emergency-2027/",
+            "published_at": "2026-07-29T18:15:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentine Equities Lure Dutch Giant Robeco After 9-Year Exit",
+            "url": "https://www.riotimesonline.com/robeco-returns-argentine-equities-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Keiko Fujimori Names Market-Friendly Economic Team for Peru",
+            "url": "https://www.riotimesonline.com/keiko-fujimori-economic-cabinet-peru-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cura\u00e7ao Bets on Oil Storage to Serve Guyana\u2019s Boom",
+            "url": "https://www.riotimesonline.com/curacao-logistics-hub-guyana-suriname-oil-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Tenders Los Nihuiles Hydro Complex Privatization",
             "url": "https://www.riotimesonline.com/argentina-tenders-los-nihuiles-hydro-privatisation-2026/",
             "published_at": false,
             "category": [],
@@ -19,7 +103,7 @@
         {
             "title": "Chile Reworks Prison Concessions to Unlock US$2.65 Billion in Works",
             "url": "https://www.riotimesonline.com/chile-reworks-prison-concession-model-2026/",
-            "published_at": false,
+            "published_at": "2026-07-29T17:39:08+00:00",
             "category": [],
             "language": "en"
         },
@@ -31,7 +115,7 @@
             "language": "en"
         },
         {
-            "title": "Telecom Argentina Ordered to Divest Assets After Movistar Deal",
+            "title": "Argentina\u2019s Telecom Ordered to Shed Assets After Movistar Deal",
             "url": "https://www.riotimesonline.com/telecom-argentina-competition-mandated-divestment-2026/",
             "published_at": false,
             "category": [],
@@ -615,90 +699,6 @@
             "title": "Nigerian Court Voids Lawmakers\u2019 US$47M Compensation Order Against Seplat",
             "url": "https://www.riotimesonline.com/court-voids-reps-n72bn-compensation-directive-against-seplat-2026/",
             "published_at": "2026-07-29T06:40:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Helios\u2019 US$297M CAB Payments Bid Faces East Africa Review",
-            "url": "https://www.riotimesonline.com/helios-cab-payments-east-africa-competition-review-2026/",
-            "published_at": "2026-07-29T06:37:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria Gas Flaring Wastes US$1.1 Billion in Power",
-            "url": "https://www.riotimesonline.com/nigeria-gas-flaring-rises-electricity-loss-2026/",
-            "published_at": "2026-07-29T06:34:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Morocco Bans Used Medical Devices to Boost Safety",
-            "url": "https://www.riotimesonline.com/morocco-bans-used-medical-devices-2026/",
-            "published_at": "2026-07-29T06:31:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Canal+ Bets Content Remains King as MultiChoice Finds Growth",
-            "url": "https://www.riotimesonline.com/canal-plus-content-remains-king-multichoice-growth-2026/",
-            "published_at": "2026-07-29T06:28:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Africa Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-july-28-2026/",
-            "published_at": "2026-07-29T06:22:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-tuesday-july-28-2026/",
-            "published_at": "2026-07-29T06:19:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-tuesday-july-28-2026/",
-            "published_at": "2026-07-29T06:16:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-tuesday-july-28-202/",
-            "published_at": "2026-07-29T06:13:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Libya Central Bank Injects US$2 Billion to Prop up Dinar",
-            "url": "https://www.riotimesonline.com/libya-central-bank-injects-2-billion-stabilise-dinar-2026/",
-            "published_at": "2026-07-29T06:10:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mozambique Central Bank Swings to Profit on FX and Gold Gains",
-            "url": "https://www.riotimesonline.com/mozambique-central-bank-profit-fx-gold-2026/",
-            "published_at": "2026-07-29T06:07:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "East African Community (EAC) Single Currency Delayed to 2031",
-            "url": "https://www.riotimesonline.com/east-african-community-single-currency-2031-2026/",
-            "published_at": "2026-07-29T06:04:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Wednesday, July 29, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-july-29-2026/",
-            "published_at": "2026-07-29T06:04:25+00:00",
             "category": [],
             "language": "en"
         }
