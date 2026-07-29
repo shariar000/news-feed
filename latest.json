@@ -1,7 +1,378 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-29T06:10:05+00:00",
+    "updated_at": "2026-07-29T07:10:04+00:00",
     "items": [
+        {
+            "title": "Panama Tops World Expat Ranking for Third Year Running",
+            "url": "https://www.riotimesonline.com/panama-tops-world-expat-ranking-2026/",
+            "published_at": "2026-07-29T07:07:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Frida Kahlo\u2019s Personal World Comes to Buenos Aires",
+            "url": "https://www.riotimesonline.com/frida-kahlos-personal-world-comes-to-buenos-aires/",
+            "published_at": "2026-07-29T07:04:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Offers TPS Holders US$2,600 and a Free Flight Out",
+            "url": "https://www.riotimesonline.com/us-offers-tps-holders-us2600-and-a-free-flight-out/",
+            "published_at": "2026-07-29T07:01:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bogot\u00e1 Studio Rents: What Expats Actually Pay in 2026",
+            "url": "https://www.riotimesonline.com/bogota-studio-rents-what-expats-actually-pay-in-2026/",
+            "published_at": "2026-07-29T06:58:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Now Has 12 IMAX Screens Across Eight States",
+            "url": "https://www.riotimesonline.com/brazil-now-has-12-imax-screens-across-eight-states/",
+            "published_at": "2026-07-29T06:55:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico City Links Metro Chabacano to Floating Garden",
+            "url": "https://www.riotimesonline.com/mexico-city-links-metro-chabacano-to-floating-garden/",
+            "published_at": "2026-07-29T06:52:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Gin from Llif\u00e9n Wins Gold in San Francisco",
+            "url": "https://www.riotimesonline.com/chilean-gin-from-llifen-wins-gold-in-san-francisco/",
+            "published_at": "2026-07-29T06:49:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Apple briefly tops $5 trillion market value for first time",
+            "url": "https://www.riotimesonline.com/apple-briefly-tops-5-trillion-market-value-2026/",
+            "published_at": "2026-07-29T06:46:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Harmony Gold Locks In R20bn Package for Copper Expansion",
+            "url": "https://www.riotimesonline.com/harmony-gold-r20bn-funding-copper-expansion-2026/",
+            "published_at": "2026-07-29T06:43:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigerian Court Voids Lawmakers\u2019 N72.6bn Compensation Order Against Seplat",
+            "url": "https://www.riotimesonline.com/court-voids-reps-n72bn-compensation-directive-against-seplat-2026/",
+            "published_at": "2026-07-29T06:40:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Helios\u2019 $297m CAB Payments Bid Faces East African Competition Review",
+            "url": "https://www.riotimesonline.com/helios-cab-payments-east-africa-competition-review-2026/",
+            "published_at": "2026-07-29T06:37:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria Flares 18% More Gas, Losing 32,300 GWh of Power",
+            "url": "https://www.riotimesonline.com/nigeria-gas-flaring-rises-electricity-loss-2026/",
+            "published_at": "2026-07-29T06:34:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Morocco Bans Used Medical Devices to Reshape Health Sector",
+            "url": "https://www.riotimesonline.com/morocco-bans-used-medical-devices-2026/",
+            "published_at": "2026-07-29T06:31:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Canal+ Bets Content Remains King as MultiChoice Finds Growth",
+            "url": "https://www.riotimesonline.com/canal-plus-content-remains-king-multichoice-growth-2026/",
+            "published_at": "2026-07-29T06:28:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Tuesday, July 28, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-july-28-2026/",
+            "published_at": "2026-07-29T06:22:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Tuesday, July 28, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-tuesday-july-28-2026/",
+            "published_at": "2026-07-29T06:19:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Tuesday, July 28, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-tuesday-july-28-2026/",
+            "published_at": "2026-07-29T06:16:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Tuesday, July 28, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-tuesday-july-28-202/",
+            "published_at": "2026-07-29T06:13:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Libya Central Bank Injects US$2 Billion to Prop up Dinar",
+            "url": "https://www.riotimesonline.com/libya-central-bank-injects-2-billion-stabilise-dinar-2026/",
+            "published_at": "2026-07-29T06:10:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mozambique Central Bank Swings to Profit on FX and Gold Gains",
+            "url": "https://www.riotimesonline.com/mozambique-central-bank-profit-fx-gold-2026/",
+            "published_at": "2026-07-29T06:07:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "East African Community Single Currency Delayed to 2031",
+            "url": "https://www.riotimesonline.com/east-african-community-single-currency-2031-2026/",
+            "published_at": "2026-07-29T06:04:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Pulse for July 29: Mexico IT Crisis, Ecopetrol Shake-Up",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T06:04:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 29, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 29, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Russian-Made Shahed-136 Drones Hit Africa\u2019s Sahel Conflict",
+            "url": "https://www.riotimesonline.com/mali-deploys-shahed-136-type-drones-first-time-2026/",
+            "published_at": "2026-07-29T06:01:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria Says South Africa Complicit in Xenophobic Killings",
+            "url": "https://www.riotimesonline.com/nigeria-accuses-south-africa-complicity-xenophobic-violence-2026/",
+            "published_at": "2026-07-29T05:58:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "AI Job Squeeze Hits 3.3 Million South African Workers",
+            "url": "https://www.riotimesonline.com/south-africa-call-centre-ai-job-squeeze-2026/",
+            "published_at": "2026-07-29T05:55:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Namibia Fishing Firm Marco Restructuring Cuts 30 Jobs",
+            "url": "https://www.riotimesonline.com/marco-fishing-restructuring-namibia-2026/",
+            "published_at": "2026-07-29T05:52:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guinea Bets on Regional Air Links to Unlock the Interior",
+            "url": "https://www.riotimesonline.com/guinea-air-transport-initiative-regions-2026/",
+            "published_at": "2026-07-29T05:49:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Costa Rica Tourism Braces for Weak Dollar and Low Season Threat",
+            "url": "https://www.riotimesonline.com/costa-rica-tourism-cautious-year-end-strong-colon-2026/",
+            "published_at": "2026-07-29T05:46:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Immigration Security Gets US Biometric Data Deal",
+            "url": "https://www.riotimesonline.com/colombia-us-immigration-security-colombiamoda-flower-festival-2026/",
+            "published_at": "2026-07-29T05:43:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "The New African Boom: Why East Africa\u2019s 8% Growth Engine Is Reshaping Latin America\u2019s Global Bet",
+            "url": "https://www.riotimesonline.com/the-new-african-boom-why-east-africa-s-8-growth-engine-is-2026-07-28/",
+            "published_at": "2026-07-29T05:40:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rwanda to Phase Out 2G Networks After 3G Shutdown by 2027",
+            "url": "https://www.riotimesonline.com/rwanda-phase-out-2g-3g-networks-2026/",
+            "published_at": "2026-07-29T05:37:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenya T-Bills Draw US$1.4 Billion as Investors Bet on Rates",
+            "url": "https://www.riotimesonline.com/kenya-three-month-t-bills-sh181bn-investor-rush-2026/",
+            "published_at": "2026-07-29T05:34:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria\u2019s Digital Government Portal Cuts Out Graft Costs",
+            "url": "https://www.riotimesonline.com/nigeria-digital-portal-fragmented-government-services-2026/",
+            "published_at": "2026-07-29T05:31:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Soybeans, Corn, Wheat Edge Higher on Latin Cues",
+            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil Wrap: WTI Slips, Latin Majors Diverge",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Steel Wrap: SLX, Gerdau, CSN, Ternium",
+            "url": "https://www.riotimesonline.com/steel-markets-latam-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zinc Wrap: Latin Miners Track Metal\u2019s Slide",
+            "url": "https://www.riotimesonline.com/zinc-markets-latam-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Iron Ore Slips as China Steel Demand Softens",
+            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lithium Triangle Stocks Slip on EV-battery Demand Doubts",
+            "url": "https://www.riotimesonline.com/lithium-markets-latam-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper Slides as China Demand Fears Hit Chile, Peru Supply",
+            "url": "https://www.riotimesonline.com/copper-markets-latam-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Steady, Silver up as Mexico and Peru Miners Eye US$ Swings",
+            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Edges Lower as LatAm Leans into Crypto",
+            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-wednesday-july-29-2026/",
+            "published_at": "2026-07-29T05:05:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Wednesday, July 29, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 29, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 29, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 July 29, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 29, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-wednesday-july-29-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Vivo Brazil Profit Hits US$308M on Mobile, Fiber Growth",
             "url": "https://www.riotimesonline.com/vivo-brazil-earnings-q2-2026-profit-mobile-fiber/",
@@ -94,34 +465,6 @@
             "language": "en"
         },
         {
-            "title": "Africa Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/africa-intelligence-brief-tuesday-july-28-2026/",
-            "published_at": "2026-07-28T16:27:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asia Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/asia-intelligence-brief-tuesday-july-28-2026/",
-            "published_at": "2026-07-28T16:26:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Europe Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/europe-intelligence-brief-tuesday-july-28-2026/",
-            "published_at": "2026-07-28T16:25:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "USA & Canada Intelligence Brief \u2014 Tuesday, July 28, 2026",
-            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-tuesday-july-28-202/",
-            "published_at": "2026-07-28T16:24:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Brazil WTO Complaint Targets US Tariffs as Election Looms",
             "url": "https://www.riotimesonline.com/brazil-wto-complaint-us-tariffs/",
             "published_at": "2026-07-28T16:17:27+00:00",
@@ -143,13 +486,6 @@
             "language": "en"
         },
         {
-            "title": "Nigeria\u2019s Digital Government Portal Cuts Out Graft Costs",
-            "url": "https://www.riotimesonline.com/nigeria-digital-portal-fragmented-government-services-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Windhoek Seeks US$840 Million to Fix Roads and Water",
             "url": "https://www.riotimesonline.com/windhoek-seeks-15-billion-fix-roads-water-2026/",
             "published_at": false,
@@ -157,85 +493,8 @@
             "language": "en"
         },
         {
-            "title": "Kenya T-Bills Draw US$1.4 Billion as Investors Bet on Rates",
-            "url": "https://www.riotimesonline.com/kenya-three-month-t-bills-sh181bn-investor-rush-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "StanChart Kenya Pays 522 Pensioners as Fresh Claims Emerge",
             "url": "https://www.riotimesonline.com/stanchart-kenya-pays-522-pensioners-fresh-claims-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rwanda to Phase Out 2G Networks After 3G Shutdown by 2027",
-            "url": "https://www.riotimesonline.com/rwanda-phase-out-2g-3g-networks-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guinea Bets on Regional Air Links to Unlock the Interior",
-            "url": "https://www.riotimesonline.com/guinea-air-transport-initiative-regions-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Namibia Fishing Firm Marco Restructuring Cuts 30 Jobs",
-            "url": "https://www.riotimesonline.com/marco-fishing-restructuring-namibia-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "AI Job Squeeze Hits 3.3 Million South African Workers",
-            "url": "https://www.riotimesonline.com/south-africa-call-centre-ai-job-squeeze-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria Says South Africa Complicit in Xenophobic Killings",
-            "url": "https://www.riotimesonline.com/nigeria-accuses-south-africa-complicity-xenophobic-violence-2026/",
-            "published_at": "2026-07-28T15:13:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Russian-Made Shahed-136 Drones Hit Africa\u2019s Sahel Conflict",
-            "url": "https://www.riotimesonline.com/mali-deploys-shahed-136-type-drones-first-time-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "East African Community Single Currency Delayed to 2031",
-            "url": "https://www.riotimesonline.com/east-african-community-single-currency-2031-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mozambique Central Bank Swings to Profit on FX and Gold Gains",
-            "url": "https://www.riotimesonline.com/mozambique-central-bank-profit-fx-gold-2026/",
-            "published_at": "2026-07-28T15:09:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Libya Central Bank Injects US$2 Billion to Prop up Dinar",
-            "url": "https://www.riotimesonline.com/libya-central-bank-injects-2-billion-stabilise-dinar-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The New African Boom: Why East Africa\u2019s 8% Growth Engine Is Reshaping Latin America\u2019s Global Bet",
-            "url": "https://www.riotimesonline.com/the-new-african-boom-why-east-africa-s-8-growth-engine-is-2026-07-28/",
             "published_at": false,
             "category": [],
             "language": "en"
@@ -381,20 +640,6 @@
             "language": "en"
         },
         {
-            "title": "Colombia Immigration Security Gets US Biometric Data Deal",
-            "url": "https://www.riotimesonline.com/colombia-us-immigration-security-colombiamoda-flower-festival-2026/",
-            "published_at": "2026-07-28T12:12:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Costa Rica Tourism Braces for Weak Dollar and Low Season Threat",
-            "url": "https://www.riotimesonline.com/costa-rica-tourism-cautious-year-end-strong-colon-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Deborah Colker Remix Hits Belo Horizonte Theater in July 2026",
             "url": "https://www.riotimesonline.com/deborah-colker-remix-belo-horizonte-2026/",
             "published_at": "2026-07-28T11:32:40+00:00",
@@ -454,251 +699,6 @@
             "title": "Brazil Healthcare for Foreigners: Free SUS vs. Private Plans",
             "url": "https://www.riotimesonline.com/healthcare-brazil-foreigners-2026/",
             "published_at": "2026-07-28T11:26:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Flower Festival Gets FBI Task Force Security",
-            "url": "https://www.riotimesonline.com/medellin-us-task-force-feria-de-las-flores-2026/",
-            "published_at": "2026-07-28T11:10:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Bets on August Selic Rate Cut as Inflation Eases",
-            "url": "https://www.riotimesonline.com/brazil-traders-bet-on-an-august-selic-rate-cut-as-inflation-eases/",
-            "published_at": "2026-07-28T11:09:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil US$39 Billion Credit Release Pushes Public Debt Higher",
-            "url": "https://www.riotimesonline.com/brazil-r200-billion-credit-release-pushes-public-debt-higher/",
-            "published_at": "2026-07-28T11:07:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Hapvida to Launch Premium NotreDame Health Plan",
-            "url": "https://www.riotimesonline.com/hapvida-launches-premium-notredame-health-plan-in-brazil-in-august/",
-            "published_at": "2026-07-28T11:07:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rumo Hits Record 23.8 Billion TKU in Second Quarter",
-            "url": "https://www.riotimesonline.com/rumo-hits-record-23-8-billion-tku-in-second-quarter/",
-            "published_at": "2026-07-28T11:07:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Non-Resident Tax: 2025 Filing Rules Explained",
-            "url": "https://www.riotimesonline.com/colombia-non-resident-tax-filing-requirements-2025-2026/",
-            "published_at": "2026-07-28T11:04:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile InspiraTEC Award 2026 Seeks Women in STEM",
-            "url": "https://www.riotimesonline.com/chile-inspiratec-award-women-biobio-stem-2026/",
-            "published_at": "2026-07-28T11:04:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico City Museum Night: Free Art, Music and Film in July",
-            "url": "https://www.riotimesonline.com/mexico-city-july-museum-night-free-dance-music-cinema-2026/",
-            "published_at": "2026-07-28T11:02:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Natanael Cano Sets Estadio GNP Date, Tickets to US$240",
-            "url": "https://www.riotimesonline.com/natanael-cano-estadio-gnp-concert-tickets-2026/",
-            "published_at": "2026-07-28T11:02:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Garifuna Collective Marks 20 Years with European Tour",
-            "url": "https://www.riotimesonline.com/garifuna-collective-europe-tour-20-years-2026/",
-            "published_at": "2026-07-28T11:02:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vivo Telefonica Second Quarter Net Income Jumps 17%",
-            "url": "https://www.riotimesonline.com/vivo-telefonica-second-quarter-net-income-jumps-17/",
-            "published_at": "2026-07-28T11:01:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chicaque Cloud Forest: Bogot\u00e1\u2019s Exotic Sanctuary Under an Hour Away",
-            "url": "https://www.riotimesonline.com/chicaque-cloud-forest-bogota-natural-sanctuary-2026/",
-            "published_at": "2026-07-28T11:01:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Free Alfajor Festival Returns Near Buenos Aires in August 2026",
-            "url": "https://www.riotimesonline.com/alfajor-torta-negra-festival-carmen-de-areco-2026/",
-            "published_at": "2026-07-28T11:01:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Cartagena Drops Full 2026 Cultural Calendar",
-            "url": "https://www.riotimesonline.com/cartagena-cultural-agenda-2026/",
-            "published_at": "2026-07-28T11:01:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Fashion Week 2026 Pushes Recycled Textile Boom",
-            "url": "https://www.riotimesonline.com/panama-fashion-week-2026-sustainable-fashion-agenda-2026/",
-            "published_at": "2026-07-28T11:01:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Three C\u00f3rdoba Museums Launch New Exhibition Cycles This Week",
-            "url": "https://www.riotimesonline.com/cordoba-museums-new-exhibitions-2026/",
-            "published_at": "2026-07-28T11:01:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Visa Appointment System Launches for Havana Applicants",
-            "url": "https://www.riotimesonline.com/panama-consulate-cuba-visa-appointment-system-2026/",
-            "published_at": "2026-07-28T11:00:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Boteco Boa Pra\u00e7a Curitiba Turns 3 with $3.60 Show",
-            "url": "https://www.riotimesonline.com/boteco-boa-praca-curitiba-3-years-ruan-mansur-batel-2026/",
-            "published_at": "2026-07-28T11:00:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Bond Rush: Chile Prices US$3.66 Billion Deal",
-            "url": "https://www.riotimesonline.com/latam-bond-rush-chile-prices-us3-66-billion-deal/",
-            "published_at": "2026-07-28T10:52:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Dry Canal Ships 900 Hyundai Cars to US",
-            "url": "https://www.riotimesonline.com/interoceanic-corridor-freight-moves-900-hyundai-cars-korea-to-us/",
-            "published_at": "2026-07-28T10:24:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana Gold Record Pace Fuels US$263M Budget Push",
-            "url": "https://www.riotimesonline.com/guyana-gold-record-pace-fuels-us263m-budget-push/",
-            "published_at": "2026-07-28T10:15:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina M&A Hits $5.7B, Best Half in Five Years",
-            "url": "https://www.riotimesonline.com/argentina-ma-record-best-half-in-five-years-at-us5-7b/",
-            "published_at": "2026-07-28T09:48:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama\u2019s Bladex Hits Record $66.5M Quarterly Profit",
-            "url": "https://www.riotimesonline.com/panama-bladex-q2-net-income-2026/",
-            "published_at": "2026-07-28T09:22:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "TIM Brasil Second Quarter Profit Hits Record on Fiber Push",
-            "url": "https://www.riotimesonline.com/tim-brasil-second-quarter-profit-hits-record-on-fiber-push/",
-            "published_at": "2026-07-28T09:15:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Shell Bahamas LNG Terminal Gets Final Green Light",
-            "url": "https://www.riotimesonline.com/shell-bahamas-lng-terminal-gets-final-green-light/",
-            "published_at": "2026-07-28T08:57:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "GEB Bids US$4.5 Billion for Ecopetrol\u2019s ISA Grid Stake",
-            "url": "https://www.riotimesonline.com/geb-bids-us4-5-billion-for-ecopetrols-isa-grid-stake/",
-            "published_at": "2026-07-28T08:49:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brent Oil Price Crash Near US$88 on US-Iran Truce",
-            "url": "https://www.riotimesonline.com/brent-oil-price-crash-near-us88-on-us-iran-truce/",
-            "published_at": "2026-07-28T08:36:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Science and Innovation Push Draws Global Investor Attention",
-            "url": "https://www.riotimesonline.com/brazils-science-and-innovation-push-draws-global-investor-attention/",
-            "published_at": "2026-07-28T08:16:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Power-Bill Costs Jump Almost US$200 Billion in Senate Vote",
-            "url": "https://www.riotimesonline.com/brazil-power-bill-costs-jump-almost-us200-billion-in-senate-vote/",
-            "published_at": "2026-07-28T08:15:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "U.S. Eases Venezuela Sanctions After 589 Die in Quakes",
-            "url": "https://www.riotimesonline.com/venezuela-sanctions-eased-earthquake-reconstruction/",
-            "published_at": "2026-07-28T08:09:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Electricity Deficit Looms from 2028, Power Sector",
-            "url": "https://www.riotimesonline.com/colombia-electricity-deficit-2028-warning/",
-            "published_at": "2026-07-28T08:06:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Mining Blocked: $11 Billion in Projects Stalled",
-            "url": "https://www.riotimesonline.com/mexico-mining-blocked-us11-billion-stalled/",
-            "published_at": "2026-07-28T08:06:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Ita\u00fa Bank GenAI Assistant Tops 300,000 Users",
-            "url": "https://www.riotimesonline.com/itau-genai-assistant-iai-launch-2026/",
-            "published_at": "2026-07-28T08:06:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s CSN Cimentos Sale Draws Bids Up to US$2.7Bn",
-            "url": "https://www.riotimesonline.com/csn-cimentos-sale-chinese-italian-votorantim-bids/",
-            "published_at": "2026-07-28T08:05:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Simpar Q2 Service Revenue Hits Record as Leverage Falls",
-            "url": "https://www.riotimesonline.com/simpar-second-quarter-record-revenue-lowest-leverage/",
-            "published_at": "2026-07-28T08:05:27+00:00",
             "category": [],
             "language": "en"
         }
