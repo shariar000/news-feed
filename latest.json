@@ -1,51 +1,198 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-29T07:10:04+00:00",
+    "updated_at": "2026-07-29T08:10:06+00:00",
     "items": [
         {
-            "title": "Panama Tops World Expat Ranking for Third Year Running",
+            "title": "Guyana Charges Ferry Captain, Crew with 72 Murders",
+            "url": "https://www.riotimesonline.com/guyana-charges-ferry-captain-crew-with-72-murders/",
+            "published_at": "2026-07-29T08:07:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America\u2019s Right Turn Is Done, Brazil Holds the Key",
+            "url": "https://www.riotimesonline.com/latin-americas-right-turn-is-done-brazil-holds-the-key/",
+            "published_at": "2026-07-29T08:05:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Pauses Dollar Buying After US$13 Billion Run",
+            "url": "https://www.riotimesonline.com/argentina-pauses-dollar-buying-after-us13-billion-run/",
+            "published_at": "2026-07-29T08:03:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Exports Surge as China Cuts Brazil Oil Buys",
+            "url": "https://www.riotimesonline.com/petrobras-exports-surge-as-china-cuts-brazil-oil-buys/",
+            "published_at": "2026-07-29T08:03:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil FDI Jumps 33% as June Deficit Narrows to US$2.3 Bn",
+            "url": "https://www.riotimesonline.com/brazil-fdi-jumps-33-as-june-deficit-narrows-to-us-2-3-bn/",
+            "published_at": "2026-07-29T08:01:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana EITI Board Seat Boosts Oil Transparency Push",
+            "url": "https://www.riotimesonline.com/guyana-eiti-board-seat-2026-validation-oil-transparency/",
+            "published_at": "2026-07-29T08:00:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s STJ Rocked as Sale-of-Rulings Probe Widens",
+            "url": "https://www.riotimesonline.com/brazil-s-stj-rocked-as-sale-of-rulings-probe-widens/",
+            "published_at": "2026-07-29T07:59:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Extends Brazil National Emergency Over Bolsonaro",
+            "url": "https://www.riotimesonline.com/us-extends-brazil-national-emergency-over-bolsonaro/",
+            "published_at": "2026-07-29T07:57:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "SQM Hunts Copper Across 99 Targets in Northern Chile",
+            "url": "https://www.riotimesonline.com/sqm-hunts-copper-across-99-targets-in-northern-chile/",
+            "published_at": "2026-07-29T07:55:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Amber Highway Awarded: Dominican Republic\u2019s US$476M Northern Corridor",
+            "url": "https://www.riotimesonline.com/amber-highway-dominican-republic-476-million/",
+            "published_at": "2026-07-29T07:54:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fujimori Names Full Economic Team Led by Elmer Cuba",
+            "url": "https://www.riotimesonline.com/fujimori-names-full-economic-team-led-by-elmer-cuba/",
+            "published_at": "2026-07-29T07:53:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Ordered to Pay Vulcan in NAFTA Quarry Case",
+            "url": "https://www.riotimesonline.com/mexico-ordered-to-pay-vulcan-in-nafta-quarry-case/",
+            "published_at": "2026-07-29T07:51:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "JiveMaua Takes Rota Verde in US$37.6M Distressed Debt Play",
+            "url": "https://www.riotimesonline.com/jivemaua-rota-verde-distressed-highway-takeover/",
+            "published_at": "2026-07-29T07:50:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Light Debentures Convert to Equity in Debt Overhaul",
+            "url": "https://www.riotimesonline.com/light-debentures-convert-equity-debt-overhaul/",
+            "published_at": "2026-07-29T07:50:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Venezuela FinCEN Relief Lets US Banks Process Quake Aid",
+            "url": "https://www.riotimesonline.com/venezuela-fincen-earthquake-relief-banks/",
+            "published_at": "2026-07-29T07:50:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Faith No More 2027 World Tour Will Include South America",
+            "url": "https://www.riotimesonline.com/faith-no-more-returns-in-2027-but-not-to-south-america/",
+            "published_at": "2026-07-29T07:33:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Soda Stereo Adds Bogot\u00e1 and Medell\u00edn Dates for December",
+            "url": "https://www.riotimesonline.com/soda-stereo-adds-bogota-and-medellin-dates-for-december/",
+            "published_at": "2026-07-29T07:31:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Puno Tourism Stalls as Peru\u2019s Lake Titicaca Misses Holiday Boom",
+            "url": "https://www.riotimesonline.com/perus-puno-misses-out-on-the-titicaca-tourist-boom/",
+            "published_at": "2026-07-29T07:29:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico City\u2019s Z\u00f3calo Hosts Free Indigenous Cultures Festival",
+            "url": "https://www.riotimesonline.com/mexico-city-sets-date-for-indigenous-cultures-festival/",
+            "published_at": "2026-07-29T07:27:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Bocas De Ceniza River Mouth Gets Tourist Revival",
+            "url": "https://www.riotimesonline.com/barranquilla-turns-bocas-de-ceniza-into-a-tourist-draw/",
+            "published_at": "2026-07-29T07:26:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bogot\u00e1 Architecture Free Exhibit Opens July 29",
+            "url": "https://www.riotimesonline.com/bogota-puts-its-own-architecture-on-show/",
+            "published_at": "2026-07-29T07:24:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama Tops Best Country for Expats Ranking 3rd Year",
             "url": "https://www.riotimesonline.com/panama-tops-world-expat-ranking-2026/",
             "published_at": "2026-07-29T07:07:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Frida Kahlo\u2019s Personal World Comes to Buenos Aires",
+            "title": "Frida Kahlo Buenos Aires: First-Ever South America Show",
             "url": "https://www.riotimesonline.com/frida-kahlos-personal-world-comes-to-buenos-aires/",
             "published_at": "2026-07-29T07:04:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "US Offers TPS Holders US$2,600 and a Free Flight Out",
+            "title": "TPS Voluntary Departure: US$2,600 Cash and Free Flight",
             "url": "https://www.riotimesonline.com/us-offers-tps-holders-us2600-and-a-free-flight-out/",
             "published_at": "2026-07-29T07:01:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Bogot\u00e1 Studio Rents: What Expats Actually Pay in 2026",
+            "title": "Bogot\u00e1 Studio Apartment Rent: US$400\u2013US$525 in 2026",
             "url": "https://www.riotimesonline.com/bogota-studio-rents-what-expats-actually-pay-in-2026/",
             "published_at": "2026-07-29T06:58:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil Now Has 12 IMAX Screens Across Eight States",
+            "title": "IMAX Brazil Hits 12 Screens, Ticket Premiums Near US$6",
             "url": "https://www.riotimesonline.com/brazil-now-has-12-imax-screens-across-eight-states/",
             "published_at": "2026-07-29T06:55:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Mexico City Links Metro Chabacano to Floating Garden",
+            "title": "Mexico City Opens Metro Chabacano Floating Garden Link",
             "url": "https://www.riotimesonline.com/mexico-city-links-metro-chabacano-to-floating-garden/",
             "published_at": "2026-07-29T06:52:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Chilean Gin from Llif\u00e9n Wins Gold in San Francisco",
+            "title": "Chilean Gin Goodwinds Wins Gold in San Francisco",
             "url": "https://www.riotimesonline.com/chilean-gin-from-llifen-wins-gold-in-san-francisco/",
             "published_at": "2026-07-29T06:49:39+00:00",
             "category": [],
@@ -59,14 +206,14 @@
             "language": "en"
         },
         {
-            "title": "Harmony Gold Locks In R20bn Package for Copper Expansion",
+            "title": "Harmony Gold Locks In US$1.1bn Package for Copper Expansion",
             "url": "https://www.riotimesonline.com/harmony-gold-r20bn-funding-copper-expansion-2026/",
             "published_at": "2026-07-29T06:43:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Nigerian Court Voids Lawmakers\u2019 N72.6bn Compensation Order Against Seplat",
+            "title": "Nigerian Court Voids Lawmakers\u2019 US$47M Compensation Order Against Seplat",
             "url": "https://www.riotimesonline.com/court-voids-reps-n72bn-compensation-directive-against-seplat-2026/",
             "published_at": "2026-07-29T06:40:39+00:00",
             "category": [],
@@ -80,14 +227,14 @@
             "language": "en"
         },
         {
-            "title": "Nigeria Flares 18% More Gas, Losing 32,300 GWh of Power",
+            "title": "Nigeria Gas Flaring Wastes US$1.1 Billion in Power",
             "url": "https://www.riotimesonline.com/nigeria-gas-flaring-rises-electricity-loss-2026/",
             "published_at": "2026-07-29T06:34:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Morocco Bans Used Medical Devices to Reshape Health Sector",
+            "title": "Morocco Bans Used Medical Devices to Boost Safety",
             "url": "https://www.riotimesonline.com/morocco-bans-used-medical-devices-2026/",
             "published_at": "2026-07-29T06:31:39+00:00",
             "category": [],
@@ -143,14 +290,14 @@
             "language": "en"
         },
         {
-            "title": "East African Community Single Currency Delayed to 2031",
+            "title": "East African Community (EAC) Single Currency Delayed to 2031",
             "url": "https://www.riotimesonline.com/east-african-community-single-currency-2031-2026/",
             "published_at": "2026-07-29T06:04:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Latin America Pulse for July 29: Mexico IT Crisis, Ecopetrol Shake-Up",
+            "title": "Latin American Pulse for Wednesday, July 29, 2026",
             "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-july-29-2026/",
             "published_at": "2026-07-29T06:04:25+00:00",
             "category": [],
@@ -206,7 +353,7 @@
             "language": "en"
         },
         {
-            "title": "Nigeria Says South Africa Complicit in Xenophobic Killings",
+            "title": "Nigeria Accuses South Africa of Xenophobic Violence Complicity",
             "url": "https://www.riotimesonline.com/nigeria-accuses-south-africa-complicity-xenophobic-violence-2026/",
             "published_at": "2026-07-29T05:58:39+00:00",
             "category": [],
@@ -220,14 +367,14 @@
             "language": "en"
         },
         {
-            "title": "Namibia Fishing Firm Marco Restructuring Cuts 30 Jobs",
+            "title": "Namibia Fishing Firm Marco Cuts 30 Jobs Amid Restructuring",
             "url": "https://www.riotimesonline.com/marco-fishing-restructuring-namibia-2026/",
             "published_at": "2026-07-29T05:52:39+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Guinea Bets on Regional Air Links to Unlock the Interior",
+            "title": "Guinea Air Transport Plan Backed by US$65 Billion Push",
             "url": "https://www.riotimesonline.com/guinea-air-transport-initiative-regions-2026/",
             "published_at": "2026-07-29T05:49:39+00:00",
             "category": [],
@@ -325,7 +472,7 @@
             "language": "en"
         },
         {
-            "title": "Gold Steady, Silver up as Mexico and Peru Miners Eye US$ Swings",
+            "title": "Gold and Silver Ease as Dollar Firms: LatAm Miners Watch",
             "url": "https://www.riotimesonline.com/gold-silver-precious-metals-wednesday-july-29-2026/",
             "published_at": "2026-07-29T05:05:00+00:00",
             "category": [],
@@ -552,153 +699,6 @@
             "title": "Curitiba\u2019s Paulo Leminski Festival Reveals 2026 Perhappiness Stage Lineup",
             "url": "https://www.riotimesonline.com/paulo-leminski-festival-perhappiness-stage-2026/",
             "published_at": "2026-07-28T12:53:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Free Arts in C\u00f3rdoba: Piazzolla Tribute Leads Weekend",
-            "url": "https://www.riotimesonline.com/piazzolla-concert-dance-theatre-cordoba-weekend-2026/",
-            "published_at": "2026-07-28T12:51:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Stock Exchange Grupo BMV Names New CFO",
-            "url": "https://www.riotimesonline.com/grupo-bmv-luis-rene-ramon-arana-cfo-2026/",
-            "published_at": "2026-07-28T12:49:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Central Bank Opens Door to Dollar Payroll Accounts",
-            "url": "https://www.riotimesonline.com/argentina-central-bank-dollar-payroll-accounts-2026/",
-            "published_at": "2026-07-28T12:46:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sabesp-EMAE Merger Vote Proceeds Despite Legal Challenge",
-            "url": "https://www.riotimesonline.com/sabesp-emae-merger-vote-cvm-lawsuit-2026/",
-            "published_at": "2026-07-28T12:42:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "TIM to Inject US$132 Million Into Two Brazilian Subsidiaries",
-            "url": "https://www.riotimesonline.com/tim-inject-670-million-reais-brazil-subsidiaries-2026/",
-            "published_at": "2026-07-28T12:40:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Easter Island Recovers Ancestral Remains Taken in 1882",
-            "url": "https://www.riotimesonline.com/rapa-nui-ancestral-remains-returned-australia-2026/",
-            "published_at": "2026-07-28T12:37:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Northeast Brazil Wins New Beef Plants and Shoe Factories",
-            "url": "https://www.riotimesonline.com/northeast-brazil-beef-plants-shoe-factories-2026/",
-            "published_at": "2026-07-28T12:34:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cosan Narrows Q2 Loss as Deleveraging Drive Takes Hold",
-            "url": "https://www.riotimesonline.com/cosan-narrows-q2-loss-deleveraging-2026/",
-            "published_at": "2026-07-28T12:28:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s OceanPact Wins Antitrust Nod for CBO Offshore Merger",
-            "url": "https://www.riotimesonline.com/oceanpact-cade-approval-cbo-offshore-merger-brazil-2026/",
-            "published_at": "2026-07-28T12:26:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "China Shifts from Buyer to Rival, Threatening Brazil Chicken Exports",
-            "url": "https://www.riotimesonline.com/china-shifts-from-buyer-to-rival-threatening-brazil-chicken-exports/",
-            "published_at": "2026-07-28T12:19:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bazar de Bandas 2026 Hits Mexico City\u2019s Revolution Monument",
-            "url": "https://www.riotimesonline.com/bazar-de-bandas-2026-mexico-city-date-venue-2026/",
-            "published_at": "2026-07-28T12:16:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pinti Awards: All the Winners at the Col\u00f3n Theater Honoring the Best of Commercial Theater",
-            "url": "https://www.riotimesonline.com/pinti-awards-winners-colon-theater-commercial-2026/",
-            "published_at": "2026-07-28T12:15:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Deborah Colker Remix Hits Belo Horizonte Theater in July 2026",
-            "url": "https://www.riotimesonline.com/deborah-colker-remix-belo-horizonte-2026/",
-            "published_at": "2026-07-28T11:32:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bogot\u00e1 Sacred Music Festival Turns 15 with Free Global Concerts",
-            "url": "https://www.riotimesonline.com/bogota-sacred-music-festival-15-years-2026/",
-            "published_at": "2026-07-28T11:32:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "French Organist Johann Vexo Plays Free Buenos Aires Basilica",
-            "url": "https://www.riotimesonline.com/johann-vexo-free-organ-concert-buenos-aires-2026/",
-            "published_at": "2026-07-28T11:30:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Afro Summit to Debut at Colombia\u2019s Petronio Festival 2026",
-            "url": "https://www.riotimesonline.com/petronio-alvarez-festival-global-afro-summit-2026/",
-            "published_at": "2026-07-28T11:30:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Four Seasons Cartagena Named Among World\u2019s 50 Best Luxury Hotels",
-            "url": "https://www.riotimesonline.com/four-seasons-cartagena-worlds-50-best-luxury-hotels-2026/",
-            "published_at": "2026-07-28T11:30:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama City\u2019s Casco Peatonal Festival Draws 800K, $14.5M Boost",
-            "url": "https://www.riotimesonline.com/panama-casco-peatonal-culture-gastronomy-music-2026/",
-            "published_at": "2026-07-28T11:30:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Health Insurance for Expats in Mexico: 2026 Costs in US$",
-            "url": "https://www.riotimesonline.com/health-insurance-expats-mexico-2026/",
-            "published_at": "2026-07-28T11:27:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Colo-Colo Fights to Save Vozinha Jersey Brand",
-            "url": "https://www.riotimesonline.com/colo-colo-replace-vozinha-jerseys-league-rule-2026/",
-            "published_at": "2026-07-28T11:27:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Healthcare for Foreigners: Free SUS vs. Private Plans",
-            "url": "https://www.riotimesonline.com/healthcare-brazil-foreigners-2026/",
-            "published_at": "2026-07-28T11:26:09+00:00",
             "category": [],
             "language": "en"
         }
