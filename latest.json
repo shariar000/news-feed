@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-30T17:10:03+00:00",
+    "updated_at": "2026-07-30T18:10:05+00:00",
     "items": [
+        {
+            "title": "PDVSA Cuts Out the Traders as Refiners Return to Venezuelan Crude",
+            "url": "https://www.riotimesonline.com/pdvsa-cuts-out-the-traders-as-refiners-return-to-venezuelan-crude/",
+            "published_at": "2026-07-30T17:25:36+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Audit Court Flags 82% of Pix Amendments as Irregular",
             "url": "https://www.riotimesonline.com/brazil-tcu-pix-amendments-audit-2026/",
@@ -374,7 +381,7 @@
             "language": "en"
         },
         {
-            "title": "Mexico\u2019s Goat Birria Capital: Atotonilco El Alto",
+            "title": "Atotonilco El Alto: Mexico\u2019s Goat Birria Capital",
             "url": "https://www.riotimesonline.com/atotonilco-el-alto-goat-birria-tequila-jalisco-2026/",
             "published_at": "2026-07-30T07:56:00+00:00",
             "category": [],
@@ -692,13 +699,6 @@
             "title": "Argentina Tenders Los Nihuiles Hydro Privatization",
             "url": "https://www.riotimesonline.com/argentina-tenders-los-nihuiles-hydro-privatisation-2026/",
             "published_at": "2026-07-29T18:08:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dominican Republic FDI Hits Record as Cuba Opens Oil to Foreigners",
-            "url": "https://www.riotimesonline.com/dominican-republic-record-fdi-cuba-opens-oil-2026/",
-            "published_at": false,
             "category": [],
             "language": "en"
         }
