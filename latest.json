@@ -1,9 +1,163 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-30T07:10:05+00:00",
+    "updated_at": "2026-07-30T08:10:05+00:00",
     "items": [
         {
-            "title": "Mexico City Metro Launches Real-Time Heat Cameras to Show Crowding",
+            "title": "Angola Launches Studies for West-East Highway Megaproject",
+            "url": "https://www.riotimesonline.com/angola-launches-studies-for-west-east-highway-megaproject/",
+            "published_at": "2026-07-30T08:08:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mozambique Caps Foreign Card Payments at 6 Million Meticais a Year",
+            "url": "https://www.riotimesonline.com/mozambique-card-payment-limit-2026/",
+            "published_at": "2026-07-30T08:08:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Monterrey\u2019s August 2026 Lineup: Rosal\u00eda, Ozuna and 13+ Events",
+            "url": "https://www.riotimesonline.com/monterrey-august-2026-concerts-events-guide-2026/",
+            "published_at": "2026-07-30T08:05:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bradesco Launches Up-to-US$1.96 Billion Capital Raise",
+            "url": "https://www.riotimesonline.com/bradesco-launches-up-to-us1-96-billion-capital-raise/",
+            "published_at": "2026-07-30T08:02:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecopetrol Asphalt Exports Go Solid in Cartagena Push",
+            "url": "https://www.riotimesonline.com/ecopetrol-asphalt-exports-solid-cartagena/",
+            "published_at": "2026-07-30T07:56:49+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Pucobre First-Half Profit Jumps 79% on Copper Rally",
+            "url": "https://www.riotimesonline.com/pucobre-first-half-profit-copper-rally/",
+            "published_at": "2026-07-30T07:56:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colbun First-Half Profit Falls 53% on Coal Exit Costs",
+            "url": "https://www.riotimesonline.com/colbun-first-half-profit-coal-exit/",
+            "published_at": "2026-07-30T07:56:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tiendas D1 Banking Arrives at 2,800 Colombian Stores",
+            "url": "https://www.riotimesonline.com/tiendas-d1-banking-grupo-aval-colombia/",
+            "published_at": "2026-07-30T07:56:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santander Arena Santiago to Replace Movistar Arena in Chile",
+            "url": "https://www.riotimesonline.com/santander-arena-santiago-naming-rights/",
+            "published_at": "2026-07-30T07:56:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Atotonilco El Alto: Mexico\u2019s Goat Birria and Tequila Heartland",
+            "url": "https://www.riotimesonline.com/atotonilco-el-alto-goat-birria-tequila-jalisco-2026/",
+            "published_at": "2026-07-30T07:56:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ethiopia Copies China\u2019s Textile Park Model to Chase Export Jobs",
+            "url": "https://www.riotimesonline.com/ethiopia-textile-industrial-parks-export-jobs/",
+            "published_at": "2026-07-30T07:52:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "West African Nation Benin Installs New Senate, Completing Reform",
+            "url": "https://www.riotimesonline.com/benin-installs-new-senate-chamber-completing-constitutional-reform/",
+            "published_at": "2026-07-30T07:52:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "IMF lifts Ghana from debt distress, unlocks final US$371 million",
+            "url": "https://www.riotimesonline.com/imf-lifts-ghana-from-debt-distress-unlocks-final-us371-million/",
+            "published_at": "2026-07-30T07:52:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Senegal FDI Plunges to US$337 Million, Sounding Economic Alarm",
+            "url": "https://www.riotimesonline.com/senegal-fdi-plunges-to-us337-million-sounding-economic-alarm/",
+            "published_at": "2026-07-30T07:52:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Humpback Whales Return to Costa Rica\u2019s Pacific Coast",
+            "url": "https://www.riotimesonline.com/humpback-whales-return-costa-rica-quepos-2026/",
+            "published_at": "2026-07-30T07:46:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bernardo Paz New Museum: US$195 Million Art Hub Near Inhotim",
+            "url": "https://www.riotimesonline.com/bernardo-paz-new-museum-inhotim-brumadinho-2026/",
+            "published_at": "2026-07-30T07:37:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "SP2B Free Shows: 42 Concerts Hit S\u00e3o Paulo\u2019s Ibirapuera Park",
+            "url": "https://www.riotimesonline.com/sp2b-criolo-baianasystem-free-shows-ibirapuera-2026/",
+            "published_at": "2026-07-30T07:30:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Foo Fighters Uruguay Debut Set for 2027 Montevideo Show",
+            "url": "https://www.riotimesonline.com/foo-fighters-uruguay-first-montevideo-show-2027/",
+            "published_at": "2026-07-30T07:24:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 30, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-thursday-july-30-2026/",
+            "published_at": "2026-07-30T07:22:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Thursday, July 30, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-thursday-july-30-2026/",
+            "published_at": "2026-07-30T07:22:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 30, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-thursday-july-30-2026/",
+            "published_at": "2026-07-30T07:22:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Buenos Aires Subway Extension to Aeroparque Proposed",
+            "url": "https://www.riotimesonline.com/uba-experts-subway-extension-aeroparque-puerto-madero-2026/",
+            "published_at": "2026-07-30T07:16:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico City Metro Heat Cameras Show Crowded Stations Live",
             "url": "https://www.riotimesonline.com/mexico-city-metro-heat-cameras-real-time-crowding-2026/",
             "published_at": "2026-07-30T07:08:13+00:00",
             "category": [],
@@ -545,160 +699,6 @@
             "title": "Shell LNG Deal Overhaul Lifts Enel Chile Profit 11%",
             "url": "https://www.riotimesonline.com/shell-lng-deal-overhaul-lifts-enel-chile-profit-11/",
             "published_at": "2026-07-29T08:39:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Battery Storage Auction Grows Capacity Tenfold",
-            "url": "https://www.riotimesonline.com/colombia-battery-storage-jumps-tenfold-in-record-auction/",
-            "published_at": "2026-07-29T08:37:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilians Spend Record US$12.6 Billion Abroad in H1 2026",
-            "url": "https://www.riotimesonline.com/brazilians-spend-record-us-12-6-billion-abroad-in-h1-2026/",
-            "published_at": "2026-07-29T08:35:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Pushes for HDS-1500 Sub After 2017 Loss",
-            "url": "https://www.riotimesonline.com/south-korea-pitches-hds-1500-subs-to-argentina-s-silent-navy/",
-            "published_at": "2026-07-29T08:33:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Radar Maker Omnisys Expands with US$23.4 Million Hub",
-            "url": "https://www.riotimesonline.com/thales-makes-brazil-its-global-hub-for-atc-radar/",
-            "published_at": "2026-07-29T08:31:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Navy Budget Freeze Threatens Nuclear Sub Program",
-            "url": "https://www.riotimesonline.com/us-250-million-freeze-hits-brazil-s-nuclear-submarine/",
-            "published_at": "2026-07-29T08:29:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mover Sells Motiva Stake to Bradesco BBI to Clear Debt",
-            "url": "https://www.riotimesonline.com/mover-sells-motiva-stake-bradesco-bbi-debt/",
-            "published_at": "2026-07-29T08:28:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana-Suriname LNG Could Supply 12M Tonnes at US$6 Cost",
-            "url": "https://www.riotimesonline.com/guyana-suriname-gas-could-supply-12-mmtpa-of-lng-by-2030s/",
-            "published_at": "2026-07-29T08:27:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Arteris Loses Half Its Traffic After Auction Defeat",
-            "url": "https://www.riotimesonline.com/arteris-loses-half-its-traffic-as-key-brazil-roads-flip/",
-            "published_at": "2026-07-29T08:26:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Digital Receivables Open a US$2 Trillion Market",
-            "url": "https://www.riotimesonline.com/brazils-digital-receivables-open-a-us2-trillion-market/",
-            "published_at": "2026-07-29T08:24:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile\u2019s Private Miners to Pay Record US$8 Billion in 2026",
-            "url": "https://www.riotimesonline.com/chile-s-private-miners-to-pay-record-us-8-billion-in-2026/",
-            "published_at": "2026-07-29T08:22:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Raises Minimum Wage to US$365 in Fujimori\u2019s First Act",
-            "url": "https://www.riotimesonline.com/peru-minimum-wage-fujimori-first-act-2026/",
-            "published_at": "2026-07-29T08:21:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana Ferry Crew Charged with 72 MV Barima Murders",
-            "url": "https://www.riotimesonline.com/guyana-charges-ferry-captain-crew-with-72-murders/",
-            "published_at": "2026-07-29T08:07:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America\u2019s Right Turn Is Done, Brazil Holds the Key",
-            "url": "https://www.riotimesonline.com/latin-americas-right-turn-is-done-brazil-holds-the-key/",
-            "published_at": "2026-07-29T08:05:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Dollar Buying Pause After US$13 Billion Run",
-            "url": "https://www.riotimesonline.com/argentina-pauses-dollar-buying-after-us13-billion-run/",
-            "published_at": "2026-07-29T08:03:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Exports Surge as China Cuts Brazil Oil Buys",
-            "url": "https://www.riotimesonline.com/petrobras-exports-surge-as-china-cuts-brazil-oil-buys/",
-            "published_at": "2026-07-29T08:03:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil FDI 2026 Hits US$9.1B in June, Smashing Forecasts",
-            "url": "https://www.riotimesonline.com/brazil-fdi-jumps-33-as-june-deficit-narrows-to-us-2-3-bn/",
-            "published_at": "2026-07-29T08:01:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana EITI Board Seat Boosts Oil Transparency Push",
-            "url": "https://www.riotimesonline.com/guyana-eiti-board-seat-2026-validation-oil-transparency/",
-            "published_at": "2026-07-29T08:00:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Court STJ Rocked by Sale-of-Rulings Probe",
-            "url": "https://www.riotimesonline.com/brazil-s-stj-rocked-as-sale-of-rulings-probe-widens/",
-            "published_at": "2026-07-29T07:59:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Extends Brazil Emergency, Sanctions on Top Justice Stay",
-            "url": "https://www.riotimesonline.com/us-extends-brazil-national-emergency-over-bolsonaro/",
-            "published_at": "2026-07-29T07:57:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "SQM Launches US$9M Copper Hunt Across 99 Chile Targets",
-            "url": "https://www.riotimesonline.com/sqm-hunts-copper-across-99-targets-in-northern-chile/",
-            "published_at": "2026-07-29T07:55:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Amber Highway Awarded: Dominican Republic\u2019s US$476M Northern Corridor",
-            "url": "https://www.riotimesonline.com/amber-highway-dominican-republic-476-million/",
-            "published_at": "2026-07-29T07:54:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Keiko Fujimori Economic Cabinet Names Peru Finance Chief",
-            "url": "https://www.riotimesonline.com/fujimori-names-full-economic-team-led-by-elmer-cuba/",
-            "published_at": "2026-07-29T07:53:03+00:00",
             "category": [],
             "language": "en"
         }
