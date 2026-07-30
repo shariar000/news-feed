@@ -1,7 +1,112 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-30T05:10:04+00:00",
+    "updated_at": "2026-07-30T06:10:05+00:00",
     "items": [
+        {
+            "title": "Bitcoin Steady at US$63,908 as LatAm Crypto Adoption Deepens",
+            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:04:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold & Silver Rise on Softer Dollar; LatAm Miners Gain",
+            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:03:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 July 30, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-july-30-2026/",
+            "published_at": "2026-07-30T06:03:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper Wrap: CPER Edges Higher but Miner Stocks Slide",
+            "url": "https://www.riotimesonline.com/copper-markets-latam-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:01:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 30, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:01:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lithium Wrap: SQM Gains 1.02%, LIT ETF Slips 0.33%",
+            "url": "https://www.riotimesonline.com/lithium-markets-latam-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:00:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Thursday, July 30, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:00:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Iron Ore Wrap: Vale, Rio Tinto Diverge as China Holds Steady",
+            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:58:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zinc Prices Slip on Cooler Galvanised-Steel Demand",
+            "url": "https://www.riotimesonline.com/zinc-markets-latam-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:57:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil, Mexico Steel Sink: CSN -6.36%, China Tariff Fears Bite",
+            "url": "https://www.riotimesonline.com/steel-markets-latam-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:55:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil Surges: USO Hits US$129.31, Petrobras at US$18.59",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:54:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Corn and Soybean Trackers Slide as US Weather Fears Ease",
+            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:52:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Thursday, July 30, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:51:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Thursday, July 30, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:49:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Thursday, July 30, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-thursday-july-30-2026/",
+            "published_at": "2026-07-30T05:48:26+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Wednesday, July 29, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-wednesday-july-29-2026/",
@@ -594,111 +699,6 @@
             "title": "Faith No More 2027 World Tour Will Include South America",
             "url": "https://www.riotimesonline.com/faith-no-more-returns-in-2027-but-not-to-south-america/",
             "published_at": "2026-07-29T07:33:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Soda Stereo Adds Bogot\u00e1 and Medell\u00edn Dates for December",
-            "url": "https://www.riotimesonline.com/soda-stereo-adds-bogota-and-medellin-dates-for-december/",
-            "published_at": "2026-07-29T07:31:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Lake Titicaca Tourism Stalls as Puno Misses Holiday Boom",
-            "url": "https://www.riotimesonline.com/perus-puno-misses-out-on-the-titicaca-tourist-boom/",
-            "published_at": "2026-07-29T07:29:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico City\u2019s Z\u00f3calo Hosts Free Indigenous Cultures Festival",
-            "url": "https://www.riotimesonline.com/mexico-city-sets-date-for-indigenous-cultures-festival/",
-            "published_at": "2026-07-29T07:27:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Bocas De Ceniza River Mouth Gets Tourist Revival",
-            "url": "https://www.riotimesonline.com/barranquilla-turns-bocas-de-ceniza-into-a-tourist-draw/",
-            "published_at": "2026-07-29T07:26:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bogot\u00e1 Architecture Heritage Exhibit Opens Free July 29",
-            "url": "https://www.riotimesonline.com/bogota-puts-its-own-architecture-on-show/",
-            "published_at": "2026-07-29T07:24:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Tops Best Country for Expats Ranking 3rd Year",
-            "url": "https://www.riotimesonline.com/panama-tops-world-expat-ranking-2026/",
-            "published_at": "2026-07-29T07:07:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Frida Kahlo Buenos Aires: First-Ever South America Show",
-            "url": "https://www.riotimesonline.com/frida-kahlos-personal-world-comes-to-buenos-aires/",
-            "published_at": "2026-07-29T07:04:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "TPS Voluntary Departure: US$2,600 Cash and Free Flight",
-            "url": "https://www.riotimesonline.com/us-offers-tps-holders-us2600-and-a-free-flight-out/",
-            "published_at": "2026-07-29T07:01:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bogot\u00e1 Studio Apartment Rent: US$400\u2013US$525 in 2026",
-            "url": "https://www.riotimesonline.com/bogota-studio-rents-what-expats-actually-pay-in-2026/",
-            "published_at": "2026-07-29T06:58:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMAX Brazil Hits 12 Screens, Ticket Premiums Near US$6",
-            "url": "https://www.riotimesonline.com/brazil-now-has-12-imax-screens-across-eight-states/",
-            "published_at": "2026-07-29T06:55:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico City Opens Metro Chabacano Floating Garden Link",
-            "url": "https://www.riotimesonline.com/mexico-city-links-metro-chabacano-to-floating-garden/",
-            "published_at": "2026-07-29T06:52:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Gin Goodwinds Wins Gold in San Francisco",
-            "url": "https://www.riotimesonline.com/chilean-gin-from-llifen-wins-gold-in-san-francisco/",
-            "published_at": "2026-07-29T06:49:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Apple Briefly Tops US$5 Trillion Market Value",
-            "url": "https://www.riotimesonline.com/apple-briefly-tops-5-trillion-market-value-2026/",
-            "published_at": "2026-07-29T06:46:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Harmony Gold Locks In US$1.1 Billion Copper Expansion Deal",
-            "url": "https://www.riotimesonline.com/harmony-gold-r20bn-funding-copper-expansion-2026/",
-            "published_at": "2026-07-29T06:43:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigerian Court Voids Lawmakers\u2019 US$47M Compensation Order Against Seplat",
-            "url": "https://www.riotimesonline.com/court-voids-reps-n72bn-compensation-directive-against-seplat-2026/",
-            "published_at": "2026-07-29T06:40:39+00:00",
             "category": [],
             "language": "en"
         }
