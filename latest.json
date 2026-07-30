@@ -1,39 +1,18 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-30T10:10:05+00:00",
+    "updated_at": "2026-07-30T11:10:05+00:00",
     "items": [
         {
-            "title": "COLCAP: Latest Close, Performance and Daily Colombia Report",
-            "url": "https://www.riotimesonline.com/colombia-colcap-today/",
-            "published_at": "2026-07-30T10:10:03+00:00",
+            "title": "dLocal ACI Worldwide Deal Opens Brazil, Mexico Payments to World",
+            "url": "https://www.riotimesonline.com/dlocal-aci-worldwide-pact-opens-pix-to-global-merchants/",
+            "published_at": "2026-07-30T10:54:26+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "S&P Merval: Latest Close, Performance and Daily Report",
-            "url": "https://www.riotimesonline.com/argentina-merval-today/",
-            "published_at": "2026-07-30T10:09:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S&P IPSA: Latest Close, Performance and Daily Chile Report",
-            "url": "https://www.riotimesonline.com/chile-ipsa-today/",
-            "published_at": "2026-07-30T10:09:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S&P/BMV IPC: Latest Close, Performance and Daily Report",
-            "url": "https://www.riotimesonline.com/mexico-ipc-today/",
-            "published_at": "2026-07-30T10:09:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ibovespa: Latest Close, 2026 Performance and Daily Report",
-            "url": "https://www.riotimesonline.com/ibovespa-today/",
-            "published_at": "2026-07-30T10:09:48+00:00",
+            "title": "Brazil Federal Debt Tops US$1.8 Trillion in June",
+            "url": "https://www.riotimesonline.com/brazil-federal-debt-tops-us1-8-trillion-in-june/",
+            "published_at": "2026-07-30T10:23:41+00:00",
             "category": [],
             "language": "en"
         },
@@ -52,7 +31,7 @@
             "language": "en"
         },
         {
-            "title": "Mexico\u2019s Puebla Hosts Free Festival of Memory",
+            "title": "Free Festival of Memory Hits Historic Puebla, Mexico",
             "url": "https://www.riotimesonline.com/puebla-festival-of-memory-historic-centre-2026/",
             "published_at": "2026-07-30T09:56:16+00:00",
             "category": [],
@@ -332,7 +311,7 @@
             "language": "en"
         },
         {
-            "title": "Atotonilco El Alto: Mexico\u2019s Goat Birria and Tequila Hub",
+            "title": "Atotonilco El Alto: Mexico\u2019s Goat Birria and Tequila Heartland",
             "url": "https://www.riotimesonline.com/atotonilco-el-alto-goat-birria-tequila-jalisco-2026/",
             "published_at": "2026-07-30T07:56:00+00:00",
             "category": [],
@@ -699,6 +678,27 @@
             "title": "Grupo Mexico Train Derailment Triggers Toxic Spill in Sonora",
             "url": "https://www.riotimesonline.com/grupo-mexico-train-derailment-toxic-chemical-spill-sonora-2026/",
             "published_at": "2026-07-29T17:02:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Central Bank Pauses Dollar-Buying Streak After IMF Praise",
+            "url": "https://www.riotimesonline.com/argentina-central-bank-ends-dollar-buying-streak-imf-praise-2026/",
+            "published_at": "2026-07-29T16:26:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei\u2019s Central-Bank Reform Would Ban Argentina\u2019s Money-Printing",
+            "url": "https://www.riotimesonline.com/milei-central-bank-charter-reform-argentina-2026/",
+            "published_at": "2026-07-29T16:15:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Private Mining to Pay Record US$8 Billion to State",
+            "url": "https://www.riotimesonline.com/chile-s-private-mining-to-deliver-record-us-8-billion-to-state-coffers/",
+            "published_at": "2026-07-29T16:15:00+00:00",
             "category": [],
             "language": "en"
         }
