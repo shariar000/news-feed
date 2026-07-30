@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-30T16:10:04+00:00",
+    "updated_at": "2026-07-30T17:10:03+00:00",
     "items": [
+        {
+            "title": "Brazil Audit Court Flags 82% of Pix Amendments as Irregular",
+            "url": "https://www.riotimesonline.com/brazil-tcu-pix-amendments-audit-2026/",
+            "published_at": "2026-07-30T16:43:32+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "USA & Canada Intelligence Brief \u2014 Thursday, July 30, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-thursday-july-30-2026/",
@@ -692,13 +699,6 @@
             "title": "Dominican Republic FDI Hits Record as Cuba Opens Oil to Foreigners",
             "url": "https://www.riotimesonline.com/dominican-republic-record-fdi-cuba-opens-oil-2026/",
             "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Reworks Prison Concessions to Unlock US$2.65 Billion in Works",
-            "url": "https://www.riotimesonline.com/chile-reworks-prison-concession-model-2026/",
-            "published_at": "2026-07-29T17:39:08+00:00",
             "category": [],
             "language": "en"
         }
