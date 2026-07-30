@@ -1,7 +1,49 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-30T06:10:05+00:00",
+    "updated_at": "2026-07-30T07:10:05+00:00",
     "items": [
+        {
+            "title": "Mexico City Metro Launches Real-Time Heat Cameras to Show Crowding",
+            "url": "https://www.riotimesonline.com/mexico-city-metro-heat-cameras-real-time-crowding-2026/",
+            "published_at": "2026-07-30T07:08:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trump Gold Card: US$1M Fast-Track U.S. Residency Pathway",
+            "url": "https://www.riotimesonline.com/trump-gold-card-program-what-you-need-to-know-2026/",
+            "published_at": "2026-07-30T06:57:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Thursday, July 30, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:53:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 July 30, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:49:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 30, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:41:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 30, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-thursday-july-30-2026/",
+            "published_at": "2026-07-30T06:28:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Bitcoin Steady at US$63,908 as LatAm Crypto Adoption Deepens",
             "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-july-30-2026/",
@@ -24,21 +66,14 @@
             "language": "en"
         },
         {
-            "title": "Copper Wrap: CPER Edges Higher but Miner Stocks Slide",
+            "title": "Copper Miner Stocks Slide Despite US$4.3B Southern Copper Sales",
             "url": "https://www.riotimesonline.com/copper-markets-latam-thursday-july-30-2026/",
             "published_at": "2026-07-30T06:01:55+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 30, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:01:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lithium Wrap: SQM Gains 1.02%, LIT ETF Slips 0.33%",
+            "title": "Lithium Equity Moves: Chile\u2019s SQM Gains, LIT Fund Dips",
             "url": "https://www.riotimesonline.com/lithium-markets-latam-thursday-july-30-2026/",
             "published_at": "2026-07-30T06:00:25+00:00",
             "category": [],
@@ -59,14 +94,14 @@
             "language": "en"
         },
         {
-            "title": "Zinc Prices Slip on Cooler Galvanised-Steel Demand",
+            "title": "Zinc Prices Slip as Latin America Steel Demand Cools",
             "url": "https://www.riotimesonline.com/zinc-markets-latam-thursday-july-30-2026/",
             "published_at": "2026-07-30T05:57:25+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil, Mexico Steel Sink: CSN -6.36%, China Tariff Fears Bite",
+            "title": "Latin America Steel Prices Hit by China Tariff Fears",
             "url": "https://www.riotimesonline.com/steel-markets-latam-thursday-july-30-2026/",
             "published_at": "2026-07-30T05:55:55+00:00",
             "category": [],
@@ -664,41 +699,6 @@
             "title": "Keiko Fujimori Economic Cabinet Names Peru Finance Chief",
             "url": "https://www.riotimesonline.com/fujimori-names-full-economic-team-led-by-elmer-cuba/",
             "published_at": "2026-07-29T07:53:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vulcan NAFTA Arbitration: Mexico to Pay Just US$15 Million",
-            "url": "https://www.riotimesonline.com/mexico-ordered-to-pay-vulcan-in-nafta-quarry-case/",
-            "published_at": "2026-07-29T07:51:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "JiveMaua Takes Rota Verde in US$37.6M Distressed Debt Play",
-            "url": "https://www.riotimesonline.com/jivemaua-rota-verde-distressed-highway-takeover/",
-            "published_at": "2026-07-29T07:50:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Light Debentures Convert to Equity in Debt Overhaul",
-            "url": "https://www.riotimesonline.com/light-debentures-convert-equity-debt-overhaul/",
-            "published_at": "2026-07-29T07:50:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Venezuela FinCEN Relief Lets US Banks Process Quake Aid",
-            "url": "https://www.riotimesonline.com/venezuela-fincen-earthquake-relief-banks/",
-            "published_at": "2026-07-29T07:50:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Faith No More 2027 World Tour Will Include South America",
-            "url": "https://www.riotimesonline.com/faith-no-more-returns-in-2027-but-not-to-south-america/",
-            "published_at": "2026-07-29T07:33:59+00:00",
             "category": [],
             "language": "en"
         }
