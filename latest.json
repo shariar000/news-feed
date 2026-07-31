@@ -1,11 +1,46 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-31T07:10:07+00:00",
+    "updated_at": "2026-07-31T08:10:04+00:00",
     "items": [
         {
-            "title": "Peru\u2019s New Biometric Foreigner ID: What the Electronic Carn\u00e9 Means for Residents",
-            "url": "https://www.riotimesonline.com/peru-biometric-carne-extranjeria-2026/",
-            "published_at": "2026-07-31T06:19:14+00:00",
+            "title": "South Africa\u2019s TFG Sees Profit Fall 59% After Writedowns",
+            "url": "https://www.riotimesonline.com/tfg-foschini-profit-falls-59-percent-brand-impairments-fy2026/",
+            "published_at": "2026-07-31T07:47:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "De Beers Set to Sell for US$1 Billion, a Tenth of 2011 Value",
+            "url": "https://www.riotimesonline.com/de-beers-sale-anglo-american-one-billion-global-diamond-consortium/",
+            "published_at": "2026-07-31T07:41:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ghana Wants US$700 Million to Restart Its Aluminium Smelter",
+            "url": "https://www.riotimesonline.com/ghana-valco-aluminium-smelter-700-million-investor/",
+            "published_at": "2026-07-31T07:39:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tanzania Raises US$100 Million in London for Small Firms",
+            "url": "https://www.riotimesonline.com/ifc-shilling-bond-tanzania-nmb-london-100-million/",
+            "published_at": "2026-07-31T07:37:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria\u2019s Bauchi Borrows US$91.6 Million for 24 New Roads",
+            "url": "https://www.riotimesonline.com/bauchi-ecowas-bank-91-6-million-road-financing/",
+            "published_at": "2026-07-31T07:30:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Africa\u2019s Bengwenyama Mine to Triple Chrome Revenue",
+            "url": "https://www.riotimesonline.com/southern-palladium-hikes-chrome-production-outlook-bengwenyama-2026/",
+            "published_at": "2026-07-31T07:10:20+00:00",
             "category": [],
             "language": "en"
         },
@@ -52,6 +87,13 @@
             "language": "en"
         },
         {
+            "title": "Oil Wrap: WTI Falls 1.42% While Petrobras, YPF Rally",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:15:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Copper Jumps on China Rebound: Futures Tracker CPER Rises 2.58%",
             "url": "https://www.riotimesonline.com/copper-markets-latam-friday-july-31-2026/",
             "published_at": "2026-07-31T06:15:17+00:00",
@@ -59,9 +101,58 @@
             "language": "en"
         },
         {
+            "title": "Iron Ore Wrap July 31 2026: Vale & Rio Surge Despite Flat Ore",
+            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:14:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Steel: Chinese Imports, Tariffs Lift SLX",
+            "url": "https://www.riotimesonline.com/steel-markets-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:14:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lithium Miners Jump: LIT ETF Gains 4.60% as Albemarle Rallies",
+            "url": "https://www.riotimesonline.com/lithium-markets-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:13:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zinc-Linked Stocks Surge as Nexa Jumps 8.22% and Buenaventura Gains 5.43%",
+            "url": "https://www.riotimesonline.com/zinc-markets-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:13:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Silver Gains While Gold Slips as LatAm Miners Watch Dollar",
+            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:12:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Grains Wrap July 31 2026: Wheat Rises as SOYB, CORN Dip",
+            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:12:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Bitcoin at US$64,725: Latin America Crypto Wrap, July 31",
             "url": "https://www.riotimesonline.com/bitcoin-climbs-to-us64725-crypto-broadly-higher-thursday/",
             "published_at": "2026-07-31T06:11:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s New Biometric Foreigner ID: What the Electronic Carn\u00e9 Means for Residents",
+            "url": "https://www.riotimesonline.com/peru-biometric-carne-extranjeria-2026/",
+            "published_at": "2026-07-31T06:03:29+00:00",
             "category": [],
             "language": "en"
         },
@@ -608,97 +699,6 @@
             "title": "Buenos Aires Subway Extension to Aeroparque Proposed",
             "url": "https://www.riotimesonline.com/uba-experts-subway-extension-aeroparque-puerto-madero-2026/",
             "published_at": "2026-07-30T07:16:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico City Metro Heat Cameras Show Crowded Stations Live",
-            "url": "https://www.riotimesonline.com/mexico-city-metro-heat-cameras-real-time-crowding-2026/",
-            "published_at": "2026-07-30T07:08:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Trump Gold Card: US$1M Fast-Track U.S. Residency Pathway",
-            "url": "https://www.riotimesonline.com/trump-gold-card-program-what-you-need-to-know-2026/",
-            "published_at": "2026-07-30T06:57:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Thursday, July 30, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:53:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 30, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:49:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 30, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:41:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 30, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:28:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Steady at US$63,908 as LatAm Crypto Adoption Deepens",
-            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:04:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold & Silver Rise on Softer Dollar; LatAm Miners Gain",
-            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:03:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 30, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-30-2026/",
-            "published_at": "2026-07-30T06:03:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Miner Stocks Slide Despite US$4.3B Southern Copper Sales",
-            "url": "https://www.riotimesonline.com/copper-markets-latam-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:01:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lithium Equity Moves: Chile\u2019s SQM Gains, LIT Fund Dips",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:00:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, July 30, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-july-30-2026/",
-            "published_at": "2026-07-30T06:00:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iron Ore Divergence: Vale Falls, Rio Tinto Gains at US$98",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-thursday-july-30-2026/",
-            "published_at": "2026-07-30T05:58:55+00:00",
             "category": [],
             "language": "en"
         }
