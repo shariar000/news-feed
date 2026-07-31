@@ -1,11 +1,25 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-31T18:10:04+00:00",
+    "updated_at": "2026-07-31T19:10:04+00:00",
     "items": [
         {
-            "title": "Nequi Bancolombia Spins Off as Independent Finance Company",
+            "title": "Orbia Court Ruling Dismisses US$1.14 Billion Cartel Lawsuit",
+            "url": "https://www.riotimesonline.com/orbia-court-ruling-wipes-out-us1-14-billion-cartel-claim/",
+            "published_at": "2026-07-31T18:21:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombian Digital Wallet Nequi to Split from Bancolombia by 2026",
             "url": "https://www.riotimesonline.com/nequi-bancolombia-spins-off-as-independent-finance-company/",
             "published_at": "2026-07-31T17:20:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mercado Libre Clothing Brand Balse Takes on Shein and Temu",
+            "url": "https://www.riotimesonline.com/mercado-libre-clothing-brand-balse-takes-aim-at-shein-and-temu/",
+            "published_at": "2026-07-31T17:19:34+00:00",
             "category": [],
             "language": "en"
         },
@@ -685,20 +699,6 @@
             "title": "De Beers Set to Sell for US$1 Billion, a Tenth of 2011 Value",
             "url": "https://www.riotimesonline.com/de-beers-sale-anglo-american-one-billion-global-diamond-consortium/",
             "published_at": "2026-07-31T07:41:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana Wants US$700 Million to Restart Its Aluminium Smelter",
-            "url": "https://www.riotimesonline.com/ghana-valco-aluminium-smelter-700-million-investor/",
-            "published_at": "2026-07-31T07:39:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tanzania Raises US$100 Million in London for Small Firms",
-            "url": "https://www.riotimesonline.com/ifc-shilling-bond-tanzania-nmb-london-100-million/",
-            "published_at": "2026-07-31T07:37:00+00:00",
             "category": [],
             "language": "en"
         }
