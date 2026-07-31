@@ -1,86 +1,114 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-31T06:10:07+00:00",
+    "updated_at": "2026-07-31T07:10:07+00:00",
     "items": [
-        {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-july-31-2026/",
-            "published_at": "2026-07-31T06:08:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-the-peso-july-31-2026/",
-            "published_at": "2026-07-31T06:08:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:08:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-31-2026/",
-            "published_at": "2026-07-31T06:06:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:06:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:06:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:03:29+00:00",
-            "category": [],
-            "language": "en"
-        },
         {
             "title": "Peru\u2019s New Biometric Foreigner ID: What the Electronic Carn\u00e9 Means for Residents",
             "url": "https://www.riotimesonline.com/peru-biometric-carne-extranjeria-2026/",
-            "published_at": "2026-07-31T06:03:29+00:00",
+            "published_at": "2026-07-31T06:19:14+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-friday-july-31-2026/",
-            "published_at": "2026-07-31T04:33:22+00:00",
+            "title": "Nigeria Private FX Outflows Jump 165% to $16.3 Billion",
+            "url": "https://www.riotimesonline.com/nigeria-private-fx-outflows-165-percent-2026/",
+            "published_at": "2026-07-31T06:53:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kenyans Shift Savings to Special Funds as MMF Yields Decline",
+            "url": "https://www.riotimesonline.com/kenyans-ditch-money-market-funds-special-schemes-2026/",
+            "published_at": "2026-07-31T06:48:15+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Brazil Markets: Ibovespa & the Real \u2014 July 31, 2026",
             "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-july-31-2026/",
-            "published_at": "2026-07-31T04:33:09+00:00",
+            "published_at": "2026-07-31T06:18:17+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Latin American Pulse for Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-july-31-2026/",
-            "published_at": "2026-07-31T04:25:27+00:00",
+            "title": "Argentina Markets: Merval & the Peso \u2014 July 31, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-the-peso-july-31-2026/",
+            "published_at": "2026-07-31T06:17:17+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Mexico\u2019s CFE Weighs US$1 Billion Fibra E Grid Raise",
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 31, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-july-31-2026/",
+            "published_at": "2026-07-31T06:16:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 31, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:16:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper Jumps on China Rebound: Futures Tracker CPER Rises 2.58%",
+            "url": "https://www.riotimesonline.com/copper-markets-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T06:15:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin at US$64,725: Latin America Crypto Wrap, July 31",
+            "url": "https://www.riotimesonline.com/bitcoin-climbs-to-us64725-crypto-broadly-higher-thursday/",
+            "published_at": "2026-07-31T06:11:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "JBS\u2019s Pilgrim\u2019s Pride Sees Profit Slump on Chicken Glut",
+            "url": "https://www.riotimesonline.com/pilgrims-pride-q2-2026-jbs-profit/",
+            "published_at": "2026-07-30T22:36:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Profarma Q2 Revenue Jumps 32% to US$703 Million",
+            "url": "https://www.riotimesonline.com/profarma-q2-2026-revenue-profit/",
+            "published_at": "2026-07-30T22:32:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Saipem Wins US$150 Million Exxon Guyana Subsea Contract",
+            "url": "https://www.riotimesonline.com/saipem-wins-us150m-guyana-subsea-deal-for-exxons-longtail/",
+            "published_at": "2026-07-30T22:28:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Cartagena Cable Car Secures US$84 Million",
+            "url": "https://www.riotimesonline.com/cartagena-kalamari-cable-car-2026/",
+            "published_at": "2026-07-30T22:22:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama Sends US$35 Billion 2027 Budget to Congress",
+            "url": "https://www.riotimesonline.com/panama-2027-budget-congress/",
+            "published_at": "2026-07-30T22:18:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Live Nation Plans Latin America\u2019s Biggest Arena in S\u00e3o Paulo",
+            "url": "https://www.riotimesonline.com/live-nation-arena-sao-paulo-2026/",
+            "published_at": "2026-07-30T19:58:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "CFE Fibra E Eyes US$1 Billion Grid Raise in 2026",
             "url": "https://www.riotimesonline.com/mexico-cfe-fibra-e-grid-raise-2026/",
             "published_at": "2026-07-30T19:53:16+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "Iron Ore Divergence: Vale Falls, Rio Tinto Gains at US$98",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-thursday-july-30-2026/",
             "published_at": "2026-07-30T05:58:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc Prices Slip as Latin America Steel Demand Cools",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-thursday-july-30-2026/",
-            "published_at": "2026-07-30T05:57:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Steel Prices Sink on China Tariff Fears",
-            "url": "https://www.riotimesonline.com/steel-markets-latam-thursday-july-30-2026/",
-            "published_at": "2026-07-30T05:55:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil Surges: USO Hits US$129.31, Petrobras at US$18.59",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-july-30-2026/",
-            "published_at": "2026-07-30T05:54:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Soybean, Corn Slide as US Midwest Weather Fears Ease",
-            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-july-30-2026/",
-            "published_at": "2026-07-30T05:52:55+00:00",
             "category": [],
             "language": "en"
         }
