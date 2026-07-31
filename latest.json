@@ -1,10 +1,24 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-31T17:10:04+00:00",
+    "updated_at": "2026-07-31T18:10:04+00:00",
     "items": [
         {
-            "title": "Africa\u2019s Growth Belt: A US$1 Trillion Opening for Latin America",
-            "url": "https://www.riotimesonline.com/the-gulf-of-guinea-to-the-horn-of-africa-why-a-new-growth-2026-07-31/",
+            "title": "Nequi Bancolombia Spins Off as Independent Finance Company",
+            "url": "https://www.riotimesonline.com/nequi-bancolombia-spins-off-as-independent-finance-company/",
+            "published_at": "2026-07-31T17:20:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Poverty & Inflation Guide 2026",
+            "url": "https://www.riotimesonline.com/argentina-poverty-inflation-guide-2026/",
+            "published_at": "2026-07-31T17:19:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US$1 Trillion Africa Trade Opening for Latin America",
+            "url": "https://www.riotimesonline.com/africa-growth-belt-latin-america-trade-2026/",
             "published_at": "2026-07-31T16:57:10+00:00",
             "category": [],
             "language": "en"
@@ -38,7 +52,7 @@
             "language": "en"
         },
         {
-            "title": "Japan Puts Up to US$34 Million Into Namibia Rare Earths",
+            "title": "Japan Bets US$34M on Namibia Rare Earths, a First in Africa",
             "url": "https://www.riotimesonline.com/namibia-rare-earths-japan-jogmec-lofdal-2026/",
             "published_at": "2026-07-31T16:53:46+00:00",
             "category": [],
@@ -685,20 +699,6 @@
             "title": "Tanzania Raises US$100 Million in London for Small Firms",
             "url": "https://www.riotimesonline.com/ifc-shilling-bond-tanzania-nmb-london-100-million/",
             "published_at": "2026-07-31T07:37:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria\u2019s Bauchi Borrows US$91.6 Million for 24 New Roads",
-            "url": "https://www.riotimesonline.com/bauchi-ecowas-bank-91-6-million-road-financing/",
-            "published_at": "2026-07-31T07:30:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Africa\u2019s Bengwenyama Mine to Triple Chrome Revenue",
-            "url": "https://www.riotimesonline.com/southern-palladium-hikes-chrome-production-outlook-bengwenyama-2026/",
-            "published_at": "2026-07-31T07:10:20+00:00",
             "category": [],
             "language": "en"
         }
