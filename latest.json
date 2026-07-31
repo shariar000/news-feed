@@ -1,7 +1,42 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-31T04:10:33+00:00",
+    "updated_at": "2026-07-31T05:10:05+00:00",
     "items": [
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 July 31, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-friday-july-31-2026/",
+            "published_at": "2026-07-31T04:33:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 31, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-july-31-2026/",
+            "published_at": "2026-07-31T04:33:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Friday, July 31, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-july-31-2026/",
+            "published_at": "2026-07-31T04:25:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper Jumps: CPER +2.58%, Miners Surge on China Stimulus",
+            "url": "https://www.riotimesonline.com/copper-markets-latam-friday-july-31-2026/",
+            "published_at": "2026-07-31T04:25:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Climbs to US$64,725, Crypto Broadly Higher Thursday",
+            "url": "https://www.riotimesonline.com/bitcoin-climbs-to-us64725-crypto-broadly-higher-thursday/",
+            "published_at": "2026-07-31T04:25:21+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Audit Court Flags 82% of Pix Amendments as Irregular",
             "url": "https://www.riotimesonline.com/brazil-tcu-pix-amendments-audit-2026/",
@@ -664,41 +699,6 @@
             "title": "Africa Intelligence Brief \u2014 Wednesday, July 29, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-july-29-2026/",
             "published_at": "2026-07-29T18:58:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Lobby Pitches US$350 Billion Infrastructure Plan",
-            "url": "https://www.riotimesonline.com/brazil-transport-lobby-pitches-us-350-billion-infrastructure-plan/",
-            "published_at": "2026-07-29T18:19:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "IMF Urges Brazil to Cap New Loans as 70 Million Default",
-            "url": "https://www.riotimesonline.com/imf-brazil-household-debt-cap-40-percent-income-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cristina Kirchner Takes Corruption Conviction to UN Human Rights Committee",
-            "url": "https://www.riotimesonline.com/cristina-kirchner-un-human-rights-committee-conviction-2026/",
-            "published_at": "2026-07-29T18:16:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "JP Morgan Says Latin America\u2019s Right Turn Is Complete",
-            "url": "https://www.riotimesonline.com/jp-morgan-latin-america-rightward-shift-brazil-unknown-2026/",
-            "published_at": "2026-07-29T18:16:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Extends Brazil Emergency, Keeping Tariffs on Imports",
-            "url": "https://www.riotimesonline.com/us-extends-brazil-national-emergency-2027/",
-            "published_at": "2026-07-29T18:15:03+00:00",
             "category": [],
             "language": "en"
         }
