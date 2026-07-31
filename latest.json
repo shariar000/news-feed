@@ -1,7 +1,217 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-07-31T16:10:04+00:00",
+    "updated_at": "2026-07-31T17:10:04+00:00",
     "items": [
+        {
+            "title": "Africa\u2019s Growth Belt: A US$1 Trillion Opening for Latin America",
+            "url": "https://www.riotimesonline.com/the-gulf-of-guinea-to-the-horn-of-africa-why-a-new-growth-2026-07-31/",
+            "published_at": "2026-07-31T16:57:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cyanide on Tomato Farms Kills 15 Elephants in Kenya\u2019s Amboseli",
+            "url": "https://www.riotimesonline.com/amboseli-elephant-deaths-cyanide-kenya-2026/",
+            "published_at": "2026-07-31T16:55:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "34 Dead as 49,000 Migrants Storm Spain\u2019s Ceuta Enclave",
+            "url": "https://www.riotimesonline.com/ceuta-migrant-crossing-morocco-spain-2026/",
+            "published_at": "2026-07-31T16:54:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tyla Drops Lagos Concert After Xenophobia Backlash",
+            "url": "https://www.riotimesonline.com/tyla-lagos-concert-boycott-xenophobia-2026/",
+            "published_at": "2026-07-31T16:54:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "FDLR Disarmament Deal Fails to Sway Rwanda",
+            "url": "https://www.riotimesonline.com/fdlr-disarmament-congo-rwanda-washington-accords-2026/",
+            "published_at": "2026-07-31T16:53:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Japan Puts Up to US$34 Million Into Namibia Rare Earths",
+            "url": "https://www.riotimesonline.com/namibia-rare-earths-japan-jogmec-lofdal-2026/",
+            "published_at": "2026-07-31T16:53:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Unemployment Stays at 9.4% as Industry Rebounds",
+            "url": "https://www.riotimesonline.com/chile-unemployment-stays-at-9-4-as-industry-rebounds/",
+            "published_at": "2026-07-31T16:51:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Sets US$193 Million Santos Container Terminal Auction",
+            "url": "https://www.riotimesonline.com/brazil-sets-us193-million-santos-container-terminal-auction/",
+            "published_at": "2026-07-31T16:47:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "CSN Bond Exchange Pushes Out US$1.3bn Debt as H1 Loss Widens",
+            "url": "https://www.riotimesonline.com/csn-bond-exchange-11-percent-2026/",
+            "published_at": "2026-07-31T16:37:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ricardo Roa, Ex-Ecopetrol CEO, Seeks Plea Deal Over Petro Campaign",
+            "url": "https://www.riotimesonline.com/ricardo-roa-plea-deal-colombia-campaign-probe/",
+            "published_at": "2026-07-31T16:37:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Earthquake Near Pucallpa Felt Across the Brazil Border",
+            "url": "https://www.riotimesonline.com/peru-earthquake-pucallpa-acre-brazil-july-2026/",
+            "published_at": "2026-07-31T16:37:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Banco BAM Gets US$70M From Colombia\u2019s Grupo Cibest in Guatemala",
+            "url": "https://www.riotimesonline.com/banco-bam-grupo-cibest-subordinated-financing/",
+            "published_at": "2026-07-31T16:37:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Antarctica Cruise Deal Brings Chinese Tourists Through Chile in 2026-27",
+            "url": "https://www.riotimesonline.com/chile-antarctica-cruise-china-deal-2026/",
+            "published_at": "2026-07-31T16:37:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guatemala Tourism Law Reform Adds Hotel Tax Breaks and a US$38M Fund",
+            "url": "https://www.riotimesonline.com/guatemala-tourism-law-reform-fund-tax-breaks/",
+            "published_at": "2026-07-31T16:36:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Trinidad Refinery Restart Gains US Backing at Pointe-a-Pierre",
+            "url": "https://www.riotimesonline.com/us-offers-help-trinidad-refinery-restart-partner/",
+            "published_at": "2026-07-31T16:25:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "ExxonMobil Guyana Drives Record Q2 Output as Profit Slips",
+            "url": "https://www.riotimesonline.com/exxonmobil-guyana-record-upstream-q2-2026/",
+            "published_at": "2026-07-31T16:25:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guyana Gas-to-Energy Project Gets US$91.5M to Speed Completion",
+            "url": "https://www.riotimesonline.com/guyana-gas-to-energy-us91-million-boost/",
+            "published_at": "2026-07-31T16:25:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Business Hub Grows: Barbados Air Deal and Bogot\u00e1 GBS Rank",
+            "url": "https://www.riotimesonline.com/colombia-business-hub-cargo-deal-gbs-rank/",
+            "published_at": "2026-07-31T16:25:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Carlos Manzo Murder: Mexico Captures Alleged Mastermind \u2018El R1\u2019",
+            "url": "https://www.riotimesonline.com/carlos-manzo-murder-mastermind-captured-mexico/",
+            "published_at": "2026-07-31T16:25:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Friday, July 31, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-friday-july-31-2026/",
+            "published_at": "2026-07-31T16:18:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Economic Reforms Target Oil Investment and Labor Rules",
+            "url": "https://www.riotimesonline.com/peru-economic-reforms-oil-labor-fujimori/",
+            "published_at": "2026-07-31T16:16:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Bond Issuance Abroad Hits Highest Level Since 2006",
+            "url": "https://www.riotimesonline.com/colombia-bond-issuance-20-year-high-2026/",
+            "published_at": "2026-07-31T16:16:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Constellation Brands Veracruz Brewery Hires 600 Before Its Launch",
+            "url": "https://www.riotimesonline.com/constellation-brands-veracruz-brewery-hiring/",
+            "published_at": "2026-07-31T16:16:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Rare Earths Draw Korea\u2019s POSCO Into the Caldeira Project",
+            "url": "https://www.riotimesonline.com/posco-brazil-rare-earths-offtake-caldeira/",
+            "published_at": "2026-07-31T16:16:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Irani Profit Falls 70% as Brazil\u2019s Packaging Maker Sees EBITDA Rise",
+            "url": "https://www.riotimesonline.com/irani-profit-falls-70-percent-q2-2026/",
+            "published_at": "2026-07-31T16:16:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Egypt Replaces Visa Stamp with QR Code e-Visa in August",
+            "url": "https://www.riotimesonline.com/egypt-e-visa-qr-code-departure-fee-2026/",
+            "published_at": "2026-07-31T16:13:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oprah Winfrey Leadership Academy to Close, Shift to Scholarships",
+            "url": "https://www.riotimesonline.com/oprah-winfrey-leadership-academy-closure-scholarships-2026/",
+            "published_at": "2026-07-31T16:13:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "CEMAC QR Code Unites 6 Central African Nations\u2019 Payments",
+            "url": "https://www.riotimesonline.com/cemac-qr-code-beac-payments-2026/",
+            "published_at": "2026-07-31T16:13:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Backs US$150M Madagascar Rare Earths Mine to Curb China",
+            "url": "https://www.riotimesonline.com/madagascar-rare-earths-ampasindava-us-2026/",
+            "published_at": "2026-07-31T16:12:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Macky Sall UN Bid Trails as Costa Rica Leads Straw Poll",
+            "url": "https://www.riotimesonline.com/macky-sall-un-bid-straw-poll-2026/",
+            "published_at": "2026-07-31T16:12:15+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Buenaventura Earnings Double as Peru\u2019s Gold Miner Rides the Rally",
             "url": "https://www.riotimesonline.com/buenaventura-earnings-gold-output-q2-2026/",
@@ -66,7 +276,7 @@
             "language": "en"
         },
         {
-            "title": "Cost of Living in Latin America: What US$2,000/Month Buys",
+            "title": "What US$2,000/Month Rents in Latin America in 2026",
             "url": "https://www.riotimesonline.com/cost-of-living-latin-america-2026/",
             "published_at": "2026-07-31T14:29:09+00:00",
             "category": [],
@@ -489,216 +699,6 @@
             "title": "South Africa\u2019s Bengwenyama Mine to Triple Chrome Revenue",
             "url": "https://www.riotimesonline.com/southern-palladium-hikes-chrome-production-outlook-bengwenyama-2026/",
             "published_at": "2026-07-31T07:10:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria Private FX Outflows Jump 165% to $16.3 Billion",
-            "url": "https://www.riotimesonline.com/nigeria-private-fx-outflows-165-percent-2026/",
-            "published_at": "2026-07-31T06:53:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kenyans Shift Savings to Special Funds as MMF Yields Decline",
-            "url": "https://www.riotimesonline.com/kenyans-ditch-money-market-funds-special-schemes-2026/",
-            "published_at": "2026-07-31T06:48:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:43:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:20:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:19:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Friday, July 31, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:19:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-july-31-2026/",
-            "published_at": "2026-07-31T06:18:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-july-31-2026/",
-            "published_at": "2026-07-31T06:18:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:17:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-the-peso-july-31-2026/",
-            "published_at": "2026-07-31T06:17:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-july-31-2026/",
-            "published_at": "2026-07-31T06:16:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 July 31, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:16:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Oil Stocks Surge on Brazil, Argentina Gains",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:15:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Jumps on China Rebound: Futures Tracker CPER Rises 2.58%",
-            "url": "https://www.riotimesonline.com/copper-markets-latam-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:15:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iron Ore Wrap July 31 2026: Vale & Rio Surge Despite Flat Ore",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:14:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Steel Tariffs Hit Chinese Imports, Lift ETF",
-            "url": "https://www.riotimesonline.com/steel-markets-latam-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:14:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lithium Miners Jump: LIT ETF Gains 4.60% as Albemarle Rallies",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:13:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc-Linked Stocks Surge as Nexa Jumps 8.22% and Buenaventura Gains 5.43%",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:13:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Silver Gains While Gold Slips as LatAm Miners Watch Dollar",
-            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:12:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Soybeans, Corn Slip While Wheat Rises on China Hopes",
-            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-friday-july-31-2026/",
-            "published_at": "2026-07-31T06:12:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin at US$64,725: Latin America Crypto Wrap, July 31",
-            "url": "https://www.riotimesonline.com/bitcoin-climbs-to-us64725-crypto-broadly-higher-thursday/",
-            "published_at": "2026-07-31T06:11:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s New Biometric Foreigner ID: What the Electronic Carn\u00e9 Means for Residents",
-            "url": "https://www.riotimesonline.com/peru-biometric-carne-extranjeria-2026/",
-            "published_at": "2026-07-31T06:03:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "JBS\u2019s Pilgrim\u2019s Pride Sees Profit Slump on Chicken Glut",
-            "url": "https://www.riotimesonline.com/pilgrims-pride-q2-2026-jbs-profit/",
-            "published_at": "2026-07-30T22:36:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Profarma Q2 Revenue Jumps 32% to US$703 Million",
-            "url": "https://www.riotimesonline.com/profarma-q2-2026-revenue-profit/",
-            "published_at": "2026-07-30T22:32:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Saipem Wins US$150 Million Exxon Guyana Subsea Contract",
-            "url": "https://www.riotimesonline.com/saipem-wins-us150m-guyana-subsea-deal-for-exxons-longtail/",
-            "published_at": "2026-07-30T22:28:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Cartagena Cable Car Secures US$84 Million",
-            "url": "https://www.riotimesonline.com/cartagena-kalamari-cable-car-2026/",
-            "published_at": "2026-07-30T22:22:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Sends US$35 Billion 2027 Budget to Congress",
-            "url": "https://www.riotimesonline.com/panama-2027-budget-congress/",
-            "published_at": "2026-07-30T22:18:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Live Nation Plans Latin America\u2019s Biggest Arena in S\u00e3o Paulo",
-            "url": "https://www.riotimesonline.com/live-nation-arena-sao-paulo-2026/",
-            "published_at": "2026-07-30T19:58:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "CFE Fibra E Eyes US$1 Billion Grid Raise in 2026",
-            "url": "https://www.riotimesonline.com/mexico-cfe-fibra-e-grid-raise-2026/",
-            "published_at": "2026-07-30T19:53:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Audit Court Flags 82% of Pix Amendments as Irregular",
-            "url": "https://www.riotimesonline.com/brazil-tcu-pix-amendments-audit-2026/",
-            "published_at": "2026-07-30T17:25:41+00:00",
             "category": [],
             "language": "en"
         }
