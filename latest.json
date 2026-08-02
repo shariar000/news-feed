@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-02T13:10:04+00:00",
+    "updated_at": "2026-08-02T14:10:04+00:00",
     "items": [
+        {
+            "title": "Casa de Campo Food & Wine Festival Returns, Betting on Culinary Cachet",
+            "url": "https://www.riotimesonline.com/casa-de-campo-food-wine-festival-2026-la-romana/",
+            "published_at": "2026-08-02T14:00:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Skechers Cusco Campaign Steps In as Peru Arrivals Dip",
+            "url": "https://www.riotimesonline.com/skechers-cusco-campaign-adventure-tourism-2026/",
+            "published_at": "2026-08-02T13:59:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Festival Mundial de Circo Brings Free Circus to Belo Horizonte",
+            "url": "https://www.riotimesonline.com/festival-mundial-de-circo-2026-bh-guide/",
+            "published_at": "2026-08-02T13:59:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "La Paz Just Held the Gran Poder Festival It Nearly Lost",
+            "url": "https://www.riotimesonline.com/gran-poder-festival-2026-la-paz-dispatch/",
+            "published_at": "2026-08-02T13:56:52+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Peru\u2019s Fuel Prices Fell in July. Transport Still Costs 14% More Than a Year Ago.",
             "url": "https://www.riotimesonline.com/peru-inflation-july-2026-inei-transport/",
@@ -671,34 +699,6 @@
             "title": "Africa Intelligence Brief \u2014 Friday, July 31, 2026",
             "url": "https://www.riotimesonline.com/africa-intelligence-brief-friday-july-31-2026/",
             "published_at": "2026-07-31T16:18:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Economic Reforms Target Oil Investment and Labor Rules",
-            "url": "https://www.riotimesonline.com/peru-economic-reforms-oil-labor-fujimori/",
-            "published_at": "2026-07-31T16:16:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Bond Issuance Abroad Hits Highest Level Since 2006",
-            "url": "https://www.riotimesonline.com/colombia-bond-issuance-20-year-high-2026/",
-            "published_at": "2026-07-31T16:16:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Constellation Brands Veracruz Brewery Hires 600 Before Its Launch",
-            "url": "https://www.riotimesonline.com/constellation-brands-veracruz-brewery-hiring/",
-            "published_at": "2026-07-31T16:16:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Rare Earths Draw Korea\u2019s POSCO Into the Caldeira Project",
-            "url": "https://www.riotimesonline.com/posco-brazil-rare-earths-offtake-caldeira/",
-            "published_at": "2026-07-31T16:16:23+00:00",
             "category": [],
             "language": "en"
         }
