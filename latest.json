@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-02T10:10:04+00:00",
+    "updated_at": "2026-08-02T11:10:04+00:00",
     "items": [
+        {
+            "title": "La Pampilla 2026 Called Off as Chile Storm Recovery Takes Priority",
+            "url": "https://www.riotimesonline.com/la-pampilla-2026-cancelled-coquimbo-fiestas-patrias/",
+            "published_at": "2026-08-02T10:53:39+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Kast Tax Reform Passes: Impact on Foreign Residents",
             "url": "https://www.riotimesonline.com/chile-kast-tax-reform-passes-foreign-residents-2026/",
@@ -692,13 +699,6 @@
             "title": "Buenaventura Earnings Double as Peru\u2019s Gold Miner Rides the Rally",
             "url": "https://www.riotimesonline.com/buenaventura-earnings-gold-output-q2-2026/",
             "published_at": "2026-07-31T15:58:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fibra Uno Results: Mexico\u2019s Top Property Trust Holds 96% Occupancy",
-            "url": "https://www.riotimesonline.com/fibra-uno-results-q2-2026-occupancy-net-income/",
-            "published_at": "2026-07-31T15:58:36+00:00",
             "category": [],
             "language": "en"
         }
