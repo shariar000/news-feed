@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-02T22:10:04+00:00",
+    "updated_at": "2026-08-02T23:10:03+00:00",
     "items": [
+        {
+            "title": "Brookfield Buys Nine GLP Logistics Parks in Brazil",
+            "url": "https://www.riotimesonline.com/brookfield-glp-logistics-parks-brazil-2026/",
+            "published_at": "2026-08-02T22:09:24+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Patria\u2019s Record US$4.5bn Haul and Its Colombia Bet",
             "url": "https://www.riotimesonline.com/patria-record-fundraising-colombia-duppla-2026/",
@@ -17,6 +24,13 @@
             "language": "en"
         },
         {
+            "title": "Celsia Wins Colombia\u2019s First Battery-Storage Auction",
+            "url": "https://www.riotimesonline.com/celsia-colombia-first-battery-storage-auction-2026/",
+            "published_at": "2026-08-02T22:09:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "AGU Arranges US$1.3bn Rescue Plan for Brazil\u2019s BRB",
             "url": "https://www.riotimesonline.com/agu-arranges-brb-rescue-plan-2026/",
             "published_at": "2026-08-02T22:08:58+00:00",
@@ -24,16 +38,23 @@
             "language": "en"
         },
         {
-            "title": "China Takes Centre Stage at Curitiba\u2019s 2026 Biennial",
+            "title": "China Headlines Brazil\u2019s Curitiba Biennial as Key Partner",
             "url": "https://www.riotimesonline.com/curitiba-biennial-china-guest-2026/",
             "published_at": "2026-08-02T22:08:51+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Locarno 2026 Turns Swiss Screens Into a Latin Showcase",
+            "title": "Locarno Latin American Films Take over Swiss Festival 2026",
             "url": "https://www.riotimesonline.com/locarno-2026-latin-american-films-2026/",
             "published_at": "2026-08-02T22:08:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Buenos Aires Fishing: Free but Toxic Catch Warning",
+            "url": "https://www.riotimesonline.com/buenos-aires-urban-fishing-costanera-2026/",
+            "published_at": "2026-08-02T22:08:29+00:00",
             "category": [],
             "language": "en"
         },
@@ -647,58 +668,37 @@
             "language": "en"
         },
         {
-            "title": "Brazilian Economy 2026: GDP, Rates & Debt Outlook",
-            "url": "https://www.riotimesonline.com/brazilian-economy-2026-definitive-investor-guide/",
-            "published_at": "2026-07-31T21:58:16+00:00",
+            "title": "Cost of Living in Honduras 2026: Full Expat Guide",
+            "url": "https://www.riotimesonline.com/cost-of-living-in-honduras-2026-full-expat-guide/",
+            "published_at": false,
             "category": [],
             "language": "en"
         },
         {
-            "title": "Argentina Economy 2026: Inflation, Poverty After Milei\u2019s Cuts",
-            "url": "https://www.riotimesonline.com/argentina-economy-2026-milei-guide/",
-            "published_at": "2026-07-31T21:57:39+00:00",
+            "title": "Nicaragua Cost of Living Guide for Expats & Investors",
+            "url": "https://www.riotimesonline.com/nicaragua-cost-of-living-guide-for-expats-investors/",
+            "published_at": false,
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil Population to Peak in 2041 at 220 Million, Then Shrink",
-            "url": "https://www.riotimesonline.com/brazil-population-2026-official-guide-2100-outlook/",
-            "published_at": "2026-07-31T21:57:26+00:00",
+            "title": "Cost of Living in Trinidad 2026: Full Guide",
+            "url": "https://www.riotimesonline.com/cost-of-living-in-trinidad-2026-full-guide/",
+            "published_at": false,
             "category": [],
             "language": "en"
         },
         {
-            "title": "Ghana\u2019s MTN Faces Mobile Money IP Lawsuit in US$498B Market",
-            "url": "https://www.riotimesonline.com/mtn-ghana-contest-mobile-money-ip-lawsuit-2026/",
-            "published_at": "2026-07-31T21:02:02+00:00",
+            "title": "Suriname Cost of Living Guide for Expats 2026",
+            "url": "https://www.riotimesonline.com/suriname-cost-of-living-guide-for-expats-2026/",
+            "published_at": false,
             "category": [],
             "language": "en"
         },
         {
-            "title": "South Africa\u2019s US$200B Pension Fund PIC Names Mohai Board Chair",
-            "url": "https://www.riotimesonline.com/south-africa-pic-mohai-board-chair-governance-2026/",
-            "published_at": "2026-07-31T21:01:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zambia\u2019s solar capacity surges from 88 MW to 841 MW in five years",
-            "url": "https://www.riotimesonline.com/zambia-solar-capacity-surges-88-mw-to-841-mw-2026/",
-            "published_at": "2026-07-31T21:01:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana Fuel Prices Jump as Oil Hits US$89 and Cedi Weakens",
-            "url": "https://www.riotimesonline.com/ghana-fuel-prices-rise-august-2026/",
-            "published_at": "2026-07-31T21:00:49+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kenya Plans US$7.6 Billion Domestic Borrowing in 2026/27",
-            "url": "https://www.riotimesonline.com/kenya-targets-domestic-borrowing-2026-27/",
-            "published_at": "2026-07-31T20:56:57+00:00",
+            "title": "Cost of Living in Cuba: 2026 Expat & Investor Guide",
+            "url": "https://www.riotimesonline.com/cost-of-living-in-cuba-2026-expat-investor-guide/",
+            "published_at": false,
             "category": [],
             "language": "en"
         }
