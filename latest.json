@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-03T05:15:04+00:00",
+    "updated_at": "2026-08-03T06:10:04+00:00",
     "items": [
+        {
+            "title": "Peru Biometric Carn\u00e9 ID: New Migration Controls Tighten",
+            "url": "https://www.riotimesonline.com/peru-biometric-carne-extranjeria-2026/",
+            "published_at": "2026-08-03T05:52:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Tax Brackets Rise 16.8%: Recategorize by Aug 5",
+            "url": "https://www.riotimesonline.com/argentina-monotributo-recategorization-august-2026/",
+            "published_at": "2026-08-03T05:52:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "What\u2019s On in Latin America: The Week Ahead, August 3\u20139, 2026",
+            "url": "https://www.riotimesonline.com/whats-on-latam-week-ahead-august-3-2026/",
+            "published_at": "2026-08-03T05:49:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide for Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-monday-august-3-2026/",
+            "published_at": "2026-08-03T05:18:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zinc Latin America Drops as Nexa, Buenaventura Fall",
+            "url": "https://www.riotimesonline.com/zinc-markets-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T04:23:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vale Iron-ore Proxy {{VALE:pct}} as China Steel Signals Shift",
+            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T04:23:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Lithium Stocks SQM Drop 2% on State Takeover Fears",
+            "url": "https://www.riotimesonline.com/lithium-markets-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T04:23:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Spending US Dollars in Latin America in 2026: New Rules",
             "url": "https://www.riotimesonline.com/spend-us-dollars-latin-america-2026/",
@@ -650,55 +699,6 @@
             "title": "Rio de Janeiro Daily Brief \u2014 Saturday, August 1, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-august-1-2026/",
             "published_at": "2026-08-01T06:52:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Wheat Drops 3.29%; Corn, Soy Slip \u2014 the Grains Wrap",
-            "url": "https://www.riotimesonline.com/wheat-drops-329-corn-soy-slip-the-grains-wrap/",
-            "published_at": "2026-08-01T06:46:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil Wrap: USO Hits US$129.17, Petrobras Rises, Ecopetrol Falls",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-saturday-august-1-2026/",
-            "published_at": "2026-08-01T06:45:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc Equities Fall: Peru\u2019s Buenaventura, Nexa Slide",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-saturday-august-1-2026/",
-            "published_at": "2026-08-01T06:45:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Steadies Above US$39.56; Chile & Peru Supply in Focus",
-            "url": "https://www.riotimesonline.com/copper-markets-latam-saturday-august-1-2026/",
-            "published_at": "2026-08-01T06:45:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 August 1, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-the-peso-august-1-2026/",
-            "published_at": "2026-08-01T06:45:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 August 1, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-the-peso-august-1-2026/",
-            "published_at": "2026-08-01T06:45:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 August 1, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-august-1-2026/",
-            "published_at": "2026-08-01T06:44:57+00:00",
             "category": [],
             "language": "en"
         }
