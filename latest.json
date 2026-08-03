@@ -1,7 +1,77 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-03T08:10:04+00:00",
+    "updated_at": "2026-08-03T09:10:04+00:00",
     "items": [
+        {
+            "title": "Gold and Silver Jump as Haven Bids Lift LatAm Producers",
+            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-august-3-2026/",
+            "published_at": "2026-08-03T08:31:31+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-monday-august-3-2026/",
+            "published_at": "2026-08-03T08:31:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper Slips with China Data; Chile, Peru Supply in Focus",
+            "url": "https://www.riotimesonline.com/copper-markets-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T08:30:36+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria\u2019s Market Is Being Sold Off to Buy Into Dangote",
+            "url": "https://www.riotimesonline.com/dangote-refinery-ipo-ngx-reallocation-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Main Oil Pipeline Was Hacked. The Oil Kept Moving.",
+            "url": "https://www.riotimesonline.com/argentinas-main-oil-pipeline-was-hacked-the-oil-kept-moving/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brent Crude Sheds $16 in Eight Days as Trump Revives Iran Talks",
+            "url": "https://www.riotimesonline.com/brent-crude-slides-16-trump-iran-peace-talks-2026/",
+            "published_at": "2026-08-03T07:48:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-august-3-2026/",
+            "published_at": "2026-08-03T06:44:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-august-3-2026/",
+            "published_at": "2026-08-03T06:44:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 August 3, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-august-3-2026/",
+            "published_at": "2026-08-03T06:44:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-monday-august-3-2026/",
+            "published_at": "2026-08-03T06:43:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Grain Exports Drag Soybean, Corn Funds Lower",
             "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-august-3-2026/",
@@ -59,9 +129,23 @@
             "language": "en"
         },
         {
+            "title": "Vale ADR Edges Up 0.47% to US$15.06 as China Steel Signals Shift",
+            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T04:23:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Chile Lithium Stocks: SQM Drops 2% on Codelco Takeover Fears",
             "url": "https://www.riotimesonline.com/lithium-markets-latam-monday-august-3-2026/",
             "published_at": "2026-08-03T04:23:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Slips Past $63K & Stablecoins Anchor LatAm",
+            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-august-3-2026/",
+            "published_at": false,
             "category": [],
             "language": "en"
         },
@@ -395,6 +479,13 @@
             "language": "en"
         },
         {
+            "title": "Brazil and Mexico Rate Calls to Drive LatAm FX This Week",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-august-3-7-2026/",
+            "published_at": "2026-08-02T10:01:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Chile\u2019s Tax Overhaul Is Almost Law: What Changes for Foreign Residents",
             "url": "https://www.riotimesonline.com/chile-kast-tax-reform-passes-foreign-residents-2026/",
             "published_at": "2026-08-02T06:53:31+00:00",
@@ -608,97 +699,6 @@
             "title": "Brazil Approves Ferrovia Centro-Atlantica Rail Extension with US$4.1 Billion Investment",
             "url": "https://www.riotimesonline.com/ferrovia-centro-atlantica-rail-extension-approved/",
             "published_at": "2026-08-01T08:12:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "ISA Energia Transmission Deal Worth US$208M Closes",
-            "url": "https://www.riotimesonline.com/isa-energia-transmission-ie-madeira-deal/",
-            "published_at": "2026-08-01T08:11:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "American Airlines Azul Stake Cleared by Brazil",
-            "url": "https://www.riotimesonline.com/american-airlines-azul-stake-cade-approval/",
-            "published_at": "2026-08-01T08:11:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Copper Output Hits Worst Q2 Since 2007",
-            "url": "https://www.riotimesonline.com/chile-copper-output-worst-q2-2007/",
-            "published_at": "2026-08-01T08:11:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Interest Rate Held at 4.5% as Andean Peers Diverge",
-            "url": "https://www.riotimesonline.com/chile-interest-rate-held-4-5-percent-july-2026/",
-            "published_at": "2026-08-01T08:06:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina RIGI Investment Tops US$49 Billion on Pampa, MEGA Approvals",
-            "url": "https://www.riotimesonline.com/argentina-rigi-investment-us49-billion-pampa-mega/",
-            "published_at": "2026-08-01T08:06:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mallplaza Acquisition Adds Eight Colombia Malls for US$376M",
-            "url": "https://www.riotimesonline.com/mallplaza-acquisition-colombia-gran-plaza-malls/",
-            "published_at": "2026-08-01T08:05:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Interest Rate Held at 12% as Board Splits 4-3",
-            "url": "https://www.riotimesonline.com/colombia-interest-rate-held-12-percent-reserve-build/",
-            "published_at": "2026-08-01T07:58:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria Signals an End to Its Power Subsidy, Then the Message Splits",
-            "url": "https://www.riotimesonline.com/nigeria-electricity-subsidy-phase-out-2027/",
-            "published_at": "2026-08-01T07:39:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Angola Oil Revenue Hits US$8.91B as China Buys over Half",
-            "url": "https://www.riotimesonline.com/angola-oil-revenue-hits-us8-91b-as-china-buys-over-half/",
-            "published_at": "2026-08-01T07:39:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ethiopia Gold: Amhara Region Ships First 357 Kg to Central Bank",
-            "url": "https://www.riotimesonline.com/ethiopias-amhara-region-sends-its-first-gold-to-the-central-bank/",
-            "published_at": "2026-08-01T07:39:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sudan Sanctions Bill Targets Gold, Banks and Shipping",
-            "url": "https://www.riotimesonline.com/",
-            "published_at": "2026-08-01T07:39:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gabon Eurobond Raises US$920 Million Despite Junk Credit Rating",
-            "url": "https://www.riotimesonline.com/gabon-eurobond-920-million-2026/",
-            "published_at": "2026-08-01T07:39:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Sports Daily for Saturday, August 1, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-saturday-august-1-2026/",
-            "published_at": "2026-08-01T06:52:36+00:00",
             "category": [],
             "language": "en"
         }
