@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-03T15:10:04+00:00",
+    "updated_at": "2026-08-03T16:10:33+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s BTG Pactual Targets Colombia ETF and In-App Crypto",
+            "url": "https://www.riotimesonline.com/btg-pactual-crypto-trading-colombia-etf-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TGS Approves US$3 Billion Vaca Muerta Gas Liquids Export Project",
+            "url": "https://www.riotimesonline.com/tgs-3-billion-vaca-muerta-gas-exports-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Suriname\u2019s SuriPop 2026: Rodney Deekman Sweeps Top Prize",
             "url": "https://www.riotimesonline.com/suripop-2026-rodney-deekman-paramaribo-suriname/",
@@ -31,14 +45,14 @@
             "language": "en"
         },
         {
-            "title": "Chilean Duo D\u00ebnver Returns with Single \u2018Me Voy\u2019",
+            "title": "Chilean Duo D\u00ebnver Preview New Album with \u2018Me Voy\u2019",
             "url": "https://www.riotimesonline.com/denver-me-voy-new-album-chile-2026/",
             "published_at": "2026-08-03T14:12:15+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Ruta Centro Mes De Las Artes Guayaquil Kicks Off with Free Music",
+            "title": "Guayaquil\u2019s Month of the Arts Opens with Free Live Music",
             "url": "https://www.riotimesonline.com/ruta-centro-mes-de-las-artes-guayaquil-2026/",
             "published_at": "2026-08-03T14:12:09+00:00",
             "category": [],
@@ -59,21 +73,21 @@
             "language": "en"
         },
         {
-            "title": "Michelin-Starred Chef Oswaldo Oliva Lorea Cooks in Panama City",
+            "title": "Mexican Chef Oswaldo Oliva Lorea Cooks at Panama\u2019s Maito",
             "url": "https://www.riotimesonline.com/panama-city-oswaldo-oliva-lorea-maito-2026/",
             "published_at": "2026-08-03T14:11:48+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Santo Domingo International Book Fair 2026 Honors Poet M\u00e1rmol",
+            "title": "Dominican Book Fair 2026 Honors Poet, Welcomes Panama",
             "url": "https://www.riotimesonline.com/santo-domingo-jose-marmol-international-book-fair-2026/",
             "published_at": "2026-08-03T14:11:42+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Rog\u00e9rio Reis Exhibition Turns Rio Beach Vendors into Art",
+            "title": "Rog\u00e9rio Reis Exhibition Turns Rio\u2019s Beach Vendors into Art",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-rogerio-reis-beach-vendors-exhibition-2026/",
             "published_at": "2026-08-03T14:11:36+00:00",
             "category": [],
@@ -87,7 +101,7 @@
             "language": "en"
         },
         {
-            "title": "Colecci\u00f3n Amalita Exhibition: 300 Years of Argentine Art",
+            "title": "Buenos Aires Exhibit Traces 300 Years of Argentine Art",
             "url": "https://www.riotimesonline.com/buenos-aires-coleccion-amalita-argentine-art-2026/",
             "published_at": "2026-08-03T14:11:23+00:00",
             "category": [],
@@ -101,7 +115,7 @@
             "language": "en"
         },
         {
-            "title": "Florian\u00f3polis Drummers Gathering 2026: Americas\u2019 Biggest",
+            "title": "Florian\u00f3polis Drummers Gathering 2026: Free Mega-Show",
             "url": "https://www.riotimesonline.com/orquestra-baterias-florianopolis-2026-drummers-gathering/",
             "published_at": "2026-08-03T14:11:09+00:00",
             "category": [],
@@ -129,9 +143,9 @@
             "language": "en"
         },
         {
-            "title": "Petrobras and Colombia\u2019s Ecopetrol Hit Gas Off Caribbean Coast",
+            "title": "Petrobras and Ecopetrol Strike Gas Off Colombia\u2019s Coast",
             "url": "https://www.riotimesonline.com/petrobras-ecopetrol-natural-gas-sandia-1-colombia-2026/",
-            "published_at": false,
+            "published_at": "2026-08-03T13:50:58+00:00",
             "category": [],
             "language": "en"
         },
@@ -685,20 +699,6 @@
             "title": "Brazil\u2019s Lula Nominated for Re-election, Alckmin Back as VP",
             "url": "https://www.riotimesonline.com/pt-nominates-lula-for-re-election-alckmin-returns/",
             "published_at": "2026-08-02T21:16:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Vehicle Imports Rose 68%, and China Supplied the Most",
-            "url": "https://www.riotimesonline.com/colombia-vehicle-imports-2026-analdex-discrepancy/",
-            "published_at": "2026-08-02T16:40:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombiamoda 2026 Leaves Medell\u00edn More Than US$22 Million",
-            "url": "https://www.riotimesonline.com/colombiamoda-2026-medellin-economic-spillover/",
-            "published_at": "2026-08-02T16:29:44+00:00",
             "category": [],
             "language": "en"
         }
