@@ -1,9 +1,16 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-03T10:10:05+00:00",
+    "updated_at": "2026-08-03T11:10:40+00:00",
     "items": [
         {
-            "title": "ExxonMobil Guyana Uses AI to Find 4 New Drill Sites",
+            "title": "Police Examine US$461 Million in Americanas Ex-CEO\u2019s Accounts",
+            "url": "https://www.riotimesonline.com/police-trace-billions-americanas-ex-ceo-accounts/",
+            "published_at": "2026-08-03T10:20:55+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "ExxonMobil Guyana AI Spots 4 Offshore Oil Targets",
             "url": "https://www.riotimesonline.com/exxonmobil-guyana-ai-has-found-four-new-places-to-drill/",
             "published_at": "2026-08-03T09:45:21+00:00",
             "category": [],
@@ -17,7 +24,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil Didn\u2019t Drop Its Big Tech Bill. It Shrank Who It Covers.",
+            "title": "Brazil Narrows Big Tech Bill, Cuts Who It Covers",
             "url": "https://www.riotimesonline.com/brazil-didnt-drop-its-big-tech-bill-it-shrank-who-it-covers/",
             "published_at": "2026-08-03T09:45:05+00:00",
             "category": [],
@@ -45,9 +52,9 @@
             "language": "en"
         },
         {
-            "title": "Zambia Votes on 13 August With Its Debt Recovery on the Ballot",
+            "title": "Zambia Election Puts US$13 Billion Debt Recovery to the Test",
             "url": "https://www.riotimesonline.com/zambia-election-debt-copper-2026/",
-            "published_at": false,
+            "published_at": "2026-08-03T08:59:20+00:00",
             "category": [],
             "language": "en"
         },
@@ -96,7 +103,7 @@
         {
             "title": "Nigeria\u2019s Market Is Being Sold Off to Buy Into Dangote",
             "url": "https://www.riotimesonline.com/dangote-refinery-ipo-ngx-reallocation-2026/",
-            "published_at": false,
+            "published_at": "2026-08-03T08:11:19+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "Buenaventura San Gabriel Mine Lifts Peru Gold Output",
             "url": "https://www.riotimesonline.com/buenaventura-san-gabriel-mine-peru-gold-production/",
             "published_at": "2026-08-01T08:53:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Honduras Bond Buyback Closes With US$815.7 Million Sale",
-            "url": "https://www.riotimesonline.com/honduras-bond-buyback-imf-disbursement-2026/",
-            "published_at": "2026-08-01T08:53:31+00:00",
             "category": [],
             "language": "en"
         }
