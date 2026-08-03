@@ -1,9 +1,149 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-03T17:10:04+00:00",
+    "updated_at": "2026-08-03T18:10:04+00:00",
     "items": [
         {
-            "title": "Bogot\u00e1 Turns 488 With Over 50 Free Music, Film and Food Events",
+            "title": "Quito Offers 50+ Free August Activities for Young People",
+            "url": "https://www.riotimesonline.com/quito-youth-month-free-activities-august-2026/",
+            "published_at": "2026-08-03T18:08:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 August 3, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-monday-august-3-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Tonight \u2014 August 3, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-monday-august-3-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Natalia Jim\u00e9nez Returns to Lima After a 10-Year Absence",
+            "url": "https://www.riotimesonline.com/natalia-jimenez-returns-to-lima-after-a-10-year-absence/",
+            "published_at": "2026-08-03T17:52:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Eve Air Mobility Completes First Transition Flight of Its Air Taxi",
+            "url": "https://www.riotimesonline.com/eve-air-mobility-first-transition-flight-air-taxi-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-monday-august-3-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USA & Canada Intelligence Brief \u2014 Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-monday-august-3-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Retailer Ripley Corp Regains A+ Rating as Debt Falls",
+            "url": "https://www.riotimesonline.com/ripley-corp-a-plus-rating-upgrade-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Banco de Chile Adds US$53 Million to Provisions in the Second Quarter",
+            "url": "https://www.riotimesonline.com/banco-de-chile-provisions-q2-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ibovespa Reshuffle: Brazil\u2019s Tenda in, PetroReconcavo Out",
+            "url": "https://www.riotimesonline.com/tenda-joins-ibovespa-petroreconcavo-exits-2026/",
+            "published_at": "2026-08-03T17:32:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "21 Firms Exit Brazil B3 as Delistings Hit Foreign Giants",
+            "url": "https://www.riotimesonline.com/foreign-giants-exit-brazil-b3-exchange-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tupy Names Augusto Ribeiro Junior as Its New CFO",
+            "url": "https://www.riotimesonline.com/tupy-names-augusto-ribeiro-junior-cfo-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-monday-august-3-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Monday, August 3, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-monday-august-3-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentine Duo Ca7riel Y Paco Amoroso Kick Off Mexico Tour",
+            "url": "https://www.riotimesonline.com/ca7riel-and-paco-amoroso-launch-mexico-tour-in-monterrey/",
+            "published_at": "2026-08-03T17:12:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LATAM Airlines to Add SES Wi-Fi on 60+ New Jets by 2026",
+            "url": "https://www.riotimesonline.com/latam-airlines-ses-satellite-wifi-60-jets-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Bancolombia Migration Fails, 20M Locked Out",
+            "url": "https://www.riotimesonline.com/bancolombia-system-migration-failure-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Raia Drogasil Opens Sephora-Style Beauty Store",
+            "url": "https://www.riotimesonline.com/raia-drogasil-premium-beauty-store-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "BYD Brazil Factory Targets 300K EVs as Tesla Eyes Argentina",
+            "url": "https://www.riotimesonline.com/byd-brazil-factory-tesla-argentina-charging-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chedraui USA Sales Drop 2.3% on Immigration Crackdown",
+            "url": "https://www.riotimesonline.com/chedraui-immigration-enforcement-us-sales-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bogot\u00e1 Turns 488 with 50+ Free Events Across the City",
             "url": "https://www.riotimesonline.com/bogota-turns-488-with-over-50-free-music-film-and-food-events/",
             "published_at": "2026-08-03T16:51:00+00:00",
             "category": [],
@@ -87,7 +227,7 @@
             "language": "en"
         },
         {
-            "title": "Padr\u00f3n Mediterranean Opens at Marriott in Guyana\u2019s Capital",
+            "title": "Padr\u00f3n Mediterranean Guyana Opens at Marriott in Georgetown",
             "url": "https://www.riotimesonline.com/padron-mediterranean-restaurant-georgetown-guyana-2026/",
             "published_at": "2026-08-03T16:31:03+00:00",
             "category": [],
@@ -559,146 +699,6 @@
             "title": "Brazil\u2019s Financial Morning Call for Monday, August 3, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-august-3-2026/",
             "published_at": "2026-08-03T06:44:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 August 3, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-august-3-2026/",
-            "published_at": "2026-08-03T06:44:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Monday, August 3, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-monday-august-3-2026/",
-            "published_at": "2026-08-03T06:43:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Grain Exports Surge, Dragging Crop Funds Down",
-            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-august-3-2026/",
-            "published_at": "2026-08-03T06:10:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Oil: Petrobras, YPF Rise as Ecopetrol Drops",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-monday-august-3-2026/",
-            "published_at": "2026-08-03T06:10:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Steel Drops as Cheap Asian Imports Flood In",
-            "url": "https://www.riotimesonline.com/steel-markets-latam-monday-august-3-2026/",
-            "published_at": "2026-08-03T06:10:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Biometric ID Card Tightens Migration Controls",
-            "url": "https://www.riotimesonline.com/peru-biometric-carne-extranjeria-2026/",
-            "published_at": "2026-08-03T05:52:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Monotributo Tax Brackets Rise 16.8% by Aug 5",
-            "url": "https://www.riotimesonline.com/argentina-monotributo-recategorization-august-2026/",
-            "published_at": "2026-08-03T05:52:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "What\u2019s On in Latin America: The Week Ahead, August 3\u20139, 2026",
-            "url": "https://www.riotimesonline.com/whats-on-latam-week-ahead-august-3-2026/",
-            "published_at": "2026-08-03T05:49:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Monday, August 3, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-monday-august-3-2026/",
-            "published_at": "2026-08-03T05:18:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc Latin America Drops as Nexa, Buenaventura Fall",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-monday-august-3-2026/",
-            "published_at": "2026-08-03T04:23:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale ADR Edges Up 0.47% to US$15.06 as China Steel Signals Shift",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-august-3-2026/",
-            "published_at": "2026-08-03T04:23:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Lithium Stocks: SQM Drops 2% on Codelco Takeover Fears",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-monday-august-3-2026/",
-            "published_at": "2026-08-03T04:23:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Slips Past $63K & Stablecoins Anchor LatAm",
-            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-august-3-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Spending US Dollars in Latin America in 2026: New Rules",
-            "url": "https://www.riotimesonline.com/spend-us-dollars-latin-america-2026/",
-            "published_at": "2026-08-02T23:12:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s 2026 Coffee-Festival Calendar: Dates, Cities, Context",
-            "url": "https://www.riotimesonline.com/brazil-coffee-festival-calendar-2026/",
-            "published_at": "2026-08-02T23:12:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "CSN Downgraded to Caa1 Ahead of a US$1.3bn Bond Swap",
-            "url": "https://www.riotimesonline.com/csn-downgraded-caa1-us-dollar-bond-swap-2026/",
-            "published_at": "2026-08-02T23:12:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nosara\u2019s Forbes Adventure Nod and How to Move There",
-            "url": "https://www.riotimesonline.com/nosara-costa-rica-forbes-relocation-guide-2026/",
-            "published_at": "2026-08-02T23:12:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentine Actor Enrique Otranto Dies at 78",
-            "url": "https://www.riotimesonline.com/enrique-otranto-argentine-actor-dies-2026/",
-            "published_at": "2026-08-02T23:12:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bravura Park Brings Brazil Its First Military Theme Park",
-            "url": "https://www.riotimesonline.com/bravura-park-military-theme-park-brazil-2026/",
-            "published_at": "2026-08-02T23:12:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brookfield Buys US$148M in Brazilian Logistics Real Estate",
-            "url": "https://www.riotimesonline.com/brookfield-glp-logistics-parks-brazil-2026/",
-            "published_at": "2026-08-02T22:09:24+00:00",
             "category": [],
             "language": "en"
         }
