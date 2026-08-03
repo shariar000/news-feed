@@ -1,16 +1,37 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-03T06:10:04+00:00",
+    "updated_at": "2026-08-03T07:10:04+00:00",
     "items": [
         {
-            "title": "Peru Biometric Carn\u00e9 ID: New Migration Controls Tighten",
+            "title": "Grains Wrap: Wheat Leads Losses as SOYB and CORN Dip",
+            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T06:10:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Oil: Petrobras, YPF Gain as Ecopetrol Slips",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T06:10:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Steel Under Pressure as Asian Imports Surge",
+            "url": "https://www.riotimesonline.com/steel-markets-latam-monday-august-3-2026/",
+            "published_at": "2026-08-03T06:10:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Biometric ID Card Tightens Migration Controls",
             "url": "https://www.riotimesonline.com/peru-biometric-carne-extranjeria-2026/",
             "published_at": "2026-08-03T05:52:52+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Argentina Tax Brackets Rise 16.8%: Recategorize by Aug 5",
+            "title": "Argentina Monotributo Tax Brackets Rise 16.8% by Aug 5",
             "url": "https://www.riotimesonline.com/argentina-monotributo-recategorization-august-2026/",
             "published_at": "2026-08-03T05:52:52+00:00",
             "category": [],
@@ -34,13 +55,6 @@
             "title": "Zinc Latin America Drops as Nexa, Buenaventura Fall",
             "url": "https://www.riotimesonline.com/zinc-markets-latam-monday-august-3-2026/",
             "published_at": "2026-08-03T04:23:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Vale Iron-ore Proxy {{VALE:pct}} as China Steel Signals Shift",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-august-3-2026/",
-            "published_at": "2026-08-03T04:23:32+00:00",
             "category": [],
             "language": "en"
         },
@@ -388,7 +402,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil, Mexico Rate Decisions Top Market Events This Week",
+            "title": "Brazil, Mexico Rate Calls and US Jobs Top Market Events Week",
             "url": "https://www.riotimesonline.com/latam-market-events-week-of-august-3-2026/",
             "published_at": "2026-08-02T08:06:32+00:00",
             "category": [],
@@ -685,20 +699,6 @@
             "title": "Latin America Sports Daily for Saturday, August 1, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-for-saturday-august-1-2026/",
             "published_at": "2026-08-01T06:52:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Saturday, August 1, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-august-1-2026/",
-            "published_at": "2026-08-01T06:52:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Saturday, August 1, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-august-1-2026/",
-            "published_at": "2026-08-01T06:52:20+00:00",
             "category": [],
             "language": "en"
         }
