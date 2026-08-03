@@ -1,7 +1,70 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-03T09:10:04+00:00",
+    "updated_at": "2026-08-03T10:10:05+00:00",
     "items": [
+        {
+            "title": "ExxonMobil Guyana Uses AI to Find 4 New Drill Sites",
+            "url": "https://www.riotimesonline.com/exxonmobil-guyana-ai-has-found-four-new-places-to-drill/",
+            "published_at": "2026-08-03T09:45:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "El Salvador Property Prices Hit US$276/m\u00b2, Doubling in a Decade",
+            "url": "https://www.riotimesonline.com/el-salvador-property-prices-doubled-most-workers-are-off-the-books/",
+            "published_at": "2026-08-03T09:45:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Didn\u2019t Drop Its Big Tech Bill. It Shrank Who It Covers.",
+            "url": "https://www.riotimesonline.com/brazil-didnt-drop-its-big-tech-bill-it-shrank-who-it-covers/",
+            "published_at": "2026-08-03T09:45:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile May Sell Water Utility Stake, Losing Veto Power",
+            "url": "https://www.riotimesonline.com/chile-may-sell-the-water-utility-stake-that-lets-it-block-water-deals/",
+            "published_at": "2026-08-03T09:44:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Alicorp Takes Over Unilever\u2019s Home Care Arm in Colombia",
+            "url": "https://www.riotimesonline.com/alicorp-takes-over-unilever-home-care-colombia/",
+            "published_at": "2026-08-03T09:42:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "DP World Backs US$100M Mombasa Special Economic Zone",
+            "url": "https://www.riotimesonline.com/mombasa-special-economic-zone-dp-world-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zambia Votes on 13 August With Its Debt Recovery on the Ballot",
+            "url": "https://www.riotimesonline.com/zambia-election-debt-copper-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ivory Coast Raises Fuel Prices for the Second Time Since May",
+            "url": "https://www.riotimesonline.com/ivory-coast-fuel-prices-august-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Equatorial Guinea Gas Deal Delayed on China Investment Rules",
+            "url": "https://www.riotimesonline.com/equatorial-guinea-gas-deal-china-rules-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Gold and Silver Jump as Haven Bids Lift LatAm Producers",
             "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-august-3-2026/",
@@ -24,8 +87,29 @@
             "language": "en"
         },
         {
+            "title": "Somalia\u2019s Peace Mission Now Hangs on a UN Vote",
+            "url": "https://www.riotimesonline.com/aussom-funding-un-security-council-somalia-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
             "title": "Nigeria\u2019s Market Is Being Sold Off to Buy Into Dangote",
             "url": "https://www.riotimesonline.com/dangote-refinery-ipo-ngx-reallocation-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Angola\u2019s New Shareholders Watched Unitel Go Dark",
+            "url": "https://www.riotimesonline.com/angola-unitel-cyberattack-ipo-debut-2026/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "DR Congo Suspends Digital Taxes After Startup Backlash",
+            "url": "https://www.riotimesonline.com/dr-congo-suspends-digital-taxes-backlash-2026/",
             "published_at": false,
             "category": [],
             "language": "en"
@@ -34,13 +118,6 @@
             "title": "Argentina\u2019s Main Oil Pipeline Was Hacked. The Oil Kept Moving.",
             "url": "https://www.riotimesonline.com/argentinas-main-oil-pipeline-was-hacked-the-oil-kept-moving/",
             "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brent Crude Sheds $16 in Eight Days as Trump Revives Iran Talks",
-            "url": "https://www.riotimesonline.com/brent-crude-slides-16-trump-iran-peace-talks-2026/",
-            "published_at": "2026-08-03T07:48:57+00:00",
             "category": [],
             "language": "en"
         },
@@ -73,7 +150,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil Grain Exports Drag Soybean, Corn Funds Lower",
+            "title": "Brazil Grain Exports Surge, Dragging Crop Funds Down",
             "url": "https://www.riotimesonline.com/grains-soy-corn-latam-monday-august-3-2026/",
             "published_at": "2026-08-03T06:10:41+00:00",
             "category": [],
@@ -234,7 +311,7 @@
             "language": "en"
         },
         {
-            "title": "Locarno Latin American Films Take over Swiss Festival 2026",
+            "title": "Latin American Films Dominate Locarno Festival 2026",
             "url": "https://www.riotimesonline.com/locarno-2026-latin-american-films-2026/",
             "published_at": "2026-08-02T22:08:36+00:00",
             "category": [],
@@ -276,7 +353,7 @@
             "language": "en"
         },
         {
-            "title": "Chile\u2019s Atacama Lithium Plan: US$3 Billion Bet on Water",
+            "title": "Atacama Lithium: US$3 Billion Plan to End Freshwater Use",
             "url": "https://www.riotimesonline.com/novandinos-us3bn-atacama-lithium-bet-hinges-on-water/",
             "published_at": "2026-08-02T21:16:30+00:00",
             "category": [],
@@ -297,7 +374,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil\u2019s Vale OKs US$1.7bn Payout and Share Buyback",
+            "title": "Vale Share Buyback OK\u2019d in US$1.7 Billion Payout Plan",
             "url": "https://www.riotimesonline.com/vale-buyback-us1-7bn-payout-2026/",
             "published_at": "2026-08-02T21:16:13+00:00",
             "category": [],
@@ -622,83 +699,6 @@
             "title": "Honduras Bond Buyback Closes With US$815.7 Million Sale",
             "url": "https://www.riotimesonline.com/honduras-bond-buyback-imf-disbursement-2026/",
             "published_at": "2026-08-01T08:53:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "El Salvador Energy Exports Jump 70% to US$11.9 Million",
-            "url": "https://www.riotimesonline.com/el-salvador-energy-exports-surge-2026/",
-            "published_at": "2026-08-01T08:53:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Propal Liquidation Ends Colombian Paper Era, 550 Jobs Lost",
-            "url": "https://www.riotimesonline.com/propal-liquidation-colombia-paper-jobs/",
-            "published_at": "2026-08-01T08:52:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petroperu Talara Refinery Hit by Stoppages as Debt Costs Mount",
-            "url": "https://www.riotimesonline.com/petroperu-talara-refinery-stoppages-debt-2026/",
-            "published_at": "2026-08-01T08:52:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Parque Arauco Revenue Up 17.9% but Profit Falls 30.8%",
-            "url": "https://www.riotimesonline.com/parque-arauco-results-q2-2026-mall-paseo-quilin/",
-            "published_at": "2026-08-01T08:44:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Randoncorp Frasle Offer: Controller Dramd Bids for RAPT3",
-            "url": "https://www.riotimesonline.com/randoncorp-frasle-offer-share-exchange-consolidation/",
-            "published_at": "2026-08-01T08:44:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Japan Visa Waiver Extended Through 2029",
-            "url": "https://www.riotimesonline.com/brazil-japan-visa-waiver-extended-2029/",
-            "published_at": "2026-08-01T08:26:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Chinese Car Imports Surge 147% to Top World Rankings",
-            "url": "https://www.riotimesonline.com/brazil-chinese-car-imports-surge-2026/",
-            "published_at": "2026-08-01T08:22:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Jaques Wagner Investigation: Brazil Senator Probed Over 74 Calls, Carbon-Credit Bill",
-            "url": "https://www.riotimesonline.com/jaques-wagner-investigation-brazil-senator-calls-carbon-credit/",
-            "published_at": "2026-08-01T08:22:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ollanta Humala Released After Peru Court Annuls Conviction",
-            "url": "https://www.riotimesonline.com/ollanta-humala-released-peru-court-annuls-conviction/",
-            "published_at": "2026-08-01T08:22:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Leoncio Bueno, Peru\u2019s Proletarian Poet, Dies at 106",
-            "url": "https://www.riotimesonline.com/leoncio-bueno-peruvian-proletarian-poet-dies/",
-            "published_at": "2026-08-01T08:22:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Approves Ferrovia Centro-Atlantica Rail Extension with US$4.1 Billion Investment",
-            "url": "https://www.riotimesonline.com/ferrovia-centro-atlantica-rail-extension-approved/",
-            "published_at": "2026-08-01T08:12:40+00:00",
             "category": [],
             "language": "en"
         }
