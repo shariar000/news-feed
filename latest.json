@@ -1,7 +1,119 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-04T09:10:04+00:00",
+    "updated_at": "2026-08-04T10:10:04+00:00",
     "items": [
+        {
+            "title": "Brazil\u2019s Deficit Is Almost 10% of GDP. Nine-Tenths of It Is Interest.",
+            "url": "https://www.riotimesonline.com/brazils-deficit-is-almost-10-of-gdp-nine-tenths-of-it-is-interest/",
+            "published_at": "2026-08-04T09:28:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Tuesday, August 4, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T09:28:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Tuesday, August 4, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T09:28:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Tuesday, August 4, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T09:28:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Pulse for Tuesday, August 4, 2026",
+            "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T09:28:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 August 4, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-the-peso-august-4-2026/",
+            "published_at": "2026-08-04T09:28:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "25 US States Sue to Block Trump Tariffs on Africa",
+            "url": "https://www.riotimesonline.com/us-states-sue-block-trump-tariffs-2026/",
+            "published_at": "2026-08-04T09:28:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US President Trump Warns Iran: \u201cLast Chance Before Decapitation\u201d",
+            "url": "https://www.riotimesonline.com/trump-warns-iran-of-last-chance-before-decapitation-in-2026-war/",
+            "published_at": "2026-08-04T09:28:26+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Banking stocks lift Nigerian market by N288 billion despite broad selloff",
+            "url": "https://www.riotimesonline.com/banking-stocks-lift-nigerian-market-n288-billion-2026/",
+            "published_at": "2026-08-04T09:28:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ghana Manganese Miner Targets 700,000 Tonnes in August Push",
+            "url": "https://www.riotimesonline.com/ghana-manganese-miner-targets-700000-tonnes-in-august-push/",
+            "published_at": "2026-08-04T09:28:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "African Development Bank approves sh652 billion loan for Arua Airport upgrade",
+            "url": "https://www.riotimesonline.com/african-development-bank-approves-sh652-billion-loan-for-arua-airport-upgrade/",
+            "published_at": "2026-08-04T09:28:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rwanda Shuts Eight Distilleries After Toxic Spirits Kill 50 People",
+            "url": "https://www.riotimesonline.com/rwanda-shuts-eight-distilleries-after-toxic-spirits-kill-50-people/",
+            "published_at": "2026-08-04T09:28:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kano Assembly Passes Bill to Cap Private School Fee Increases at 10%",
+            "url": "https://www.riotimesonline.com/kano-assembly-passes-bill-to-cap-private-school-fee-increases-at-10/",
+            "published_at": "2026-08-04T09:28:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nedbank sees better banking conditions after flat first half",
+            "url": "https://www.riotimesonline.com/nedbank-sees-better-banking-conditions-after-flat-first-half/",
+            "published_at": "2026-08-04T09:28:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "AfDB approves $35 million to boost Senegal\u2019s public finance management",
+            "url": "https://www.riotimesonline.com/afdb-approves-35-million-to-boost-senegals-public-finance-management/",
+            "published_at": "2026-08-04T09:28:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Weekly HIV pill matches daily treatment in landmark global trial",
+            "url": "https://www.riotimesonline.com/weekly-hiv-pill-matches-daily-treatment-in-landmark-global-trial/",
+            "published_at": "2026-08-04T09:28:01+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Chile Markets: IPSA & the Peso \u2014 August 4, 2026",
             "url": "https://www.riotimesonline.com/chile-markets-ipsa-the-peso-august-4-2026/",
@@ -31,7 +143,7 @@
             "language": "en"
         },
         {
-            "title": "Iron Ore Drops on China Steel Fears as Vale Falls 3.19%",
+            "title": "Iron Ore Falls on China Steel Fears as Brazil\u2019s Vale Drops 3%",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-tuesday-august-4-2026/",
             "published_at": "2026-08-04T08:49:07+00:00",
             "category": [],
@@ -94,7 +206,7 @@
             "language": "en"
         },
         {
-            "title": "Colombia Incoming Cabinet: Petro\u2019s Picks and Foreign Stakes",
+            "title": "Colombia Incoming Cabinet: Petro\u2019s Picks and US Investor Risks",
             "url": "https://www.riotimesonline.com/colombia-incoming-cabinet-foreigners-2026/",
             "published_at": "2026-08-04T05:55:30+00:00",
             "category": [],
@@ -104,6 +216,34 @@
             "title": "Chile Kast Tax Reform: Final Senate Vote Hits Foreign Residents",
             "url": "https://www.riotimesonline.com/chile-kast-tax-reform-passes-foreign-residents-2026/",
             "published_at": "2026-08-04T05:55:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Grain Exports Jump as Dryness Hits Mato Grosso Crops",
+            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T05:38:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin American Zinc Stocks Split as Nexa, Buenaventura Diverge",
+            "url": "https://www.riotimesonline.com/zinc-markets-latam-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T05:38:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Lithium Equity Moves Flat on Chile Policy Fear; Albemarle Gains",
+            "url": "https://www.riotimesonline.com/lithium-markets-latam-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T05:38:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bitcoin Steady at $63,461 as LatAm Leans on Stablecoins",
+            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-tuesday-august-4-2026/",
+            "published_at": "2026-08-04T05:38:13+00:00",
             "category": [],
             "language": "en"
         },
@@ -185,28 +325,28 @@
             "language": "en"
         },
         {
-            "title": "Colombia Construction Boom: US$1.2bn Deals Eyed at Medell\u00edn Fair",
+            "title": "Colombia Tax-for-Works Program Eyes US$1.2B at 2026 Fair",
             "url": "https://www.riotimesonline.com/colombia-construction-obras-por-impuestos-expocamacol-2026/",
             "published_at": "2026-08-03T18:19:13+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Puerto Rico Drought Emergency 2026 Hits 60% of Island",
+            "title": "Puerto Rico Drought Emergency 2026 Triggers Water Rationing",
             "url": "https://www.riotimesonline.com/puerto-rico-drought-emergency-water-rationing-2026/",
             "published_at": "2026-08-03T18:19:08+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "AI Rules Set for Brazil\u2019s 2026 Elections to Ban Deepfakes",
+            "title": "AI Rules Ban Deepfakes in Brazil\u2019s 2026 Elections",
             "url": "https://www.riotimesonline.com/brazil-tse-agu-ai-deepfake-rules-2026-elections/",
             "published_at": "2026-08-03T18:19:02+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "C\u00e1rtel De Los Reyes Leader Captured; US$5M Bounty Target",
+            "title": "Mexico\u2019s C\u00e1rtel De Los Reyes Leader Captured; US$5M US Bounty",
             "url": "https://www.riotimesonline.com/mexico-army-captures-cartel-de-los-reyes-leader-michoacan-2026/",
             "published_at": "2026-08-03T18:18:54+00:00",
             "category": [],
@@ -248,7 +388,7 @@
             "language": "en"
         },
         {
-            "title": "Mercado Pago Places a ~US$260M Bond to Deepen Mexican Lending",
+            "title": "Mercado Pago Bond in Mexico Raises US$262 Million for Loans",
             "url": "https://www.riotimesonline.com/mercado-pago-mexico-peso-bond-biva-2026/",
             "published_at": "2026-08-03T18:18:22+00:00",
             "category": [],
@@ -395,16 +535,16 @@
             "language": "en"
         },
         {
-            "title": "21 Firms Exit Brazil B3 as Delistings Hit Foreign Giants",
+            "title": "Brazil B3 Delistings Surge as 21 Firms Go Private",
             "url": "https://www.riotimesonline.com/foreign-giants-exit-brazil-b3-exchange-2026/",
-            "published_at": false,
+            "published_at": "2026-08-03T17:30:55+00:00",
             "category": [],
             "language": "en"
         },
         {
             "title": "Tupy Names Augusto Ribeiro Junior as Its New CFO",
             "url": "https://www.riotimesonline.com/tupy-names-augusto-ribeiro-junior-cfo-2026/",
-            "published_at": false,
+            "published_at": "2026-08-03T17:29:17+00:00",
             "category": [],
             "language": "en"
         },
@@ -465,7 +605,7 @@
             "language": "en"
         },
         {
-            "title": "Cerro De Sabores 2026: Free Food Fest with 200 Exhibitors",
+            "title": "Chile\u2019s Cerro De Sabores 2026: Free Food Fest, 200 Stalls",
             "url": "https://www.riotimesonline.com/cerro-de-sabores-2026-valparaiso-free-admission/",
             "published_at": "2026-08-03T16:32:10+00:00",
             "category": [],
@@ -559,146 +699,6 @@
             "title": "Brazil\u2019s BTG Pactual Targets Colombia ETF and In-App Crypto",
             "url": "https://www.riotimesonline.com/btg-pactual-crypto-trading-colombia-etf-2026/",
             "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "TGS Approves US$3 Billion Vaca Muerta Gas Liquids Export Project",
-            "url": "https://www.riotimesonline.com/tgs-3-billion-vaca-muerta-gas-exports-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Suriname\u2019s SuriPop 2026: Rodney Deekman Sweeps Top Prize",
-            "url": "https://www.riotimesonline.com/suripop-2026-rodney-deekman-paramaribo-suriname/",
-            "published_at": "2026-08-03T14:12:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Inside Castillo Interior, Guadalajara\u2019s New Art Hub",
-            "url": "https://www.riotimesonline.com/castillo-interior-guadalajara-contemporary-art-gallery-2026/",
-            "published_at": "2026-08-03T14:12:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ray Smith Brings \u2018El Orden Salvaje\u2019 to San Miguel de Allende",
-            "url": "https://www.riotimesonline.com/ray-smith-el-orden-salvaje-san-miguel-allende-2026/",
-            "published_at": "2026-08-03T14:12:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Band Blitz Plays Curitiba\u2019s Rua Da M\u00fasica Anniversary",
-            "url": "https://www.riotimesonline.com/rua-da-musica-curitiba-blitz-one-year-2026/",
-            "published_at": "2026-08-03T14:12:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Duo D\u00ebnver Preview New Album with \u2018Me Voy\u2019",
-            "url": "https://www.riotimesonline.com/denver-me-voy-new-album-chile-2026/",
-            "published_at": "2026-08-03T14:12:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guayaquil\u2019s Month of the Arts Opens with Free Live Music",
-            "url": "https://www.riotimesonline.com/ruta-centro-mes-de-las-artes-guayaquil-2026/",
-            "published_at": "2026-08-03T14:12:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Puebla\u2019s Capilla Del Arte Hosts 30+ Free FILIP Book Fair Events",
-            "url": "https://www.riotimesonline.com/capilla-del-arte-filip-puebla-2026/",
-            "published_at": "2026-08-03T14:12:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Winter Holidays 2026 Draw 4.6M Tourists",
-            "url": "https://www.riotimesonline.com/argentina-winter-holidays-2026-tourism-came/",
-            "published_at": "2026-08-03T14:11:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexican Chef Oswaldo Oliva Lorea Cooks at Panama\u2019s Maito",
-            "url": "https://www.riotimesonline.com/panama-city-oswaldo-oliva-lorea-maito-2026/",
-            "published_at": "2026-08-03T14:11:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dominican Book Fair 2026 Honors Poet, Welcomes Panama",
-            "url": "https://www.riotimesonline.com/santo-domingo-jose-marmol-international-book-fair-2026/",
-            "published_at": "2026-08-03T14:11:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rog\u00e9rio Reis Exhibition Turns Rio\u2019s Beach Vendors into Art",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-rogerio-reis-beach-vendors-exhibition-2026/",
-            "published_at": "2026-08-03T14:11:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Concert Films Hit Mexico City Cinemas: Juan Gabriel to Queen",
-            "url": "https://www.riotimesonline.com/mexico-city-concert-films-cinemas-2026/",
-            "published_at": "2026-08-03T14:11:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Buenos Aires Exhibit Traces 300 Years of Argentine Art",
-            "url": "https://www.riotimesonline.com/buenos-aires-coleccion-amalita-argentine-art-2026/",
-            "published_at": "2026-08-03T14:11:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Doom Legends Pentagram Play Farewell Chile Show at Blondie",
-            "url": "https://www.riotimesonline.com/pentagram-blondie-santiago-farewell-2026/",
-            "published_at": "2026-08-03T14:11:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Florian\u00f3polis Drummers Gathering 2026: Free Mega-Show",
-            "url": "https://www.riotimesonline.com/orquestra-baterias-florianopolis-2026-drummers-gathering/",
-            "published_at": "2026-08-03T14:11:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s San Miguel De Allende Hosts FASMA 2026, 50+ Free Events",
-            "url": "https://www.riotimesonline.com/fasma-2026-san-miguel-de-allende-arts-festival/",
-            "published_at": "2026-08-03T14:11:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Yoshitaka Amano Exhibition in Belo Horizonte Draws 218 Works",
-            "url": "https://www.riotimesonline.com/yoshitaka-amano-alem-da-fantasia-belo-horizonte-2026/",
-            "published_at": "2026-08-03T14:10:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s BNDES Bank Finances Embraer Jet Export to Canada",
-            "url": "https://www.riotimesonline.com/bndes-embraer-jet-export-canada-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras and Ecopetrol Strike Gas Off Colombia\u2019s Coast",
-            "url": "https://www.riotimesonline.com/petrobras-ecopetrol-natural-gas-sandia-1-colombia-2026/",
-            "published_at": "2026-08-03T13:50:58+00:00",
             "category": [],
             "language": "en"
         }
