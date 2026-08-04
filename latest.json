@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-04T20:10:03+00:00",
+    "updated_at": "2026-08-04T21:10:04+00:00",
     "items": [
+        {
+            "title": "USMCA Trade Deal Review Fails, Key September Talks Loom",
+            "url": "https://www.riotimesonline.com/usmca-review-september-round-decisive-2026/",
+            "published_at": "2026-08-04T20:19:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "BRICS Expansion: 30+ Nations Await September Summit Vote",
+            "url": "https://www.riotimesonline.com/brics-expansion-september-2026-new-delhi-summit/",
+            "published_at": "2026-08-04T20:19:21+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Samba School Rehearsals Kick Off Rio\u2019s Carnival 2027 Countdown",
             "url": "https://www.riotimesonline.com/rios-samba-schools-are-already-rehearsing-for-carnival-2027/",
@@ -262,21 +276,21 @@
             "language": "en"
         },
         {
-            "title": "Guyana Ring-Fencing Gap: Critics Say Exxon Deal Costs Billions",
+            "title": "Guyana Ring-Fencing Gap May Cost US$12.4 Billion",
             "url": "https://www.riotimesonline.com/guyana-stabroek-ring-fencing-gap-exxon-critics-2026/",
             "published_at": "2026-08-04T12:25:00+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Pope Leo XIV Plans Return to Former Diocese in Peru",
+            "title": "Pope Leo XIV Plans Return to His Former Diocese in Peru",
             "url": "https://www.riotimesonline.com/peru-pope-leo-xiv-chiclayo-visit-november-2026/",
             "published_at": "2026-08-04T12:21:36+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Honduras Ex-President Juan Orlando Hern\u00e1ndez Freed Before Trial",
+            "title": "Honduras Ex-Leader Hern\u00e1ndez Freed Pending Fraud Trial",
             "url": "https://www.riotimesonline.com/honduras-tegucigalpa-hernandez-trial-freedom-2026/",
             "published_at": "2026-08-04T12:21:27+00:00",
             "category": [],
@@ -685,20 +699,6 @@
             "title": "Latin American Zinc Stocks Split as Nexa, Buenaventura Diverge",
             "url": "https://www.riotimesonline.com/zinc-markets-latam-tuesday-august-4-2026/",
             "published_at": "2026-08-04T05:38:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lithium Equity Moves Flat on Chile Policy Fear; Albemarle Gains",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-tuesday-august-4-2026/",
-            "published_at": "2026-08-04T05:38:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Steady at $63,461 as LatAm Leans on Stablecoins",
-            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-tuesday-august-4-2026/",
-            "published_at": "2026-08-04T05:38:13+00:00",
             "category": [],
             "language": "en"
         }
