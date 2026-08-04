@@ -1,7 +1,56 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-04T14:10:04+00:00",
+    "updated_at": "2026-08-04T15:10:04+00:00",
     "items": [
+        {
+            "title": "Banda Eddie Releases 11th Album \u2018Noturna\u2019, Announces Brazil Tour",
+            "url": "https://www.riotimesonline.com/banda-eddie-releases-11th-album-noturna-announces-brazil-tour/",
+            "published_at": "2026-08-04T15:05:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Curitiba This Week: Ivan Lins, Blitz and Free Winter Events",
+            "url": "https://www.riotimesonline.com/curitiba-this-week-ivan-lins-blitz-free-events-2026/",
+            "published_at": "2026-08-04T14:11:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentine Filmmaker Lucrecia Martel Gets Top Honor in Rosario",
+            "url": "https://www.riotimesonline.com/lucrecia-martel-rosario-honoris-causa-2026/",
+            "published_at": "2026-08-04T14:08:23+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombian Band Morat Opens Casa Morat Experience in Bogot\u00e1",
+            "url": "https://www.riotimesonline.com/casa-morat-immersive-experience-bogota-2026/",
+            "published_at": "2026-08-04T14:08:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dominican Republic Pushes Shrimp Food Festival to Lure Tourists",
+            "url": "https://www.riotimesonline.com/saborea-el-paraiso-dominican-republic-food-tourism-2026/",
+            "published_at": "2026-08-04T14:08:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Feria De Arequipa 2026: 9 Days of Food & Music",
+            "url": "https://www.riotimesonline.com/feria-de-arequipa-2026-music-gastronomy/",
+            "published_at": "2026-08-04T14:07:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Marty Friedman Returns to Chile for Two November 2026 Shows",
+            "url": "https://www.riotimesonline.com/marty-friedman-chile-2026-valparaiso-santiago/",
+            "published_at": "2026-08-04T14:07:48+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Guyana Ring-Fencing Gap: Critics Say Exxon Deal Costs Billions",
             "url": "https://www.riotimesonline.com/guyana-stabroek-ring-fencing-gap-exxon-critics-2026/",
@@ -650,55 +699,6 @@
             "title": "Ecopetrol Q2 Profit Seen Up 75% Near US$1.25bn on Brent Rally",
             "url": "https://www.riotimesonline.com/ecopetrol-q2-profit-seen-up-75-near-us1-25bn-on-brent-rally/",
             "published_at": "2026-08-03T18:17:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "ExxonMobil Eyes Ninth Guyana FPSO Using Longtail Design",
-            "url": "https://www.riotimesonline.com/exxonmobil-ninth-guyana-fpso-longtail-stabroek-2026/",
-            "published_at": "2026-08-03T18:17:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Eve Air Mobility eVTOL Transition Flight Hits 30 Knots",
-            "url": "https://www.riotimesonline.com/embraer-eve-evtol-first-transition-flight-brazil-2026/",
-            "published_at": "2026-08-03T18:17:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Carlos Slim\u2019s Grupo Carso Buys Kan Oil Block in Mexico",
-            "url": "https://www.riotimesonline.com/carlos-slim-totalenergies-kan-block-30-mexico-2026/",
-            "published_at": "2026-08-03T18:17:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador\u2019s Capital Quito Offers 50+ Free Youth Workshops",
-            "url": "https://www.riotimesonline.com/quito-youth-month-free-activities-august-2026/",
-            "published_at": "2026-08-03T18:08:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "YPF Sells Assets to Fund Its US$1 Billion Vaca Muerta Bet",
-            "url": "https://www.riotimesonline.com/ypf-asset-sales-vaca-muerta-pivot-2026/",
-            "published_at": "2026-08-03T17:59:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Indecopi Fines BCP Over Abusive Debt Collection",
-            "url": "https://www.riotimesonline.com/peru-indecopi-sanctions-bcp-abusive-debt-collection-2026/",
-            "published_at": "2026-08-03T17:57:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oncoclinicas to Receive US$18 Million in a Unimed Settlement",
-            "url": "https://www.riotimesonline.com/oncoclinicas-unimed-settlement-2026/",
-            "published_at": false,
             "category": [],
             "language": "en"
         }
