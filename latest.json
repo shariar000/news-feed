@@ -1,9 +1,44 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-04T11:10:04+00:00",
+    "updated_at": "2026-08-04T12:10:04+00:00",
     "items": [
         {
-            "title": "Chevron Runs Venezuela at 280,000 Barrels a Day as US Majors Return Under Trump",
+            "title": "Angola\u2019s Fuel Import Bill Hits US$1.7 Billion, Up 48%",
+            "url": "https://www.riotimesonline.com/angola-fuel-import-bill-2026/",
+            "published_at": "2026-08-04T11:23:17+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Africa Takes Its Grid Rebuild to Beijing",
+            "url": "https://www.riotimesonline.com/south-africa-china-energy-investment-2026/",
+            "published_at": "2026-08-04T11:23:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ethiopian State-Owned Enterprises Pay 42% of Big-Tax Haul",
+            "url": "https://www.riotimesonline.com/ethiopia-state-owned-enterprises-tax-2026/",
+            "published_at": "2026-08-04T11:23:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nairobi Bourse Tops US$31 Billion for the First Time",
+            "url": "https://www.riotimesonline.com/nairobi-securities-exchange-4-trillion-2026/",
+            "published_at": "2026-08-04T11:23:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chinese Investment in Egypt Tops US$10 Billion, PM Says",
+            "url": "https://www.riotimesonline.com/egypt-chinese-investment-10-billion-2026/",
+            "published_at": "2026-08-04T11:23:13+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chevron Runs Venezuela at 280,000 Barrels a Day Under Trump",
             "url": "https://www.riotimesonline.com/chevron-venezuela-comeback-280000-bpd-trump/",
             "published_at": "2026-08-04T11:01:41+00:00",
             "category": [],
@@ -17,7 +52,7 @@
             "language": "en"
         },
         {
-            "title": "Southern Copper Marks 30 Years on NYSE as CEO Gonz\u00e1lez Rocha\u2019s Death Closes an Era",
+            "title": "Southern Copper Marks 30 Years on NYSE After CEO\u2019s Death",
             "url": "https://www.riotimesonline.com/southern-copper-nyse-30-years-gonzalez-rocha/",
             "published_at": "2026-08-04T11:01:41+00:00",
             "category": [],
@@ -45,7 +80,7 @@
             "language": "en"
         },
         {
-            "title": "Paran\u00e1 Shipping Paralyzed as 140+ Vessels Stranded by River Pilots\u2019 Strike",
+            "title": "Argentina\u2019s Paran\u00e1 Shipping Paralyzed as 140+ Vessels Stranded",
             "url": "https://www.riotimesonline.com/parana-river-pilots-strike-140-ships-stranded/",
             "published_at": "2026-08-04T11:01:41+00:00",
             "category": [],
@@ -276,7 +311,7 @@
             "language": "en"
         },
         {
-            "title": "AfDB approves $35 million to boost Senegal\u2019s public finance management",
+            "title": "Senegal Gets US$35 Million to Fix Public Finance and Cut Debt",
             "url": "https://www.riotimesonline.com/afdb-approves-35-million-to-boost-senegals-public-finance-management/",
             "published_at": "2026-08-04T09:28:06+00:00",
             "category": [],
@@ -664,41 +699,6 @@
             "title": "Peru\u2019s Indecopi Fines BCP Over Abusive Debt Collection",
             "url": "https://www.riotimesonline.com/peru-indecopi-sanctions-bcp-abusive-debt-collection-2026/",
             "published_at": "2026-08-03T17:57:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oncoclinicas to Receive US$18 Million in a Unimed Settlement",
-            "url": "https://www.riotimesonline.com/oncoclinicas-unimed-settlement-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mercado Libre Plans a US$287 Million Bond Sale in Mexico",
-            "url": "https://www.riotimesonline.com/mercado-libre-mexico-bond-2026/",
-            "published_at": "2026-08-03T17:52:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Natalia Jim\u00e9nez Returns to Lima After a 10-Year Absence",
-            "url": "https://www.riotimesonline.com/natalia-jimenez-returns-to-lima-after-a-10-year-absence/",
-            "published_at": "2026-08-03T17:52:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chilean Retailer Ripley Corp Regains A+ Rating as Debt Falls",
-            "url": "https://www.riotimesonline.com/ripley-corp-a-plus-rating-upgrade-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Banco de Chile Adds US$53 Million to Provisions in the Second Quarter",
-            "url": "https://www.riotimesonline.com/banco-de-chile-provisions-q2-2026/",
-            "published_at": false,
             "category": [],
             "language": "en"
         }
