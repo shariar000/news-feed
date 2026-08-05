@@ -1,9 +1,282 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-05T08:10:04+00:00",
+    "updated_at": "2026-08-05T09:10:04+00:00",
     "items": [
         {
-            "title": "US Revokes Brazilian Ambassador\u2019s Visa as Rift Deepens",
+            "title": "DR Congo Ebola Outbreak: 1,707 Dead as WHO Races to Trial Vaccines",
+            "url": "https://www.riotimesonline.com/dr-congo-ebola-outbreak-bundibugyo-2026/",
+            "published_at": "2026-08-05T08:28:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mallplaza Q2 EBITDA Rises 9.6% as Half-Year Profit Falls",
+            "url": "https://www.riotimesonline.com/mallplaza-q2-2026-results/",
+            "published_at": "2026-08-05T08:20:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "BYD Launches Flex-Fuel Plug-In Hybrid Built for Brazil",
+            "url": "https://www.riotimesonline.com/byd-flex-fuel-hybrid-brazil-2026/",
+            "published_at": "2026-08-05T08:20:15+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bancolombia Parent Cibest Buys 100% of Fintech Avista",
+            "url": "https://www.riotimesonline.com/grupo-cibest-avista-acquisition-2026/",
+            "published_at": "2026-08-05T08:20:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Smart Fit Closes Purchase of 60% of Bras\u00edlia Gym Evolve",
+            "url": "https://www.riotimesonline.com/smart-fit-evolve-acquisition-2026/",
+            "published_at": "2026-08-05T08:20:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "US Returns Three Pre-Hispanic Treasures to M\u00e9xico",
+            "url": "https://www.riotimesonline.com/us-returns-three-pre-hispanic-artifacts-mexico-2026/",
+            "published_at": "2026-08-05T08:19:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Carlos Rivera Brings \u2018\u00a1Vida M\u00e9xico!\u2019 Tour to Bogot\u00e1 in October",
+            "url": "https://www.riotimesonline.com/carlos-rivera-bogota-movistar-arena-2026/",
+            "published_at": "2026-08-05T08:19:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Primavera Sound Buenos Aires 2026: Gorillaz, The Strokes to Headline",
+            "url": "https://www.riotimesonline.com/primavera-sound-buenos-aires-2026-gorillaz-strokes/",
+            "published_at": "2026-08-05T08:19:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombian TV Legend Alfonso Lizarazo Dies at 85",
+            "url": "https://www.riotimesonline.com/alfonso-lizarazo-sabados-felices-dies-2026/",
+            "published_at": "2026-08-05T08:19:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Guatemala Interpellation Summons 12 of 14 Ministers",
+            "url": "https://www.riotimesonline.com/guatemala-congress-interpellation-arevalo-ministers-2026/",
+            "published_at": "2026-08-05T08:19:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Milei Visits Ecuador to Sign Cooperation Accords With Noboa",
+            "url": "https://www.riotimesonline.com/milei-ecuador-visit-noboa-cooperation-accords-2026/",
+            "published_at": "2026-08-05T08:19:07+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia\u2019s Paz Reshuffles Cabinet as Central Bank Enters FX Market",
+            "url": "https://www.riotimesonline.com/bolivia-paz-cabinet-reshuffle-central-bank-dollars-2026/",
+            "published_at": "2026-08-05T08:19:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Caracas Stock Exchange Soars About 146% in 2026",
+            "url": "https://www.riotimesonline.com/caracas-stock-exchange-up-146-percent-2026/",
+            "published_at": "2026-08-05T08:18:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Andino Reaches Final for Barcelona Port Terminal",
+            "url": "https://www.riotimesonline.com/peru-andino-barcelona-port-terminal-final-2026/",
+            "published_at": "2026-08-05T08:18:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Exports Jump 14.2% to US$27.8 Billion in First Half",
+            "url": "https://www.riotimesonline.com/colombia-exports-up-14-percent-first-half-2026/",
+            "published_at": "2026-08-05T08:18:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Warns of Fuel-Supply Time Bomb as Imports Climb",
+            "url": "https://www.riotimesonline.com/colombia-fuel-supply-time-bomb-acp-2026/",
+            "published_at": "2026-08-05T08:18:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chilean Telecom Entel Q2 Profit Jumps 39% to US$27 Million",
+            "url": "https://www.riotimesonline.com/entel-chile-q2-2026-profit-39-percent/",
+            "published_at": "2026-08-05T08:18:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "ContourGlobal\u2019s Hybrid Solar-Plus-Storage Plant in Chile",
+            "url": "https://www.riotimesonline.com/contourglobal-chile-los-maitenes-hybrid-solar-storage-2026/",
+            "published_at": "2026-08-05T08:18:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold-Silver Rally Triples Fresnillo Profit to US$1.46 Billion",
+            "url": "https://www.riotimesonline.com/penoles-fresnillo-profit-gold-silver-rally-2026/",
+            "published_at": "2026-08-05T08:18:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Lithium Payments to Corfo Soar 427% to US$791 Million",
+            "url": "https://www.riotimesonline.com/sqm-lithium-corfo-payments-427-percent-2026/",
+            "published_at": "2026-08-05T08:18:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Pension Scandal Hits Senator, Lula\u2019s Son",
+            "url": "https://www.riotimesonline.com/brazil-inss-scandal-weverton-rocha-dino-2026/",
+            "published_at": "2026-08-05T08:17:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Farm Judicial Recoveries Hit a First-Half Record",
+            "url": "https://www.riotimesonline.com/brazil-agro-judicial-recoveries-record-2026/",
+            "published_at": "2026-08-05T08:17:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Critical Minerals Could Add US$37.8 Billion to Brazil\u2019s GDP",
+            "url": "https://www.riotimesonline.com/brazil-critical-minerals-gdp-amcham-2026/",
+            "published_at": "2026-08-05T08:17:40+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Gas Market Opens, Could Halve Industry Prices",
+            "url": "https://www.riotimesonline.com/brazil-cnpe-natural-gas-market-union-2026/",
+            "published_at": "2026-08-05T08:17:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "RD Sa\u00fade Q2 Profit Rises as It Takes Full Control of Stix",
+            "url": "https://www.riotimesonline.com/rd-saude-raia-drogasil-q2-2026-stix-acquisition/",
+            "published_at": "2026-08-05T08:17:21+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "TOTVS Cancels 20 Million Shares, Launches New Buyback",
+            "url": "https://www.riotimesonline.com/totvs-share-buyback-cancel-20-million-2026/",
+            "published_at": "2026-08-05T08:17:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Embraer Buys Full Control of Chihuahua Plant for $X",
+            "url": "https://www.riotimesonline.com/embraer-full-control-chihuahua-ezair-mexico-2026/",
+            "published_at": "2026-08-05T08:17:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tenda Q2 Revenue Hits Record US$254 Million",
+            "url": "https://www.riotimesonline.com/tenda-q2-2026-record-revenue-raised-guidance/",
+            "published_at": "2026-08-05T08:17:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Vulcabras Posts US$28 Million Q2 Profit and Buyback",
+            "url": "https://www.riotimesonline.com/vulcabras-q2-2026-profit-share-buyback/",
+            "published_at": "2026-08-05T08:16:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "C&A Brazil Posts Record Q2 Profit Near US$26 Million",
+            "url": "https://www.riotimesonline.com/ca-brasil-q2-2026-record-profit-us26-million/",
+            "published_at": "2026-08-05T08:16:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Infantino\u2019s Africa Firewall: CAF Backs FIFA Chief as Europe Revolts",
+            "url": "https://www.riotimesonline.com/infantino-africa-caf-support-fifa-2026/",
+            "published_at": "2026-08-05T08:16:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Iguatemi Q2 Profit Falls to About US$26 Million",
+            "url": "https://www.riotimesonline.com/iguatemi-q2-2026-profit-falls-us26-million/",
+            "published_at": "2026-08-05T08:16:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "GPA Q2 Loss Widens to US$50 Million Amid Supply Crisis",
+            "url": "https://www.riotimesonline.com/gpa-q2-2026-loss-widens-supply-crisis/",
+            "published_at": "2026-08-05T08:16:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Burkina Faso\u2019s Ibrahim Traor\u00e9 Abandons Democracy Pledge",
+            "url": "https://www.riotimesonline.com/ibrahim-traore-reality-test-burkina-faso-2026/",
+            "published_at": "2026-08-05T08:16:28+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Usiminas Q2 Profit Soars 236% to US$84 Million, Shares Slip",
+            "url": "https://www.riotimesonline.com/usiminas-q2-2026-profit-soars-shares-slip/",
+            "published_at": "2026-08-05T08:16:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Paul Biya Military Reshuffle Amid 58-Day Absence",
+            "url": "https://www.riotimesonline.com/biya-cameroon-military-reshuffle-2026/",
+            "published_at": "2026-08-05T08:16:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gerdau Q2 Profit Jumps 70% to US$287 Million",
+            "url": "https://www.riotimesonline.com/gerdau-q2-2026-profit-jumps-dividends-buyback/",
+            "published_at": "2026-08-05T08:16:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Zimbabwe Lithium Export Earnings Jump 229.8% to US$782 Million",
+            "url": "https://www.riotimesonline.com/zimbabwe-lithium-export-earnings-782-million-2026/",
+            "published_at": "2026-08-05T08:16:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Project Gazelle 2: Nigeria Approves US$4.5 Billion Oil-Backed Refinancing",
+            "url": "https://www.riotimesonline.com/nigeria-project-gazelle-2-oil-refinancing-2026/",
+            "published_at": "2026-08-05T08:16:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazilian Ambassador\u2019s Visa Revoked by US in Tit-for-Tat Move",
             "url": "https://www.riotimesonline.com/brazil-us-ambassador-visa-revoked-2026/",
             "published_at": "2026-08-05T07:13:31+00:00",
             "category": [],
@@ -52,21 +325,21 @@
             "language": "en"
         },
         {
-            "title": "Codelco Suspends El Teniente \u2018Andes Norte\u2019 Over Seismic Risk",
+            "title": "Chile\u2019s Codelco Halts El Teniente Expansion over Seismic Risk",
             "url": "https://www.riotimesonline.com/codelco-el-teniente-andes-norte-seismic-suspension-2026/",
             "published_at": "2026-08-05T07:07:17+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "3G Capital Faces Revived US$1.2 Billion Insider-Trading Claim",
+            "title": "3G Capital Insider Trading Claim Revived in US$1.2 Billion Case",
             "url": "https://www.riotimesonline.com/3g-capital-kraft-heinz-insider-trading-revived-2026/",
             "published_at": "2026-08-05T07:07:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Nu M\u00e9xico Becomes a Full Bank, Mexico\u2019s Top Digital Lender",
+            "title": "Brazil\u2019s Nubank Gets Full Banking License in Mexico",
             "url": "https://www.riotimesonline.com/nu-mexico-full-bank-launch-2026/",
             "published_at": "2026-08-05T07:06:58+00:00",
             "category": [],
@@ -80,7 +353,7 @@
             "language": "en"
         },
         {
-            "title": "Runoff Audit Finds No Fraud as Colombia Swears In New President",
+            "title": "Colombia Runoff Audit Finds No Fraud Before Swearing-In",
             "url": "https://www.riotimesonline.com/colombia-runoff-audit-no-fraud-inauguration-2026/",
             "published_at": "2026-08-05T07:06:44+00:00",
             "category": [],
@@ -94,14 +367,14 @@
             "language": "en"
         },
         {
-            "title": "US Announces Hemisphere Military Drills Involving Brazil",
+            "title": "US Military Exercises Kick Off with Brazil at Panama Canal",
             "url": "https://www.riotimesonline.com/us-brazil-military-exercises-mucio-2026/",
             "published_at": "2026-08-05T07:06:30+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Brazil Downgrades Ties With Argentina Over Milei Insults",
+            "title": "Brazil Downgrades Argentina Ties After Milei\u2019s \u2018Thief\u2019 Insults",
             "url": "https://www.riotimesonline.com/brazil-argentina-diplomatic-downgrade-bitelli-2026/",
             "published_at": "2026-08-05T07:06:19+00:00",
             "category": [],
@@ -269,14 +542,14 @@
             "language": "en"
         },
         {
-            "title": "Brazil Taxes Foreigners Guide: Avoid the 27.5% Trap",
+            "title": "The 27.5% Tax Trap Awaiting Foreigners Who Move to Brazil",
             "url": "https://www.riotimesonline.com/the-tax-bill-awaiting-foreigners-who-move-to-brazil/",
             "published_at": "2026-08-04T22:44:25+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "USMCA Steel Tariffs: Mexico Demands Cut to 10% to Save Trade",
+            "title": "Mexico Wants the 50% Steel Tariff Cut to 10% \u2014 Exports Already Down 36.6%",
             "url": "https://www.riotimesonline.com/mexicos-13-demands-that-will-decide-the-usmca-metals-fight/",
             "published_at": "2026-08-04T22:44:25+00:00",
             "category": [],
@@ -353,7 +626,7 @@
             "language": "en"
         },
         {
-            "title": "BRICS Expansion: 30+ Nations Await September Summit Vote",
+            "title": "30+ Nations Await a BRICS Seat \u2014 New Delhi Votes in September",
             "url": "https://www.riotimesonline.com/brics-expansion-september-2026-new-delhi-summit/",
             "published_at": "2026-08-04T20:19:21+00:00",
             "category": [],
@@ -426,279 +699,6 @@
             "title": "USA & Canada Intelligence Brief \u2014 Tuesday, August 4, 2026",
             "url": "https://www.riotimesonline.com/usa-canada-intelligence-brief-2026-08-04/",
             "published_at": "2026-08-04T17:09:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Milei: US Alliance Key to Falklands Sovereignty Claim",
-            "url": "https://www.riotimesonline.com/milei-us-alliance-falklands-malvinas-claim-2026/",
-            "published_at": "2026-08-04T15:20:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Buenos Aires Tango Festival Returns with Free Global Contest",
-            "url": "https://www.riotimesonline.com/buenos-aires-tango-festival-mundial-2026/",
-            "published_at": "2026-08-04T15:20:30+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guatemala\u2019s Volc\u00e1n De Fuego Eruption Forces Evacuations",
-            "url": "https://www.riotimesonline.com/guatemala-volcan-de-fuego-explosive-phase-2026/",
-            "published_at": "2026-08-04T15:20:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Presidential Handover Sparks \u2018Civil War\u2019 Claim",
-            "url": "https://www.riotimesonline.com/colombia-presidential-handover-petro-fraud-claims-cali-2026/",
-            "published_at": "2026-08-04T15:20:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guatemala Ports Law Vote Set for August as US Demands Reform",
-            "url": "https://www.riotimesonline.com/guatemala-ports-law-plenary-amendments-us-backing-2026/",
-            "published_at": "2026-08-04T15:20:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Ex-President Toledo, 80, Seeks Prison Release over Health",
-            "url": "https://www.riotimesonline.com/peru-alejandro-toledo-seeks-prison-release-health-2026/",
-            "published_at": "2026-08-04T15:20:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Dividend Payments Abroad Top US$1 Billion in June",
-            "url": "https://www.riotimesonline.com/argentina-dividend-payments-abroad-us1-billion-june-2026/",
-            "published_at": "2026-08-04T15:19:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Central Bank Buys US$400M in First Reserve Auction",
-            "url": "https://www.riotimesonline.com/colombia-banrep-first-reserve-accumulation-auction-2026/",
-            "published_at": "2026-08-04T15:19:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Errea Wittu FPSO to Push Guyana Past 1 Million Bpd",
-            "url": "https://www.riotimesonline.com/errea-wittu-fpso-guyana-1-million-bpd-milestone-2026/",
-            "published_at": "2026-08-04T15:19:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "ExxonMobil Drills Rockhead-1 in Guyana\u2019s Stabroek Block",
-            "url": "https://www.riotimesonline.com/exxonmobil-rockhead-1-well-stabroek-block-guyana-2026/",
-            "published_at": "2026-08-04T15:19:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Eve Air Mobility Narrows Q2 Loss to US$34.2M as Burn Eases",
-            "url": "https://www.riotimesonline.com/eve-air-mobility-q2-2026-net-loss-brazil/",
-            "published_at": "2026-08-04T15:19:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Battery-Storage Auction Draws Record 296,807 MW",
-            "url": "https://www.riotimesonline.com/brazil-battery-storage-auction-record-2026/",
-            "published_at": "2026-08-04T15:19:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ex-Nubank CTO Launches AI Wealth Startup Decade on US$85M Seed",
-            "url": "https://www.riotimesonline.com/decade-ai-wealth-startup-sao-paulo-2026/",
-            "published_at": "2026-08-04T15:19:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "ChatGPT Ads Brazil Pilot to Test AI Monetization",
-            "url": "https://www.riotimesonline.com/chatgpt-ads-brazil-openai-pilot-2026/",
-            "published_at": "2026-08-04T15:19:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Gambling Hits 2% of GDP, Surpassing Coffee",
-            "url": "https://www.riotimesonline.com/colombia-gambling-2-percent-of-gdp-2026/",
-            "published_at": "2026-08-04T15:19:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cerro Matoso Output Cut in Half After Gas Cutoff",
-            "url": "https://www.riotimesonline.com/cerro-matoso-output-cut-canacol-gas-2026/",
-            "published_at": "2026-08-04T15:18:51+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Charges Enel, AES, Celsia with Energy Price-Fixing",
-            "url": "https://www.riotimesonline.com/colombia-energy-price-fixing-charges-enel-aes-celsia-2026/",
-            "published_at": "2026-08-04T15:18:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombian Mato Grosso: De la Espriella\u2019s US$1.3 Billion Agro Plan",
-            "url": "https://www.riotimesonline.com/colombian-mato-grosso-llanos-orientales-2026/",
-            "published_at": "2026-08-04T15:18:37+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazilian Band Eddie Drops 11th Album \u2018Noturna\u2019, Plans Tour",
-            "url": "https://www.riotimesonline.com/banda-eddie-releases-11th-album-noturna-announces-brazil-tour/",
-            "published_at": "2026-08-04T15:05:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 August 4, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-tuesday-august-4-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Nightlife Tonight \u2014 August 4, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-tuesday-august-4-2026/",
-            "published_at": false,
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ivan Lins 80th-Birthday Show Leads Curitiba\u2019s Free Winter Week",
-            "url": "https://www.riotimesonline.com/curitiba-this-week-ivan-lins-blitz-free-events-2026/",
-            "published_at": "2026-08-04T14:11:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentine Auteur Lucrecia Martel Gets Honoris Causa in Rosario",
-            "url": "https://www.riotimesonline.com/lucrecia-martel-rosario-honoris-causa-2026/",
-            "published_at": "2026-08-04T14:08:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombian Band Morat Opens Casa Morat Experience in Bogot\u00e1",
-            "url": "https://www.riotimesonline.com/casa-morat-immersive-experience-bogota-2026/",
-            "published_at": "2026-08-04T14:08:12+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dominican Republic Pushes Shrimp Food Festival to Lure Tourists",
-            "url": "https://www.riotimesonline.com/saborea-el-paraiso-dominican-republic-food-tourism-2026/",
-            "published_at": "2026-08-04T14:08:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru\u2019s Feria De Arequipa 2026: 9 Days of Food & Music",
-            "url": "https://www.riotimesonline.com/feria-de-arequipa-2026-music-gastronomy/",
-            "published_at": "2026-08-04T14:07:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Marty Friedman Returns to Chile for Two November 2026 Shows",
-            "url": "https://www.riotimesonline.com/marty-friedman-chile-2026-valparaiso-santiago/",
-            "published_at": "2026-08-04T14:07:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guyana Ring-Fencing Gap May Cost US$12.4 Billion",
-            "url": "https://www.riotimesonline.com/guyana-stabroek-ring-fencing-gap-exxon-critics-2026/",
-            "published_at": "2026-08-04T12:25:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pope Leo XIV Plans Return to His Former Diocese in Peru",
-            "url": "https://www.riotimesonline.com/peru-pope-leo-xiv-chiclayo-visit-november-2026/",
-            "published_at": "2026-08-04T12:21:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Honduras Ex-Leader Hern\u00e1ndez Freed Pending Fraud Trial",
-            "url": "https://www.riotimesonline.com/honduras-tegucigalpa-hernandez-trial-freedom-2026/",
-            "published_at": "2026-08-04T12:21:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Pilots\u2019 Strike Strands 140+ Ships on Argentina\u2019s Paran\u00e1 River",
-            "url": "https://www.riotimesonline.com/argentina-parana-river-pilots-strike-decree-690-ships-2026/",
-            "published_at": "2026-08-04T12:21:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina May Raise Foreign Land Cap to 25%",
-            "url": "https://www.riotimesonline.com/argentina-ley-de-tierras-foreign-land-cap-25-percent-2026/",
-            "published_at": "2026-08-04T12:21:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chevron Boosts Venezuela Oil to 280,000 Barrels Daily",
-            "url": "https://www.riotimesonline.com/chevron-venezuela-oil-output-280000-bpd-us-license-2026/",
-            "published_at": "2026-08-04T12:21:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Central Bank Set to Cut Key Rate to 14%",
-            "url": "https://www.riotimesonline.com/brazil-copom-selic-rate-decision-preview-august-2026/",
-            "published_at": "2026-08-04T12:20:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Southern Copper Marks 30 Years on NYSE After CEO\u2019s Death",
-            "url": "https://www.riotimesonline.com/southern-copper-30-years-nyse-leadership-peru-2026/",
-            "published_at": "2026-08-04T12:20:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LATAM Airlines Approves Buyback of Up to 5% of Its Shares",
-            "url": "https://www.riotimesonline.com/latam-airlines-share-buyback-5-percent-santiago-2026/",
-            "published_at": "2026-08-04T12:20:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Angola Fuel Import Bill Soars 48% to US$1.7 Billion",
-            "url": "https://www.riotimesonline.com/angola-fuel-import-bill-2026/",
-            "published_at": "2026-08-04T11:23:17+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Africa Takes Its Grid Rebuild to Beijing",
-            "url": "https://www.riotimesonline.com/south-africa-china-energy-investment-2026/",
-            "published_at": "2026-08-04T11:23:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ethiopian State-Owned Enterprises Pay 42% of Big-Tax Haul",
-            "url": "https://www.riotimesonline.com/ethiopia-state-owned-enterprises-tax-2026/",
-            "published_at": "2026-08-04T11:23:16+00:00",
             "category": [],
             "language": "en"
         }
