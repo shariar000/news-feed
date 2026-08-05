@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-05T03:10:04+00:00",
+    "updated_at": "2026-08-05T04:10:04+00:00",
     "items": [
+        {
+            "title": "The Missing Bridge: Why Mercosur Needs an ASEAN Strategy",
+            "url": "https://www.riotimesonline.com/the-missing-bridge-why-mercosur-needs-an-asean-strategy/",
+            "published_at": "2026-08-05T04:06:19+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Taxes for Foreigners: A Complete 2026 Guide",
             "url": "https://www.riotimesonline.com/the-tax-bill-awaiting-foreigners-who-move-to-brazil/",
@@ -38,7 +45,7 @@
             "language": "en"
         },
         {
-            "title": "Mozambique Overhauls Customs and Tax Codes for 2026",
+            "title": "Mozambique Updates Customs and Tax Procedure Codes for 2026",
             "url": "https://www.riotimesonline.com/mozambique-customs-tax-procedure-codes-2026/",
             "published_at": "2026-08-04T22:31:31+00:00",
             "category": [],
@@ -66,7 +73,7 @@
             "language": "en"
         },
         {
-            "title": "Uganda\u2019s Namayingo Gold Mine Rescue Ends with Six Dead",
+            "title": "Uganda\u2019s Namayingo Gold Mine Collapse Kills 6 After Ban",
             "url": "https://www.riotimesonline.com/six-confirmed-dead-namayingo-gold-mine-collapse-2026/",
             "published_at": "2026-08-04T22:30:45+00:00",
             "category": [],
@@ -691,13 +698,6 @@
         {
             "title": "Iron Ore Drops on China Steel Fears as Brazil\u2019s Vale Sinks 3%",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-tuesday-august-4-2026/",
-            "published_at": "2026-08-04T08:49:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Miners Gain as Chile, Peru Lead Supply Push",
-            "url": "https://www.riotimesonline.com/copper-markets-latam-tuesday-august-4-2026/",
             "published_at": "2026-08-04T08:49:07+00:00",
             "category": [],
             "language": "en"
