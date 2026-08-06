@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-06T09:10:06+00:00",
+    "updated_at": "2026-08-06T10:10:04+00:00",
     "items": [
+        {
+            "title": "ECLAC Warns US-China Fight Will Reshape Latin America",
+            "url": "https://www.riotimesonline.com/latin-america-in-the-new-geopolitical-era-eclac-s-roadmap-2026-08-04/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Thursday, August 6, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-august-6-2026/",
@@ -10,9 +17,30 @@
             "language": "en"
         },
         {
-            "title": "Oil Wrap: USO Sinks 5.19%, Petrobras, YPF Fall as Demand Fears Bite",
+            "title": "Brazil\u2019s Petrobras Drops 1.92% as Latin America Oil Stocks Slide",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-august-6-2026-dup-693658/",
+            "published_at": "2026-08-06T09:17:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Saudi-led group completes $55 billion buyout of gaming giant Electronic Arts",
+            "url": "https://www.riotimesonline.com/saudi-led-group-completes-55-billion-ea-buyout-2026/",
+            "published_at": "2026-08-06T09:15:08+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "USO Drops 5.19%, Dragging Petrobras, YPF, Ecopetrol Down",
             "url": "https://www.riotimesonline.com/oil-markets-latam-wednesday-august-5-2026/",
             "published_at": "2026-08-06T09:08:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nigeria Approves Tokenized Equities to Widen Financial Market Access",
+            "url": "https://www.riotimesonline.com/nigeria-tokenized-equities-sec-nasd-2026/",
+            "published_at": false,
             "category": [],
             "language": "en"
         },
@@ -24,7 +52,7 @@
             "language": "en"
         },
         {
-            "title": "Uruguay Slaps 12% Tax on Foreign Income for Residents",
+            "title": "12% Tax Hits Foreign Income for Uruguay Residents",
             "url": "https://www.riotimesonline.com/uruguay-foreign-income-tax-12-percent-residents-2026/",
             "published_at": "2026-08-06T08:04:15+00:00",
             "category": [],
@@ -101,7 +129,7 @@
             "language": "en"
         },
         {
-            "title": "Brazil Central Bank Slashes Rate to 14% in Fourth Straight Cut",
+            "title": "Fourth Straight Brazil Central Bank Cut Brings Rate to 14%",
             "url": "https://www.riotimesonline.com/brazil-copom-selic-14-percent-fourth-cut-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "Andino\u2019s US$0 Bid to Run a Barcelona Port Terminal for 16 Years",
             "url": "https://www.riotimesonline.com/peru-andino-barcelona-port-terminal-final-2026/",
             "published_at": "2026-08-05T08:18:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Exports Jump 14.2% to US$27.8 Billion in First Half",
-            "url": "https://www.riotimesonline.com/colombia-exports-up-14-percent-first-half-2026/",
-            "published_at": "2026-08-05T08:18:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s Fuel-Supply Time Bomb as Imports Near 50%",
-            "url": "https://www.riotimesonline.com/colombia-fuel-supply-time-bomb-acp-2026/",
-            "published_at": "2026-08-05T08:18:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Entel Q2 Profit Soars 39% to US$27 Million on Peru Mobile Boom",
-            "url": "https://www.riotimesonline.com/entel-chile-q2-2026-profit-39-percent/",
-            "published_at": "2026-08-05T08:18:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Los Maitenes 131 MWp Solar-Plus-Storage Plant Breaks Ground",
-            "url": "https://www.riotimesonline.com/contourglobal-chile-los-maitenes-hybrid-solar-storage-2026/",
-            "published_at": "2026-08-05T08:18:28+00:00",
             "category": [],
             "language": "en"
         }
