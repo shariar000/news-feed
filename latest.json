@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-06T13:10:04+00:00",
+    "updated_at": "2026-08-06T14:10:04+00:00",
     "items": [
+        {
+            "title": "Petrobras Hits Record Oil Output Ahead of Q2 Results",
+            "url": "https://www.riotimesonline.com/petrobras-q2-2026-results-record-output-dividend/",
+            "published_at": "2026-08-06T13:17:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "MercadoLibre Q2 Sales Pass US$10 Billion, Profit Falls 11%",
+            "url": "https://www.riotimesonline.com/mercadolibre-q2-2026-revenue-tops-us10bn-profit-falls-11/",
+            "published_at": "2026-08-06T13:16:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "ECLAC Warns US-China Fight Will Reshape Latin America",
             "url": "https://www.riotimesonline.com/latin-america-in-the-new-geopolitical-era-eclac-s-roadmap-2026-08-04/",
@@ -685,20 +699,6 @@
             "title": "Bolivia\u2019s 12-Ministry Cabinet Shakeup Hits Key Foreign Post",
             "url": "https://www.riotimesonline.com/bolivia-paz-cabinet-reshuffle-central-bank-dollars-2026/",
             "published_at": "2026-08-05T08:19:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Caracas Stock Exchange Surges 146% as Bol\u00edvar Rally Cools",
-            "url": "https://www.riotimesonline.com/caracas-stock-exchange-up-146-percent-2026/",
-            "published_at": "2026-08-05T08:18:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Andino\u2019s US$0 Bid to Run a Barcelona Port Terminal for 16 Years",
-            "url": "https://www.riotimesonline.com/peru-andino-barcelona-port-terminal-final-2026/",
-            "published_at": "2026-08-05T08:18:52+00:00",
             "category": [],
             "language": "en"
         }
