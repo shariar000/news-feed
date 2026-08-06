@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-06T10:10:04+00:00",
+    "updated_at": "2026-08-06T11:10:04+00:00",
     "items": [
         {
             "title": "ECLAC Warns US-China Fight Will Reshape Latin America",
@@ -40,7 +40,7 @@
         {
             "title": "Nigeria Approves Tokenized Equities to Widen Financial Market Access",
             "url": "https://www.riotimesonline.com/nigeria-tokenized-equities-sec-nasd-2026/",
-            "published_at": false,
+            "published_at": "2026-08-06T08:31:42+00:00",
             "category": [],
             "language": "en"
         },
@@ -101,14 +101,14 @@
             "language": "en"
         },
         {
-            "title": "Peru\u2019s July Tax Take Jumps 20.4% to S/16.18 Billion (US$4.77 Billion)",
+            "title": "Peru\u2019s July Tax Take Jumps 20.4% to US$4.77 Billion",
             "url": "https://www.riotimesonline.com/peru-july-tax-collection-up-20-percent-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Colombia\u2019s 6.2% Inflation Traps Economy as BanRep Holds at 12%",
+            "title": "Colombia Inflation Near 6.2% as BanRep Holds at 12%",
             "url": "https://www.riotimesonline.com/colombia-july-inflation-banrep-caf-9-billion-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
@@ -122,14 +122,14 @@
             "language": "en"
         },
         {
-            "title": "Chile\u2019s 45% Debt Ceiling Nears as Fitch Warns of Downgrade",
+            "title": "Fitch Warns Chile Downgrade as Debt Nears 45% Ceiling",
             "url": "https://www.riotimesonline.com/fitch-warns-chile-debt-45-percent-gdp-downgrade-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Fourth Straight Brazil Central Bank Cut Brings Rate to 14%",
+            "title": "Brazil Central Bank Slashes Rate to 14% in Fourth Straight Cut",
             "url": "https://www.riotimesonline.com/brazil-copom-selic-14-percent-fourth-cut-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
