@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-06T14:10:04+00:00",
+    "updated_at": "2026-08-06T15:10:03+00:00",
     "items": [
+        {
+            "title": "Bradesco Q2 Profit Hits US$1.4 Billion as Bad Loans Rise",
+            "url": "https://www.riotimesonline.com/bradesco-q2-2026-profit-bad-loans-cost-of-credit/",
+            "published_at": "2026-08-06T14:11:06+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Petrobras Hits Record Oil Output Ahead of Q2 Results",
             "url": "https://www.riotimesonline.com/petrobras-q2-2026-results-record-output-dividend/",
@@ -692,13 +699,6 @@
             "title": "Milei\u2019s Ecuador Visit to Seal Extradition and Security Deals",
             "url": "https://www.riotimesonline.com/milei-ecuador-visit-noboa-cooperation-accords-2026/",
             "published_at": "2026-08-05T08:19:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bolivia\u2019s 12-Ministry Cabinet Shakeup Hits Key Foreign Post",
-            "url": "https://www.riotimesonline.com/bolivia-paz-cabinet-reshuffle-central-bank-dollars-2026/",
-            "published_at": "2026-08-05T08:19:03+00:00",
             "category": [],
             "language": "en"
         }
