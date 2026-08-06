@@ -1,44 +1,37 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-06T11:10:04+00:00",
+    "updated_at": "2026-08-06T12:10:05+00:00",
     "items": [
         {
             "title": "ECLAC Warns US-China Fight Will Reshape Latin America",
             "url": "https://www.riotimesonline.com/latin-america-in-the-new-geopolitical-era-eclac-s-roadmap-2026-08-04/",
-            "published_at": false,
+            "published_at": "2026-08-06T09:42:16+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Latin America Sports Daily for Thursday, August 6, 2026",
-            "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:27:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Petrobras Drops 1.92% as Latin America Oil Stocks Slide",
+            "title": "Petrobras Falls 1.92% as Latin America Oil Stocks Slide",
             "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-august-6-2026-dup-693658/",
             "published_at": "2026-08-06T09:17:05+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Saudi-led group completes $55 billion buyout of gaming giant Electronic Arts",
+            "title": "Saudi Arabia\u2019s US$55 Billion EA Buyout Closes",
             "url": "https://www.riotimesonline.com/saudi-led-group-completes-55-billion-ea-buyout-2026/",
             "published_at": "2026-08-06T09:15:08+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "USO Drops 5.19%, Dragging Petrobras, YPF, Ecopetrol Down",
+            "title": "Latin America Oil Markets Hit as US Oil Fund Drops 5.19%",
             "url": "https://www.riotimesonline.com/oil-markets-latam-wednesday-august-5-2026/",
             "published_at": "2026-08-06T09:08:16+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Nigeria Approves Tokenized Equities to Widen Financial Market Access",
+            "title": "Nigeria\u2019s SEC Approves Tokenized Equities on NASD Platform",
             "url": "https://www.riotimesonline.com/nigeria-tokenized-equities-sec-nasd-2026/",
             "published_at": "2026-08-06T08:31:42+00:00",
             "category": [],
@@ -132,6 +125,13 @@
             "title": "Brazil Central Bank Slashes Rate to 14% in Fourth Straight Cut",
             "url": "https://www.riotimesonline.com/brazil-copom-selic-14-percent-fourth-cut-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Thursday, August 6, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-august-6-2026/",
+            "published_at": "2026-08-06T06:27:48+00:00",
             "category": [],
             "language": "en"
         },
