@@ -1,11 +1,18 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-06T08:10:04+00:00",
+    "updated_at": "2026-08-06T09:10:06+00:00",
     "items": [
         {
             "title": "Latin America Sports Daily for Thursday, August 6, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-august-6-2026/",
             "published_at": "2026-08-06T06:27:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil Wrap: USO Sinks 5.19%, Petrobras, YPF Fall as Demand Fears Bite",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-wednesday-august-5-2026/",
+            "published_at": "2026-08-06T09:08:16+00:00",
             "category": [],
             "language": "en"
         },
@@ -17,7 +24,7 @@
             "language": "en"
         },
         {
-            "title": "Uruguay\u2019s New 12% Tax on Foreign Income: What Residents Now Owe",
+            "title": "Uruguay Slaps 12% Tax on Foreign Income for Residents",
             "url": "https://www.riotimesonline.com/uruguay-foreign-income-tax-12-percent-residents-2026/",
             "published_at": "2026-08-06T08:04:15+00:00",
             "category": [],
@@ -59,35 +66,35 @@
             "language": "en"
         },
         {
-            "title": "Coca-Cola FEMSA Raises Mexican Soda Prices Up to 5 Pesos After IEPS Hike",
+            "title": "Coca-Cola FEMSA Raises Mexican Soda Prices by up to US$0.29 a Bottle",
             "url": "https://www.riotimesonline.com/coca-cola-femsa-mexico-soda-prices-ieps-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Peru\u2019s July Tax Take Jumps 20.4% to S/16.18 Billion (US$4.5 Billion)",
+            "title": "Peru\u2019s July Tax Take Jumps 20.4% to S/16.18 Billion (US$4.77 Billion)",
             "url": "https://www.riotimesonline.com/peru-july-tax-collection-up-20-percent-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "6.2% Inflation Traps Colombia as Central Bank Holds Rates",
+            "title": "Colombia\u2019s 6.2% Inflation Traps Economy as BanRep Holds at 12%",
             "url": "https://www.riotimesonline.com/colombia-july-inflation-banrep-caf-9-billion-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Mexico\u2019s Public Debt Tops MX$19 Trillion (US$995 Billion), a Record",
+            "title": "Mexico\u2019s Public Debt Hits Record US$1.11 Trillion, 51% of GDP",
             "url": "https://www.riotimesonline.com/mexico-public-debt-19-trillion-record-banxico-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
             "language": "en"
         },
         {
-            "title": "Fitch Warns Chile: Debt Above 45% of GDP Would Risk a Downgrade",
+            "title": "Chile\u2019s 45% Debt Ceiling Nears as Fitch Warns of Downgrade",
             "url": "https://www.riotimesonline.com/fitch-warns-chile-debt-45-percent-gdp-downgrade-2026/",
             "published_at": "2026-08-06T07:12:09+00:00",
             "category": [],
@@ -111,6 +118,13 @@
             "title": "Rio de Janeiro Daily Brief \u2014 Thursday, August 6, 2026",
             "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-august-6-2026/",
             "published_at": "2026-08-06T06:24:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 August 6, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-thursday-august-6-2026/",
+            "published_at": "2026-08-06T06:23:18+00:00",
             "category": [],
             "language": "en"
         },
@@ -248,7 +262,7 @@
             "language": "en"
         },
         {
-            "title": "Colombia\u2019s Ecopetrol Gains as Brazil, Argentina Oil Giants Slide",
+            "title": "Ecopetrol Rises as Petrobras, YPF Fall with USO at US$114.88",
             "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-august-6-2026/",
             "published_at": "2026-08-06T06:08:18+00:00",
             "category": [],
@@ -283,7 +297,7 @@
             "language": "en"
         },
         {
-            "title": "Copper Gains on August 5, 2026: CPER, Freeport-McMoRan Rise",
+            "title": "Copper Jumps 1.77% as Freeport-McMoRan Surges 3.11%",
             "url": "https://www.riotimesonline.com/copper-markets-latam-thursday-august-6-2026/",
             "published_at": "2026-08-06T06:00:48+00:00",
             "category": [],
@@ -685,20 +699,6 @@
             "title": "Los Maitenes 131 MWp Solar-Plus-Storage Plant Breaks Ground",
             "url": "https://www.riotimesonline.com/contourglobal-chile-los-maitenes-hybrid-solar-storage-2026/",
             "published_at": "2026-08-05T08:18:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Fresnillo Profit Triples to US$1.46 Billion on Silver-Gold Rally",
-            "url": "https://www.riotimesonline.com/penoles-fresnillo-profit-gold-silver-rally-2026/",
-            "published_at": "2026-08-05T08:18:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Corfo Lithium Payments Surge 427% to US$791 Million",
-            "url": "https://www.riotimesonline.com/sqm-lithium-corfo-payments-427-percent-2026/",
-            "published_at": "2026-08-05T08:18:05+00:00",
             "category": [],
             "language": "en"
         }
