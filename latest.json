@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-06T22:10:21+00:00",
+    "updated_at": "2026-08-06T23:10:04+00:00",
     "items": [
+        {
+            "title": "Eduardo Bolsonaro Suggests Lula Could End Up Jailed Like Maduro",
+            "url": "https://www.riotimesonline.com/eduardo-bolsonaro-lula-maduro-jail-warning-2026/",
+            "published_at": "2026-08-06T22:40:22+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mineros Posts Record US$559 Million First Half on Higher Gold Prices",
             "url": "https://www.riotimesonline.com/mineros-record-h1-2026-gold-revenue/",
@@ -62,13 +69,6 @@
             "title": "Gerdau Reins In Peru Investment as It Fights a Chinese Steel Rival",
             "url": "https://www.riotimesonline.com/gerdau-peru-investment-chinese-steel-rival-2026/",
             "published_at": "2026-08-06T22:09:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Eduardo Bolsonaro Urges Trump to \u2018Attack\u2019 Brazil",
-            "url": "https://www.riotimesonline.com/eduardo-bolsonaro-urges-trump-attack-brazil-2026/",
-            "published_at": "2026-08-06T22:07:22+00:00",
             "category": [],
             "language": "en"
         },
