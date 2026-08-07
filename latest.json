@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-07T05:10:05+00:00",
+    "updated_at": "2026-08-07T06:10:04+00:00",
     "items": [
+        {
+            "title": "Petrobras Q2 2026 Results: Profit Nearly Doubles to US$10.4 Billion",
+            "url": "https://www.riotimesonline.com/petrobras-q2-2026-results-profit-nearly-doubles-to-us10-4-billion/",
+            "published_at": "2026-08-07T05:50:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Expat & Nomad Daily Guide for Friday, August 7, 2026",
+            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-friday-august-7-2026/",
+            "published_at": "2026-08-07T05:50:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Cali Security Lockdown: What Foreigners Need to Know Today",
+            "url": "https://www.riotimesonline.com/cali-inauguration-security-lockdown-foreigners-2026/",
+            "published_at": "2026-08-07T05:50:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Eduardo Bolsonaro Suggests Lula Could End Up Jailed Like Maduro",
             "url": "https://www.riotimesonline.com/eduardo-bolsonaro-lula-maduro-jail-warning-2026/",
@@ -416,13 +437,6 @@
             "language": "en"
         },
         {
-            "title": "12% Tax Hits Foreign Income for Uruguay Residents",
-            "url": "https://www.riotimesonline.com/uruguay-foreign-income-tax-12-percent-residents-2026/",
-            "published_at": "2026-08-06T08:04:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Deep Yellow Pours US$40 Million Into Namibia\u2019s Next Uranium Mine",
             "url": "https://www.riotimesonline.com/deep-yellow-tumas-uranium-namibia-2026/",
             "published_at": "2026-08-06T07:33:40+00:00",
@@ -685,20 +699,6 @@
             "title": "Iron Ore Wrap: Vale Rises as Rio Tinto Jumps 2.52%",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-thursday-august-6-2026/",
             "published_at": "2026-08-06T06:03:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Lithium Talks Lift SQM 2.14% as Albemarle Drops 1.64%",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:02:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Jumps 1.77% as Freeport-McMoRan Surges 3.11%",
-            "url": "https://www.riotimesonline.com/copper-markets-latam-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:00:48+00:00",
             "category": [],
             "language": "en"
         }
