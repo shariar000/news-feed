@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-07T20:10:04+00:00",
+    "updated_at": "2026-08-07T21:10:03+00:00",
     "items": [
+        {
+            "title": "Argentina Foreign Land Ownership Cap Stays at 15%",
+            "url": "https://www.riotimesonline.com/argentina-foreign-land-ownership-cap-15-percent-2026/",
+            "published_at": "2026-08-07T20:23:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Q2 Earnings: Fleury Profit Jumps 46%; Energisa Swings to Loss",
+            "url": "https://www.riotimesonline.com/brazil-q2-2026-earnings-fleury-wiz-petroreconcavo-energisa/",
+            "published_at": "2026-08-07T20:18:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Eztec Q2 Profit Falls 21% to US$22M; Launches Jump 58%",
+            "url": "https://www.riotimesonline.com/eztec-q2-2026-profit-falls-launches-dividend/",
+            "published_at": "2026-08-07T20:18:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Alupar Q2 IFRS Profit Near Triples to US$82M; Regulatory Profit Falls",
+            "url": "https://www.riotimesonline.com/alupar-q2-2026-ifrs-profit-regulatory-profit-dividend/",
+            "published_at": "2026-08-07T20:18:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "ALLOS Q2 Attributable Profit Jumps 53% to US$60M",
             "url": "https://www.riotimesonline.com/allos-q2-2026-profit-shopping-sales-services/",
@@ -52,7 +80,7 @@
             "language": "en"
         },
         {
-            "title": "Procuradur\u00eda Freezes the SIC Fine Against Ecopetrol Hours Before Colombia\u2019s Handover",
+            "title": "Colombia\u2019s Inspector General Halts a Near-Final Ecopetrol Ruling on the Eve of the Handover",
             "url": "https://www.riotimesonline.com/ecopetrol-sic-sanction-procuraduria-helicopters-2026/",
             "published_at": "2026-08-07T17:15:40+00:00",
             "category": [],
@@ -108,7 +136,7 @@
             "language": "en"
         },
         {
-            "title": "Mercado Pago Brazil Overtakes Caixa in Cards as Revenue Hits US$2.2 Billion",
+            "title": "Mercado Pago Says It Has Passed Caixa in Brazilian Cards \u2014 Without a Banking Licence",
             "url": "https://www.riotimesonline.com/mercado-pago-brazil-caixa-cards-2026/",
             "published_at": "2026-08-07T16:52:40+00:00",
             "category": [],
@@ -671,34 +699,6 @@
             "title": "Asia Intelligence Brief \u2013 Thursday, August 6, 2026",
             "url": "https://www.riotimesonline.com/asia-intelligence-brief-for-august-6-2026/",
             "published_at": "2026-08-06T20:33:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bogot\u00e1\u2019s Est\u00e9reo Bot\u00e1nico Festival Returns to the Botanical Garden in August",
-            "url": "https://www.riotimesonline.com/bogota-estereo-botanico-festival-returns-botanical-garden-2026/",
-            "published_at": "2026-08-06T20:20:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "A Hidden Town Near Buenos Aires Offers Its Own Vineyards and Country Grills",
-            "url": "https://www.riotimesonline.com/carlos-keen-hidden-town-buenos-aires-vineyards-parrillas-2026/",
-            "published_at": "2026-08-06T20:20:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro\u2019s August Concert Calendar Stacks Up with Rosal\u00eda, Caetano Veloso and More",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-august-concerts-2026-rosalia-caetano-veloso-2026/",
-            "published_at": "2026-08-06T20:20:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s CADE Clears Santander\u2019s Webmotors Taking Full Control of Loop",
-            "url": "https://www.riotimesonline.com/cade-santander-webmotors-loop-estapar-2026/",
-            "published_at": "2026-08-06T20:13:40+00:00",
             "category": [],
             "language": "en"
         }
