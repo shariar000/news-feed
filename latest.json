@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-07T08:10:10+00:00",
+    "updated_at": "2026-08-07T09:10:04+00:00",
     "items": [
+        {
+            "title": "Nutresa EBITDA Jumps 32%; Reported Profit Falls 89%",
+            "url": "https://www.riotimesonline.com/nutresa-h1-2026-ebitda-profit-currency-hedges/",
+            "published_at": "2026-08-07T08:44:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Q2: Santander Up 40%; CMPC, Cencosud Profits Fall",
+            "url": "https://www.riotimesonline.com/chile-q2-earnings-santander-cmpc-cencosud-2026/",
+            "published_at": "2026-08-07T08:27:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Markets: Ibovespa & the Real \u2014 August 7, 2026",
             "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-august-7-2026/",
@@ -685,20 +699,6 @@
             "title": "Chinese Belt and Road Investment in Africa Hits Record US$33.5 Billion",
             "url": "https://www.riotimesonline.com/china-belt-road-investment-africa-record-2026/",
             "published_at": "2026-08-06T07:33:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ghana Orders Refineries to Pay for Local Crude in Local Currency",
-            "url": "https://www.riotimesonline.com/ghana-cedi-crude-payments-mahama-2026/",
-            "published_at": "2026-08-06T07:32:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "HSBC Exits Egypt Retail Banking in US$300 Million Sale to Emirates NBD",
-            "url": "https://www.riotimesonline.com/hsbc-egypt-retail-sale-emirates-nbd-2026/",
-            "published_at": "2026-08-06T07:31:51+00:00",
             "category": [],
             "language": "en"
         }
