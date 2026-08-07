@@ -1,7 +1,63 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-07T11:10:03+00:00",
+    "updated_at": "2026-08-07T12:10:04+00:00",
     "items": [
+        {
+            "title": "Argentina\u2019s TGS Doubles Profit as Liquids Top Transport",
+            "url": "https://www.riotimesonline.com/argentina-tgs-q2-2026-profit-liquids-transport/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Aura Minerals profit hits US$218m on hedge gain",
+            "url": "https://www.riotimesonline.com/aura-minerals-q2-2026-profit-gold-hedge-gain/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Southern Copper Q2 Profit Hits Record US$1.67 Billion",
+            "url": "https://www.riotimesonline.com/southern-copper-q2-profit-record-1-67-billion/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Suspends Classes as Cyclone Triggers Uruguay Red Alert",
+            "url": "https://www.riotimesonline.com/rio-suspends-classes-as-cyclone-triggers-uruguay-red-alert/",
+            "published_at": "2026-08-07T11:41:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
+            "url": "https://www.riotimesonline.com/inter-co-q2-2026-record-profit-bad-loans/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Axia Energia posts US$233m profit as it exits NYSE",
+            "url": "https://www.riotimesonline.com/axia-energia-q2-2026-profit-nyse-delisting/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tenaris Q2 Profit Falls to US$477m on Hormuz Closure",
+            "url": "https://www.riotimesonline.com/tenaris-q2-profit-falls-hormuz-closure/",
+            "published_at": false,
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Globant Launches Glob.AI With Pay-Per-Output AI Services",
+            "url": "https://www.riotimesonline.com/globant-glob-ai-output-pricing-platform-2026/",
+            "published_at": "2026-08-07T11:20:04+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Nutresa EBITDA Jumps 32%; Reported Profit Falls 89%",
             "url": "https://www.riotimesonline.com/nutresa-h1-2026-ebitda-profit-currency-hedges/",
@@ -643,62 +699,6 @@
             "title": "Petrobras Falls 1.92% as Latin America Oil Stocks Slide",
             "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-august-6-2026-dup-693658/",
             "published_at": "2026-08-06T09:17:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Saudi Arabia\u2019s US$55 Billion EA Buyout Closes",
-            "url": "https://www.riotimesonline.com/saudi-led-group-completes-55-billion-ea-buyout-2026/",
-            "published_at": "2026-08-06T09:15:08+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Oil Markets Hit as US Oil Fund Drops 5.19%",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-wednesday-august-5-2026/",
-            "published_at": "2026-08-06T09:08:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tanzania Misses Its Own Deadline on a US$42 Billion LNG Deal",
-            "url": "https://www.riotimesonline.com/tanzania-misses-lng-deadline-42-billion-2026/",
-            "published_at": "2026-08-06T08:31:43+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nigeria\u2019s SEC Approves Tokenized Equities on NASD Platform",
-            "url": "https://www.riotimesonline.com/nigeria-tokenized-equities-sec-nasd-2026/",
-            "published_at": "2026-08-06T08:31:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Expat & Nomad Daily Guide for Thursday, August 6, 2026",
-            "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-august-6-2026/",
-            "published_at": "2026-08-06T08:04:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Deep Yellow Pours US$40 Million Into Namibia\u2019s Next Uranium Mine",
-            "url": "https://www.riotimesonline.com/deep-yellow-tumas-uranium-namibia-2026/",
-            "published_at": "2026-08-06T07:33:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Safaricom Ethiopia Races Toward Breakeven With 14.7 Million Customers",
-            "url": "https://www.riotimesonline.com/safaricom-ethiopia-customers-breakeven-2026/",
-            "published_at": "2026-08-06T07:33:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chinese Belt and Road Investment in Africa Hits Record US$33.5 Billion",
-            "url": "https://www.riotimesonline.com/china-belt-road-investment-africa-record-2026/",
-            "published_at": "2026-08-06T07:33:05+00:00",
             "category": [],
             "language": "en"
         }
