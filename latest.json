@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-07T13:10:03+00:00",
+    "updated_at": "2026-08-07T14:10:03+00:00",
     "items": [
+        {
+            "title": "Lojas Renner Q2 Profit Holds at US$79M; Revenue Forecast Cut",
+            "url": "https://www.riotimesonline.com/lojas-renner-q2-2026-profit-revenue-guidance-cut/",
+            "published_at": "2026-08-07T13:49:13+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Argentina\u2019s TGS Doubles Profit as Liquids Top Transport",
             "url": "https://www.riotimesonline.com/argentina-tgs-q2-2026-profit-liquids-transport/",
@@ -33,7 +40,7 @@
         {
             "title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
             "url": "https://www.riotimesonline.com/inter-co-q2-2026-record-profit-bad-loans/",
-            "published_at": false,
+            "published_at": "2026-08-07T11:31:35+00:00",
             "category": [],
             "language": "en"
         },
@@ -47,7 +54,7 @@
         {
             "title": "Tenaris Q2 Profit Falls to US$477m on Hormuz Closure",
             "url": "https://www.riotimesonline.com/tenaris-q2-profit-falls-hormuz-closure/",
-            "published_at": false,
+            "published_at": "2026-08-07T11:31:34+00:00",
             "category": [],
             "language": "en"
         },
@@ -692,13 +699,6 @@
             "title": "ECLAC Warns US-China Fight Will Reshape Latin America",
             "url": "https://www.riotimesonline.com/latin-america-in-the-new-geopolitical-era-eclac-s-roadmap-2026-08-04/",
             "published_at": "2026-08-06T09:42:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petrobras Falls 1.92% as Latin America Oil Stocks Slide",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-august-6-2026-dup-693658/",
-            "published_at": "2026-08-06T09:17:05+00:00",
             "category": [],
             "language": "en"
         }
