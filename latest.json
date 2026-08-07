@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-07T15:10:03+00:00",
+    "updated_at": "2026-08-07T16:10:03+00:00",
     "items": [
+        {
+            "title": "Peru Mexico Relations Restored as Betssy Chavez Flies Out on a Military Plane",
+            "url": "https://www.riotimesonline.com/peru-mexico-relations-betssy-chavez-safe-conduct-2026/",
+            "published_at": "2026-08-07T16:09:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Amazon Mining Ban Lands Three Days Before a Pro-Drilling President",
+            "url": "https://www.riotimesonline.com/colombia-amazon-mining-oil-ban-resolution-2026/",
+            "published_at": "2026-08-07T16:09:09+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Lojas Renner Q2 Profit Holds at US$79M; Revenue Forecast Cut",
             "url": "https://www.riotimesonline.com/lojas-renner-q2-2026-profit-revenue-guidance-cut/",
@@ -685,20 +699,6 @@
             "title": "Petrobras Hits Record Oil Output Ahead of Q2 Results",
             "url": "https://www.riotimesonline.com/petrobras-q2-2026-results-record-output-dividend/",
             "published_at": "2026-08-06T13:17:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "MercadoLibre Q2 Sales Pass US$10 Billion, Profit Falls 11%",
-            "url": "https://www.riotimesonline.com/mercadolibre-q2-2026-revenue-tops-us10bn-profit-falls-11/",
-            "published_at": "2026-08-06T13:16:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "ECLAC Warns US-China Fight Will Reshape Latin America",
-            "url": "https://www.riotimesonline.com/latin-america-in-the-new-geopolitical-era-eclac-s-roadmap-2026-08-04/",
-            "published_at": "2026-08-06T09:42:16+00:00",
             "category": [],
             "language": "en"
         }
