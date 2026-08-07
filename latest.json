@@ -1,7 +1,119 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-07T06:10:04+00:00",
+    "updated_at": "2026-08-07T07:10:04+00:00",
     "items": [
+        {
+            "title": "De la Espriella Alleges US$117M in Irregular Contracts",
+            "url": "https://www.riotimesonline.com/colombia-de-la-espriella-irregular-contracts-2026/",
+            "published_at": "2026-08-07T06:51:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Letshego Sells Five African Units to Axian as Kenya Waits Behind a Legal Snag",
+            "url": "https://www.riotimesonline.com/letshego-sells-five-african-units-axian-kenya-next-2026/",
+            "published_at": "2026-08-07T06:50:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Copper 360 Hands the Chair to Neal Froneman After a Year of Losses",
+            "url": "https://www.riotimesonline.com/neal-froneman-copper-360-chair-2026/",
+            "published_at": "2026-08-07T06:50:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Namibia Chases US$250 Million to Fund Its Green Industrialisation Plan",
+            "url": "https://www.riotimesonline.com/namibia-targets-us250-million-green-industrialisation-2026/",
+            "published_at": "2026-08-07T06:50:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Finance Minister Plans US$6.2 Billion Spending Cut",
+            "url": "https://www.riotimesonline.com/colombia-finance-minister-plans-us6-2-billion-spending-cut/",
+            "published_at": "2026-08-07T06:46:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Slips as Hormuz Tensions Cool; Silver Falls Harder",
+            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-friday-august-7-2026/",
+            "published_at": "2026-08-07T06:46:18+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ramaphosa Backs Stripping the Power Grid From Eskom",
+            "url": "https://www.riotimesonline.com/eskom-transmission-split-ramaphosa-backs-2026/",
+            "published_at": "2026-08-07T06:39:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Angola and the US Deepen Naval Ties at the Rabat Maritime Summit",
+            "url": "https://www.riotimesonline.com/angola-us-defence-cooperation-strengthens-2026/",
+            "published_at": "2026-08-07T06:39:38+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Dfcu Half-Year Loss: Crane Bank Case in London Wipes Out the Profit",
+            "url": "https://www.riotimesonline.com/dfcu-bank-half-year-loss-crane-bank-london-case-2026/",
+            "published_at": "2026-08-07T06:31:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Benin Senate President: Patrice Talon Takes the Top Seat in the New Upper House",
+            "url": "https://www.riotimesonline.com/benin-elects-patrice-talon-senate-president-2026/",
+            "published_at": "2026-08-07T06:31:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rwanda Suspends 14 Tanzanian Alcohol Brands as the Methanol Crackdown Widens",
+            "url": "https://www.riotimesonline.com/rwanda-suspends-tanzanian-alcohol-imports-2026/",
+            "published_at": "2026-08-07T06:31:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "DR Congo Bans Copper and Cobalt Concentrate Exports, Lifting the Copper Price",
+            "url": "https://www.riotimesonline.com/dr-congo-cobalt-export-quotas-2026/",
+            "published_at": "2026-08-07T06:31:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "South Africa\u2019s SA-H2 Green Hydrogen Fund Closes R3-Billion With Pension Money",
+            "url": "https://www.riotimesonline.com/pic-backs-r3-billion-green-hydrogen-fund-sa-industry-2026/",
+            "published_at": "2026-08-07T06:23:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tanzania Treasury Bills Open to Every Foreign Investor for the First Time",
+            "url": "https://www.riotimesonline.com/tanzania-opens-treasury-bills-bonds-foreign-investors-2026/",
+            "published_at": "2026-08-07T06:23:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tunisia Inflation Slows to 5.1 Percent in July, a Four-Month Low",
+            "url": "https://www.riotimesonline.com/tunisia-inflation-slows-5-1-percent-july-2026/",
+            "published_at": "2026-08-07T06:23:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Diageo Collects a Record EABL Dividend While Its Exit Stays Frozen",
+            "url": "https://www.riotimesonline.com/diageo-sh4-47-billion-eabl-dividend-delayed-asahi-sale-2026/",
+            "published_at": "2026-08-07T06:23:33+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Petrobras Q2 2026 Results: Profit Nearly Doubles to US$10.4 Billion",
             "url": "https://www.riotimesonline.com/petrobras-q2-2026-results-profit-nearly-doubles-to-us10-4-billion/",
@@ -587,118 +699,6 @@
             "title": "Mali Frees Ex-Prime Minister Moussa Mara After One Year",
             "url": "https://www.riotimesonline.com/mali-moussa-mara-released-prison-2026/",
             "published_at": "2026-08-06T06:14:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "DR Congo Mine Deadline Passes With Worker Stakes Undelivered",
-            "url": "https://www.riotimesonline.com/drc-mining-worker-equity-deadline-2026/",
-            "published_at": "2026-08-06T06:14:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Guinea Opts Out of ECOWAS Eco Currency Before 2027 Launch",
-            "url": "https://www.riotimesonline.com/guinea-ecowas-eco-currency-opt-out-2026/",
-            "published_at": "2026-08-06T06:14:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Invasive Mosquito Pushes Malaria Into Africa\u2019s Cities",
-            "url": "https://www.riotimesonline.com/anopheles-stephensi-urban-malaria-africa-2026/",
-            "published_at": "2026-08-06T06:14:28+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South Africa Recalls India Envoy Over Zuma-Gupta Meeting",
-            "url": "https://www.riotimesonline.com/south-africa-recalls-india-envoy-zuma-gupta-2026/",
-            "published_at": "2026-08-06T06:14:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Global Economy Briefing \u2014 August 6, 2026",
-            "url": "https://www.riotimesonline.com/global-economy-briefing-august-6-2026/",
-            "published_at": "2026-08-06T06:14:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Sudan\u2019s El Obeid Braces for Siege as UN Security Council Meets",
-            "url": "https://www.riotimesonline.com/sudan-el-obeid-siege-un-security-council-2026/",
-            "published_at": "2026-08-06T06:14:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Pledges US$242 Million More for DR Congo Ebola Fight",
-            "url": "https://www.riotimesonline.com/us-ebola-funding-dr-congo-242-million-2026/",
-            "published_at": "2026-08-06T06:14:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "AI Now Drives 55% of Cybercrime in Africa, INTERPOL Finds",
-            "url": "https://www.riotimesonline.com/ai-cybercrime-africa-interpol-report-2026/",
-            "published_at": "2026-08-06T06:13:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ceuta Migrant Crisis Kills at Least 72 as Europe Turns on Spain",
-            "url": "https://www.riotimesonline.com/ceuta-migrant-crisis-deaths-eu-2026/",
-            "published_at": "2026-08-06T06:13:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse for Thursday, August 6, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:12:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Thursday, August 6, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:11:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Grains Wrap: Soybeans Steady as Real Firms; Corn Slips",
-            "url": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:09:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecopetrol Rises as Petrobras, YPF Fall with USO at US$114.88",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:08:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Steel Rallies as Tariff Shield Meets Auto Hopes",
-            "url": "https://www.riotimesonline.com/steel-markets-latam-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:06:48+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc Equities Rally on Construction Demand Hopes",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:05:18+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iron Ore Wrap: Vale Rises as Rio Tinto Jumps 2.52%",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-thursday-august-6-2026/",
-            "published_at": "2026-08-06T06:03:48+00:00",
             "category": [],
             "language": "en"
         }
