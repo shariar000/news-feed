@@ -1,7 +1,84 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-08T21:10:03+00:00",
+    "updated_at": "2026-08-08T22:10:04+00:00",
     "items": [
+        {
+            "title": "Morgan Stanley Lifts Cogna to Buy While Cutting Cruzeiro do Sul",
+            "url": "https://www.riotimesonline.com/cogna-buy-rating-morgan-stanley-2026/",
+            "published_at": "2026-08-08T22:05:34+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "MBRF Profit Plunges 92%, Then Rebounds 27%",
+            "url": "https://www.riotimesonline.com/mbrf-brf-marfrig-quarterly-swing/",
+            "published_at": "2026-08-08T21:34:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Markets Price Lula 4 While UBS Warns of 2027 Fiscal Reckoning",
+            "url": "https://www.riotimesonline.com/markets-price-lula-4-ubs-2027-fiscal-2026/",
+            "published_at": "2026-08-08T21:34:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "JBS Signs Deal Worth Up to US$5 Billion in Indonesia",
+            "url": "https://www.riotimesonline.com/jbs-danantara-indonesia-deal/",
+            "published_at": "2026-08-08T21:34:10+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Smart Fit Posts US$40m Q2 Profit; Shares Fall 8%",
+            "url": "https://www.riotimesonline.com/smart-fit-q2-2026-profit-shares-fall/",
+            "published_at": "2026-08-08T21:33:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Morgan Stanley Cuts Cruzeiro do Sul Two Notches to Sell",
+            "url": "https://www.riotimesonline.com/cruzeiro-do-sul-double-downgrade-2026/",
+            "published_at": "2026-08-08T21:32:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Hypera Q2 Profit Rises 15% to US$96 Million",
+            "url": "https://www.riotimesonline.com/hypera-q2-2026-profit/",
+            "published_at": "2026-08-08T21:32:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "CSN Charged Over Iron-Ore Leak at Minas Gerais Mine",
+            "url": "https://www.riotimesonline.com/csn-congonhas-iron-ore-leak-charge/",
+            "published_at": "2026-08-08T21:31:43+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Totvs Q2 Profit Up 17.4% to US$47m on AI Launch",
+            "url": "https://www.riotimesonline.com/totvs-q2-2026-profit-ai-services/",
+            "published_at": "2026-08-08T21:30:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "ABC Brasil Q2 Profit Rises 5.4% to US$50.6 Million",
+            "url": "https://www.riotimesonline.com/banco-abc-brasil-q2-2026-profit/",
+            "published_at": "2026-08-08T21:26:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Klabin Q2 EBITDA Hits US$394m, Buyback Approved",
+            "url": "https://www.riotimesonline.com/klabin-q2-2026-ebitda-buyback/",
+            "published_at": "2026-08-08T21:25:40+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Copel Q2 EBITDA Climbs 21% to US$317 Million",
             "url": "https://www.riotimesonline.com/copel-q2-2026-ebitda-net-income/",
@@ -101,7 +178,7 @@
             "language": "en"
         },
         {
-            "title": "Nigeria\u2019s NGX market value could reach N230 trillion by end of 2026, says CEO",
+            "title": "Nigerias NGX Market Value Could Reach US$168.9bn by End 2026 Says CEO",
             "url": "https://www.riotimesonline.com/ngx-market-capitalisation-n230-trillion-end-2026/",
             "published_at": "2026-08-08T19:17:54+00:00",
             "category": [],
@@ -622,83 +699,6 @@
             "title": "Rio Suspends Classes as Cyclone Triggers Uruguay Red Alert",
             "url": "https://www.riotimesonline.com/rio-suspends-classes-as-cyclone-triggers-uruguay-red-alert/",
             "published_at": "2026-08-07T11:41:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
-            "url": "https://www.riotimesonline.com/inter-co-q2-2026-record-profit-bad-loans/",
-            "published_at": "2026-08-07T11:31:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Axia Energia posts US$233m profit as it exits NYSE",
-            "url": "https://www.riotimesonline.com/axia-energia-q2-2026-profit-nyse-delisting/",
-            "published_at": "2026-08-07T11:31:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tenaris Q2 Profit Falls to US$477m on Hormuz Closure",
-            "url": "https://www.riotimesonline.com/tenaris-q2-profit-falls-hormuz-closure/",
-            "published_at": "2026-08-07T11:31:34+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Globant Launches Glob.AI With Pay-Per-Output AI Services",
-            "url": "https://www.riotimesonline.com/globant-glob-ai-output-pricing-platform-2026/",
-            "published_at": "2026-08-07T11:20:04+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nutresa EBITDA Jumps 32%; Reported Profit Falls 89%",
-            "url": "https://www.riotimesonline.com/nutresa-h1-2026-ebitda-profit-currency-hedges/",
-            "published_at": "2026-08-07T08:44:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Q2: Santander Up 40%; CMPC, Cencosud Profits Fall",
-            "url": "https://www.riotimesonline.com/chile-q2-earnings-santander-cmpc-cencosud-2026/",
-            "published_at": "2026-08-07T08:27:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Markets: Ibovespa & the Real \u2014 August 7, 2026",
-            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-the-real-august-7-2026/",
-            "published_at": "2026-08-07T08:05:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Markets: IPC & the Peso \u2014 August 7, 2026",
-            "url": "https://www.riotimesonline.com/mexico-markets-ipc-the-peso-august-7-2026/",
-            "published_at": "2026-08-07T08:04:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Markets: IPSA & the Peso \u2014 August 7, 2026",
-            "url": "https://www.riotimesonline.com/chile-markets-ipsa-the-peso-august-7-2026/",
-            "published_at": "2026-08-07T08:03:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Milei Clears Brazil-Argentina Naval Exercise Despite Rift",
-            "url": "https://www.riotimesonline.com/milei-brazil-argentina-naval-exercise-fraterno-2026/",
-            "published_at": "2026-08-07T08:03:41+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Markets: Merval & the Peso \u2014 August 7, 2026",
-            "url": "https://www.riotimesonline.com/argentina-markets-merval-the-peso-august-7-2026/",
-            "published_at": "2026-08-07T08:02:46+00:00",
             "category": [],
             "language": "en"
         }
