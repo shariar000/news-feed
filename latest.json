@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-08T18:10:05+00:00",
+    "updated_at": "2026-08-08T19:10:03+00:00",
     "items": [
+        {
+            "title": "Refit Loses Fuel Licence as Suspended Tax ID Halts Operations",
+            "url": "https://www.riotimesonline.com/anp-revokes-refit-licence-manguinhos-cnpj-2026/",
+            "published_at": "2026-08-08T18:50:04+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Europe Intelligence Brief \u2014 Saturday, August 8, 2026",
+            "url": "https://www.riotimesonline.com/europe-intelligence-brief-august-8-2026/",
+            "published_at": "2026-08-08T18:24:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asia Intelligence Brief \u2014 Saturday, August 8, 2026",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-august-8-2026/",
+            "published_at": "2026-08-08T18:24:14+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Colombia Recognises Moroccan Sovereignty Over Western Sahara on Day One",
             "url": "https://www.riotimesonline.com/colombia-recognises-morocco-western-sahara-2026/",
@@ -678,27 +699,6 @@
             "title": "Colombia Finance Minister Plans US$6.2 Billion Spending Cut",
             "url": "https://www.riotimesonline.com/colombia-finance-minister-plans-us6-2-billion-spending-cut/",
             "published_at": "2026-08-07T06:46:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ramaphosa Backs Stripping the Power Grid From Eskom",
-            "url": "https://www.riotimesonline.com/eskom-transmission-split-ramaphosa-backs-2026/",
-            "published_at": "2026-08-07T06:39:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Angola and the US Deepen Naval Ties at the Rabat Maritime Summit",
-            "url": "https://www.riotimesonline.com/angola-us-defence-cooperation-strengthens-2026/",
-            "published_at": "2026-08-07T06:39:38+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Dfcu Half-Year Loss: Crane Bank Case in London Wipes Out the Profit",
-            "url": "https://www.riotimesonline.com/dfcu-bank-half-year-loss-crane-bank-london-case-2026/",
-            "published_at": "2026-08-07T06:31:29+00:00",
             "category": [],
             "language": "en"
         }
