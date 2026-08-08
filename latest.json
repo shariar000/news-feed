@@ -1,21 +1,7 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-08T14:10:04+00:00",
+    "updated_at": "2026-08-08T15:10:03+00:00",
     "items": [
-        {
-            "title": "S\u00e3o Paulo Daily Brief \u2014 Saturday, August 8, 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-saturday-august-8-2026/",
-            "published_at": "2026-08-08T10:23:53+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio de Janeiro Daily Brief \u2014 Saturday, August 8, 2026",
-            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-saturday-august-8-2026/",
-            "published_at": "2026-08-08T10:23:53+00:00",
-            "category": [],
-            "language": "en"
-        },
         {
             "title": "LatAm Expat & Nomad Daily Guide for Saturday, August 8, 2026",
             "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-saturday-august-8-2026/",
@@ -699,6 +685,20 @@
             "title": "Tunisia Inflation Slows to 5.1 Percent in July, a Four-Month Low",
             "url": "https://www.riotimesonline.com/tunisia-inflation-slows-5-1-percent-july-2026/",
             "published_at": "2026-08-07T06:23:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Diageo Collects a Record EABL Dividend While Its Exit Stays Frozen",
+            "url": "https://www.riotimesonline.com/diageo-sh4-47-billion-eabl-dividend-delayed-asahi-sale-2026/",
+            "published_at": "2026-08-07T06:23:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Petrobras Q2 2026 Results: Profit Nearly Doubles to US$10.4 Billion",
+            "url": "https://www.riotimesonline.com/petrobras-q2-2026-results-profit-nearly-doubles-to-us10-4-billion/",
+            "published_at": "2026-08-07T05:50:47+00:00",
             "category": [],
             "language": "en"
         }
