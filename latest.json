@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-08T07:15:06+00:00",
+    "updated_at": "2026-08-08T07:20:04+00:00",
     "items": [
+        {
+            "title": "Nigeria\u2019s NNPC Listing: Tinubu Commits, But Sets No Date",
+            "url": "https://www.riotimesonline.com/nnpc-listing-tinubu-commitment-no-timetable-2026/",
+            "published_at": "2026-08-08T07:16:38+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Saturday, August 8, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-saturday-august-8-2026/",
@@ -691,13 +698,6 @@
         {
             "title": "MACA Montevideo Hosts Free Film, Music and Ballet from 6 to 9 August",
             "url": "https://www.riotimesonline.com/maca-montevideo-free-film-music-ballet-august-2026/",
-            "published_at": "2026-08-06T20:54:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Shanghai Chinese Orchestra Brings Colors of China to Curitiba in August",
-            "url": "https://www.riotimesonline.com/shanghai-chinese-orchestra-curitiba-concert-2026/",
             "published_at": "2026-08-06T20:54:16+00:00",
             "category": [],
             "language": "en"
