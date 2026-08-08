@@ -1,7 +1,21 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-08T20:10:24+00:00",
+    "updated_at": "2026-08-08T21:10:03+00:00",
     "items": [
+        {
+            "title": "Copel Q2 EBITDA Climbs 21% to US$317 Million",
+            "url": "https://www.riotimesonline.com/copel-q2-2026-ebitda-net-income/",
+            "published_at": "2026-08-08T20:55:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "CPFL Q2 Profit US$216m as Dividend Tops US$255m",
+            "url": "https://www.riotimesonline.com/cpfl-energia-q2-2026-profit-dividend/",
+            "published_at": "2026-08-08T20:40:45+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Fintech Profits Hit US$1.5bn as Nubank Pulls Ahead",
             "url": "https://www.riotimesonline.com/brazil-fintech-profits-nubank-2026/",
@@ -685,20 +699,6 @@
             "title": "Argentina Markets: Merval & the Peso \u2014 August 7, 2026",
             "url": "https://www.riotimesonline.com/argentina-markets-merval-the-peso-august-7-2026/",
             "published_at": "2026-08-07T08:02:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Markets: COLCAP & the Peso \u2014 August 7, 2026",
-            "url": "https://www.riotimesonline.com/colombia-markets-colcap-the-peso-august-7-2026/",
-            "published_at": "2026-08-07T08:01:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call for Friday, August 7, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-august-7-2026/",
-            "published_at": "2026-08-07T08:00:46+00:00",
             "category": [],
             "language": "en"
         }
