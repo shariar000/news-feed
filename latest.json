@@ -1,14 +1,7 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-09T06:10:04+00:00",
+    "updated_at": "2026-08-09T07:10:05+00:00",
     "items": [
-        {
-            "title": "Morgan Stanley Lifts Cogna to Buy While Cutting Cruzeiro do Sul",
-            "url": "https://www.riotimesonline.com/cogna-buy-rating-morgan-stanley-2026/",
-            "published_at": "2026-08-08T22:05:34+00:00",
-            "category": [],
-            "language": "en"
-        },
         {
             "title": "MBRF Profit Plunges 92%, Then Rebounds 27%",
             "url": "https://www.riotimesonline.com/mbrf-brf-marfrig-quarterly-swing/",
@@ -699,6 +692,13 @@
             "title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
             "url": "https://www.riotimesonline.com/inter-co-q2-2026-record-profit-bad-loans/",
             "published_at": "2026-08-07T11:31:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Axia Energia posts US$233m profit as it exits NYSE",
+            "url": "https://www.riotimesonline.com/axia-energia-q2-2026-profit-nyse-delisting/",
+            "published_at": "2026-08-07T11:31:34+00:00",
             "category": [],
             "language": "en"
         }
