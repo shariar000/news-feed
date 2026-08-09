@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-09T21:10:04+00:00",
+    "updated_at": "2026-08-09T22:10:05+00:00",
     "items": [
+        {
+            "title": "Lula to Send Trump Amazon Data in Tariff Spat",
+            "url": "https://www.riotimesonline.com/lula-us-tariffs-brazil-amazon-data-2026/",
+            "published_at": "2026-08-09T21:54:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Panama Canal Deepens Draft to 48 Feet, Boosting Cargo Limits",
+            "url": "https://www.riotimesonline.com/panama-canal-neopanamax-draft-48-feet-2026/",
+            "published_at": "2026-08-09T21:54:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Grande do Sul Storms Displace 2,686 Across 117 Towns",
+            "url": "https://www.riotimesonline.com/rio-grande-do-sul-storms-displaced-2026/",
+            "published_at": "2026-08-09T21:54:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio Helicopter Crash Kills Four, Three Colombians",
+            "url": "https://www.riotimesonline.com/rio-helicopter-crash-tijuca-four-dead-2026/",
+            "published_at": "2026-08-09T21:54:20+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "South African Clothing Factories Lose Workers as Migrant Exodus Hits Newcastle",
             "url": "https://www.riotimesonline.com/south-african-factories-migrant-worker-exodus-2026/",
@@ -671,34 +699,6 @@
             "title": "New Financial Scams Sweep Kenya as Authorities Watch",
             "url": "https://www.riotimesonline.com/new-financial-scams-sweep-kenya-2026/",
             "published_at": "2026-08-08T07:03:01+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Somalia Faces Early Troop Exit Rethink as US Funding Cut Hits AU Mission",
-            "url": "https://www.riotimesonline.com/somalia-early-troop-exit-rethink-us-funding-cut-2026/",
-            "published_at": "2026-08-08T07:01:05+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rwanda in Talks With Italy to Resettle Irregular Migrants, No Deal Yet",
-            "url": "https://www.riotimesonline.com/rwanda-italy-migrant-resettlement-talks-2026/",
-            "published_at": "2026-08-08T06:58:47+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Saudi Arabia Displays Armoured Vehicles for Sudan Army Offensive",
-            "url": "https://www.riotimesonline.com/saudi-arabia-displays-armoured-vehicles-sudan-army-offensive-2026/",
-            "published_at": "2026-08-08T06:57:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina Foreign Land Ownership Cap Stays at 15%",
-            "url": "https://www.riotimesonline.com/argentina-foreign-land-ownership-cap-15-percent-2026/",
-            "published_at": "2026-08-07T20:23:38+00:00",
             "category": [],
             "language": "en"
         }
