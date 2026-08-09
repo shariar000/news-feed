@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-09T15:10:04+00:00",
+    "updated_at": "2026-08-09T16:10:04+00:00",
     "items": [
+        {
+            "title": "Mexico Inflation Falls to 3.37% as Banxico Holds Rates",
+            "url": "https://www.riotimesonline.com/mexico-inflation-remittances-banxico-rate-hold-2026/",
+            "published_at": "2026-08-09T15:32:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Tonight \u2014 August 9, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-sunday-august-9-2026/",
+            "published_at": "2026-08-09T15:30:22+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Moody\u2019s Upgrades Benin\u2019s Sovereign Credit Rating to Ba3",
+            "url": "https://www.riotimesonline.com/moodys-upgrades-benin-ba3-sovereign-credit-2026/",
+            "published_at": "2026-08-09T15:20:03+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Latin America Sports Daily for Sunday, August 9, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-sunday-august-9-2026/",
@@ -27,6 +48,13 @@
             "title": "Key Market Events for the Week of August 10\u201314, 2026",
             "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-august-10-14-2026/",
             "published_at": "2026-08-09T06:00:54+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "M. Dias Branco Keeps Fitch AAA(bra) Rating for Ninth Year",
+            "url": "https://www.riotimesonline.com/m-dias-branco-fitch-aaa-bra-rating-ninth-year-2026/",
+            "published_at": "2026-08-08T21:39:13+00:00",
             "category": [],
             "language": "en"
         },
@@ -671,34 +699,6 @@
             "title": "Nexa Says Cerro Lindo Is Peru\u2019s First Block-Caving Mine",
             "url": "https://www.riotimesonline.com/nexa-peru-first-block-caving-cerro-lindo-2026/",
             "published_at": "2026-08-07T16:19:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lamine Yamal Visits Medell\u00edn, Appears in Comuna 13",
-            "url": "https://www.riotimesonline.com/lamine-yamal-medellin-feria-flores-comuna-13-2026/",
-            "published_at": "2026-08-07T16:16:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lojas Renner Q2 Profit Holds at US$79M; Revenue Forecast Cut",
-            "url": "https://www.riotimesonline.com/lojas-renner-q2-2026-profit-revenue-guidance-cut/",
-            "published_at": "2026-08-07T13:49:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s TGS Doubles Profit as Liquids Top Transport",
-            "url": "https://www.riotimesonline.com/argentina-tgs-q2-2026-profit-liquids-transport/",
-            "published_at": "2026-08-07T11:47:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Aura Minerals profit hits US$218m on hedge gain",
-            "url": "https://www.riotimesonline.com/aura-minerals-q2-2026-profit-gold-hedge-gain/",
-            "published_at": "2026-08-07T11:47:02+00:00",
             "category": [],
             "language": "en"
         }
