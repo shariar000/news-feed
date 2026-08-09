@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-09T10:10:04+00:00",
+    "updated_at": "2026-08-09T11:10:06+00:00",
     "items": [
+        {
+            "title": "Latin America Sports Daily for Sunday, August 9, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-sunday-august-9-2026/",
+            "published_at": "2026-08-09T10:55:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Sunday, August 9, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-sunday-august-9-2026/",
+            "published_at": "2026-08-09T10:37:47+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Sunday, August 9, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-sunday-august-9-2026/",
+            "published_at": "2026-08-09T10:17:16+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Key Market Events for the Week of August 10\u201314, 2026",
+            "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-august-10-14-2026/",
+            "published_at": "2026-08-09T06:00:54+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "MBRF Profit Plunges 92%, Then Rebounds 26%",
             "url": "https://www.riotimesonline.com/mbrf-brf-marfrig-quarterly-swing/",
@@ -671,34 +699,6 @@
             "title": "Aura Minerals profit hits US$218m on hedge gain",
             "url": "https://www.riotimesonline.com/aura-minerals-q2-2026-profit-gold-hedge-gain/",
             "published_at": "2026-08-07T11:47:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Southern Copper Q2 Profit Hits Record US$1.67 Billion",
-            "url": "https://www.riotimesonline.com/southern-copper-q2-profit-record-1-67-billion/",
-            "published_at": "2026-08-07T11:47:02+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio Suspends Classes as Cyclone Triggers Uruguay Red Alert",
-            "url": "https://www.riotimesonline.com/rio-suspends-classes-as-cyclone-triggers-uruguay-red-alert/",
-            "published_at": "2026-08-07T11:41:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Inter&Co Hits Record US$81m Profit as Bad Loans Rise",
-            "url": "https://www.riotimesonline.com/inter-co-q2-2026-record-profit-bad-loans/",
-            "published_at": "2026-08-07T11:31:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Axia Energia posts US$233m profit as it exits NYSE",
-            "url": "https://www.riotimesonline.com/axia-energia-q2-2026-profit-nyse-delisting/",
-            "published_at": "2026-08-07T11:31:34+00:00",
             "category": [],
             "language": "en"
         }
