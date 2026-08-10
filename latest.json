@@ -1,9 +1,149 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-10T15:10:07+00:00",
+    "updated_at": "2026-08-10T16:10:03+00:00",
     "items": [
         {
-            "title": "Brazil\u2019s $1,500 Digital Nomad Visa Pulls Remote Workers to Rio and Florianopolis",
+            "title": "Mendoza Toy Fair Returns With 200 Stands and Free Fun",
+            "url": "https://www.riotimesonline.com/mendozatoy/",
+            "published_at": "2026-08-10T15:23:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Walk Quito\u2019s 10 August Independence Route",
+            "url": "https://www.riotimesonline.com/quito810/",
+            "published_at": "2026-08-10T15:23:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Puebla Arts Venue Closure Stirs Gentrification Fears",
+            "url": "https://www.riotimesonline.com/puebla/",
+            "published_at": "2026-08-10T15:22:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "San Miguel de Allende Guide: Wine, Art, and Food",
+            "url": "https://www.riotimesonline.com/sanmiguel/",
+            "published_at": "2026-08-10T15:22:29+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Arequipa Anniversary Festivities Light Up August 2026",
+            "url": "https://www.riotimesonline.com/arequipa/",
+            "published_at": "2026-08-10T15:22:05+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Flipelo 2026 Wraps in Salvador: A Literary Week You Can Still Feel",
+            "url": "https://www.riotimesonline.com/flipelo/",
+            "published_at": "2026-08-10T15:21:06+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rawayana Concert Lima: Catch the Hottest Latin Band at Costa 21",
+            "url": "https://www.riotimesonline.com/rawayana/",
+            "published_at": "2026-08-10T15:20:46+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bread and Dessert Festival Bogot\u00e1: Free Food Fair Hits El Country Park",
+            "url": "https://www.riotimesonline.com/bogotafood/",
+            "published_at": "2026-08-10T15:20:25+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "August Tastes Like Wine and Cheese in Jalostotitlan",
+            "url": "https://www.riotimesonline.com/jalos/",
+            "published_at": "2026-08-10T15:20:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Porao do Rock Fortaleza Adds Zip Line and Skate Rink",
+            "url": "https://www.riotimesonline.com/poraorock/",
+            "published_at": "2026-08-10T15:19:39+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "SODRE Opera Montevideo Stages Donizetti\u2019s Elixir of Love",
+            "url": "https://www.riotimesonline.com/sodre/",
+            "published_at": "2026-08-10T15:19:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Debora Arango Exhibition Opens in Medell\u00edn With 118 Works",
+            "url": "https://www.riotimesonline.com/arango/",
+            "published_at": "2026-08-10T15:18:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Teresa Margolles at MARCO: A Must-See Before It Closes",
+            "url": "https://www.riotimesonline.com/margolles/",
+            "published_at": "2026-08-10T15:18:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Tanabata Festival Rosario Lights Up the Planetarium This Sunday",
+            "url": "https://www.riotimesonline.com/tanabata/",
+            "published_at": "2026-08-10T15:18:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Asunci\u00f3n in 2026: A City Reinventing Itself for Expats",
+            "url": "https://www.riotimesonline.com/asuncionqol/",
+            "published_at": "2026-08-10T15:17:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Santiago Concerts 2026: Big Names, Big Nights Ahead",
+            "url": "https://www.riotimesonline.com/santiagogigs/",
+            "published_at": "2026-08-10T15:17:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Where to Eat Japanese Food in Mexico City: A Foodie\u2019s Guide",
+            "url": "https://www.riotimesonline.com/jpfoodcdmx/",
+            "published_at": "2026-08-10T15:16:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Fasano Punta del Este: The Rebirth of Playa Mansa",
+            "url": "https://www.riotimesonline.com/fasanopde/",
+            "published_at": "2026-08-10T15:16:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Frida Kahlo Exhibition Buenos Aires: See Her Secret World",
+            "url": "https://www.riotimesonline.com/fridaba/",
+            "published_at": "2026-08-10T15:16:01+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Bolivia\u2019s Virgin of Urcupina Festival",
+            "url": "https://www.riotimesonline.com/urcupina/",
+            "published_at": "2026-08-10T15:15:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s $1,500 Digital Nomad Visa Pulls Remote Workers to Rio and Florian\u00f3polis",
             "url": "https://www.riotimesonline.com/brazil-digital-nomad-visa-vitem-xiv-2026/",
             "published_at": "2026-08-10T15:01:46+00:00",
             "category": [],
@@ -12,13 +152,6 @@
         {
             "title": "Soybean, Lithium and Bitcoin Mining Converge in Latin America\u2019s 2026 Commodity-Crypto Crossover",
             "url": "https://www.riotimesonline.com/latin-america-commodities-crypto-2026/",
-            "published_at": "2026-08-10T15:01:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mercosur-EU Deal Remains Stuck as Brazil Pushes and France Resists",
-            "url": "https://www.riotimesonline.com/mercosur-eu-deal-status-2026/",
             "published_at": "2026-08-10T15:01:46+00:00",
             "category": [],
             "language": "en"
@@ -566,139 +699,6 @@
             "title": "Iron Ore Wrap Aug 7: Vale Slips, CSN Sinks 5.2%",
             "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-august-10-2026/",
             "published_at": "2026-08-10T06:48:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Zinc Wrap Aug 7: Nexa Falls, Buenaventura Jumps",
-            "url": "https://www.riotimesonline.com/zinc-markets-latam-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:48:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin America Steel Wrap: Ternium Surges, Gerdau Dips",
-            "url": "https://www.riotimesonline.com/steel-markets-latam-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:48:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Oil Falls Despite Hormuz Shock; Petrobras Drops 3%",
-            "url": "https://www.riotimesonline.com/oil-markets-latam-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:48:16+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gold At US$4,342, Silver At US$63.47 \u2013 Friday, August 7, 2026",
-            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:45:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Latin American Pulse For Monday, August 10, 2026",
-            "url": "https://www.riotimesonline.com/latin-american-pulse-for-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:30:44+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil\u2019s Financial Morning Call For Monday, August 10, 2026",
-            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:30:40+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "LatAm Pre-Open \u2014 Monday, August 10, 2026",
-            "url": "https://www.riotimesonline.com/latam-pre-open-monday-august-10-2026/",
-            "published_at": "2026-08-10T05:45:15+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia\u2019s 2027 Budget Reaches Congress With A US$9.5bn Gap",
-            "url": "https://www.riotimesonline.com/colombia-2027-national-budget-congress-gap-2026/",
-            "published_at": "2026-08-09T22:22:03+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "US Restarts Avocado Checks In Michoac\u00e1n After Security Deal",
-            "url": "https://www.riotimesonline.com/us-resumes-avocado-inspections-michoacan-2026/",
-            "published_at": "2026-08-09T22:18:26+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Jorge Messi Dies At 68; Family Holds Private Wake In Rosario",
-            "url": "https://www.riotimesonline.com/jorge-messi-dies-68-rosario-2026/",
-            "published_at": "2026-08-09T22:18:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil Court Bars Bolsonaro Family Visit For Father\u2019s Day",
-            "url": "https://www.riotimesonline.com/moraes-denies-bolsonaro-fathers-day-visit-2026/",
-            "published_at": "2026-08-09T22:17:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "S\u00e3o Paulo Confirms Second Wild Bird Flu Case Of 2026",
-            "url": "https://www.riotimesonline.com/sao-paulo-second-bird-flu-wild-bird-2026/",
-            "published_at": "2026-08-09T22:17:27+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lula To Send Trump Amazon Data In Tariff Spat",
-            "url": "https://www.riotimesonline.com/lula-us-tariffs-brazil-amazon-data-2026/",
-            "published_at": "2026-08-09T21:54:54+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Canal Deepens Draft To 48 Feet, Boosting Cargo Limits",
-            "url": "https://www.riotimesonline.com/panama-canal-neopanamax-draft-48-feet-2026/",
-            "published_at": "2026-08-09T21:54:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio Grande do Sul Storms Displace 2,686 Across 117 Towns",
-            "url": "https://www.riotimesonline.com/rio-grande-do-sul-storms-displaced-2026/",
-            "published_at": "2026-08-09T21:54:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rio Helicopter Crash Kills Four, Three Colombians",
-            "url": "https://www.riotimesonline.com/rio-helicopter-crash-tijuca-four-dead-2026/",
-            "published_at": "2026-08-09T21:54:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "South African Clothing Factories Lose Workers As Migrant Exodus Hits Newcastle",
-            "url": "https://www.riotimesonline.com/south-african-factories-migrant-worker-exodus-2026/",
-            "published_at": "2026-08-09T19:34:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Israel Rejects Trump\u2019s 15-Point Plan To End The Gaza War",
-            "url": "https://www.riotimesonline.com/israel-rejects-trump-15-point-gaza-plan-2026/",
-            "published_at": "2026-08-09T19:33:59+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Wrangle Over Expropriation Act Risks Sinking South Africa\u2019s Government Of National Unity",
-            "url": "https://www.riotimesonline.com/expropriation-act-risks-sinking-south-africa-gnu-2026/",
-            "published_at": "2026-08-09T19:31:27+00:00",
             "category": [],
             "language": "en"
         }
