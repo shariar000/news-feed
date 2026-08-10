@@ -1,7 +1,35 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-10T16:10:03+00:00",
+    "updated_at": "2026-08-10T17:10:04+00:00",
     "items": [
+        {
+            "title": "El Ni\u00f1o Puts 756 Latin American Hospitals at Risk as Dengue Cases Top 624,000",
+            "url": "https://www.riotimesonline.com/latam-healthcare-dengue-el-nino-2026/",
+            "published_at": "2026-08-10T16:57:27+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa Intelligence Brief \u2014 Monday, August 10, 2026",
+            "url": "https://www.riotimesonline.com/africa-intelligence-brief-monday-august-10-2026/",
+            "published_at": "2026-08-10T16:38:12+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Nightlife Tonight \u2014 August 10, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-nightlife-tonight-august-10-2026/",
+            "published_at": "2026-08-10T16:26:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Nightlife Tonight \u2014 August 10, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-tonight-august-10-2026/",
+            "published_at": "2026-08-10T16:14:12+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Mendoza Toy Fair Returns With 200 Stands and Free Fun",
             "url": "https://www.riotimesonline.com/mendozatoy/",
@@ -671,34 +699,6 @@
             "title": "Latin America Sports Daily For Monday, August 10, 2026",
             "url": "https://www.riotimesonline.com/latin-america-sports-daily-monday-august-10-2026/",
             "published_at": "2026-08-10T06:49:36+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bitcoin Steady At US$64,845 As Brazil Targets Crypto Fraud",
-            "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:49:24+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper Drops 2.1% On China Jitters; Miners Diverge",
-            "url": "https://www.riotimesonline.com/copper-markets-latam-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:49:10+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Lithium Wrap: Albemarle Jumps 4.5%, SQM Dips as LIT ETF Climbs",
-            "url": "https://www.riotimesonline.com/lithium-markets-latam-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:48:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Iron Ore Wrap Aug 7: Vale Slips, CSN Sinks 5.2%",
-            "url": "https://www.riotimesonline.com/iron-ore-markets-latam-monday-august-10-2026/",
-            "published_at": "2026-08-10T06:48:50+00:00",
             "category": [],
             "language": "en"
         }
