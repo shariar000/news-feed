@@ -1,7 +1,28 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-11T08:10:04+00:00",
+    "updated_at": "2026-08-11T09:10:05+00:00",
     "items": [
+        {
+            "title": "Why Argentina\u2019s Credit Keeps Shrinking Even as Inflation Cools",
+            "url": "https://www.riotimesonline.com/argentina-private-credit-squeeze-2026/",
+            "published_at": "2026-08-11T08:40:52+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Explosive Drones Are the New Weapon in Colombia\u2019s Conflict",
+            "url": "https://www.riotimesonline.com/colombia-drone-attacks-armed-groups-2026/",
+            "published_at": "2026-08-11T08:27:02+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s New Government Takes Four Spending Laws to Court",
+            "url": "https://www.riotimesonline.com/peru-pension-laws-constitutional-court-2026/",
+            "published_at": "2026-08-11T08:13:05+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "El Ni\u00f1o Turns Central America\u2019s Dry Corridor Into a Hunger Zone",
             "url": "https://www.riotimesonline.com/el-nino-food-crisis-honduras-guatemala-2026/",
@@ -678,27 +699,6 @@
             "title": "Nexa Q2 Profit Jumps as Zinc Output Rises 8%",
             "url": "https://www.riotimesonline.com/nexa/",
             "published_at": "2026-08-10T11:02:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Unveils First Step of Sheinbaum Anti-Corruption Decree",
-            "url": "https://www.riotimesonline.com/sheinanti/",
-            "published_at": "2026-08-10T11:01:57+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chile Capital Market Reform: Tax Cut Aims to Revive Stocks",
-            "url": "https://www.riotimesonline.com/clcapital/",
-            "published_at": "2026-08-10T11:01:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "BHP Bets Big on Chile Copper: US$14.7bn Plan",
-            "url": "https://www.riotimesonline.com/bhpcycle/",
-            "published_at": "2026-08-10T11:00:36+00:00",
             "category": [],
             "language": "en"
         }
