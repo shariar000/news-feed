@@ -1,7 +1,14 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-11T05:10:03+00:00",
+    "updated_at": "2026-08-11T06:10:04+00:00",
     "items": [
+        {
+            "title": "China\u2019s Long March 7A Rocket Fails Minutes After Launch, Satellite Lost",
+            "url": "https://www.riotimesonline.com/china-long-march-7a-rocket-failure-2026/",
+            "published_at": "2026-08-11T05:15:30+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Venezuela Oil Exports to the US Hit a Seven-Year High",
             "url": "https://www.riotimesonline.com/venezuela-oil-key-facts-on-us-supply-sanctions-and-chevron-2/",
@@ -692,13 +699,6 @@
             "title": "Puerto Rico Water Rationing Hits San Juan: What You Need To Know",
             "url": "https://www.riotimesonline.com/puerto-rico-water-rationing-san-juan-drought-2026/",
             "published_at": "2026-08-10T08:38:20+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico Panel Rejects Fracking In Key Basin, Eyes Saltwater Only",
-            "url": "https://www.riotimesonline.com/mexico-fracking-panel-rejects-tampico-basin-2026/",
-            "published_at": "2026-08-10T08:37:51+00:00",
             "category": [],
             "language": "en"
         }
