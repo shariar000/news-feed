@@ -1,7 +1,84 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-11T13:10:04+00:00",
+    "updated_at": "2026-08-11T14:05:18+00:00",
     "items": [
+        {
+            "title": "Guyana\u2019s Kurupung Uranium Plan Runs Into Indigenous Opposition",
+            "url": "https://www.riotimesonline.com/guyana-kurupung-uranium-opposition-2026/",
+            "published_at": "2026-08-11T13:57:09+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Suriname Moves to Evict Mennonite Settlers From Its Rainforest Interior",
+            "url": "https://www.riotimesonline.com/suriname-mennonite-settlers-eviction-2026/",
+            "published_at": "2026-08-11T13:54:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru\u2019s Government Rules Out Pardons for Toledo and Castillo",
+            "url": "https://www.riotimesonline.com/peru-toledo-castillo-pardon-ruled-out-2026/",
+            "published_at": "2026-08-11T13:52:48+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s UVA Mortgages Are Back, but the Recovery Is Fragile",
+            "url": "https://www.riotimesonline.com/argentina-uva-mortgages-recovery-2026/",
+            "published_at": "2026-08-11T13:44:57+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia\u2019s Infrastructure Chamber Warns of Stalled Projects, Not Money",
+            "url": "https://www.riotimesonline.com/colombia-cci-infrastructure-warning-2026/",
+            "published_at": "2026-08-11T13:41:56+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Nearly 3 Million Mexican Jobs Are Exposed to Generative AI",
+            "url": "https://www.riotimesonline.com/mexico-ai-job-exposure-bmv-2026/",
+            "published_at": "2026-08-11T13:38:45+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico\u2019s Airport Traffic Splits Three Ways in July as ASUR Slips",
+            "url": "https://www.riotimesonline.com/mexico-airport-traffic-july-2026-asur-gap-oma/",
+            "published_at": "2026-08-11T13:36:33+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Ecuador Courts Private Capital to Reverse Its Oil Decline",
+            "url": "https://www.riotimesonline.com/ecuador-oil-investment-blocks-noboa-2026/",
+            "published_at": "2026-08-11T13:28:11+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Peru Tightens the Net on Illegal Gold and the Money Behind It",
+            "url": "https://www.riotimesonline.com/peru-illegal-gold-crackdown-2026/",
+            "published_at": "2026-08-11T13:26:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Kast\u2019s Approval Sits at 35% as Chileans Sour on the Country\u2019s Direction",
+            "url": "https://www.riotimesonline.com/kast-approval-criteria-poll-chile-2026/",
+            "published_at": "2026-08-11T13:23:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina\u2019s Top Court Curbs Provinces\u2019 Discriminatory Gross-Receipts Tax",
+            "url": "https://www.riotimesonline.com/argentina-supreme-court-ingresos-brutos-provinces-2026/",
+            "published_at": "2026-08-11T13:12:31+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Cashea Raises US$100 Million to Bankroll Venezuela\u2019s Credit Revival",
             "url": "https://www.riotimesonline.com/cashea-100-million-venezuela-consumer-credit-2026/",
@@ -622,83 +699,6 @@
             "title": "Flipelo 2026 Wraps in Salvador: A Literary Week You Can Still Feel",
             "url": "https://www.riotimesonline.com/flipelo/",
             "published_at": "2026-08-10T15:21:06+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Rawayana Concert Lima: Catch the Hottest Latin Band at Costa 21",
-            "url": "https://www.riotimesonline.com/rawayana/",
-            "published_at": "2026-08-10T15:20:46+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Bread and Dessert Festival Bogot\u00e1: Free Food Fair Hits El Country Park",
-            "url": "https://www.riotimesonline.com/bogotafood/",
-            "published_at": "2026-08-10T15:20:25+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "August Tastes Like Wine and Cheese in Jalostotitlan",
-            "url": "https://www.riotimesonline.com/jalos/",
-            "published_at": "2026-08-10T15:20:00+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Porao do Rock Fortaleza Adds Zip Line and Skate Rink",
-            "url": "https://www.riotimesonline.com/poraorock/",
-            "published_at": "2026-08-10T15:19:39+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "SODRE Opera Montevideo Stages Donizetti\u2019s Elixir of Love",
-            "url": "https://www.riotimesonline.com/sodre/",
-            "published_at": "2026-08-10T15:19:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Debora Arango Exhibition Opens in Medell\u00edn With 118 Works",
-            "url": "https://www.riotimesonline.com/arango/",
-            "published_at": "2026-08-10T15:18:50+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Teresa Margolles at MARCO: A Must-See Before It Closes",
-            "url": "https://www.riotimesonline.com/margolles/",
-            "published_at": "2026-08-10T15:18:32+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Tanabata Festival Rosario Lights Up the Planetarium This Sunday",
-            "url": "https://www.riotimesonline.com/tanabata/",
-            "published_at": "2026-08-10T15:18:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Asunci\u00f3n in 2026: A City Reinventing Itself for Expats",
-            "url": "https://www.riotimesonline.com/asuncionqol/",
-            "published_at": "2026-08-10T15:17:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Santiago Concerts 2026: Big Names, Big Nights Ahead",
-            "url": "https://www.riotimesonline.com/santiagogigs/",
-            "published_at": "2026-08-10T15:17:14+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Where to Eat Japanese Food in Mexico City: A Foodie\u2019s Guide",
-            "url": "https://www.riotimesonline.com/jpfoodcdmx/",
-            "published_at": "2026-08-10T15:16:52+00:00",
             "category": [],
             "language": "en"
         }
