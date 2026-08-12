@@ -1,6 +1,6 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-12T09:10:05+00:00",
+    "updated_at": "2026-08-12T10:10:05+00:00",
     "items": [
         {
             "title": "The Cheap Drone Problem: The Infrastructure Bill Latin America Hasn\u2019t Costed Yet",
@@ -444,13 +444,6 @@
             "language": "en"
         },
         {
-            "title": "Movida Q2 Net Income Rises 100.7% to US$26.7 Million",
-            "url": "https://www.riotimesonline.com/movida-q2-net-income-rises-100-7-to-us26-7-million/",
-            "published_at": "2026-08-12T07:00:35+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
             "title": "Ita\u00fasa Q2 2026 Profit Rises 7% to US$846 Million",
             "url": "https://www.riotimesonline.com/itausa-q2-2026-profit-rises-7-to-us846-million/",
             "published_at": "2026-08-12T06:59:59+00:00",
@@ -699,6 +692,13 @@
             "title": "Brazil\u2019s Financial Morning Call for Wednesday, August 12, 2026",
             "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-wednesday-august-12-2026/",
             "published_at": "2026-08-12T05:10:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Steel Plunges on China Glut, Tariff Fears",
+            "url": "https://www.riotimesonline.com/steel-markets-latam-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:09:54+00:00",
             "category": [],
             "language": "en"
         }
