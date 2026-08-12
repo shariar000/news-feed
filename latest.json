@@ -1,7 +1,147 @@
 {
     "site": "The Rio Times",
-    "updated_at": "2026-08-12T05:10:04+00:00",
+    "updated_at": "2026-08-12T06:10:05+00:00",
     "items": [
+        {
+            "title": "Brazil Politics: Moraes Targets a Reporter\u2019s Source as Senate Backs Fertilizer Plan",
+            "url": "https://www.riotimesonline.com/brazil-politics-moraes-targets-a-reporters-source-as-senate-backs-fertilizer-plan/",
+            "published_at": "2026-08-12T06:01:30+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Corporate Roundup: Multiplan Sale, Vinci Deal and an iFood Ruling",
+            "url": "https://www.riotimesonline.com/brazil-corporate-roundup-multiplan-sale-vinci-deal-and-an-ifood-ruling/",
+            "published_at": "2026-08-12T05:57:20+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "B3 and PagBank Lead Brazil Q2 Earnings as Markets Open Strong",
+            "url": "https://www.riotimesonline.com/b3-and-pagbank-lead-brazil-q2-earnings-as-markets-open-strong/",
+            "published_at": "2026-08-12T05:52:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Latin America Sports Daily for Wednesday, August 12, 2026",
+            "url": "https://www.riotimesonline.com/latin-america-sports-daily-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:50:00+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Rio de Janeiro Daily Brief \u2014 Wednesday, August 12, 2026",
+            "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:49:50+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "S\u00e3o Paulo Daily Brief \u2014 Wednesday, August 12, 2026",
+            "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:49:41+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Prepares an Economic Emergency as Earthquake Deaths Climb",
+            "url": "https://www.riotimesonline.com/colombia-prepares-an-economic-emergency-as-earthquake-deaths-climb/",
+            "published_at": "2026-08-12T05:47:58+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Gold Holds Above $4,370, Silver Slides as Hormuz Risk Meets Inflation Jitters",
+            "url": "https://www.riotimesonline.com/gold-silver-precious-metals-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:43:19+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Global Economy Briefing \u2014 August 12, 2026",
+            "url": "https://www.riotimesonline.com/global-economy-briefing-august-12-2026/",
+            "published_at": "2026-08-12T05:35:44+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Africa\u2019s Corporate Giants Buy Their Way to Scale as M&A Overtakes Organic Growth",
+            "url": "https://www.riotimesonline.com/africa-corporate-ma-overtakes-organic-growth-2026/",
+            "published_at": "2026-08-12T05:22:51+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "IEBC Opens International Tenders for Kiems Kits and Ballot Papers",
+            "url": "https://www.riotimesonline.com/iebc-kiems-kits-ballot-papers-tender-2026/",
+            "published_at": "2026-08-12T05:21:37+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Burkina Faso Overhauls Postal Law to Add Digital Services and Competition",
+            "url": "https://www.riotimesonline.com/burkina-faso-postal-reform-digital-services-2026/",
+            "published_at": "2026-08-12T05:19:59+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "LatAm Pre-Open \u2014 Wednesday, August 12, 2026",
+            "url": "https://www.riotimesonline.com/latam-pre-open-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:11:35+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Colombia Markets: COLCAP & the Peso \u2014 August 12, 2026",
+            "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:11:24+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Argentina Markets: Merval & the Peso \u2014 August 12, 2026",
+            "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:11:03+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Chile Markets: IPSA & the Peso \u2014 August 12, 2026",
+            "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:10:53+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Mexico Markets: IPC & the Peso \u2014 August 12, 2026",
+            "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:10:42+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil Markets: Ibovespa & the Real \u2014 August 12, 2026",
+            "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:10:32+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Brazil\u2019s Financial Morning Call for Wednesday, August 12, 2026",
+            "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:10:14+00:00",
+            "category": [],
+            "language": "en"
+        },
+        {
+            "title": "Oil & Latin America: WTI Climbs as Hormuz Closes Tighter",
+            "url": "https://www.riotimesonline.com/oil-markets-latam-wednesday-august-12-2026/",
+            "published_at": "2026-08-12T05:10:04+00:00",
+            "category": [],
+            "language": "en"
+        },
         {
             "title": "Brazil Steel Plunges on China Glut, Tariff Fears",
             "url": "https://www.riotimesonline.com/steel-markets-latam-wednesday-august-12-2026/",
@@ -559,146 +699,6 @@
             "title": "Colombia\u2019s Infrastructure Chamber Warns of Stalled Projects, Not Money",
             "url": "https://www.riotimesonline.com/colombia-cci-infrastructure-warning-2026/",
             "published_at": "2026-08-11T13:41:56+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Nearly 3 Million Mexican Jobs Are Exposed to Generative AI",
-            "url": "https://www.riotimesonline.com/mexico-ai-job-exposure-bmv-2026/",
-            "published_at": "2026-08-11T13:38:45+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Mexico\u2019s Airport Traffic Splits Three Ways in July as ASUR Slips",
-            "url": "https://www.riotimesonline.com/mexico-airport-traffic-july-2026-asur-gap-oma/",
-            "published_at": "2026-08-11T13:36:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Ecuador Courts Private Capital to Reverse Its Oil Decline",
-            "url": "https://www.riotimesonline.com/ecuador-oil-investment-blocks-noboa-2026/",
-            "published_at": "2026-08-11T13:28:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Peru Tightens the Net on Illegal Gold and the Money Behind It",
-            "url": "https://www.riotimesonline.com/peru-illegal-gold-crackdown-2026/",
-            "published_at": "2026-08-11T13:26:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Kast\u2019s Approval Sits at 35% as Chileans Sour on the Country\u2019s Direction",
-            "url": "https://www.riotimesonline.com/kast-approval-criteria-poll-chile-2026/",
-            "published_at": "2026-08-11T13:23:42+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Argentina\u2019s Top Court Curbs Provinces\u2019 Discriminatory Gross-Receipts Tax",
-            "url": "https://www.riotimesonline.com/argentina-supreme-court-ingresos-brutos-provinces-2026/",
-            "published_at": "2026-08-11T13:12:31+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Cashea Raises US$100 Million to Bankroll Venezuela\u2019s Credit Revival",
-            "url": "https://www.riotimesonline.com/cashea-100-million-venezuela-consumer-credit-2026/",
-            "published_at": "2026-08-11T13:08:07+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Copper and Lithium Anchor the Chile-US Minerals Alliance",
-            "url": "https://www.riotimesonline.com/chile-united-states-copper-lithium-2026/",
-            "published_at": "2026-08-11T13:00:22+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Chinese Investment in Mexico: The Viral Number vs. the Record",
-            "url": "https://www.riotimesonline.com/chinese-investment-mexico-2026-reality/",
-            "published_at": "2026-08-11T12:57:55+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Brazil, Colombia and Peru Launch a Joint Amazon River Operation",
-            "url": "https://www.riotimesonline.com/bracolper-amazon-river-operation-2026/",
-            "published_at": "2026-08-11T12:55:29+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Two Miners Survive a Structural Collapse at Chuquicamata",
-            "url": "https://www.riotimesonline.com/chuquicamata-collapse-miners-survive-2026/",
-            "published_at": "2026-08-11T12:52:58+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "SOUTHCOM Builds a Standing Anti-Cartel Command for Latin America",
-            "url": "https://www.riotimesonline.com/southcom-joint-task-force-western-hemisphere-2026/",
-            "published_at": "2026-08-11T12:44:33+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Colombia Courts Bukele\u2019s El Salvador on Trade and Security",
-            "url": "https://www.riotimesonline.com/el-salvador-colombia-trade-security-2026/",
-            "published_at": "2026-08-11T11:04:11+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Gunmen Kill a Patient in His Hospital Bed in Nicoya",
-            "url": "https://www.riotimesonline.com/costa-rica-hospital-killing-nicoya-2026/",
-            "published_at": "2026-08-11T10:52:21+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Petro\u2019s Pension Reform Faces a Make-or-Break Court Date",
-            "url": "https://www.riotimesonline.com/colombia-pension-reform-constitutional-court-2026/",
-            "published_at": "2026-08-11T10:39:09+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Milei 2.0: Who Is Winning in Argentina\u2019s New Economy",
-            "url": "https://www.riotimesonline.com/milei-argentina-economic-elite-2026/",
-            "published_at": "2026-08-11T10:31:13+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Panama Launches \u2018Steel Shield\u2019 to Lock Down Its Darien Border",
-            "url": "https://www.riotimesonline.com/panama-border-operation-steel-shield-2026/",
-            "published_at": "2026-08-11T10:21:19+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "The Colombian State Owns 62 Companies. Here\u2019s What They\u2019re Worth",
-            "url": "https://www.riotimesonline.com/colombia-state-companies-197-trillion-2026/",
-            "published_at": "2026-08-11T09:35:23+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Why Argentina\u2019s Credit Keeps Shrinking Even as Inflation Cools",
-            "url": "https://www.riotimesonline.com/argentina-private-credit-squeeze-2026/",
-            "published_at": "2026-08-11T08:40:52+00:00",
-            "category": [],
-            "language": "en"
-        },
-        {
-            "title": "Explosive Drones Are the New Weapon in Colombia\u2019s Conflict",
-            "url": "https://www.riotimesonline.com/colombia-drone-attacks-armed-groups-2026/",
-            "published_at": "2026-08-11T08:27:02+00:00",
             "category": [],
             "language": "en"
         }
